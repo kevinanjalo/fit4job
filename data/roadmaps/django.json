@@ -1,0 +1,298 @@
+{
+ "domain": "Django",
+ "stages": [
+  {
+   "name": "Django",
+   "skills": [
+    "Virtual envs"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Installing Django",
+    "How the Web Works",
+    "Why use web frameworks",
+    "Yor First Project",
+    "The MVC Model"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Running your Project",
+   "skills": [
+    "Projects & Apps",
+    "Routing Fundamentals",
+    "URL patterns"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Routing",
+   "skills": [
+    "Path converters",
+    "Project Strucure",
+    "Grouping URLs",
+    "manage.py"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Request Reponse Flow",
+   "skills": [
+    "Reguex Paths",
+    "settings.py",
+    "Named URLs",
+    "urls.py"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Views",
+   "skills": [
+    "Reverse URL",
+    "App Structure",
+    "Ruouting Middleware",
+    "models.py",
+    "views.py"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Views",
+   "skills": [
+    "tests.py",
+    "Function-based views",
+    "admin.py"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Customizing Views",
+   "skills": [
+    "Class-based views",
+    "migrations"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Rendering Templates",
+   "skills": [
+    "Generic views",
+    "urls.py",
+    "Other Files",
+    "ListView"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Templates",
+   "skills": [
+    "static",
+    "DetailView",
+    "media",
+    "CreateView",
+    "templates",
+    "UpdateView"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Templates",
+   "skills": [
+    "DeleteView",
+    "DTL Syntax",
+    "Model Fields"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Template Inheritance",
+   "skills": [
+    "Variables",
+    "Fields types",
+    "Filters & custom filters",
+    "Field options",
+    "Tags & custom tags",
+    "Custom fields",
+    "for if",
+    "Models, Databases & ORM",
+    "Models"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Migrations",
+   "skills": [
+    "Comments",
+    "Model relationships",
+    "Supported DBs",
+    "Model methods",
+    "PostgreSQL",
+    "SQLite",
+    "Model inheritance",
+    "Setting up the Database",
+    "MySQL",
+    "MariaDB"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Django ORM",
+   "skills": [
+    "Querying data"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Validation",
+   "skills": [
+    "Whitenoise",
+    "Create, Update, Delete",
+    "Aggregations"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Django Forms",
+   "skills": [
+    "Filtering & lookups",
+    "Static Files"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Model Forms",
+   "skills": [
+    "Raw SQL",
+    "Pagination"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Form Validation",
+   "skills": [
+    "Query Optimization",
+    "Message Framework",
+    "Django Shell"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Authentication",
+   "skills": [
+    "Django Admin Middelware",
+    "Customization",
+    "Admin Customization",
+    "Built-in user model"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Authorization",
+   "skills": [
+    "Users & Permissions",
+    "Custom user model"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "API Development",
+   "skills": [
+    "Protecting views",
+    "Serializers",
+    "django-allauth",
+    "Views & ViewSets",
+    "Django REST Framework Routers",
+    "Logging framework"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Logging",
+   "skills": [
+    "Loggers",
+    "Logging, Debugging & Testing",
+    "Error Pages",
+    "Handlers",
+    "debug_toolbar",
+    "Filters",
+    "PDB, IPDB",
+    "Formatters",
+    "Debugging django_silk"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Django Test Framework",
+   "skills": [
+    "pytest",
+    "Caching",
+    "unittest & TestCase",
+    "Asynchronous Django"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  },
+  {
+   "name": "Advanced Topics",
+   "skills": [
+    "Background Tasks",
+    "Production Checklist",
+    "Localization",
+    "Signals",
+    "Deployment",
+    "Python Backend Full Stack"
+   ],
+   "resources": [
+    "roadmap.sh/django"
+   ]
+  }
+ ]
+}

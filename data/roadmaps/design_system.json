@@ -1,0 +1,142 @@
+{
+ "domain": "Design System",
+ "stages": [
+  {
+   "name": "Design System",
+   "skills": [
+    "UX Design",
+    "Frontend Development",
+    "What is a Design System?"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  },
+  {
+   "name": "Understand the Basics",
+   "skills": [
+    "Need of Design System",
+    "Design System vs Component Library",
+    "Component",
+    "What is Atomic Design",
+    "Component Library",
+    "Stakeholders Involved in Building",
+    "Design Language",
+    "Design System Examples Terminology",
+    "Governance",
+    "Guidelines",
+    "Making it from Scratch"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  },
+  {
+   "name": "Existing Design Analysis",
+   "skills": [
+    "Pattern",
+    "Making a Design System",
+    "Making it from Existing Design",
+    "Pilot",
+    "Token",
+    "Performing a Visual Audit",
+    "UI Kit",
+    "Identify Existing Design Process",
+    "Identify Design Elements",
+    "A/B Tests & Experiments",
+    "Icons Visual Forms Sizing",
+    "If building from existing design",
+    "Regional Requirements",
+    "Spaces Color Typography"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  },
+  {
+   "name": "Creating Design Language",
+   "skills": [
+    "Identify Components",
+    "Brand",
+    "Avatar Badges Banners",
+    "Writing Guidelines",
+    "Buttons Cards",
+    "Forms",
+    "Tone of Voice",
+    "Dropdowns",
+    "...other",
+    "Terminology",
+    "Design Principles"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  },
+  {
+   "name": "Defining Design Tokens",
+   "skills": [
+    "Colors",
+    "Vision",
+    "Layout",
+    "Accessibility",
+    "Units",
+    "Logo",
+    "Functional Colors",
+    "Grid",
+    "Monochrome Version",
+    "Dark Mode",
+    "Breakpoints",
+    "Small Use Guidance",
+    "Guidelines",
+    "Spacking"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  },
+  {
+   "name": "Tooling",
+   "skills": [
+    "Microcopy Guidelines",
+    "Grid Relation Sizes Keywords",
+    "Reserved Icons Guidelines",
+    "Design",
+    "Creating Core Components Avatar Input Text",
+    "Design Editor",
+    "Banner",
+    "Input Checkbox",
+    "Plugins",
+    "Badge",
+    "Input Radio",
+    "Version Control",
+    "Button",
+    "Input Switch"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  },
+  {
+   "name": "Project Management",
+   "skills": [
+    "Code Style",
+    "Select",
+    "Toast",
+    "Unit Testing",
+    "Textarea",
+    "Tooltip",
+    "Accessibility Testing",
+    "Semantic Versioning",
+    "Task Management",
+    "Release Strategy",
+    "Commit Guidelines",
+    "Analytics",
+    "PR Templates",
+    "Component Analytics Logging"
+   ],
+   "resources": [
+    "roadmap.sh/design-system"
+   ]
+  }
+ ]
+}

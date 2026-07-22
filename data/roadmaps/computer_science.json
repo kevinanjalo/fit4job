@@ -1,0 +1,213 @@
+{
+ "domain": "Computer Science",
+ "stages": [
+  {
+   "name": "Computer Science",
+   "skills": [
+    "Data Structures and Algorithms",
+    "Software Design & Architecture",
+    "Other Resources"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Pick a Language",
+   "skills": [
+    "Python Go",
+    "Coding Interview University",
+    "C#",
+    "C++",
+    "C Java"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Data Structures",
+   "skills": [
+    "Rust",
+    "Linked List",
+    "Array",
+    "Stack Queue",
+    "Graph",
+    "Heap",
+    "Tree",
+    "Hash Table",
+    "Directed Graph",
+    "Common Runtimes",
+    "Undirected Graph",
+    "Binary Tree",
+    "Constant",
+    "Spanning Tree"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Asymptotic Notation",
+   "skills": [
+    "Adjacency List",
+    "Complete Binary Tree",
+    "Polynomial",
+    "Big O",
+    "Adjacency Matrix",
+    "Balanced Tree",
+    "Exponential",
+    "Big-Theta",
+    "Unbalanced Tree",
+    "Factorial",
+    "Big Omega",
+    "Common Algorithms"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Recursion",
+   "skills": [
+    "Sorting",
+    "Tree",
+    "Graphs"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Tail Recursion",
+   "skills": [
+    "Bubble Sort",
+    "Breadth First Search",
+    "Pre-Order Traversal"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Non-Tail Recursion",
+   "skills": [
+    "Selection Sort",
+    "Depth First Search",
+    "In-Order Traversal"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Searching",
+   "skills": [
+    "Insertion Sort",
+    "Bellman Ford's Algorithm",
+    "Post Order Traversal"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Binary Search",
+   "skills": [
+    "Heap Sort",
+    "Dijkstra's Algorithm",
+    "Breadth First Search"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Linear Search",
+   "skills": [
+    "Quick Sort",
+    "Depth First Search",
+    "A* Algorithm",
+    "Merge Sort",
+    "Back Tracking",
+    "Greedy Algorithms",
+    "Caches",
+    "MFU Cache",
+    "Dijkstra's Algorithm",
+    "Finding Hamiltonian Paths",
+    "LRU Cache",
+    "Huffman Coding",
+    "Solving N Queen Problem",
+    "LFU Cache"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "Co-NP",
+   "skills": [
+    "Substring Search",
+    "Big Endian",
+    "Character Encodings",
+    "GoF Design Patterns",
+    "Brute Force Search",
+    "Little Endian",
+    "Architectural Patterns",
+    "Bitwise Operators",
+    "Robin-Karp",
+    "Dependency Injection",
+    "Design Patterns",
+    "Common UML Diagrams",
+    "Knuth-Morris Pratt",
+    "Null Object Pattern"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "3 Search Trees",
+   "skills": [
+    "Sockets",
+    "Balanced Search Trees",
+    "System Design",
+    "Databases",
+    "Networking",
+    "AVL Trees",
+    "Locking",
+    "Horizontal vs Vertical Scaling",
+    "Red / Black Trees",
+    "ACID Model BASE",
+    "Load Balancing",
+    "CAP Theorem PACELC",
+    "Clustering Caching"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  },
+  {
+   "name": "3 4 Trees",
+   "skills": [
+    "Indexes Views",
+    "CDN Proxy",
+    "K-ary / M-ary Tree",
+    "Transactions",
+    "CAP Theorem Queues",
+    "Stored Procedures",
+    "B-Tree",
+    "Architectural Styles",
+    "Database Federation",
+    "REST GraphQL gRPC",
+    "Replication Sharding",
+    "Cloud Design Patterns",
+    "K-D Trees",
+    "Long Polling Short Polling"
+   ],
+   "resources": [
+    "roadmap.sh/computer-science"
+   ]
+  }
+ ]
+}

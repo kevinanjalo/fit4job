@@ -1,0 +1,249 @@
+{
+ "domain": "Devops",
+ "stages": [
+  {
+   "name": "DevOps",
+   "skills": [
+    "Python Ruby"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Scripting",
+   "skills": [
+    "Learn a Programming Language",
+    "Go Rust",
+    "JavaScript / Node.js",
+    "Operating System",
+    "Windows"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Power Shell",
+   "skills": [
+    "Linux Unix",
+    "Process Monitoring"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Terminal Knowledge",
+   "skills": [
+    "FreeBSD",
+    "Ubuntu / Debian",
+    "Performance Monitoring",
+    "OpenBSD",
+    "SUSE Linux",
+    "Networking Tools"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Editors",
+   "skills": [
+    "NetBSD",
+    "RHEL / Derivatives",
+    "Text Manipulation",
+    "Vim / Nano / Emacs",
+    "Forward Proxy",
+    "Reverse Proxy",
+    "Version Control Systems Git"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Docker",
+   "skills": [
+    "Firewall",
+    "Caching Server"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "LXC",
+   "skills": [
+    "Load Balancer",
+    "GitHub"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Containers",
+   "skills": [
+    "VCS Hosting",
+    "GitLab",
+    "What is and how to setup X ?",
+    "Bitbucket"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Networking & Protocols",
+   "skills": [
+    "Nginx",
+    "Caddy",
+    "FTP / SFTP DNS",
+    "Tomcat Apache",
+    "HTTP HTTPS",
+    "IIS",
+    "SSL / TLS SSH",
+    "Web Server"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Cloud Providers",
+   "skills": [
+    "OSI Model",
+    "Serverless",
+    "White / Grey Listing"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "AWS Azure",
+   "skills": [
+    "AWS Lambda",
+    "SMTP DMARC"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Google Cloud",
+   "skills": [
+    "Cloudflare",
+    "IMAP SPF"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Digital Ocean",
+   "skills": [
+    "Azure Functions",
+    "POP3S"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Alibaba Cloud",
+   "skills": [
+    "Vercel",
+    "Domain Keys"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Hetzner",
+   "skills": [
+    "Netlify",
+    "Email Protocols"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Heroku",
+   "skills": [
+    "GCP Functions",
+    "Papertrail",
+    "Ansible",
+    "Splunk",
+    "Provisioning",
+    "Configuration Management",
+    "Chef"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Jenkins",
+   "skills": [
+    "Loki",
+    "Puppet",
+    "AWS CDK",
+    "Elastic Stack",
+    "CloudFormation",
+    "TeamCity",
+    "Graylog"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Circle CI",
+   "skills": [
+    "Pulumi",
+    "GitLab CI",
+    "CI / CD Tools",
+    "Terraform",
+    "Octopus Deploy",
+    "Logs Management",
+    "GitHub Actions",
+    "Sealed Secrets",
+    "Secret Management",
+    "Vault SOPs Infrastructure Monitoring",
+    "Cloud Specific Tools",
+    "Prometheus",
+    "Artifactory",
+    "Nexus"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  },
+  {
+   "name": "Cloud Design Patterns",
+   "skills": [
+    "Container Orchestration",
+    "Artifact Management",
+    "GitOps",
+    "Application Monitoring",
+    "Jaeger",
+    "GKE / EKS / AKS",
+    "Istio",
+    "New Relic",
+    "AWS ECS / Fargate",
+    "Consul",
+    "Service Mesh",
+    "Datadog",
+    "Docker Swarm",
+    "Linkerd"
+   ],
+   "resources": [
+    "roadmap.sh/devops"
+   ]
+  }
+ ]
+}

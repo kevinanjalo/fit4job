@@ -1,0 +1,498 @@
+{
+ "domain": "Bi Analyst",
+ "stages": [
+  {
+   "name": "BI Analyst",
+   "skills": [
+    "Find the interactive version of this",
+    "Data Analyst",
+    "What is BI?"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Why BI Matters?",
+    "Business Fundamentals",
+    "BI Analyst vs Other Roles"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Finance Marketing",
+   "skills": [
+    "Skills",
+    "Responsibilities"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Operations HR",
+   "skills": [
+    "Metrics and KPIs",
+    "Stakeholder Identification"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Key Business Functions",
+   "skills": [
+    "Descriptive Analysis",
+    "Types of BI Operations",
+    "Diagnostic Analysis",
+    "Predictive Analysis",
+    "Operational BI",
+    "Prescriptive Analysis Types of Data Analysis",
+    "Tactical BI"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Statistics Basics",
+   "skills": [
+    "Strategic BI",
+    "Categorical vs Numerical",
+    "Discrete vs Continuous",
+    "Range Variance",
+    "Variables and Data Types",
+    "STD IQR"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Mode Mean Median",
+   "skills": [
+    "Descriptive Statistics",
+    "Central Tendency Dispersion",
+    "Correlation vs Causation"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Inferential Statistics",
+   "skills": [
+    "Distribution",
+    "Correlation Analysis"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Linear Regression",
+   "skills": [
+    "Skewness Kurtosis"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Beyond Linear Regression",
+   "skills": [
+    "Regression Analysis"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "BI Core Skills",
+   "skills": [
+    "Hypothesis Testing",
+    "What is Data?"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Databases Web",
+   "skills": [
+    "Population & Sample",
+    "Statistical tests"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Mobile Apps Cloud",
+   "skills": [
+    "Analog vs Digital Data",
+    "p-value"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "APIs IoT",
+   "skills": [
+    "Confidence Intervals"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Data Sources",
+   "skills": [
+    "Types of Errors",
+    "Types of data",
+    "Structured",
+    "CSV",
+    "Excel",
+    "Semistructured",
+    "JSON Data Formats",
+    "XML"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "SQL Fundamentals",
+   "skills": [
+    "Unstructured",
+    "Other formats",
+    "Basic Queries",
+    "PostgreSQL",
+    "MySQL",
+    "Advanced Queries",
+    "Oracle",
+    "SQLite",
+    "Window Functions",
+    "Popular Databases",
+    "Performance"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Data Cleaning SQL",
+   "skills": [
+    "Tools for Data Cleaning",
+    "Exploratory Data Analysis (EDA)",
+    "Excel"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Data Transformation Techniques",
+   "skills": [
+    "dplyr",
+    "Pandas",
+    "Standardisation"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Visualizing Data",
+   "skills": [
+    "Missing Values",
+    "Duplicates",
+    "Popular Plots",
+    "Outliers"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Chart Categories",
+   "skills": [
+    "Visualization Fundamentals Barplot",
+    "Lineplot"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Histogram Color theory",
+   "skills": [
+    "Scatterplot"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Visualization Best Practices",
+   "skills": [
+    "Heatmap",
+    "Map",
+    "Accessibility",
+    "Design principles"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "BI Tools",
+   "skills": [
+    "Misleading charts",
+    "Power BI",
+    "Tableau",
+    "Mobile-responsiveness",
+    "Qlik",
+    "Looker"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Excel",
+   "skills": [
+    "BI Platforms"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Cloud Computing",
+   "skills": [
+    "Cloud Computing Basics",
+    "Programming Languages",
+    "Cloud data warehouses",
+    "Providers: AWS, GCP, Azure"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Business Applications",
+   "skills": [
+    "Python R",
+    "Risk Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Finance",
+   "skills": [
+    "Sales Performance",
+    "Compliance Reporting",
+    "Inventory Optimization",
+    "Financial Performance",
+    "Marketing Campaigns",
+    "CLV",
+    "Fraud Detection",
+    "Supply Chain Analytics Retail & E-commerce"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Manufacturing",
+   "skills": [
+    "Patient management",
+    "Hospital Efficiency Healthcare",
+    "Predictive Maintenance",
+    "Compliance Reporting",
+    "Supply chain optimization",
+    "Public Health",
+    "Production Efficiency",
+    "Quality Control",
+    "Trends Seasonality"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "BI Techniques",
+   "skills": [
+    "Forecasting",
+    "Storytelling Framework",
+    "Time Series Analysis",
+    "Presentation Design",
+    "Dashboard Design"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Professional Excellence",
+   "skills": [
+    "A/B Testing",
+    "Writing Executive Summaries",
+    "Cohort Analysis",
+    "Basic Machine Learning",
+    "Communication & Storytelling"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Business Acumen",
+   "skills": [
+    "Supervised Learning"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Critical Thinking",
+   "skills": [
+    "Unsupervised Learning"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Project Management",
+   "skills": [
+    "Reinforcement Learning",
+    "Soft Skills"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Change Management",
+   "skills": [
+    "Algorithmic Bias"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Stakeholder Management",
+   "skills": [
+    "Mitigation Strategies",
+    "Data Governance & Ethics",
+    "Bias Recognition Ethical Data Use"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Data Lineage",
+   "skills": [
+    "Data Quality"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Data Architectures",
+   "skills": [
+    "Privacy",
+    "Relevance Timeliness",
+    "Accesibility Interpretability",
+    "GDPR CCPA"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Data Architectures",
+   "skills": [
+    "Accuracy Coherence",
+    "Data Warehouse",
+    "Data Lake Data Mart",
+    "Data Modeling for BI",
+    "Cloud BI Ecosystem",
+    "Normalization vs Denormalization"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "ETL Tools",
+   "skills": [
+    "Fact vs Dimension Tables",
+    "Airflow dbt",
+    "Star vs Snowflake Schema"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "ETL basics",
+   "skills": [
+    "Calculated Fields & Measures",
+    "Career Development"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Professional Development",
+   "skills": [
+    "End-to-end Analytics Project",
+    "Dashboard Design Building Your Portfolio",
+    "Data Pipeline Design"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Certifications",
+   "skills": [
+    "BI Communities",
+    "BI Competitions",
+    "Networking Resume optimization"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  },
+  {
+   "name": "Job Preparation",
+   "skills": [
+    "Open-Source Projects",
+    "Portfolio presentation",
+    "Conferences & Webinars",
+    "Interview preparation",
+    "Salary negotiation strategies",
+    "AI & Data Scientist SQL Data Analyst"
+   ],
+   "resources": [
+    "roadmap.sh/bi-analyst"
+   ]
+  }
+ ]
+}

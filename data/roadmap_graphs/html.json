@@ -1,0 +1,1149 @@
+{
+  "topic": "Html",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Html",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 489.16925048828125,
+      "y_raw": 81.61071014404297,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Frontend Roadmap",
+      "type": "skill",
+      "x_raw": 63.13995361328125,
+      "y_raw": 87.2884750366211,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "JavaScript Roadmap",
+      "type": "skill",
+      "x_raw": 63.13995361328125,
+      "y_raw": 108.2881851196289,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "HTML",
+      "type": "section",
+      "x_raw": 351.370361328125,
+      "y_raw": 113.83807373046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "What are markup languages?",
+      "type": "skill",
+      "x_raw": 45.866729736328125,
+      "y_raw": 185.0507049560547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "What is HTTP?",
+      "type": "skill",
+      "x_raw": 578.9219360351562,
+      "y_raw": 200.19113159179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "Frontend Development Introduction",
+      "type": "skill",
+      "x_raw": 62.62432861328125,
+      "y_raw": 222.15176391601562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Domain names",
+      "type": "skill",
+      "x_raw": 578.0195922851562,
+      "y_raw": 237.29217529296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Hosting",
+      "type": "skill",
+      "x_raw": 597.730224609375,
+      "y_raw": 274.3932189941406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "HTML CSS JavaScript",
+      "type": "skill",
+      "x_raw": 40.3004150390625,
+      "y_raw": 277.2408447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "DNS",
+      "type": "skill",
+      "x_raw": 605.9918212890625,
+      "y_raw": 311.4942932128906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "How the web works",
+      "type": "skill",
+      "x_raw": 327.21832275390625,
+      "y_raw": 311.5411682128906,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Tags and Attributes",
+      "type": "skill",
+      "x_raw": 60.397796630859375,
+      "y_raw": 344.9977111816406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Browsers",
+      "type": "skill",
+      "x_raw": 593.4060668945312,
+      "y_raw": 348.6070556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Case Insensitivity",
+      "type": "skill",
+      "x_raw": 65.34304809570312,
+      "y_raw": 382.0987854003906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "What is SEO?",
+      "type": "skill",
+      "x_raw": 582.30859375,
+      "y_raw": 385.7080993652344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Your First HTML FIle HTML Entities",
+      "type": "skill",
+      "x_raw": 73.88589477539062,
+      "y_raw": 416.5385437011719,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "HTML Comments",
+      "type": "skill",
+      "x_raw": 64.96804809570312,
+      "y_raw": 456.3008728027344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Whitespaces !DOCTYPE",
+      "type": "section",
+      "x_raw": 77.57723999023438,
+      "y_raw": 485.7145690917969,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "body html",
+      "type": "skill",
+      "x_raw": 572.7344970703125,
+      "y_raw": 522.8155517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Basic Tags",
+      "type": "section",
+      "x_raw": 349.460205078125,
+      "y_raw": 523.5772705078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "h1 to h6",
+      "type": "skill",
+      "x_raw": 91.27627563476562,
+      "y_raw": 559.6588134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "meta head",
+      "type": "skill",
+      "x_raw": 570.5079345703125,
+      "y_raw": 559.9166259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "title",
+      "type": "skill",
+      "x_raw": 60.292327880859375,
+      "y_raw": 596.7716064453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "div span",
+      "type": "skill",
+      "x_raw": 576.6484985351562,
+      "y_raw": 615.0994262695312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "hr",
+      "type": "skill",
+      "x_raw": 64.71023559570312,
+      "y_raw": 633.8726196289062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "br",
+      "type": "skill",
+      "x_raw": 149.70516967773438,
+      "y_raw": 633.8726196289062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "b / strong",
+      "type": "skill",
+      "x_raw": 43.93316650390625,
+      "y_raw": 670.9736938476562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "pre",
+      "type": "skill",
+      "x_raw": 146.2012939453125,
+      "y_raw": 670.9736938476562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Textual Tags",
+      "type": "section",
+      "x_raw": 345.47589111328125,
+      "y_raw": 671.7822875976562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Grouping text",
+      "type": "skill",
+      "x_raw": 583.2109375,
+      "y_raw": 671.7822875976562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "i / em",
+      "type": "skill",
+      "x_raw": 54.409576416015625,
+      "y_raw": 708.0747680664062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "mark",
+      "type": "skill",
+      "x_raw": 141.85369873046875,
+      "y_raw": 708.0747680664062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "id",
+      "type": "section",
+      "x_raw": 338.47991943359375,
+      "y_raw": 743.1484985351562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "class",
+      "type": "section",
+      "x_raw": 398.88922119140625,
+      "y_raw": 743.1484985351562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "sub",
+      "type": "skill",
+      "x_raw": 60.538421630859375,
+      "y_raw": 745.1875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "sup",
+      "type": "skill",
+      "x_raw": 145.4981689453125,
+      "y_raw": 745.1875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Data Attributes Standard attributes",
+      "type": "skill",
+      "x_raw": 338.19866943359375,
+      "y_raw": 779.4878540039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Links",
+      "type": "skill",
+      "x_raw": 98.11993408203125,
+      "y_raw": 782.28857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "style",
+      "type": "section",
+      "x_raw": 366.0068664550781,
+      "y_raw": 816.5888671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Priority Hints",
+      "type": "skill",
+      "x_raw": 76.60458374023438,
+      "y_raw": 848.4165649414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Lists and Types Table Tag",
+      "type": "skill",
+      "x_raw": 354.21795654296875,
+      "y_raw": 885.2129516601562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "img vs figure",
+      "type": "skill",
+      "x_raw": 76.2413330078125,
+      "y_raw": 886.2207641601562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Ordered lists",
+      "type": "skill",
+      "x_raw": 584.9569702148438,
+      "y_raw": 951.7042236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Images",
+      "type": "skill",
+      "x_raw": 89.65911865234375,
+      "y_raw": 954.5049438476562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Unordered lists",
+      "type": "skill",
+      "x_raw": 578.4063110351562,
+      "y_raw": 988.8052368164062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Embedding Media",
+      "type": "section",
+      "x_raw": 330.6753234863281,
+      "y_raw": 988.8052368164062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Video Audio",
+      "type": "skill",
+      "x_raw": 51.632293701171875,
+      "y_raw": 991.6060180664062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Definition lists",
+      "type": "skill",
+      "x_raw": 581.83984375,
+      "y_raw": 1025.90625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "iframe",
+      "type": "skill",
+      "x_raw": 134.34207153320312,
+      "y_raw": 1028.70703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "CSP",
+      "type": "skill",
+      "x_raw": 55.124420166015625,
+      "y_raw": 1028.70703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Nested lists",
+      "type": "skill",
+      "x_raw": 587.7694702148438,
+      "y_raw": 1063.00732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Labels and Inputs",
+      "type": "skill",
+      "x_raw": 571.6329345703125,
+      "y_raw": 1131.49072265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Highlighting Changes",
+      "type": "skill",
+      "x_raw": 64.75711059570312,
+      "y_raw": 1138.74462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Using Forms",
+      "type": "section",
+      "x_raw": 346.02667236328125,
+      "y_raw": 1168.603515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_55",
+      "label": "File Uploads",
+      "type": "skill",
+      "x_raw": 585.9179077148438,
+      "y_raw": 1168.603515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "del s ins",
+      "type": "skill",
+      "x_raw": 60.186859130859375,
+      "y_raw": 1173.560546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Form Validation",
+      "type": "skill",
+      "x_raw": 578.1953735351562,
+      "y_raw": 1205.70458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Qutotation / Citation",
+      "type": "skill",
+      "x_raw": 67.90939331054688,
+      "y_raw": 1220.4466552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Limitations",
+      "type": "skill",
+      "x_raw": 590.3006591796875,
+      "y_raw": 1242.8056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "cite",
+      "type": "skill",
+      "x_raw": 145.9903564453125,
+      "y_raw": 1253.2586669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "abbr",
+      "type": "skill",
+      "x_raw": 66.971923828125,
+      "y_raw": 1253.2586669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Semantic Markup",
+      "type": "section",
+      "x_raw": 332.83154296875,
+      "y_raw": 1276.98876953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "dfn",
+      "type": "skill",
+      "x_raw": 70.58123779296875,
+      "y_raw": 1290.3597412109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "address",
+      "type": "skill",
+      "x_raw": 134.21319580078125,
+      "y_raw": 1290.3597412109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "blockquote",
+      "type": "skill",
+      "x_raw": 60.643890380859375,
+      "y_raw": 1328.1756591796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Layout tags",
+      "type": "skill",
+      "x_raw": 91.56924438476562,
+      "y_raw": 1373.5382080078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Styling Basics Including JavaScript",
+      "type": "skill",
+      "x_raw": 342.7572021484375,
+      "y_raw": 1375.5069580078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "header",
+      "type": "skill",
+      "x_raw": 51.644012451171875,
+      "y_raw": 1410.4517822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "nav",
+      "type": "skill",
+      "x_raw": 116.63528442382812,
+      "y_raw": 1410.4517822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "main",
+      "type": "skill",
+      "x_raw": 163.2401123046875,
+      "y_raw": 1410.4517822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "section Inline CSS",
+      "type": "skill",
+      "x_raw": 57.6204833984375,
+      "y_raw": 1446.6387939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "article",
+      "type": "skill",
+      "x_raw": 141.99432373046875,
+      "y_raw": 1447.5528564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Accesibility",
+      "type": "skill",
+      "x_raw": 589.1405029296875,
+      "y_raw": 1447.5528564453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Internal CSS",
+      "type": "section",
+      "x_raw": 346.14385986328125,
+      "y_raw": 1483.7398681640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "aside",
+      "type": "skill",
+      "x_raw": 62.91729736328125,
+      "y_raw": 1484.6539306640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "footer",
+      "type": "skill",
+      "x_raw": 143.03729248046875,
+      "y_raw": 1484.6539306640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Basics of SEO",
+      "type": "skill",
+      "x_raw": 580.6796875,
+      "y_raw": 1518.9542236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "External CSS",
+      "type": "section",
+      "x_raw": 344.64385986328125,
+      "y_raw": 1520.8409423828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Visit the following roadmaps to keep learning",
+      "type": "skill",
+      "x_raw": 413.2445068359375,
+      "y_raw": 1609.2576904296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Frontend JavaScript",
+      "type": "skill",
+      "x_raw": 436.14263916015625,
+      "y_raw": 1648.175048828125,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "trunk"
+    },
+    {
+      "source": "node_33",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_54",
+      "type": "trunk"
+    },
+    {
+      "source": "node_54",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "branch"
+    }
+  ]
+}

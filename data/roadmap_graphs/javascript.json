@@ -1,0 +1,1653 @@
+{
+  "topic": "Javascript",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Javascript",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Beginner Topics / start with these",
+      "type": "skill",
+      "x_raw": 59.954345703125,
+      "y_raw": 45.854248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "Intermediate Topics / pick these next",
+      "type": "skill",
+      "x_raw": 59.954345703125,
+      "y_raw": 66.12613677978516,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Advanced Topics / pick these at last",
+      "type": "skill",
+      "x_raw": 59.954345703125,
+      "y_raw": 86.39802551269531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "JavaScript",
+      "type": "section",
+      "x_raw": 312.27490234375,
+      "y_raw": 91.51386260986328,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "var let const",
+      "type": "skill",
+      "x_raw": 527.4498291015625,
+      "y_raw": 171.76370239257812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_5",
+      "label": "What is JavaScript",
+      "type": "skill",
+      "x_raw": 86.76480102539062,
+      "y_raw": 192.65663146972656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Variable Declarations",
+      "type": "skill",
+      "x_raw": 537.7264404296875,
+      "y_raw": 217.3695831298828,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "History of JavaScript",
+      "type": "skill",
+      "x_raw": 81.71438598632812,
+      "y_raw": 226.22828674316406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Introduction to JavaScript",
+      "type": "section",
+      "x_raw": 292.22564697265625,
+      "y_raw": 237.6414794921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_9",
+      "label": "Hoisting",
+      "type": "skill",
+      "x_raw": 569.4700927734375,
+      "y_raw": 250.94125366210938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "JavaScript Versions",
+      "type": "skill",
+      "x_raw": 83.6712646484375,
+      "y_raw": 259.8116455078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "All about Variables",
+      "type": "section",
+      "x_raw": 309.63836669921875,
+      "y_raw": 271.84588623046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Variable Naming Rules",
+      "type": "skill",
+      "x_raw": 534.1407470703125,
+      "y_raw": 284.51287841796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "How to run JavaScript",
+      "type": "skill",
+      "x_raw": 78.40997314453125,
+      "y_raw": 293.38330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Variable Scopes",
+      "type": "skill",
+      "x_raw": 550.3465576171875,
+      "y_raw": 318.09625244140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Object Prototype",
+      "type": "skill",
+      "x_raw": 384.5271911621094,
+      "y_raw": 343.1138610839844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Block Function Global",
+      "type": "skill",
+      "x_raw": 521.5557861328125,
+      "y_raw": 359.5892028808594,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Prototypal Inheritance",
+      "type": "skill",
+      "x_raw": 371.6726989746094,
+      "y_raw": 376.6972351074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "string undefined",
+      "type": "skill",
+      "x_raw": 51.728424072265625,
+      "y_raw": 382.07574462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "number bigint",
+      "type": "skill",
+      "x_raw": 46.713165283203125,
+      "y_raw": 415.65911865234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Object",
+      "type": "section",
+      "x_raw": 392.190673828125,
+      "y_raw": 427.693359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Built-in Objects",
+      "type": "skill",
+      "x_raw": 528.1646728515625,
+      "y_raw": 427.693359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Data Types",
+      "type": "skill",
+      "x_raw": 237.65560913085938,
+      "y_raw": 443.535888671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "boolean null",
+      "type": "skill",
+      "x_raw": 45.799163818359375,
+      "y_raw": 449.23077392578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "typeof operator",
+      "type": "section",
+      "x_raw": 370.7938537597656,
+      "y_raw": 461.2650146484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "JSON",
+      "type": "skill",
+      "x_raw": 527.2974853515625,
+      "y_raw": 468.23712158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Map",
+      "type": "skill",
+      "x_raw": 643.67919921875,
+      "y_raw": 479.9549865722656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Symbol",
+      "type": "skill",
+      "x_raw": 80.8472900390625,
+      "y_raw": 482.81414794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Weak Map",
+      "type": "skill",
+      "x_raw": 628.739013671875,
+      "y_raw": 513.538330078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Structured Data",
+      "type": "skill",
+      "x_raw": 462.98992919921875,
+      "y_raw": 513.538330078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Primitive Types",
+      "type": "skill",
+      "x_raw": 63.1767578125,
+      "y_raw": 515.8233032226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Set",
+      "type": "skill",
+      "x_raw": 646.3861083984375,
+      "y_raw": 547.1099853515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Keyed Collections",
+      "type": "skill",
+      "x_raw": 458.02154541015625,
+      "y_raw": 547.7427368164062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Type Conversion vs Coercion",
+      "type": "skill",
+      "x_raw": 39.623870849609375,
+      "y_raw": 562.0033569335938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Weak Set",
+      "type": "skill",
+      "x_raw": 631.56298828125,
+      "y_raw": 580.693359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Type Casting",
+      "type": "section",
+      "x_raw": 301.63507080078125,
+      "y_raw": 595.5750122070312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Implicit Type Casting Data Structures",
+      "type": "skill",
+      "x_raw": 60.153533935546875,
+      "y_raw": 595.5750122070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Explicit Type Casting",
+      "type": "skill",
+      "x_raw": 60.200408935546875,
+      "y_raw": 629.1583862304688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Typed Arrays",
+      "type": "skill",
+      "x_raw": 618.45068359375,
+      "y_raw": 641.7199096679688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Indexed Collections",
+      "type": "skill",
+      "x_raw": 453.39300537109375,
+      "y_raw": 660.198974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Arrays",
+      "type": "skill",
+      "x_raw": 634.527587890625,
+      "y_raw": 675.2915649414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Equality Comparisons == === Object.is",
+      "type": "skill",
+      "x_raw": 45.271881103515625,
+      "y_raw": 684.7947387695312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Value Comparison Operators",
+      "type": "skill",
+      "x_raw": 37.831024169921875,
+      "y_raw": 712.4254760742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "for",
+      "type": "skill",
+      "x_raw": 465.50927734375,
+      "y_raw": 713.4097290039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "break / continue",
+      "type": "skill",
+      "x_raw": 523.8993530273438,
+      "y_raw": 713.8784790039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "do...while",
+      "type": "skill",
+      "x_raw": 450.6510314941406,
+      "y_raw": 746.9931030273438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "for...of loop",
+      "type": "skill",
+      "x_raw": 538.1951293945312,
+      "y_raw": 747.4618530273438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Equality Algorithms",
+      "type": "skill",
+      "x_raw": 244.65115356445312,
+      "y_raw": 751.8091430664062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "while for...in loop",
+      "type": "skill",
+      "x_raw": 459.75579833984375,
+      "y_raw": 780.5647583007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "isLooselyEqual",
+      "type": "skill",
+      "x_raw": 253.2169189453125,
+      "y_raw": 781.724853515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Conditional Operators",
+      "type": "skill",
+      "x_raw": 44.217254638671875,
+      "y_raw": 812.4841918945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "isStrictlyEqual",
+      "type": "skill",
+      "x_raw": 255.49017333984375,
+      "y_raw": 815.6245727539062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Loops and Iterations",
+      "type": "skill",
+      "x_raw": 479.6761474609375,
+      "y_raw": 831.7717895507812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Comma Operators",
+      "type": "skill",
+      "x_raw": 52.90020751953125,
+      "y_raw": 846.0675659179688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "SameValueZero",
+      "type": "skill",
+      "x_raw": 250.9319305419922,
+      "y_raw": 849.8290405273438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Unary Operators",
+      "type": "skill",
+      "x_raw": 57.58734130859375,
+      "y_raw": 879.6392211914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "if...else Switch",
+      "type": "skill",
+      "x_raw": 572.8214111328125,
+      "y_raw": 883.646728515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "SameValue",
+      "type": "skill",
+      "x_raw": 262.3216857910156,
+      "y_raw": 884.6779174804688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Assignment Operators",
+      "type": "skill",
+      "x_raw": 43.584503173828125,
+      "y_raw": 913.6913452148438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Conditional Statements",
+      "type": "skill",
+      "x_raw": 568.9896240234375,
+      "y_raw": 932.6976928710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Control Flow",
+      "type": "skill",
+      "x_raw": 428.8441162109375,
+      "y_raw": 946.5481567382812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Expressions & Operators",
+      "type": "skill",
+      "x_raw": 242.30758666992188,
+      "y_raw": 946.5481567382812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Comparison Operators",
+      "type": "skill",
+      "x_raw": 42.2720947265625,
+      "y_raw": 947.274658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Exceptional Handling",
+      "type": "skill",
+      "x_raw": 574.1337890625,
+      "y_raw": 966.902099609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Arithmetic Operators",
+      "type": "skill",
+      "x_raw": 47.193603515625,
+      "y_raw": 980.8463134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Default Params Rest",
+      "type": "skill",
+      "x_raw": 377.6839599609375,
+      "y_raw": 1004.926513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Bitwise Operators",
+      "type": "skill",
+      "x_raw": 54.41180419921875,
+      "y_raw": 1014.4296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "throw statement",
+      "type": "skill",
+      "x_raw": 586.0977172851562,
+      "y_raw": 1015.9412841796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Logical Operators",
+      "type": "skill",
+      "x_raw": 54.27117919921875,
+      "y_raw": 1048.0013427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "try/catch/finally",
+      "type": "skill",
+      "x_raw": 587.2811889648438,
+      "y_raw": 1049.524658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Function Parameters",
+      "type": "skill",
+      "x_raw": 389.75335693359375,
+      "y_raw": 1053.0634765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "BigInt Operators",
+      "type": "skill",
+      "x_raw": 57.32952880859375,
+      "y_raw": 1081.572998046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Error Objects",
+      "type": "skill",
+      "x_raw": 592.6362915039062,
+      "y_raw": 1083.0963134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Arrow Functions",
+      "type": "skill",
+      "x_raw": 401.52978515625,
+      "y_raw": 1086.6468505859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "String Operators",
+      "type": "skill",
+      "x_raw": 57.48187255859375,
+      "y_raw": 1115.1563720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Functions",
+      "type": "skill",
+      "x_raw": 246.88926696777344,
+      "y_raw": 1120.218505859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "IIFEs",
+      "type": "skill",
+      "x_raw": 427.6606140136719,
+      "y_raw": 1120.218505859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Recursion",
+      "type": "skill",
+      "x_raw": 610.7637939453125,
+      "y_raw": 1151.903564453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "arguments object",
+      "type": "skill",
+      "x_raw": 398.0027160644531,
+      "y_raw": 1153.8018798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Lexical Scoping",
+      "type": "skill",
+      "x_raw": 597.6163330078125,
+      "y_raw": 1185.4752197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Scope & Function Stack",
+      "type": "skill",
+      "x_raw": 382.62890625,
+      "y_raw": 1187.37353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "DOM APIs",
+      "type": "skill",
+      "x_raw": 246.26821899414062,
+      "y_raw": 1189.904541015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Closures",
+      "type": "skill",
+      "x_raw": 614.2088623046875,
+      "y_raw": 1219.046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Built-in Functions",
+      "type": "skill",
+      "x_raw": 398.166748046875,
+      "y_raw": 1220.9569091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "Strict Mode",
+      "type": "skill",
+      "x_raw": 242.33102416992188,
+      "y_raw": 1258.3250732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "in a method",
+      "type": "skill",
+      "x_raw": 58.3255615234375,
+      "y_raw": 1258.3250732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Callback Hell",
+      "type": "skill",
+      "x_raw": 618.53271484375,
+      "y_raw": 1263.39892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Event Loop",
+      "type": "skill",
+      "x_raw": 439.30816650390625,
+      "y_raw": 1272.2694091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "in a function",
+      "type": "skill",
+      "x_raw": 57.259246826171875,
+      "y_raw": 1291.908447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Callbacks",
+      "type": "skill",
+      "x_raw": 626.8524169921875,
+      "y_raw": 1311.453857421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Using (this) keyword",
+      "type": "skill",
+      "x_raw": 242.44821166992188,
+      "y_raw": 1325.4801025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "using it alone",
+      "type": "skill",
+      "x_raw": 54.599273681640625,
+      "y_raw": 1325.4801025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Asynchronous JavaScript",
+      "type": "skill",
+      "x_raw": 438.5464782714844,
+      "y_raw": 1326.4293212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Promises",
+      "type": "skill",
+      "x_raw": 627.860107421875,
+      "y_raw": 1345.0372314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "in event handlers",
+      "type": "skill",
+      "x_raw": 45.096099853515625,
+      "y_raw": 1359.0634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Function Borrowing",
+      "type": "skill",
+      "x_raw": 245.166748046875,
+      "y_raw": 1374.5780029296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "setTimeout",
+      "type": "skill",
+      "x_raw": 440.77288818359375,
+      "y_raw": 1377.3433837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "in arrow functions",
+      "type": "skill",
+      "x_raw": 44.182098388671875,
+      "y_raw": 1392.6351318359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "async/await",
+      "type": "skill",
+      "x_raw": 621.743408203125,
+      "y_raw": 1392.9515380859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Explicit Binding",
+      "type": "skill",
+      "x_raw": 254.89256286621094,
+      "y_raw": 1408.161376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "setInterval",
+      "type": "skill",
+      "x_raw": 442.19073486328125,
+      "y_raw": 1410.9267578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "XMLHTTPRequest",
+      "type": "skill",
+      "x_raw": 589.800537109375,
+      "y_raw": 1435.4052734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "CommonJS",
+      "type": "skill",
+      "x_raw": 65.77810668945312,
+      "y_raw": 1437.5262451171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "call apply bind",
+      "type": "skill",
+      "x_raw": 240.2335205078125,
+      "y_raw": 1454.72802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Fetch",
+      "type": "skill",
+      "x_raw": 621.380126953125,
+      "y_raw": 1468.9769287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "ESM",
+      "type": "skill",
+      "x_raw": 82.38232421875,
+      "y_raw": 1471.109619140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Working with APIs",
+      "type": "skill",
+      "x_raw": 477.27398681640625,
+      "y_raw": 1519.25830078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Classes Iterators and Generators Modules in JavaScript",
+      "type": "skill",
+      "x_raw": 40.690185546875,
+      "y_raw": 1519.25830078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Memory Management",
+      "type": "skill",
+      "x_raw": 40.467559814453125,
+      "y_raw": 1583.8704833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Using Browser DevTools Debugging Issues",
+      "type": "skill",
+      "x_raw": 226.8868865966797,
+      "y_raw": 1583.8704833984375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_110",
+      "label": "Debugging Memory Leaks",
+      "type": "skill",
+      "x_raw": 458.5137023925781,
+      "y_raw": 1617.770263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "Memory Lifecycle",
+      "type": "skill",
+      "x_raw": 51.552642822265625,
+      "y_raw": 1634.02294921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Debugging Performance",
+      "type": "skill",
+      "x_raw": 463.20086669921875,
+      "y_raw": 1651.3419189453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Garbage Collection",
+      "type": "skill",
+      "x_raw": 46.642852783203125,
+      "y_raw": 1667.5946044921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Have a look at the following related roadmaps",
+      "type": "skill",
+      "x_raw": 174.66041564941406,
+      "y_raw": 1735.4761962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "TypeScript Frontend",
+      "type": "skill",
+      "x_raw": 157.65780639648438,
+      "y_raw": 1770.664794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "React Node.js",
+      "type": "section",
+      "x_raw": 232.9098663330078,
+      "y_raw": 1770.664794921875,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "trunk"
+    },
+    {
+      "source": "node_8",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_116",
+      "type": "trunk"
+    }
+  ]
+}

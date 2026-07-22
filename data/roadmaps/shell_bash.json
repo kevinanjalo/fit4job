@@ -1,0 +1,440 @@
+{
+ "domain": "Shell Bash",
+ "stages": [
+  {
+   "name": "Shell/Bash",
+   "skills": [
+    "What is a shell?",
+    "What is Bash?",
+    "Introduction bash dash",
+    "CLI vs GUI"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Setting Up Bash",
+   "skills": [
+    "fish zsh",
+    "What is scripting?",
+    "tcsh",
+    "ksh Popular Shells",
+    "cmd",
+    "PowerShell",
+    "Shell Fundamentals"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Tab Completion",
+   "skills": [
+    "stdin, stdout, stderr",
+    "Files & Directories",
+    "Output redirection"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Repeat Commands",
+   "skills": [
+    "Input redirection"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Help Commands",
+   "skills": [
+    "pwd",
+    "echo",
+    "ls cd",
+    "Error redirection"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Bash Alias",
+   "skills": [
+    "touch",
+    "rm",
+    "mkdir rmdir",
+    "Pipes"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Stop Execution",
+   "skills": [
+    "cp",
+    "mv cat",
+    "find",
+    "Command substitution",
+    "Navigate between dirs",
+    "Process substitution"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Working with Text",
+   "skills": [
+    "Redirects & Pipelines"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "grep",
+   "skills": [
+    "cut, paste",
+    "wc"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "less, more",
+   "skills": [
+    "join, split",
+    "sort"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "head, tail",
+   "skills": [
+    "Bash Scripting",
+    "tr",
+    "uniq",
+    "[...]"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "find",
+   "skills": [
+    "sed",
+    "nl awk",
+    "{...}"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "View & Search",
+   "skills": [
+    "Text Transform",
+    "Analysis",
+    "Wildcards"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Bash Script Anatomy",
+   "skills": [
+    "Basic Editor Ops. Text Editors",
+    "Direct Execution"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Running Shell Scripts",
+   "skills": [
+    "Running with Bash",
+    "Nano",
+    "Vim",
+    "Running with Source"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Variables",
+   "skills": [
+    "Emacs",
+    "Vi",
+    "Strings",
+    "Numeric",
+    "Environment vs Shell vars."
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Create, Print, Modify",
+   "skills": [
+    "Read user input",
+    "Arrays"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Variable Scopes",
+   "skills": [
+    "printf formatting",
+    "Associative Arrays"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Special variables",
+   "skills": [
+    "Here documents"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Variables best practices",
+   "skills": [
+    "Here strings",
+    "Bash Data Types",
+    "Comments"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Bash Operators",
+   "skills": [
+    "Input/Output",
+    "Literals"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Comparison",
+   "skills": [
+    "Arithmetic expansion"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "String operators",
+   "skills": [
+    "expr bc",
+    "$1, $2, $3",
+    "$0"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Logical",
+   "skills": [
+    "let awk",
+    "$*",
+    "$@"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "File test",
+   "skills": [
+    "Working with Numerics",
+    "$#",
+    "shift"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Exit Codes",
+   "skills": [
+    "String Manipulation",
+    "Script Arguments"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "exit $?",
+   "skills": [
+    "String length"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Success vs failure",
+   "skills": [
+    "Substring extraction",
+    "File Permissions",
+    "Pattern replacement"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "for until while",
+   "skills": [
+    "rwx",
+    "chmod",
+    "Case conversion",
+    "chown chgrp"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "break, continue",
+   "skills": [
+    "Function Scopes",
+    "Recursive Functions"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Loops",
+   "skills": [
+    "Conditionals",
+    "Functions"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "shellcheck",
+   "skills": [
+    "if case",
+    "Advanced Scripting set -x bash -n"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Debugging",
+   "skills": [
+    "Basic regex syntax",
+    "Error Handling",
+    "Extended regex Regular Expressions"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Process Management",
+   "skills": [
+    "regex + grep, sed, awk",
+    "set -e set -o",
+    "set -u",
+    "trap",
+    "System Admin.",
+    "Error logging"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "disown fg, bg",
+   "skills": [
+    "ping",
+    "curl"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Background jobs",
+   "skills": [
+    "wget",
+    "ssh",
+    "ps",
+    "top, htop"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Process substitution",
+   "skills": [
+    "scp",
+    "rsync",
+    "free",
+    "df, du",
+    "ifconfig, ip netstat, ss",
+    "uptime",
+    "iostat, vmstat"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "brew apt",
+   "skills": [
+    "Networking",
+    "System Monitoring",
+    "dnf yum tar",
+    "zip, unzip",
+    "cron, crontab at"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  },
+  {
+   "name": "Package Management",
+   "skills": [
+    "gzip, gunzip",
+    "bzip2, xz",
+    "systemd timers",
+    "File Compression",
+    "Task Schedulling"
+   ],
+   "resources": [
+    "roadmap.sh/shell-bash"
+   ]
+  }
+ ]
+}

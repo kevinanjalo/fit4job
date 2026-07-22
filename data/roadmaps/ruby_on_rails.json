@@ -1,0 +1,225 @@
+{
+ "domain": "Ruby On Rails",
+ "stages": [
+  {
+   "name": "Ruby",
+   "skills": [
+    "How the web works",
+    "Why Web Frameworks?",
+    "Your First Project"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "MVC architecture Create an App",
+    "Rails & Frontend",
+    "Rails Command Line",
+    "Setting up Ruby on Rails",
+    "Rails Generators"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Routing",
+   "skills": [
+    "Hotwire",
+    "Directory structure",
+    "app",
+    "bin",
+    "RESTful Routes",
+    "config db"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Routing Fundamentals",
+   "skills": [
+    "Request Reponse Flow Nested Routes",
+    "Gemfile public",
+    "Non-RESTful Routes",
+    "Redirects"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Controllers",
+   "skills": [
+    "Creating Controllers",
+    "Constraints",
+    "Controller Actions",
+    "Named Routes"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Controllers",
+   "skills": [
+    "(Strong) Parameters",
+    "Customizing Routes",
+    "Controller Callbacks (filters)",
+    "Inspecting Routes",
+    "Cookies Sessions",
+    "Models",
+    "Basic Queries",
+    "Models & Active Record",
+    "Creating Models"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Active Record",
+   "skills": [
+    "Conditions Ordering",
+    "Data Types",
+    "Joins Aggregations",
+    "Model Methods",
+    "Scopes",
+    "Model Relationships",
+    "Raw SQL",
+    "Validations",
+    "Query Optimization",
+    "Callbacks"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Databases",
+   "skills": [
+    "Supported DBs",
+    "Migrations",
+    "SQLite PostgreSQL"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Views",
+   "skills": [
+    "Transactions",
+    "MySQL MariaDB",
+    "ERB Templates"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Action Views",
+   "skills": [
+    "form_for",
+    "form_with",
+    "Layouts & yield"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "ViewComponent Phlex",
+   "skills": [
+    "Form Elements",
+    "Partials Helpers",
+    "Nested Forms"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Pagination",
+   "skills": [
+    "Kaminari Pagy",
+    "Form Validation"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Caching",
+   "skills": [
+    "Advanced Asset Management Assets Pipeline"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Authentication",
+   "skills": [
+    "Devise"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Authorization",
+   "skills": [
+    "Pundit",
+    "CanCanCan",
+    "Rails Logger",
+    "Minitest",
+    "Logging, Testing & Debugging",
+    "Logging",
+    "RSpec"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Advanced Topics",
+   "skills": [
+    "Factory Bot",
+    "Debugging",
+    "Capybara Testing",
+    "Plugins & Engines",
+    "pry",
+    "debug",
+    "Mailbox & Mailer"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "Background Jobs",
+    "Storage",
+    "Deployment Kamal",
+    "Rails Internationalization"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  },
+  {
+   "name": "Ruby Backend Django",
+   "skills": [
+    "Laravel"
+   ],
+   "resources": [
+    "roadmap.sh/ruby-on-rails"
+   ]
+  }
+ ]
+}

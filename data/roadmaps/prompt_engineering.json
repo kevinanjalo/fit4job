@@ -1,0 +1,118 @@
+{
+ "domain": "Prompt Engineering",
+ "stages": [
+  {
+   "name": "Prompt Engineering",
+   "skills": [
+    "Find the interactive version of",
+    "AI Engineer",
+    "AI and Data Scientist",
+    "AI Red Teaming",
+    "Prompt Engineering"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "LLMs and how they work?",
+    "What is a Prompt?",
+    "Common Terminology",
+    "What is Prompt Engineering?",
+    "LLM Tokens"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "LLM Configuration",
+   "skills": [
+    "Models offered by ____",
+    "Context Window",
+    "OpenAI Google",
+    "Hallucination",
+    "Agents"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "Sampling Parameters",
+   "skills": [
+    "Anthropic Meta",
+    "Prompt Injection",
+    "xAI",
+    "Model Weights / Parameters"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "Temperature",
+   "skills": [
+    "Fine-Tuning vs Prompt Engg.",
+    "Top-K Top-P Output Control",
+    "RAG",
+    "AI vs AGI",
+    "Max Tokens",
+    "Stop Sequences"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "Step-back Prompting",
+   "skills": [
+    "Structured Outputs Prompting Techniques",
+    "Repetition Penalties",
+    "Frequency Penalty",
+    "Presence Penalty",
+    "Zero-Shot Prompting",
+    "One-Shot / Few-Shot Prompting",
+    "Chain of Thought (CoT) Prompting"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "Self-Consistency Prompting",
+   "skills": [
+    "Automatic Prompt Engineering",
+    "System / Role / Contextual",
+    "Use LLM to generate Prompts",
+    "System Prompting",
+    "Tree of Thoughts (ToT) Prompting"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  },
+  {
+   "name": "ReAct Prompting",
+   "skills": [
+    "Role Prompting",
+    "Contextual Prompting",
+    "Prompting Best Practices",
+    "AI Red Teaming",
+    "\u2014 Keep your prompts short and concise",
+    "\u2014 Control the maximum output length",
+    "Improving Reliability",
+    "Prompt Debiasing",
+    "Prompt Ensembling",
+    "LLM Self Evaluation",
+    "\u2014 Document and track prompt versions",
+    "Calibrating LLMs"
+   ],
+   "resources": [
+    "roadmap.sh/prompt-engineering"
+   ]
+  }
+ ]
+}

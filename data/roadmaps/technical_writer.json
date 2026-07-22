@@ -1,0 +1,174 @@
+{
+ "domain": "Technical Writer",
+ "stages": [
+  {
+   "name": "Technical Writer",
+   "skills": [
+    "Shout-out to Hackmamba who",
+    "Technology Expertise",
+    "Who is a Technical Writer?"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Language Proficiency",
+    "What is Technical Writing?",
+    "Written Communication Proficiency",
+    "Role of Technical Writers inOrganizations"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Research Tools",
+   "skills": [
+    "Forms of Technical Writing",
+    "Growth as a Technical Writer Required Skills"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Blogging Platforms",
+   "skills": [
+    "Publishing Tools",
+    "SEO Tools"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Tooling",
+   "skills": [
+    "Story Telling",
+    "Plagiarism Checker Editing Tools",
+    "Subtle Selling",
+    "Git / Version Control Markdown",
+    "Content Structure"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Best Practices",
+   "skills": [
+    "Call to Actions",
+    "References",
+    "Content Research"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Product Content",
+   "skills": [
+    "Crafting Great Titles",
+    "Topic Score",
+    "Content Objectives & Intent"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "General Product Prose",
+   "skills": [
+    "Keyword Volume",
+    "User Persona"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "How-to Guides",
+   "skills": [
+    "Communities & Forums",
+    "Writing Style Guides",
+    "Search Trends",
+    "ICP & Buyer Persona"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Help Content",
+   "skills": [
+    "Buyer Journey & Content Funnel",
+    "API Reference"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Troubleshooting",
+   "skills": [
+    "Technical Content Marketing",
+    "User Goals"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Developer Support",
+   "skills": [
+    "Developer Journey",
+    "API Definitions",
+    "Short-tail Keywords"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Platform Support",
+   "skills": [
+    "Long-Tail Keywords",
+    "Backlinking",
+    "SEO Keywords",
+    "Top-funnel Content",
+    "Mid-funnel Content",
+    "Bottom-funnel Content",
+    "Content SEO",
+    "Pillar Content",
+    "Generic Gated Content",
+    "Link Shorteners / Tracking",
+    "Awareness Blog Posts"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  },
+  {
+   "name": "Content Distribution",
+   "skills": [
+    "Platform Tracking and Metrics",
+    "Research Reports",
+    "Release Notes / Product Announcements",
+    "Conversion Tracking",
+    "Customer Case-Studies",
+    "Content Aging & Timelines",
+    "Content Optimization Content Analysis",
+    "Frequently Asked Questions",
+    "Canonical Link OpenGraph Data",
+    "Content Distribution Channels",
+    "Content Distribution Amplification Strategies"
+   ],
+   "resources": [
+    "roadmap.sh/technical-writer"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "domain": "Docker",
+ "stages": [
+  {
+   "name": "Docker",
+   "skills": [
+    "Find the interactive version of this",
+    "Docker Beginner to Pro"
+   ],
+   "resources": [
+    "roadmap.sh/docker"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "What are Containers?",
+    "Why do we need Containers?",
+    "Bare Metal vs VMs vs Containers",
+    "Package Managers",
+    "Docker and OCI",
+    "Users / Groups Permissions",
+    "Shell Commands",
+    "Underlying Technologies Namespaces cgroups",
+    "Shell Scripting",
+    "Union Filesystems",
+    "Linux Fundamentals",
+    "Just get the basic idea of these",
+    "Programming Languages",
+    "Application Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/docker"
+   ]
+  },
+  {
+   "name": "Container Registries",
+   "skills": [
+    "Web Development",
+    "Docker Engine ( Linux ) Basics of Docker",
+    "Using 3rd Party Container Images",
+    "Volume Mounts Bind Mounts",
+    "Databases",
+    "Command Line Utilities",
+    "docker compose Runtime Configuration Options",
+    "docker run",
+    "Running Containers",
+    "Building Container Images"
+   ],
+   "resources": [
+    "roadmap.sh/docker"
+   ]
+  },
+  {
+   "name": "Dockerhub",
+   "skills": [
+    "Dockerfiles",
+    "Efficient Layer Caching",
+    "Others (ghcr, ecr, gcr, acr, etc)",
+    "Image Security",
+    "Image Size and Security",
+    "Image Tagging Best Practices",
+    "Runtime Security",
+    "Docker CLI Images Containers",
+    "Container Security",
+    "Volumes Networks"
+   ],
+   "resources": [
+    "roadmap.sh/docker"
+   ]
+  },
+  {
+   "name": "Developer Experience",
+   "skills": [
+    "Nomad",
+    "Docker Swarm",
+    "Hot Reloading",
+    "Kubernetes",
+    "Debuggers",
+    "PaaS Options",
+    "Tests",
+    "Continuous Integration Deploying Containers"
+   ],
+   "resources": [
+    "roadmap.sh/docker"
+   ]
+  }
+ ]
+}

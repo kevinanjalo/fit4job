@@ -1,0 +1,160 @@
+{
+ "domain": "Typescript",
+ "stages": [
+  {
+   "name": "TypeScript",
+   "skills": [
+    "TS Playground"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "Introduction to TypeScript",
+   "skills": [
+    "tsc ts-node",
+    "TypeScript vs JavaScript",
+    "Running TypeScript",
+    "TS and JS Interoperability",
+    "Installation and Configuration",
+    "Object Types",
+    "Primitive Types"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "TypeScript Types",
+   "skills": [
+    "Interface",
+    "boolean",
+    "tsconfig.json Compiler Options",
+    "Class",
+    "number",
+    "Type Inference",
+    "Enum",
+    "string"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "Assertions",
+   "skills": [
+    "Type Compatibility",
+    "Array",
+    "void"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "as [type]",
+   "skills": [
+    "Tuple",
+    "undefined",
+    "Union Types"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "as any",
+   "skills": [
+    "null",
+    "Object",
+    "as const",
+    "Intersection Types"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "Non-null Assertion",
+   "skills": [
+    "Bottom Types",
+    "Top Types",
+    "Type Aliases",
+    "never",
+    "unknown"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "satisfies keyword",
+   "skills": [
+    "keyof Operator",
+    "any",
+    "instanceof",
+    "Combining Types",
+    "Types vs Interfaces",
+    "typeof",
+    "TypeScript Interfaces",
+    "Extending Interfaces",
+    "Equality",
+    "Type Guards / Narrowing",
+    "Interface Declaration"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "Generics Generic Types",
+   "skills": [
+    "Truthiness",
+    "Hybrid Types",
+    "Type Predicates",
+    "TypeScript Functions",
+    "Classes",
+    "Typing Functions",
+    "Constructor Params",
+    "Function Overloading"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "Generic Constraints",
+   "skills": [
+    "Access Modifiers",
+    "Partial Pick",
+    "Abstract Classes"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  },
+  {
+   "name": "Decorators Utility Types",
+   "skills": [
+    "Omit Readonly",
+    "Inheritance vs Polymorphism",
+    "Record Exclude",
+    "Method Overriding",
+    "Extract",
+    "Awaited",
+    "Constructor Overloading",
+    "Parameters",
+    "Advanced Types",
+    "NonNullable",
+    "Namespaces",
+    "ReturnType",
+    "Ambient Modules",
+    "Mapped Types"
+   ],
+   "resources": [
+    "roadmap.sh/typescript"
+   ]
+  }
+ ]
+}

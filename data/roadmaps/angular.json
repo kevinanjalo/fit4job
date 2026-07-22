@@ -1,0 +1,411 @@
+{
+ "domain": "Angular",
+ "stages": [
+  {
+   "name": "Angular",
+   "skills": [
+    "Component Anatomy",
+    "Creating Components",
+    "Angular and History"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Learn TypeScript Basics",
+   "skills": [
+    "Metadata",
+    "Introduction to Angular Angular Architecture",
+    "Template",
+    "Selector",
+    "Setting up a New Project",
+    "Standalone",
+    "Styles",
+    "Module Architecture",
+    "Provider",
+    "Imports",
+    "Creating Modules",
+    "viewProvider"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Components",
+   "skills": [
+    "Feature Modules",
+    "Encapsulation",
+    "Lazy Loading Modules",
+    "changeDetection"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Interpolation",
+   "skills": [
+    "Dependencies",
+    "Communication"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Template Statements",
+   "skills": [
+    "Parent-Child Interaction",
+    "Modules"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Understand Binding",
+   "skills": [
+    "ViewChild ContentChild"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Data Binding",
+   "skills": [
+    "Templates",
+    "Component Lifecycle"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Property Binding",
+   "skills": [
+    "Dynamic Components",
+    "Structural Directives"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Attribute Binding",
+   "skills": [
+    "Template Syntax",
+    "Pipes",
+    "Attribute Directives"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Event Binding",
+   "skills": [
+    "@if @else",
+    "Pipes Precedence",
+    "Custom Directives"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Two-way Binding",
+   "skills": [
+    "@else if",
+    "Change Detection"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Control Flow",
+   "skills": [
+    "Directives",
+    "@for @switch",
+    "Common Pipes"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Template Ref Vars",
+   "skills": [
+    "@case @default",
+    "Custom Pipes",
+    "Configuration"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "@Input & @Output",
+   "skills": [
+    "@let @defer",
+    "Lazy Loading",
+    "Router Outlets",
+    "Reactive Forms"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Dependency Injection",
+   "skills": [
+    "Routing",
+    "Services & Remote Data",
+    "Typed Forms",
+    "Template-driven Forms",
+    "Router Links",
+    "Dynamic Forms",
+    "Router Events"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "HTTP Client",
+   "skills": [
+    "Guards",
+    "Forms"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Making Requests",
+   "skills": [
+    "Setting Up the Client",
+    "Custom Validators",
+    "RxJS Basics",
+    "Control Value Accessor"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Writing Interceptors",
+   "skills": [
+    "Observable Pattern",
+    "Zoneless Applications",
+    "Observable Lifecycle"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "State Management",
+   "skills": [
+    "RxJS vs Promises",
+    "Signals",
+    "Zones"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "NGXS NgRx Elf",
+   "skills": [
+    "Operators",
+    "RxJS Interop",
+    "Filtering",
+    "Inputs as Signals"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "SSR",
+   "skills": [
+    "Rate Limiting",
+    "Developer Tools",
+    "Queries as Signals",
+    "Transformation",
+    "Model Inputs",
+    "Combination",
+    "Angular CLI",
+    "DevTools"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "SSG AnalogJS",
+    "Language Service",
+    "Local Setup",
+    "Attributes",
+    "Libraries",
+    "Deployment",
+    "UI Components",
+    "End-to-End Testing",
+    "Using Libraries",
+    "Containers",
+    "Accessibility",
+    "Schematics",
+    "Creating Libraries"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "HTTP Vulnerabilities",
+   "skills": [
+    "Routing",
+    "Build Environments",
+    "Cross-site Scripting",
+    "Link Identification",
+    "CLI Builders"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Cross-site Request Forgery",
+   "skills": [
+    "Sanitization",
+    "AoT Compilation"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "HttpClient CSRF",
+   "skills": [
+    "Performance",
+    "Trusting Safe Values"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "XSRF protection",
+   "skills": [
+    "Enforce Trusted Types"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Cross-site Script Inclusion",
+   "skills": [
+    "Deferrable Views",
+    "Image Optimization"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Testing Services",
+   "skills": [
+    "Zone Pollution"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Testing Pipes",
+   "skills": [
+    "Localize Package",
+    "Slow Computations"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Testing Requests",
+   "skills": [
+    "Locales by ID",
+    "Hydration"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Testing Directives",
+   "skills": [
+    "Translation Files"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Services with Dependencies",
+   "skills": [
+    "Multiple Locales",
+    "Testing",
+    "Internationalization"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Component Bindings",
+   "skills": [
+    "Transitions & Triggers"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Debugging Tests",
+   "skills": [
+    "Complex Sequences"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Component Templates",
+   "skills": [
+    "Reusable Animations"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  },
+  {
+   "name": "Code Coverage",
+   "skills": [
+    "Route Transitions",
+    "Animation",
+    "TypeScript Frontend React Node.js",
+    "Vue.js"
+   ],
+   "resources": [
+    "roadmap.sh/angular"
+   ]
+  }
+ ]
+}

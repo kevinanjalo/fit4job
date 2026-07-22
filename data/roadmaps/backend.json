@@ -1,0 +1,337 @@
+{
+ "domain": "Backend",
+ "stages": [
+  {
+   "name": "Backend",
+   "skills": [
+    "How does the internet work?"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Internet",
+   "skills": [
+    "What is HTTP?",
+    "Go JavaScript",
+    "What is Domain Name?",
+    "Python",
+    "Ruby",
+    "What is hosting?",
+    "Java",
+    "C#"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Git",
+   "skills": [
+    "DNS and how it works?",
+    "Rust PHP",
+    "Pick a Language",
+    "Browsers and how they work?",
+    "GitHub"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Version Control Systems",
+   "skills": [
+    "GitLab",
+    "MySQL",
+    "MariaDB"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Relational Databases",
+   "skills": [
+    "Repo Hosting Services PostgreSQL",
+    "MS SQL",
+    "Bitbucket",
+    "Oracle"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "HATEOAS",
+   "skills": [
+    "SQLite",
+    "Redis"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Open API Specs",
+   "skills": [
+    "Authentication",
+    "Memcached"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Learn about APIs",
+   "skills": [
+    "JWT",
+    "OAuth",
+    "Server Side Caching",
+    "Basic Authentication"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "REST",
+   "skills": [
+    "CDN",
+    "Token Authentication"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "JSON APIs",
+   "skills": [
+    "Client Side",
+    "Cookie Based Auth"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "SOAP gRPC",
+   "skills": [
+    "OpenID SAML"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "GraphQL",
+   "skills": [
+    "MD5",
+    "Integration Testing",
+    "SHA",
+    "Web Security",
+    "Unit Testing Testing",
+    "scrypt"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "CI / CD",
+   "skills": [
+    "Functional Testing",
+    "bcrypt",
+    "Hashing Algorithms",
+    "ORMs",
+    "ACID",
+    "HTTPS OWASP Risks",
+    "Transactions",
+    "SSL/TLS CORS",
+    "N+1 Problem More about Databases",
+    "Server Security CSP",
+    "Normalization",
+    "API Security Best Practices",
+    "Failure Modes",
+    "Profiling Perfor."
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Docker",
+   "skills": [
+    "Data Replication",
+    "Sharding Strategies",
+    "Architectural Patterns",
+    "Software Design & Architecture",
+    "CAP Theorem",
+    "Monolithic Apps",
+    "Design and Development Principles",
+    "GOF Design Patterns",
+    "Microservices",
+    "Domain Driven Design",
+    "SOA",
+    "Test Driven Development",
+    "Serverless",
+    "CQRS"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "LXC",
+   "skills": [
+    "Event Sourcing",
+    "Twelve Factor Apps"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Containerization vs Virtualization",
+   "skills": [
+    "Kubernetes"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Search Engines",
+   "skills": [
+    "Nginx",
+    "Message Brokers",
+    "Web Servers",
+    "Apache"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Elasticsearch",
+   "skills": [
+    "Caddy",
+    "RabbitMQ"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Solr",
+   "skills": [
+    "MS IIS",
+    "Kafka",
+    "Server Sent Events",
+    "Real-Time Data",
+    "Document DBs",
+    "Key-Value",
+    "WebSockets",
+    "Redis",
+    "MongoDB",
+    "Long Polling",
+    "GraphQL",
+    "DynamoDB",
+    "CouchDB"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Graph DBs",
+   "skills": [
+    "Short Polling",
+    "Realtime",
+    "Firebase",
+    "NoSQL Databases",
+    "RethinkDB",
+    "Graceful Degradation",
+    "Time Series",
+    "Column DBs",
+    "Throttling"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Neo4j",
+   "skills": [
+    "Cassandra",
+    "Influx DB",
+    "Backpressure",
+    "Loadshifting",
+    "TimeScale",
+    "Base AWS Neptune",
+    "Circuit Breaker"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Building For Scale",
+   "skills": [
+    "Mitigation Strategies",
+    "Migration Strategies",
+    "Basic Infrastructure Knowledge"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Difference & Usage",
+   "skills": [
+    "Types of Scaling",
+    "Metrics logging and other"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Instrumentation",
+   "skills": [
+    "observable items that can"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Monitoring",
+   "skills": [
+    "go wrong."
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "Telemetry",
+   "skills": [
+    "Observability"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  },
+  {
+   "name": "DevOps",
+   "skills": [
+    "Have a look at the following relevant tracks",
+    "Full Stack"
+   ],
+   "resources": [
+    "roadmap.sh/backend"
+   ]
+  }
+ ]
+}

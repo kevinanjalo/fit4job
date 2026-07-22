@@ -1,0 +1,36 @@
+{
+ "domain": "Git Github",
+ "stages": [
+  {
+   "name": "Git and GitHub",
+   "skills": [
+    "If you are a beginner, we'd recommend"
+   ],
+   "resources": [
+    "roadmap.sh/git-github"
+   ]
+  },
+  {
+   "name": "Learn the Basics",
+   "skills": [
+    "What is Version Control?",
+    "git init",
+    "Why use Version Control?",
+    "git config",
+    "Git vs Other VCS",
+    "Local vs Global Config",
+    "Repository Initialization",
+    "Installing Git Locally What is a Repository",
+    "Working Directory",
+    "Cloning Repositories",
+    "Staging Area",
+    "Branching Basics",
+    "Managing Remotes",
+    "Committing Changes"
+   ],
+   "resources": [
+    "roadmap.sh/git-github"
+   ]
+  }
+ ]
+}

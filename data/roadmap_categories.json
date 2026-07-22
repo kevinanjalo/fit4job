@@ -1,0 +1,100 @@
+{
+ "AI & Data": [
+  "ai_agents",
+  "ai_data_scientist",
+  "ai_engineer",
+  "ai_red_teaming",
+  "data_analyst",
+  "data_engineer",
+  "data_science",
+  "machine_learning",
+  "mlops",
+  "prompt_engineering",
+  "bi_analyst"
+ ],
+ "Web Frontend": [
+  "frontend",
+  "frontend_beginner",
+  "react",
+  "angular",
+  "vue",
+  "javascript",
+  "typescript",
+  "html",
+  "css",
+  "nextjs",
+  "design_system"
+ ],
+ "Web Backend": [
+  "backend",
+  "backend_beginner",
+  "nodejs",
+  "django",
+  "laravel",
+  "spring_boot",
+  "aspnet_core",
+  "api_design",
+  "golang",
+  "java",
+  "php",
+  "python",
+  "ruby_on_rails",
+  "rust"
+ ],
+ "Mobile": [
+  "android",
+  "ios",
+  "flutter",
+  "react_native",
+  "kotlin",
+  "swift_ui"
+ ],
+ "DevOps & Cloud": [
+  "devops",
+  "devops_beginner",
+  "docker",
+  "kubernetes",
+  "aws",
+  "terraform",
+  "linux",
+  "shell_bash",
+  "cloudflare",
+  "devsecops",
+  "devrel"
+ ],
+ "Data & Databases": [
+  "sql",
+  "postgresql_dba",
+  "mongodb",
+  "redis",
+  "elasticsearch"
+ ],
+ "Security & QA": [
+  "cyber_security",
+  "qa"
+ ],
+ "Product & Design": [
+  "ux_design",
+  "product_manager",
+  "technical_writer",
+  "engineering_manager"
+ ],
+ "Architecture & Systems": [
+  "system_design",
+  "software_architect",
+  "software_design_architecture",
+  "computer_science",
+  "datastructures_and_algorithms",
+  "full_stack"
+ ],
+ "Games & Blockchain": [
+  "game_developer",
+  "server_side_game_developer",
+  "blockchain"
+ ],
+ "Other": [
+  "wordpress",
+  "git_github",
+  "cpp"
+ ]
+}

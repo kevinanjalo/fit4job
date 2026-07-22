@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ app_name }}{% endblock %} | Fit4Job</title>
+  <meta name="description" content="Fit4Job: semantically-aware IT job matching for Sri Lanka.">
+  <link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+<nav class="nav" aria-label="Main navigation">
+  <div class="container nav-inner">
+    <a class="brand" href="/">Fit<em>4</em>Job</a>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation menu" aria-expanded="false"
+      aria-controls="nav-links" onclick="toggleNav()"><span></span><span></span><span></span></button>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="/jobs">Jobs</a></li>
+      <li><a href="/dashboard">Career tools</a></li>
+      <li><a href="/roadmaps">Roadmaps</a></li>
+      <li data-auth="in" style="display:none"><a href="/profile">My profile</a></li>
+      <li data-auth="admin" style="display:none"><a href="/admin">Admin</a></li>
+      <li data-auth="out"><a class="btn btn-ghost btn-sm" href="/login">Sign in</a></li>
+      <li data-auth="in" style="display:none"><button class="btn btn-ghost btn-sm" onclick="logout()">Sign out</button></li>
+    </ul>
+  </div>
+</nav>
+<main>{% block content %}{% endblock %}</main>
+<footer>
+  <div class="container">
+    Fit4Job - Semantically-aware IT job matching for Sri Lanka. SBERT embeddings, FAISS HNSW retrieval and retrieval-augmented career guidance.
+  </div>
+</footer>
+<script src="/static/js/api.js"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

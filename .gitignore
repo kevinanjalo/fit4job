@@ -1,0 +1,11 @@
+.env
+serviceAccountKey.json
+__pycache__/
+*.pyc
+venv/
+.venv/
+logs/
+uploads_store/
+models_store/*.pkl
+models_store/*.index
+models_store/sbert/

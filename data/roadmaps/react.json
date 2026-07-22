@@ -1,0 +1,140 @@
+{
+ "domain": "React",
+ "stages": [
+  {
+   "name": "React",
+   "skills": [
+    "Make sure to learn the \"Beginner\" topics"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "CLI Tools",
+   "skills": [
+    "There used to be \"Class Components\"",
+    "which React doesn't recommend any",
+    "more. You don't need to learn about them",
+    "but you might still notice them in some",
+    "legacy projects",
+    "Vite"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "useState",
+   "skills": [
+    "Components Functional Components",
+    "Rendering",
+    "JSX",
+    "Component Lifecycle",
+    "useCallback useRef"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "useEffect",
+   "skills": [
+    "Props vs State",
+    "Lists and Keys",
+    "useMemo useReducer"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "Basic Hooks",
+   "skills": [
+    "Conditional Rendering",
+    "Render Props",
+    "useContext",
+    "Composition",
+    "Refs",
+    "Common Hooks",
+    "Component Basics",
+    "Events",
+    "Creating Custom Hooks",
+    "High Order Components Hooks",
+    "Hooks Best Practices",
+    "MobX"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "Radix UI",
+   "skills": [
+    "Material UI",
+    "Panda CSS",
+    "Context",
+    "Routers",
+    "Chakra UI",
+    "CSS Modules",
+    "Zustand",
+    "React Router",
+    "Shadcn UI",
+    "Tailwind CSS",
+    "Jotai",
+    "Tanstack Router",
+    "State Management",
+    "Writing CSS"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "React Aria",
+   "skills": [
+    "Astro",
+    "Jest Vitest",
+    "Headless Component Libraries"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "Ark UI",
+   "skills": [
+    "Next.js",
+    "react-testing-library",
+    "API Calls",
+    "Testing",
+    "Frameworks"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  },
+  {
+   "name": "swr",
+   "skills": [
+    "Cypress",
+    "Apollo",
+    "react-query",
+    "Playwright",
+    "Relay",
+    "Axios",
+    "urql",
+    "rtk-query",
+    "TypeScript",
+    "Forms",
+    "GraphQL",
+    "REST",
+    "Zod",
+    "React Hook Form"
+   ],
+   "resources": [
+    "roadmap.sh/react"
+   ]
+  }
+ ]
+}

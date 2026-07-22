@@ -1,0 +1,1261 @@
+{
+  "topic": "Ai Red Teaming",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Ai Red Teaming",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Special thanks to \"Learn Prompting\"",
+      "type": "skill",
+      "x_raw": 40.888427734375,
+      "y_raw": 57.31938552856445,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "roadmap and other similar roadmaps",
+      "type": "skill",
+      "x_raw": 500.919677734375,
+      "y_raw": 72.37797546386719,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "for their help in making this roadmap",
+      "type": "skill",
+      "x_raw": 39.575927734375,
+      "y_raw": 73.65531921386719,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "AI Red Teaming",
+      "type": "section",
+      "x_raw": 287.439208984375,
+      "y_raw": 106.38768768310547,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "learnprompting.org",
+      "type": "skill",
+      "x_raw": 82.443115234375,
+      "y_raw": 106.52641296386719,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "AI and Data Scientist Roadmap",
+      "type": "skill",
+      "x_raw": 58.173583984375,
+      "y_raw": 161.2050018310547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "AI Security Fundamentals",
+      "type": "skill",
+      "x_raw": 539.333740234375,
+      "y_raw": 177.0615692138672,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "AI Engineer Roadmap",
+      "type": "skill",
+      "x_raw": 58.173583984375,
+      "y_raw": 180.4237518310547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Data Analyst Roadmap",
+      "type": "skill",
+      "x_raw": 58.173583984375,
+      "y_raw": 199.6307830810547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Why Red Team AI Systems?",
+      "type": "skill",
+      "x_raw": 534.072021484375,
+      "y_raw": 210.9990692138672,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "MLOps Roadmap",
+      "type": "skill",
+      "x_raw": 58.173583984375,
+      "y_raw": 218.8495330810547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 322.173583984375,
+      "y_raw": 225.7295379638672,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Ethical Considerations",
+      "type": "skill",
+      "x_raw": 546.247802734375,
+      "y_raw": 244.9482879638672,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Supervised Learning",
+      "type": "skill",
+      "x_raw": 56.638427734375,
+      "y_raw": 271.85455322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Role of Red Teams",
+      "type": "skill",
+      "x_raw": 554.755615234375,
+      "y_raw": 278.89752197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Foundational Knowledge",
+      "type": "section",
+      "x_raw": 280.454833984375,
+      "y_raw": 296.6881103515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_16",
+      "label": "Unsupervised Learning",
+      "type": "skill",
+      "x_raw": 50.193115234375,
+      "y_raw": 305.79205322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Confidentiality, Integrity, Availability",
+      "type": "skill",
+      "x_raw": 517.900146484375,
+      "y_raw": 337.81939697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Reinforcement Learning",
+      "type": "skill",
+      "x_raw": 47.743896484375,
+      "y_raw": 339.74127197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Threat Modeling",
+      "type": "skill",
+      "x_raw": 562.009521484375,
+      "y_raw": 371.76861572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "AI / ML Fundamentals",
+      "type": "skill",
+      "x_raw": 297.095458984375,
+      "y_raw": 372.21392822265625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Neural Networks",
+      "type": "skill",
+      "x_raw": 66.505615234375,
+      "y_raw": 373.69049072265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Cybsecurity Principles",
+      "type": "section",
+      "x_raw": 297.822021484375,
+      "y_raw": 405.51861572265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_23",
+      "label": "Risk Management",
+      "type": "skill",
+      "x_raw": 557.532958984375,
+      "y_raw": 405.71783447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Generative Models",
+      "type": "skill",
+      "x_raw": 60.915771484375,
+      "y_raw": 407.63970947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Vulnerability Assessment",
+      "type": "skill",
+      "x_raw": 542.005615234375,
+      "y_raw": 439.66705322265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Large Language Models",
+      "type": "skill",
+      "x_raw": 47.497802734375,
+      "y_raw": 441.58892822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Prompt Engineering",
+      "type": "skill",
+      "x_raw": 58.361083984375,
+      "y_raw": 475.52642822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Jailbreak Techniques",
+      "type": "skill",
+      "x_raw": 558.236083984375,
+      "y_raw": 493.19830322265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Prompt Hacking",
+      "type": "section",
+      "x_raw": 312.493896484375,
+      "y_raw": 503.6983337402344,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Safety Filter Bypasses",
+      "type": "skill",
+      "x_raw": 556.032958984375,
+      "y_raw": 527.1358032226562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Model Weight Stealing",
+      "type": "skill",
+      "x_raw": 51.986083984375,
+      "y_raw": 537.0850219726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "Model Vulnerabilities",
+      "type": "section",
+      "x_raw": 300.751708984375,
+      "y_raw": 557.0186157226562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Prompt Injection",
+      "type": "skill",
+      "x_raw": 569.708740234375,
+      "y_raw": 561.0850219726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Unauthorized Access",
+      "type": "skill",
+      "x_raw": 54.704833984375,
+      "y_raw": 571.0342407226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Direct Indirect",
+      "type": "skill",
+      "x_raw": 554.404052734375,
+      "y_raw": 595.9131469726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Model Extraction",
+      "type": "skill",
+      "x_raw": 66.482177734375,
+      "y_raw": 602.7920532226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "System Security",
+      "type": "section",
+      "x_raw": 305.825927734375,
+      "y_raw": 618.4616088867188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "Countermeasures",
+      "type": "skill",
+      "x_raw": 565.911865234375,
+      "y_raw": 635.4287719726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Data Poisoning",
+      "type": "skill",
+      "x_raw": 69.786865234375,
+      "y_raw": 638.4522094726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Adversarial Examples",
+      "type": "skill",
+      "x_raw": 54.189208984375,
+      "y_raw": 673.6787719726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Testing Methodologies",
+      "type": "skill",
+      "x_raw": 544.478271484375,
+      "y_raw": 696.1334838867188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Code Injection",
+      "type": "section",
+      "x_raw": 315.634521484375,
+      "y_raw": 698.8272094726562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_43",
+      "label": "Model Inversion",
+      "type": "skill",
+      "x_raw": 67.384521484375,
+      "y_raw": 710.1943969726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Insecure Deserialization",
+      "type": "section",
+      "x_raw": 291.974365234375,
+      "y_raw": 734.5459594726562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_45",
+      "label": "Model Manipulation",
+      "type": "skill",
+      "x_raw": 59.755615234375,
+      "y_raw": 740.6514282226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Remote Code Execution",
+      "type": "section",
+      "x_raw": 291.751708984375,
+      "y_raw": 768.4951782226562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Black Box Testing",
+      "type": "skill",
+      "x_raw": 566.802490234375,
+      "y_raw": 775.3623657226562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Adversarial Training",
+      "type": "skill",
+      "x_raw": 58.384521484375,
+      "y_raw": 778.1514282226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Infrastructure Security",
+      "type": "section",
+      "x_raw": 297.142333984375,
+      "y_raw": 804.9873657226562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "White Box Testing",
+      "type": "skill",
+      "x_raw": 566.474365234375,
+      "y_raw": 809.3115844726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Robust Model Design",
+      "type": "skill",
+      "x_raw": 53.825927734375,
+      "y_raw": 813.3779907226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "API Protection",
+      "type": "section",
+      "x_raw": 316.642333984375,
+      "y_raw": 839.3233032226562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Grey Box Testing",
+      "type": "skill",
+      "x_raw": 569.134521484375,
+      "y_raw": 843.2608032226562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Continuous Monitoring",
+      "type": "skill",
+      "x_raw": 51.212646484375,
+      "y_raw": 849.8936157226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Authentication",
+      "type": "section",
+      "x_raw": 316.384521484375,
+      "y_raw": 873.2725219726562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Automated vs Manual",
+      "type": "skill",
+      "x_raw": 557.157958984375,
+      "y_raw": 877.2100219726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Defense Strategies",
+      "type": "skill",
+      "x_raw": 60.716552734375,
+      "y_raw": 880.3506469726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Authentication",
+      "type": "section",
+      "x_raw": 316.384521484375,
+      "y_raw": 907.2217407226562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Continuous Testing",
+      "type": "skill",
+      "x_raw": 563.146240234375,
+      "y_raw": 911.1592407226562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Conferences",
+      "type": "skill",
+      "x_raw": 76.935302734375,
+      "y_raw": 949.6201782226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Professional Development",
+      "type": "section",
+      "x_raw": 275.896240234375,
+      "y_raw": 978.2506713867188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Tools and Frameworks",
+      "type": "skill",
+      "x_raw": 545.439208984375,
+      "y_raw": 978.8952026367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Research Groups",
+      "type": "skill",
+      "x_raw": 65.439208984375,
+      "y_raw": 986.1240844726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Forums",
+      "type": "skill",
+      "x_raw": 90.318115234375,
+      "y_raw": 1022.6397094726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Real-world Applications",
+      "type": "section",
+      "x_raw": 283.759521484375,
+      "y_raw": 1054.0474853515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_66",
+      "label": "Testing Platforms",
+      "type": "skill",
+      "x_raw": 567.775146484375,
+      "y_raw": 1054.8311767578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Community Engagement",
+      "type": "skill",
+      "x_raw": 49.747802734375,
+      "y_raw": 1058.0069580078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Monitoring Solutions",
+      "type": "skill",
+      "x_raw": 560.017333984375,
+      "y_raw": 1088.7803955078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Lab Environments",
+      "type": "skill",
+      "x_raw": 64.384521484375,
+      "y_raw": 1100.9913330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Benchmark Datasets",
+      "type": "skill",
+      "x_raw": 558.529052734375,
+      "y_raw": 1122.7296142578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "LLM Security Testing",
+      "type": "section",
+      "x_raw": 300.833740234375,
+      "y_raw": 1125.9405517578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "CTF Challenges",
+      "type": "skill",
+      "x_raw": 69.107177734375,
+      "y_raw": 1137.4952392578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Custom Testing Scripts",
+      "type": "skill",
+      "x_raw": 553.970458984375,
+      "y_raw": 1156.6671142578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Agentic AI Security",
+      "type": "section",
+      "x_raw": 305.532958984375,
+      "y_raw": 1159.8897705078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "Red Team Simulations",
+      "type": "skill",
+      "x_raw": 54.165771484375,
+      "y_raw": 1174.0108642578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Reporting Tools",
+      "type": "skill",
+      "x_raw": 571.478271484375,
+      "y_raw": 1190.6163330078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Responsible Disclosure",
+      "type": "section",
+      "x_raw": 293.779052734375,
+      "y_raw": 1193.8389892578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_78",
+      "label": "Practical Experience",
+      "type": "skill",
+      "x_raw": 59.040771484375,
+      "y_raw": 1209.3663330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Specialized Courses",
+      "type": "skill",
+      "x_raw": 58.361083984375,
+      "y_raw": 1249.3272705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Emerging Threats",
+      "type": "skill",
+      "x_raw": 561.950927734375,
+      "y_raw": 1258.9718017578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "Industry Credentials",
+      "type": "skill",
+      "x_raw": 59.462646484375,
+      "y_raw": 1286.4171142578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Future Directions",
+      "type": "section",
+      "x_raw": 301.771240234375,
+      "y_raw": 1292.7818603515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Advanced Techniques",
+      "type": "skill",
+      "x_raw": 552.329833984375,
+      "y_raw": 1295.4874267578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "Certifications",
+      "type": "skill",
+      "x_raw": 77.614990234375,
+      "y_raw": 1318.1514892578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Research Opportunities",
+      "type": "skill",
+      "x_raw": 546.798583984375,
+      "y_raw": 1330.7139892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Industry Standards",
+      "type": "skill",
+      "x_raw": 559.782958984375,
+      "y_raw": 1365.9405517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Visit the following relevant tracks to keep learning",
+      "type": "skill",
+      "x_raw": 227.989990234375,
+      "y_raw": 1425.5889892578125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "AI Engineer AI & Data Scientist Data Analyst",
+      "type": "skill",
+      "x_raw": 201.013427734375,
+      "y_raw": 1461.9639892578125,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "trunk"
+    },
+    {
+      "source": "node_15",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_22",
+      "type": "trunk"
+    },
+    {
+      "source": "node_22",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "trunk"
+    },
+    {
+      "source": "node_32",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_42",
+      "type": "trunk"
+    },
+    {
+      "source": "node_42",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_42",
+      "target": "node_44",
+      "type": "trunk"
+    },
+    {
+      "source": "node_44",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_65",
+      "type": "trunk"
+    },
+    {
+      "source": "node_65",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_77",
+      "type": "trunk"
+    },
+    {
+      "source": "node_77",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_88",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "topic": "Spring Boot",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Spring Boot",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 502.3743591308594,
+      "y_raw": 50.57261657714844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 506.1360778808594,
+      "y_raw": 66.97886657714844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 76.33606719970703,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Java Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 95.63684844970703,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "System Design Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 114.93762969970703,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Spring Boot",
+      "type": "section",
+      "x_raw": 296.0188903808594,
+      "y_raw": 122.67645263671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 134.2266845703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Docker Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 153.5391845703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Kubernetes Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 172.8399658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Terminology",
+      "type": "skill",
+      "x_raw": 582.7298583984375,
+      "y_raw": 189.40464782714844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Redis Roadmap",
+      "type": "skill",
+      "x_raw": 57.401702880859375,
+      "y_raw": 192.1407470703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Architecture",
+      "type": "skill",
+      "x_raw": 582.6243896484375,
+      "y_raw": 223.51792907714844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Visit Java Roadmap",
+      "type": "section",
+      "x_raw": 295.2688903808594,
+      "y_raw": 238.62339782714844,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Why use Spring?",
+      "type": "skill",
+      "x_raw": 572.0657958984375,
+      "y_raw": 257.6195068359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Introduction Configuration",
+      "type": "skill",
+      "x_raw": 314.1595153808594,
+      "y_raw": 291.7210693359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 73.50326538085938,
+      "y_raw": 307.5062255859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Dependency Injection",
+      "type": "skill",
+      "x_raw": 558.6126708984375,
+      "y_raw": 325.8226318359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Authorization",
+      "type": "skill",
+      "x_raw": 76.78451538085938,
+      "y_raw": 341.6195068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Spring Security",
+      "type": "section",
+      "x_raw": 306.5774841308594,
+      "y_raw": 351.7562255859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Spring IOC",
+      "type": "skill",
+      "x_raw": 585.4134521484375,
+      "y_raw": 359.9241943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "OAuth2",
+      "type": "skill",
+      "x_raw": 90.70639038085938,
+      "y_raw": 375.7210693359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Spring AOP",
+      "type": "skill",
+      "x_raw": 584.3236083984375,
+      "y_raw": 394.0257568359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "JWT Authentication",
+      "type": "skill",
+      "x_raw": 60.811859130859375,
+      "y_raw": 409.8226318359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Spring MVC",
+      "type": "skill",
+      "x_raw": 583.2923583984375,
+      "y_raw": 428.1273193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Spring Boot",
+      "type": "section",
+      "x_raw": 309.7415466308594,
+      "y_raw": 431.5624694824219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "Annotations",
+      "type": "skill",
+      "x_raw": 583.4447021484375,
+      "y_raw": 462.2288818359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Spring Bean Scope",
+      "type": "skill",
+      "x_raw": 564.8470458984375,
+      "y_raw": 496.3304443359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Transactions",
+      "type": "skill",
+      "x_raw": 77.34701538085938,
+      "y_raw": 504.5570068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Spring Boot Starters",
+      "type": "section",
+      "x_raw": 293.8274841308594,
+      "y_raw": 527.8656005859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "Relationships",
+      "type": "skill",
+      "x_raw": 75.53060913085938,
+      "y_raw": 538.6702880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Spring Cloud Gateway",
+      "type": "skill",
+      "x_raw": 558.0267333984375,
+      "y_raw": 556.5062255859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Autoconfiguration",
+      "type": "section",
+      "x_raw": 300.4602966308594,
+      "y_raw": 561.9671630859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Entity Lifecycle",
+      "type": "skill",
+      "x_raw": 72.37826538085938,
+      "y_raw": 572.7718505859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Cloud Config",
+      "type": "skill",
+      "x_raw": 580.5970458984375,
+      "y_raw": 590.6077880859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Actuators",
+      "type": "section",
+      "x_raw": 320.5345153808594,
+      "y_raw": 596.0687255859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Spring Cloud Circuit Breaker",
+      "type": "skill",
+      "x_raw": 542.1126708984375,
+      "y_raw": 624.7093505859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Embedded Server Hibernate",
+      "type": "skill",
+      "x_raw": 84.35482788085938,
+      "y_raw": 630.1702880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Spring Data",
+      "type": "skill",
+      "x_raw": 79.79623413085938,
+      "y_raw": 693.0882568359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Microservices Spring Cloud",
+      "type": "skill",
+      "x_raw": 309.2610778808594,
+      "y_raw": 693.0882568359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Spring Cloud Open Feign",
+      "type": "skill",
+      "x_raw": 550.2923583984375,
+      "y_raw": 758.5726318359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Spring Data JPA",
+      "type": "skill",
+      "x_raw": 69.24935913085938,
+      "y_raw": 758.9241943359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Micrometer Eurkea",
+      "type": "skill",
+      "x_raw": 538.7142333984375,
+      "y_raw": 792.6741943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Spring Data MongoDB",
+      "type": "skill",
+      "x_raw": 53.417327880859375,
+      "y_raw": 793.0257568359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Spring Data JDBC",
+      "type": "skill",
+      "x_raw": 64.04623413085938,
+      "y_raw": 827.1273193359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Servlet",
+      "type": "skill",
+      "x_raw": 91.72592163085938,
+      "y_raw": 891.6624755859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "JSP Files",
+      "type": "skill",
+      "x_raw": 86.12435913085938,
+      "y_raw": 925.7640380859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Spring MVC",
+      "type": "section",
+      "x_raw": 314.5579528808594,
+      "y_raw": 926.6663818359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Architecture",
+      "type": "skill",
+      "x_raw": 79.03451538085938,
+      "y_raw": 959.8656005859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "JPA Test Mock MVC",
+      "type": "skill",
+      "x_raw": 527.3236083984375,
+      "y_raw": 961.5882568359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Components Testing",
+      "type": "skill",
+      "x_raw": 77.38217163085938,
+      "y_raw": 993.9671630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "@SpringBootTest Annotation",
+      "type": "skill",
+      "x_raw": 523.2103271484375,
+      "y_raw": 996.6273193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "@MockBean Annotation",
+      "type": "skill",
+      "x_raw": 534.5072021484375,
+      "y_raw": 1030.7288818359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "For ecosystem and more, check these other tracks involving GraphQL",
+      "type": "skill",
+      "x_raw": 172.31576538085938,
+      "y_raw": 1137.8265380859375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Frontend Roadmap Backend Roadmap",
+      "type": "skill",
+      "x_raw": 202.38607788085938,
+      "y_raw": 1170.9085693359375,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_53",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %}Find the right IT job{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="container hero-inner">
+    <div>
+      <p class="eyebrow">For Sri Lankan IT professionals</p>
+      <h1>The right role finds <em>you</em>.</h1>
+      <p class="lead">Upload your CV once. Fit4Job reads it the way a great recruiter would,
+        matches you with the roles you actually fit, and coaches you through every step:
+        skill gaps, interview practice and resume polish.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/dashboard">Match my resume</a>
+        <a class="btn btn-ghost" href="/jobs">Browse jobs</a>
+      </div>
+    </div>
+    <div class="hero-art" aria-hidden="true">
+      <svg viewBox="0 0 440 360" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#E85D04"/><stop offset="1" stop-color="#FFB067"/>
+          </linearGradient>
+        </defs>
+        <circle cx="220" cy="180" r="150" fill="#FFF1E6"/>
+        <g class="float-slow">
+          <rect x="70" y="90" width="150" height="190" rx="14" fill="#fff" stroke="#EDE6DF" stroke-width="2"/>
+          <rect x="90" y="115" width="80" height="10" rx="5" fill="url(#g1)"/>
+          <rect x="90" y="138" width="110" height="7" rx="3.5" fill="#EDE6DF"/>
+          <rect x="90" y="155" width="95" height="7" rx="3.5" fill="#EDE6DF"/>
+          <rect x="90" y="172" width="105" height="7" rx="3.5" fill="#EDE6DF"/>
+          <rect x="90" y="200" width="40" height="16" rx="8" fill="#FFE0C7"/>
+          <rect x="138" y="200" width="52" height="16" rx="8" fill="#FFE0C7"/>
+          <rect x="90" y="224" width="46" height="16" rx="8" fill="#FFE0C7"/>
+        </g>
+        <g class="float-fast">
+          <rect x="235" y="60" width="140" height="80" rx="12" fill="#fff" stroke="#EDE6DF" stroke-width="2"/>
+          <circle cx="262" cy="92" r="14" fill="url(#g1)"/>
+          <rect x="285" y="80" width="70" height="8" rx="4" fill="#1E1B18"/>
+          <rect x="285" y="96" width="52" height="7" rx="3.5" fill="#EDE6DF"/>
+          <path d="M352 122 l7 8 12 -14" stroke="#1B7F4C" stroke-width="4" fill="none" stroke-linecap="round"/>
+        </g>
+        <g class="float-slow">
+          <rect x="250" y="170" width="140" height="80" rx="12" fill="#fff" stroke="#EDE6DF" stroke-width="2"/>
+          <circle cx="277" cy="202" r="14" fill="#FFE0C7"/>
+          <rect x="300" y="190" width="70" height="8" rx="4" fill="#1E1B18"/>
+          <rect x="300" y="206" width="52" height="7" rx="3.5" fill="#EDE6DF"/>
+          <path d="M367 232 l7 8 12 -14" stroke="#1B7F4C" stroke-width="4" fill="none" stroke-linecap="round"/>
+        </g>
+        <path d="M222 185 C 235 165, 240 130, 252 105" stroke="#E85D04" stroke-width="3" fill="none" stroke-dasharray="6 7"/>
+        <path d="M222 210 C 235 212, 240 210, 248 210" stroke="#E85D04" stroke-width="3" fill="none" stroke-dasharray="6 7"/>
+        <g class="float-fast">
+          <circle cx="130" cy="315" r="26" fill="url(#g1)"/>
+          <text x="130" y="322" text-anchor="middle" font-family="Georgia" font-size="17" fill="#fff" font-weight="bold">92%</text>
+        </g>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Everything for your job search, in one place</h2>
+    <p class="sub">From first upload to final interview.</p>
+    <div class="grid-3">
+      <div class="card reveal"><h3>Smart matching</h3><p>See the jobs that genuinely fit your experience, ranked with a clear match score and exactly which skills you have and which you are missing.</p></div>
+      <div class="card reveal"><h3>One-click applications</h3><p>Save your CV to your profile once, then apply to any job with the CV you choose attached. Track every application's status from your profile.</p></div>
+      <div class="card reveal"><h3>Interview coaching</h3><p>Practice with question sets generated from the exact job description you are applying to, personalised with your own resume.</p></div>
+      <div class="card reveal"><h3>Skill roadmaps</h3><p>Explore 75 learning roadmaps across every IT domain, with your completed skills marked and your next steps highlighted.</p></div>
+      <div class="card reveal"><h3>Resume feedback</h3><p>Get structured, role-aware suggestions to strengthen your CV before you send it anywhere.</p></div>
+      <div class="card reveal"><h3>Career guidance</h3><p>Personal recommendations on the career tracks that fit you best and a concrete plan to get there.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background: var(--tint)">
+  <div class="container" style="text-align:center">
+    <h2>Three steps to your next role</h2>
+    <div class="grid-3" style="margin-top:28px">
+      <div class="card reveal"><h3>1. Upload your CV</h3><p>PDF, Word or plain text. We read it in seconds.</p></div>
+      <div class="card reveal"><h3>2. Review your matches</h3><p>Ranked roles with clear reasons for every score.</p></div>
+      <div class="card reveal"><h3>3. Apply and prepare</h3><p>Apply with one click and practice for the interview.</p></div>
+    </div>
+    <a class="btn btn-primary" style="margin-top:34px" href="/login">Create a free account</a>
+  </div>
+</section>
+{% endblock %}

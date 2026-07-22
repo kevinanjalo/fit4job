@@ -1,0 +1,64 @@
+{
+ "domain": "Frontend Beginner",
+ "stages": [
+  {
+   "name": "Front-end",
+   "skills": [
+    "This is the beginner friendly version of"
+   ],
+   "resources": [
+    "roadmap.sh/frontend-beginner"
+   ]
+  },
+  {
+   "name": "HTML",
+   "skills": [
+    "Important Tip"
+   ],
+   "resources": [
+    "roadmap.sh/frontend-beginner"
+   ]
+  },
+  {
+   "name": "CSS",
+   "skills": [
+    "Developer join after learning these three.",
+    "Start applying for jobs and keep learning."
+   ],
+   "resources": [
+    "roadmap.sh/frontend-beginner"
+   ]
+  },
+  {
+   "name": "Git GitHub",
+   "skills": [
+    "Create your GitHub Profile and publish the",
+    "Learn about Version Control Systems",
+    "projects you have developed so far to GitHub.",
+    "& start using Git for your future projects."
+   ],
+   "resources": [
+    "roadmap.sh/frontend-beginner"
+   ]
+  },
+  {
+   "name": "npm",
+   "skills": [
+    "Learn to use npm package manager. This should"
+   ],
+   "resources": [
+    "roadmap.sh/frontend-beginner"
+   ]
+  },
+  {
+   "name": "React",
+   "skills": [
+    "Create some project with React. Make sure to",
+    "API calls to fetch some external data."
+   ],
+   "resources": [
+    "roadmap.sh/frontend-beginner"
+   ]
+  }
+ ]
+}

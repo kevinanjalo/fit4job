@@ -1,0 +1,281 @@
+{
+ "domain": "Ux Design",
+ "stages": [
+  {
+   "name": "UX Design",
+   "skills": [
+    "Buzzwords to lookout for",
+    "Frameworks",
+    "Nudge Theory"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Human Decision Making",
+   "skills": [
+    "BJ Fogg's Behavior Model",
+    "Persuasive Technology",
+    "CREATE Action Funnel",
+    "Behavioral Science",
+    "Spectrum of Thinking Interventions",
+    "Behavioral Economics",
+    "Dual Process Theory"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Behavior Change Strategies",
+   "skills": [
+    "Behavior Design",
+    "BJ Fogg's Behavior Grid",
+    "Classifying Behavior"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Cheating",
+   "skills": [
+    "Defaulting",
+    "Making it Incidental",
+    "Existing Behavior",
+    "Help user Avoiding the Cue"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Support Conscious Action",
+   "skills": [
+    "Replace the Routine",
+    "Target Outcome",
+    "Use Consciousness to Interfere",
+    "Educate & Encourage User",
+    "Target Actor",
+    "Mindfulness to Avoid Acting on the Cue"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Create User Personas",
+   "skills": [
+    "Help User think about their Action",
+    "Target Action",
+    "Crowd Out Old Habit with New Behavior",
+    "Clarify Product",
+    "New Behavior",
+    "Nir Eyal's Hook Model"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Define Target Users",
+   "skills": [
+    "Understanding the Product",
+    "Cue Routine Reward Model"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Conceptual Design",
+   "skills": [
+    "Business Model",
+    "Create Product Backlog",
+    "Existing Business Model",
+    "User Stories",
+    "Business Model Canvas",
+    "Things to lookout for"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Figma",
+   "skills": [
+    "Lean Canvas",
+    "In general, keep it short and simple",
+    "New Business Model",
+    "Make it easy to understand and complete"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Adobe XD",
+   "skills": [
+    "Business Model Inspirator",
+    "Make progress visible to user"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Sketch",
+   "skills": [
+    "Competitor Analysis",
+    "Make progress meaningful to reward user"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Balsamiq",
+   "skills": [
+    "Five Forces Model"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Wireframing",
+   "skills": [
+    "Make successful completion clearly visible",
+    "SWOT Analysis"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Good Layout Rules",
+   "skills": [
+    "Deliverables",
+    "Customer Experience Map by Mel Edwards",
+    "UX Patterns"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Prototyping",
+   "skills": [
+    "Simple Flowchart",
+    "When attention is fleeting and scarce",
+    "Event-driven Process Chain Model (EPC)",
+    "Call to Action",
+    "How-to-Tips",
+    "Business Process Model & Notation (BPMN)",
+    "Status Reports"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "UX Best Practices",
+   "skills": [
+    "Reminders & Planning Prompts",
+    "Getting Users Attention",
+    "with many chances to influence user",
+    "Tell User what the Action is and ask for it",
+    "Behavior Change Games",
+    "Clear the Page of Distractions",
+    "Decision-Making Support",
+    "Make it Clear, Where to Act",
+    "Gamification",
+    "Goal Trackers",
+    "Getting Positive Intuitive Reaction",
+    "Reminders Social Sharing",
+    "Make UI Professional and Beautiful"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Measuring the Impact",
+   "skills": [
+    "Planners",
+    "Deploy Strong Authority on Subject",
+    "Be Authentic and Personal",
+    "Gather Lessons, Prioritize & Integrate",
+    "Deploy Social Proof",
+    "Get a favorable Conscious Evaluation",
+    "Prime User-Relevant Associations"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Testing",
+   "skills": [
+    "Avoid Direct Payments"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Multivariate Testing",
+   "skills": [
+    "Avoid Choice Overload"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Incremental A/B Testing",
+   "skills": [
+    "Avoid Cognitive Overhead",
+    "Leverage Loss-Aversion",
+    "Use Peer Comparisons"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Elicit Implementation Intentions",
+   "skills": [
+    "Use Competition",
+    "Make sure Users can do it Easily",
+    "Creating Urgency to Act Now",
+    "Frame Text to Avoid Temporal Myopia"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Default Everything",
+   "skills": [
+    "Remind of Prior Commitment to Act",
+    "Make Commitment to Friends",
+    "Lessen the Burden of Action / Info"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  },
+  {
+   "name": "Deploy Peer Comparisons",
+   "skills": [
+    "Make Reward Scarce",
+    "Design System Frontend"
+   ],
+   "resources": [
+    "roadmap.sh/ux-design"
+   ]
+  }
+ ]
+}

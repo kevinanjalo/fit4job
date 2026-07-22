@@ -1,0 +1,157 @@
+{
+ "domain": "Html",
+ "stages": [
+  {
+   "name": "HTML",
+   "skills": [
+    "What are markup languages?",
+    "What is HTTP?",
+    "Frontend Development Introduction",
+    "Domain names",
+    "Hosting",
+    "HTML CSS JavaScript"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Whitespaces !DOCTYPE",
+   "skills": [
+    "DNS",
+    "How the web works",
+    "Tags and Attributes",
+    "Browsers",
+    "Case Insensitivity",
+    "What is SEO?",
+    "Your First HTML FIle HTML Entities",
+    "HTML Comments"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Basic Tags",
+   "skills": [
+    "body html",
+    "h1 to h6",
+    "meta head",
+    "title"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Textual Tags",
+   "skills": [
+    "div span",
+    "hr",
+    "br",
+    "b / strong",
+    "pre",
+    "Grouping text"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "class",
+   "skills": [
+    "i / em",
+    "mark",
+    "sub",
+    "sup",
+    "Data Attributes Standard attributes"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "style",
+   "skills": [
+    "Links",
+    "Priority Hints",
+    "Lists and Types Table Tag",
+    "img vs figure"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Embedding Media",
+   "skills": [
+    "Ordered lists",
+    "Images",
+    "Unordered lists",
+    "Video Audio",
+    "Definition lists",
+    "iframe",
+    "CSP",
+    "Nested lists"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Using Forms",
+   "skills": [
+    "Labels and Inputs",
+    "Highlighting Changes",
+    "File Uploads",
+    "del s ins",
+    "Form Validation",
+    "Qutotation / Citation"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Semantic Markup",
+   "skills": [
+    "Limitations",
+    "cite",
+    "abbr",
+    "dfn",
+    "address",
+    "blockquote",
+    "Layout tags",
+    "Styling Basics Including JavaScript"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "Internal CSS",
+   "skills": [
+    "header",
+    "nav",
+    "main",
+    "section Inline CSS",
+    "Accesibility",
+    "aside",
+    "footer"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  },
+  {
+   "name": "External CSS",
+   "skills": [
+    "Basics of SEO",
+    "Frontend JavaScript"
+   ],
+   "resources": [
+    "roadmap.sh/html"
+   ]
+  }
+ ]
+}

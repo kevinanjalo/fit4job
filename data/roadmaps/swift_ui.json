@@ -1,0 +1,429 @@
+{
+ "domain": "Swift Ui",
+ "stages": [
+  {
+   "name": "Introduction",
+   "skills": [
+    "Swift & Swift UI",
+    "What is Swift?",
+    "Why use Swift?",
+    "Constants & Variables"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Installing Swift",
+   "skills": [
+    "Swift vs Objective-C",
+    "Type Annotations",
+    "Where Swift is used?"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Swift Basics",
+   "skills": [
+    "Print & String Interpolation",
+    "Comments",
+    "Arithmetic",
+    "Comparison",
+    "Semicolons"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Type System",
+   "skills": [
+    "Logical",
+    "Nil-Coalescing",
+    "Data Types"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Type Safety",
+   "skills": [
+    "Integers",
+    "Booleans",
+    "Operators"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Type Inference",
+   "skills": [
+    "Floats & Doubles"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Type Casting",
+   "skills": [
+    "Optionals & nil"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Memory Safety",
+   "skills": [
+    "Control Flow",
+    "Strings",
+    "Tuples"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "catching",
+   "skills": [
+    "if / else",
+    "Basic Functions"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "propagating",
+   "skills": [
+    "switch / case",
+    "Parameters"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Error Handling",
+   "skills": [
+    "Return Types",
+    "Loops",
+    "Function Types"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Functions & Closures",
+   "skills": [
+    "for",
+    "while",
+    "repeat..while",
+    "Nested Functions",
+    "continue & break",
+    "Closures",
+    "Trailing Closures"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Swift Core Types",
+   "skills": [
+    "Enumerations",
+    "Protocols & Generics Protocols"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Stored Computed",
+   "skills": [
+    "Structures & Classes",
+    "Generics",
+    "Methods",
+    "Properties"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Observers Wrappers",
+   "skills": [
+    "Inheritance",
+    "Initialization",
+    "SwiftUI",
+    "Subscripts"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "UIKit vs SwiftUI",
+   "skills": [
+    "Extensions",
+    "Optional Chaining",
+    "What is SwiftUI",
+    "How to use SwiftUI"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "View Modifiers",
+   "skills": [
+    "App lifecycle",
+    "Basic Views Layout Views",
+    "Navigation Views"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "font",
+   "skills": [
+    "NavigationStack",
+    "HStack",
+    "Text"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "padding",
+   "skills": [
+    "NavigationPath",
+    "VStack",
+    "Views",
+    "Image"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "background",
+   "skills": [
+    "TabView",
+    "ZStack",
+    "Button"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "cornerRadius",
+   "skills": [
+    "NavigationLink",
+    "Grid",
+    "List"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "ViewBuilder",
+   "skills": [
+    "GeometryReader",
+    "Form"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Animations",
+   "skills": [
+    "Data Flow",
+    "Implicit animations",
+    "Explicit animations",
+    "@State",
+    "@Binding",
+    "Transitions",
+    "@StateObject",
+    "Animatable Protocol"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "User Interaction",
+   "skills": [
+    "@ObservedObject",
+    "UI Controls",
+    "@EnvironmentObject",
+    "Gestures",
+    "State Management",
+    "Drag & Drop",
+    "Localization",
+    "Accessibility",
+    "Advanced Swift & SwiftUI"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Asynchronous Sequences",
+   "skills": [
+    "Access Control",
+    "Core Data SwiftData",
+    "ARC",
+    "CloudKit",
+    "Firabase",
+    "Result Builders Asynchronous Functions",
+    "Realm GRDB",
+    "Macros",
+    "Tasks & Task Groups"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Unstructured Concurrency",
+   "skills": [
+    "Databases"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Actors",
+   "skills": [
+    "FileManager",
+    "UserDefaults, AppStorage"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "SwiftUI with Async/Await",
+   "skills": [
+    "Strict Concurrency Checking Using Packages"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Async. Programming",
+   "skills": [
+    "Creating Packages",
+    "Data persistance",
+    "Plugins"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Ecosystem & Tooling",
+   "skills": [
+    "Swift Package Manager",
+    "App Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "XCTest",
+   "skills": [
+    "MVVM"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Swift Testing",
+   "skills": [
+    "Clean Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Testing",
+   "skills": [
+    "Dependency Injection",
+    "Swift Package Index",
+    "Vapor",
+    "Hummingbird",
+    "XCode debugging"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Logging & Debugging",
+   "skills": [
+    "MongoKitten",
+    "swift-log",
+    "SwiftUI inspector",
+    "CocoaLumberjack",
+    "Server Frameworks"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "IDEs",
+   "skills": [
+    "DocC",
+    "Networking Libraries"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Xcode VSCode",
+   "skills": [
+    "Swift Charts",
+    "Alamofire Moya",
+    "Swift Playgrounds"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  },
+  {
+   "name": "Emacs Neovim",
+   "skills": [
+    "swift-nio Pulse",
+    "More tools",
+    "Beyond Apple",
+    "Static Linux SDK",
+    "SDKs for Wasm",
+    "iOS Android Kotlin",
+    "Swift for Server Apps"
+   ],
+   "resources": [
+    "roadmap.sh/swift-ui"
+   ]
+  }
+ ]
+}

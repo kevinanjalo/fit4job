@@ -1,0 +1,2395 @@
+{
+  "topic": "Engineering Manager",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Engineering Manager",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 491.6651611328125,
+      "y_raw": 67.90503692626953,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Backend Development",
+      "type": "skill",
+      "x_raw": 56.917999267578125,
+      "y_raw": 76.97633361816406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "DevOps Engineering",
+      "type": "skill",
+      "x_raw": 56.917999267578125,
+      "y_raw": 95.44281005859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "System Design",
+      "type": "skill",
+      "x_raw": 56.917999267578125,
+      "y_raw": 113.90928649902344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Engineering Manager",
+      "type": "section",
+      "x_raw": 268.930908203125,
+      "y_raw": 118.38845825195312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "Software Architect",
+      "type": "skill",
+      "x_raw": 56.917999267578125,
+      "y_raw": 132.37576293945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Process",
+      "type": "skill",
+      "x_raw": 650.0128173828125,
+      "y_raw": 200.9081573486328,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "What is Engineering Management?",
+      "type": "skill",
+      "x_raw": 270.9814453125,
+      "y_raw": 201.32998657226562,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "EM vs Tech Lead vs IC People Product",
+      "type": "skill",
+      "x_raw": 67.68621826171875,
+      "y_raw": 201.32998657226562,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_9",
+      "label": "Key Focus Areas",
+      "type": "skill",
+      "x_raw": 560.5277709960938,
+      "y_raw": 239.5049591064453,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Technical Leadership",
+      "type": "section",
+      "x_raw": 282.75732421875,
+      "y_raw": 279.2051696777344,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Quality and Process",
+      "type": "skill",
+      "x_raw": 82.68435668945312,
+      "y_raw": 287.5224914550781,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "System Monitoring & Performance",
+      "type": "skill",
+      "x_raw": 48.012847900390625,
+      "y_raw": 320.5301208496094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Technical Strategy CI/CD Implementation",
+      "type": "skill",
+      "x_raw": 75.103271484375,
+      "y_raw": 348.862548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Foundational Knowledge Technical Roadmapping",
+      "type": "skill",
+      "x_raw": 309.35565185546875,
+      "y_raw": 379.04632568359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Development / Release Workflow",
+      "type": "skill",
+      "x_raw": 49.87591552734375,
+      "y_raw": 384.8698425292969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Software Engineering Background",
+      "type": "skill",
+      "x_raw": 509.5340576171875,
+      "y_raw": 410.85882568359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Architectural Decision-Making",
+      "type": "section",
+      "x_raw": 295.6112060546875,
+      "y_raw": 411.67901611328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Testing Strategies",
+      "type": "skill",
+      "x_raw": 86.0589599609375,
+      "y_raw": 416.8932189941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "System Design and Architecture",
+      "type": "skill",
+      "x_raw": 514.8185424804688,
+      "y_raw": 443.49151611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Build vs Buy Evaluation",
+      "type": "skill",
+      "x_raw": 312.06231689453125,
+      "y_raw": 444.3117370605469,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Technical Standards Setting",
+      "type": "skill",
+      "x_raw": 62.858673095703125,
+      "y_raw": 447.6745910644531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Technical Debt and Management",
+      "type": "skill",
+      "x_raw": 511.90093994140625,
+      "y_raw": 474.8938903808594,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Technical Risk Assessment",
+      "type": "section",
+      "x_raw": 302.5947265625,
+      "y_raw": 476.9444274902344,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Security Best Practices",
+      "type": "skill",
+      "x_raw": 74.0252685546875,
+      "y_raw": 478.4676818847656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Code Review Best Practices",
+      "type": "skill",
+      "x_raw": 523.1612548828125,
+      "y_raw": 506.2962951660156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Scaling Infrastructure",
+      "type": "section",
+      "x_raw": 315.6595458984375,
+      "y_raw": 508.9560852050781,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "Incident Management",
+      "type": "skill",
+      "x_raw": 76.40390014648438,
+      "y_raw": 510.4793395996094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Technical Documentation",
+      "type": "skill",
+      "x_raw": 530.402587890625,
+      "y_raw": 538.9290161132812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Legacy System Retirement",
+      "type": "section",
+      "x_raw": 303.36810302734375,
+      "y_raw": 542.2098388671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "People Management",
+      "type": "skill",
+      "x_raw": 58.452972412109375,
+      "y_raw": 582.929443359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Leadership Skills",
+      "type": "section",
+      "x_raw": 331.3255615234375,
+      "y_raw": 616.4271850585938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Team Development Delegation",
+      "type": "skill",
+      "x_raw": 83.17648315429688,
+      "y_raw": 648.1459350585938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Communication",
+      "type": "skill",
+      "x_raw": 558.6764526367188,
+      "y_raw": 659.8633422851562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Conflict Resolution",
+      "type": "section",
+      "x_raw": 325.4083251953125,
+      "y_raw": 680.7786254882812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "One-on-One Meetings",
+      "type": "skill",
+      "x_raw": 541.0418701171875,
+      "y_raw": 684.8093872070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Hiring and Recruitment",
+      "type": "skill",
+      "x_raw": 73.041015625,
+      "y_raw": 686.7896118164062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Feedback Delivery",
+      "type": "section",
+      "x_raw": 326.333984375,
+      "y_raw": 713.4113159179688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "Team Meetings",
+      "type": "skill",
+      "x_raw": 557.891357421875,
+      "y_raw": 717.4420776367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Team Structure and Design",
+      "type": "skill",
+      "x_raw": 63.79608154296875,
+      "y_raw": 719.4223022460938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Team Motivation",
+      "type": "section",
+      "x_raw": 331.4896240234375,
+      "y_raw": 746.0440063476562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "Status Reporting",
+      "type": "skill",
+      "x_raw": 554.6925659179688,
+      "y_raw": 750.0747680664062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Performance Evaluations",
+      "type": "skill",
+      "x_raw": 68.99856567382812,
+      "y_raw": 752.0549926757812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Trust / Influence Building",
+      "type": "skill",
+      "x_raw": 310.33990478515625,
+      "y_raw": 778.6768188476562,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "Stakeholder Management",
+      "type": "skill",
+      "x_raw": 533.2381591796875,
+      "y_raw": 781.4772338867188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Career Development Planning",
+      "type": "skill",
+      "x_raw": 56.77740478515625,
+      "y_raw": 784.6876831054688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Emotional Intelligence",
+      "type": "section",
+      "x_raw": 317.3936767578125,
+      "y_raw": 812.2468872070312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Cross-functional Collaboration",
+      "type": "skill",
+      "x_raw": 522.9972534179688,
+      "y_raw": 812.8795776367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Mentoring and Coaching",
+      "type": "skill",
+      "x_raw": 69.70159912109375,
+      "y_raw": 817.3203735351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Execution",
+      "type": "skill",
+      "x_raw": 120.05084228515625,
+      "y_raw": 891.9830932617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Project Planning",
+      "type": "section",
+      "x_raw": 333.68072509765625,
+      "y_raw": 893.4360961914062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_51",
+      "label": "Agile methodologies",
+      "type": "skill",
+      "x_raw": 94.64773559570312,
+      "y_raw": 922.6004028320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Resource Allocation",
+      "type": "section",
+      "x_raw": 323.90850830078125,
+      "y_raw": 926.4671020507812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Project Tracking",
+      "type": "skill",
+      "x_raw": 104.41995239257812,
+      "y_raw": 955.5377807617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Sprint Planning",
+      "type": "section",
+      "x_raw": 335.4852294921875,
+      "y_raw": 959.0997924804688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_55",
+      "label": "Project Management",
+      "type": "skill",
+      "x_raw": 523.7471313476562,
+      "y_raw": 973.3148803710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Milestone Management",
+      "type": "skill",
+      "x_raw": 86.46905517578125,
+      "y_raw": 988.1704711914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Release Management",
+      "type": "section",
+      "x_raw": 318.6240234375,
+      "y_raw": 991.7324829101562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_58",
+      "label": "Scope Management",
+      "type": "skill",
+      "x_raw": 94.55398559570312,
+      "y_raw": 1020.4984741210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Risk Management",
+      "type": "section",
+      "x_raw": 328.232177734375,
+      "y_raw": 1024.3651123046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_60",
+      "label": "Timeline Estimation",
+      "type": "skill",
+      "x_raw": 96.17098999023438,
+      "y_raw": 1053.131103515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Dependency management",
+      "type": "section",
+      "x_raw": 308.769775390625,
+      "y_raw": 1056.997802734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Strategic Thinking",
+      "type": "skill",
+      "x_raw": 560.8792724609375,
+      "y_raw": 1077.163330078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Product strategy alignment",
+      "type": "skill",
+      "x_raw": 539.0264892578125,
+      "y_raw": 1110.4638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Measurement",
+      "type": "skill",
+      "x_raw": 111.12225341796875,
+      "y_raw": 1141.1983642578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Business Case Development",
+      "type": "skill",
+      "x_raw": 533.9177856445312,
+      "y_raw": 1143.0965576171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Business Acumen",
+      "type": "section",
+      "x_raw": 305.6881103515625,
+      "y_raw": 1157.0186767578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "KPI Definition",
+      "type": "skill",
+      "x_raw": 110.94650268554688,
+      "y_raw": 1174.1474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "ROI analysis",
+      "type": "skill",
+      "x_raw": 572.5965576171875,
+      "y_raw": 1175.729248046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Velocity Tracking",
+      "type": "skill",
+      "x_raw": 104.05673217773438,
+      "y_raw": 1206.7801513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Market awareness",
+      "type": "skill",
+      "x_raw": 558.6647338867188,
+      "y_raw": 1208.3619384765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Quality Metrics",
+      "type": "skill",
+      "x_raw": 108.05233764648438,
+      "y_raw": 1239.412841796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Competitive Analysis",
+      "type": "skill",
+      "x_raw": 553.4973754882812,
+      "y_raw": 1240.99462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Budget Planning",
+      "type": "section",
+      "x_raw": 330.14215087890625,
+      "y_raw": 1264.49951171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_74",
+      "label": "Team Health Metrics",
+      "type": "skill",
+      "x_raw": 94.07357788085938,
+      "y_raw": 1272.0455322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Resource forecasting",
+      "type": "section",
+      "x_raw": 318.4833984375,
+      "y_raw": 1297.7415771484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_76",
+      "label": "Project Postmortems",
+      "type": "skill",
+      "x_raw": 93.9915771484375,
+      "y_raw": 1304.68994140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Company Culture",
+      "type": "skill",
+      "x_raw": 561.6174926757812,
+      "y_raw": 1327.5035400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Cost Optimization",
+      "type": "section",
+      "x_raw": 327.4822998046875,
+      "y_raw": 1330.327392578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Change management",
+      "type": "skill",
+      "x_raw": 550.7555541992188,
+      "y_raw": 1360.13623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Vendor Management",
+      "type": "section",
+      "x_raw": 319.6199951171875,
+      "y_raw": 1363.5693359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Culture Building",
+      "type": "skill",
+      "x_raw": 81.52435302734375,
+      "y_raw": 1371.52734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Organization structure",
+      "type": "skill",
+      "x_raw": 549.5369262695312,
+      "y_raw": 1392.7689208984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Financial Management",
+      "type": "section",
+      "x_raw": 315.99932861328125,
+      "y_raw": 1395.3232421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_84",
+      "label": "Politics navigation",
+      "type": "skill",
+      "x_raw": 559.6958618164062,
+      "y_raw": 1425.401611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Team Culture",
+      "type": "skill",
+      "x_raw": 104.11532592773438,
+      "y_raw": 1452.749755859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Cross-department collaboration",
+      "type": "skill",
+      "x_raw": 527.1099853515625,
+      "y_raw": 1458.0343017578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Organizational Awareness",
+      "type": "skill",
+      "x_raw": 541.7918090820312,
+      "y_raw": 1488.499267578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Defining and Enforcing Values",
+      "type": "skill",
+      "x_raw": 63.74920654296875,
+      "y_raw": 1488.768798828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Engineering Culture",
+      "type": "section",
+      "x_raw": 327.3885498046875,
+      "y_raw": 1502.8177490234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_90",
+      "label": "Inclusive environment creation",
+      "type": "skill",
+      "x_raw": 62.2962646484375,
+      "y_raw": 1522.6317138671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Innovation fostering",
+      "type": "section",
+      "x_raw": 327.11907958984375,
+      "y_raw": 1533.4234619140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "Team Traditions and Rituals",
+      "type": "skill",
+      "x_raw": 69.33834838867188,
+      "y_raw": 1556.4947509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Learning culture development",
+      "type": "section",
+      "x_raw": 303.16888427734375,
+      "y_raw": 1566.05615234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_94",
+      "label": "Crisis Management",
+      "type": "skill",
+      "x_raw": 538.7335815429688,
+      "y_raw": 1570.5457763671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Recognition programs",
+      "type": "skill",
+      "x_raw": 82.19223022460938,
+      "y_raw": 1590.3577880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "Knowledge sharing practices",
+      "type": "section",
+      "x_raw": 305.5240478515625,
+      "y_raw": 1598.6888427734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "Social connections",
+      "type": "skill",
+      "x_raw": 90.0311279296875,
+      "y_raw": 1624.2208251953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Technical excellence mindset",
+      "type": "section",
+      "x_raw": 304.36407470703125,
+      "y_raw": 1631.321533203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_99",
+      "label": "Blameless Post-mortems Bias Recognition / Mitigation",
+      "type": "skill",
+      "x_raw": 65.81143188476562,
+      "y_raw": 1658.0838623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Risk Mitigation",
+      "type": "section",
+      "x_raw": 341.87115478515625,
+      "y_raw": 1738.4761962890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_101",
+      "label": "Incident Response",
+      "type": "skill",
+      "x_raw": 560.3871459960938,
+      "y_raw": 1740.5150146484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Team Support",
+      "type": "skill",
+      "x_raw": 101.13912963867188,
+      "y_raw": 1743.8427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "Emergency protocols",
+      "type": "skill",
+      "x_raw": 554.4230346679688,
+      "y_raw": 1772.3626708984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Contingency planning",
+      "type": "section",
+      "x_raw": 324.83416748046875,
+      "y_raw": 1773.393798828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_105",
+      "label": "Contingency planning",
+      "type": "skill",
+      "x_raw": 82.26254272460938,
+      "y_raw": 1778.0924072265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "War Room Management",
+      "type": "skill",
+      "x_raw": 546.4669799804688,
+      "y_raw": 1804.995361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Disaster recovery",
+      "type": "section",
+      "x_raw": 334.07916259765625,
+      "y_raw": 1806.0264892578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_108",
+      "label": "Disaster recovery",
+      "type": "skill",
+      "x_raw": 91.50750732421875,
+      "y_raw": 1810.72509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Stakeholder Communication",
+      "type": "skill",
+      "x_raw": 537.5501098632812,
+      "y_raw": 1837.6280517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Business continuity",
+      "type": "section",
+      "x_raw": 330.21240234375,
+      "y_raw": 1838.6591796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Business continuity",
+      "type": "skill",
+      "x_raw": 87.64077758789062,
+      "y_raw": 1843.3577880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Service Recovery",
+      "type": "skill",
+      "x_raw": 562.4611206054688,
+      "y_raw": 1870.2607421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Security incident handling",
+      "type": "section",
+      "x_raw": 315.20257568359375,
+      "y_raw": 1871.2918701171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_114",
+      "label": "Security incident handling",
+      "type": "skill",
+      "x_raw": 72.63092041015625,
+      "y_raw": 1875.990478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Post-incident analysis",
+      "type": "skill",
+      "x_raw": 552.8880615234375,
+      "y_raw": 1902.8934326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Production issues management",
+      "type": "section",
+      "x_raw": 301.09490966796875,
+      "y_raw": 1903.924560546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Production issues management",
+      "type": "skill",
+      "x_raw": 58.523284912109375,
+      "y_raw": 1908.6231689453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Partner Management",
+      "type": "section",
+      "x_raw": 327.98614501953125,
+      "y_raw": 1976.7828369140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "Stakeholder Management",
+      "type": "skill",
+      "x_raw": 46.80596923828125,
+      "y_raw": 1978.5072021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "Customer Relations",
+      "type": "skill",
+      "x_raw": 556.2860717773438,
+      "y_raw": 1979.348876953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Vendor relationships",
+      "type": "section",
+      "x_raw": 329.09930419921875,
+      "y_raw": 2012.3682861328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_122",
+      "label": "Customer feedback integration",
+      "type": "skill",
+      "x_raw": 529.0667724609375,
+      "y_raw": 2014.934326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Technology partnerships",
+      "type": "section",
+      "x_raw": 319.6434326171875,
+      "y_raw": 2045.0010986328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_124",
+      "label": "Technical customer support",
+      "type": "skill",
+      "x_raw": 536.6596069335938,
+      "y_raw": 2047.5670166015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Documentation",
+      "type": "skill",
+      "x_raw": 86.60964965820312,
+      "y_raw": 2068.002197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Integration management",
+      "type": "section",
+      "x_raw": 318.84661865234375,
+      "y_raw": 2077.6337890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_127",
+      "label": "Customer success alignment",
+      "type": "skill",
+      "x_raw": 533.6248168945312,
+      "y_raw": 2080.199951171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "Architecture documentation",
+      "type": "skill",
+      "x_raw": 64.95608520507812,
+      "y_raw": 2099.849853515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "API strategy",
+      "type": "section",
+      "x_raw": 348.198486328125,
+      "y_raw": 2110.2666015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_130",
+      "label": "Feature prioritization",
+      "type": "skill",
+      "x_raw": 553.1927490234375,
+      "y_raw": 2112.83251953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_131",
+      "label": "Process documentation",
+      "type": "skill",
+      "x_raw": 74.49395751953125,
+      "y_raw": 2132.482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_132",
+      "label": "External collaboration",
+      "type": "section",
+      "x_raw": 325.03338623046875,
+      "y_raw": 2142.899169921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_133",
+      "label": "Technical partnerships",
+      "type": "skill",
+      "x_raw": 548.4823608398438,
+      "y_raw": 2145.46533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Decision records",
+      "type": "skill",
+      "x_raw": 90.31231689453125,
+      "y_raw": 2165.115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_135",
+      "label": "Best Practices",
+      "type": "skill",
+      "x_raw": 95.9132080078125,
+      "y_raw": 2197.747802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_136",
+      "label": "Knowledge Management",
+      "type": "section",
+      "x_raw": 275.02392578125,
+      "y_raw": 2224.992431640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_137",
+      "label": "Executive Communication",
+      "type": "skill",
+      "x_raw": 542.131591796875,
+      "y_raw": 2226.666259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_138",
+      "label": "Lessons Learned",
+      "type": "skill",
+      "x_raw": 89.42181396484375,
+      "y_raw": 2230.380615234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_139",
+      "label": "Board presentations",
+      "type": "skill",
+      "x_raw": 554.036376953125,
+      "y_raw": 2260.904052734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_140",
+      "label": "Executive summaries",
+      "type": "skill",
+      "x_raw": 552.09130859375,
+      "y_raw": 2293.536865234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_141",
+      "label": "Knowledge Transfer Change Management",
+      "type": "skill",
+      "x_raw": 88.32040405273438,
+      "y_raw": 2310.30419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_142",
+      "label": "Strategic proposals",
+      "type": "skill",
+      "x_raw": 556.4501342773438,
+      "y_raw": 2326.16943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_143",
+      "label": "Mentoring Programs",
+      "type": "skill",
+      "x_raw": 83.72720336914062,
+      "y_raw": 2342.15185546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "Budget requests",
+      "type": "skill",
+      "x_raw": 562.7774658203125,
+      "y_raw": 2358.80224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "Knowledge bases",
+      "type": "skill",
+      "x_raw": 90.31231689453125,
+      "y_raw": 2374.78466796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_146",
+      "label": "Vision alignment",
+      "type": "skill",
+      "x_raw": 563.2578735351562,
+      "y_raw": 2391.434814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_147",
+      "label": "Technical Change",
+      "type": "section",
+      "x_raw": 319.20989990234375,
+      "y_raw": 2391.704345703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_148",
+      "label": "Tech Talks",
+      "type": "skill",
+      "x_raw": 107.53677368164062,
+      "y_raw": 2407.417236328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_149",
+      "label": "Migration planning",
+      "type": "section",
+      "x_raw": 314.14801025390625,
+      "y_raw": 2421.94677734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_150",
+      "label": "Brown Bags",
+      "type": "skill",
+      "x_raw": 103.7052001953125,
+      "y_raw": 2440.050048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_151",
+      "label": "Organizational Change",
+      "type": "skill",
+      "x_raw": 548.9041748046875,
+      "y_raw": 2453.27880859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_152",
+      "label": "Legacy system retirement",
+      "type": "section",
+      "x_raw": 297.33367919921875,
+      "y_raw": 2454.579345703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_153",
+      "label": "Change strategy",
+      "type": "skill",
+      "x_raw": 563.1173095703125,
+      "y_raw": 2482.900146484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_154",
+      "label": "Technology adoption",
+      "type": "section",
+      "x_raw": 309.5196533203125,
+      "y_raw": 2487.212158203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_155",
+      "label": "Team Change",
+      "type": "skill",
+      "x_raw": 101.13912963867188,
+      "y_raw": 2502.913330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_156",
+      "label": "Impact assessment",
+      "type": "skill",
+      "x_raw": 556.0166015625,
+      "y_raw": 2514.911865234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_157",
+      "label": "Tool transitions",
+      "type": "section",
+      "x_raw": 322.45556640625,
+      "y_raw": 2519.8447265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_158",
+      "label": "Reorganizations",
+      "type": "skill",
+      "x_raw": 94.67117309570312,
+      "y_raw": 2532.51123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_159",
+      "label": "Stakeholder management",
+      "type": "skill",
+      "x_raw": 541.2059326171875,
+      "y_raw": 2546.935302734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_160",
+      "label": "Process changes",
+      "type": "section",
+      "x_raw": 317.19451904296875,
+      "y_raw": 2552.4775390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_161",
+      "label": "Team mergers",
+      "type": "skill",
+      "x_raw": 98.936279296875,
+      "y_raw": 2564.53466796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_162",
+      "label": "Communication planning",
+      "type": "skill",
+      "x_raw": 543.6314086914062,
+      "y_raw": 2578.947021484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_163",
+      "label": "Role transitions",
+      "type": "skill",
+      "x_raw": 96.35845947265625,
+      "y_raw": 2596.54638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_164",
+      "label": "Resistance management",
+      "type": "skill",
+      "x_raw": 542.8698120117188,
+      "y_raw": 2610.97021484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_165",
+      "label": "Responsibility shifts",
+      "type": "skill",
+      "x_raw": 86.855712890625,
+      "y_raw": 2628.557861328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_166",
+      "label": "Culture evolution",
+      "type": "skill",
+      "x_raw": 93.28851318359375,
+      "y_raw": 2660.581298828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_167",
+      "label": "Visit the following relevant tracks about system design and architecture",
+      "type": "skill",
+      "x_raw": 266.99755859375,
+      "y_raw": 2747.910400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_168",
+      "label": "Software Architect System Design",
+      "type": "skill",
+      "x_raw": 251.26123046875,
+      "y_raw": 2779.406494140625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_169",
+      "label": "Software Design & Architecture",
+      "type": "skill",
+      "x_raw": 484.681640625,
+      "y_raw": 2779.406494140625,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_50",
+      "type": "trunk"
+    },
+    {
+      "source": "node_50",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_50",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "trunk"
+    },
+    {
+      "source": "node_54",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_57",
+      "type": "trunk"
+    },
+    {
+      "source": "node_57",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_59",
+      "type": "trunk"
+    },
+    {
+      "source": "node_59",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_66",
+      "type": "trunk"
+    },
+    {
+      "source": "node_66",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_73",
+      "type": "trunk"
+    },
+    {
+      "source": "node_73",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_75",
+      "type": "trunk"
+    },
+    {
+      "source": "node_75",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "trunk"
+    },
+    {
+      "source": "node_83",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_89",
+      "type": "trunk"
+    },
+    {
+      "source": "node_89",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_93",
+      "type": "trunk"
+    },
+    {
+      "source": "node_93",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_96",
+      "type": "trunk"
+    },
+    {
+      "source": "node_96",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_98",
+      "type": "trunk"
+    },
+    {
+      "source": "node_98",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_100",
+      "type": "trunk"
+    },
+    {
+      "source": "node_100",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_104",
+      "type": "trunk"
+    },
+    {
+      "source": "node_104",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_104",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_104",
+      "target": "node_107",
+      "type": "trunk"
+    },
+    {
+      "source": "node_107",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_113",
+      "type": "trunk"
+    },
+    {
+      "source": "node_113",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "trunk"
+    },
+    {
+      "source": "node_118",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_121",
+      "type": "trunk"
+    },
+    {
+      "source": "node_121",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_123",
+      "type": "trunk"
+    },
+    {
+      "source": "node_123",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_123",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_123",
+      "target": "node_126",
+      "type": "trunk"
+    },
+    {
+      "source": "node_126",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_129",
+      "type": "trunk"
+    },
+    {
+      "source": "node_129",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_129",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_129",
+      "target": "node_132",
+      "type": "trunk"
+    },
+    {
+      "source": "node_132",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_136",
+      "type": "trunk"
+    },
+    {
+      "source": "node_136",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_141",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_147",
+      "type": "trunk"
+    },
+    {
+      "source": "node_147",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_147",
+      "target": "node_149",
+      "type": "trunk"
+    },
+    {
+      "source": "node_149",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_152",
+      "type": "trunk"
+    },
+    {
+      "source": "node_152",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_152",
+      "target": "node_154",
+      "type": "trunk"
+    },
+    {
+      "source": "node_154",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_154",
+      "target": "node_156",
+      "type": "branch"
+    },
+    {
+      "source": "node_154",
+      "target": "node_157",
+      "type": "trunk"
+    },
+    {
+      "source": "node_157",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_157",
+      "target": "node_159",
+      "type": "branch"
+    },
+    {
+      "source": "node_157",
+      "target": "node_160",
+      "type": "trunk"
+    },
+    {
+      "source": "node_160",
+      "target": "node_161",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_162",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_163",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_164",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_165",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_166",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_167",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_168",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_169",
+      "type": "branch"
+    }
+  ]
+}

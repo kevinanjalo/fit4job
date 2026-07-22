@@ -1,0 +1,1023 @@
+{
+  "topic": "Kubernetes",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Kubernetes",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 518.7366333007812,
+      "y_raw": 54.617286682128906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 522.3225708007812,
+      "y_raw": 70.2383804321289,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Docker Roadmap",
+      "type": "skill",
+      "x_raw": 55.41241455078125,
+      "y_raw": 88.14673614501953,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 55.41241455078125,
+      "y_raw": 106.53345489501953,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Kubernetes",
+      "type": "section",
+      "x_raw": 317.06866455078125,
+      "y_raw": 111.3633041381836,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 55.41241455078125,
+      "y_raw": 124.90845489501953,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "System Design Roadmap",
+      "type": "skill",
+      "x_raw": 55.41241455078125,
+      "y_raw": 143.271728515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Overview of Kubernetes",
+      "type": "skill",
+      "x_raw": 541.5296020507812,
+      "y_raw": 168.98056030273438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Why use Kubernetes?",
+      "type": "skill",
+      "x_raw": 547.0960083007812,
+      "y_raw": 201.45321655273438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 333.75616455078125,
+      "y_raw": 211.25009155273438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Key Concepts and Terminologies",
+      "type": "skill",
+      "x_raw": 521.0452270507812,
+      "y_raw": 233.91415405273438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Containers",
+      "type": "section",
+      "x_raw": 336.21710205078125,
+      "y_raw": 243.71102905273438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Deploying your First Application",
+      "type": "skill",
+      "x_raw": 52.38897705078125,
+      "y_raw": 244.94149780273438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Kubernetes Alternatives",
+      "type": "skill",
+      "x_raw": 541.6702270507812,
+      "y_raw": 266.3751220703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Setting up Kubernetes",
+      "type": "section",
+      "x_raw": 309.40460205078125,
+      "y_raw": 276.1837158203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_15",
+      "label": "Choosing a Managed Provider",
+      "type": "skill",
+      "x_raw": 54.73272705078125,
+      "y_raw": 277.4024658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Installing a Local Cluster",
+      "type": "skill",
+      "x_raw": 68.38507080078125,
+      "y_raw": 309.8751220703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Pods ReplicaSets",
+      "type": "skill",
+      "x_raw": 539.9944458007812,
+      "y_raw": 342.0313720703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Running Applications",
+      "type": "section",
+      "x_raw": 312.36944580078125,
+      "y_raw": 373.8829345703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Deployments StatefulSets",
+      "type": "skill",
+      "x_raw": 520.8342895507812,
+      "y_raw": 374.4923095703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Injecting Pod Config with ConfigMaps",
+      "type": "skill",
+      "x_raw": 38.20928955078125,
+      "y_raw": 378.1719970703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Jobs",
+      "type": "skill",
+      "x_raw": 586.0842895507812,
+      "y_raw": 407.5743408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Using Secrets for Sensitive Data",
+      "type": "skill",
+      "x_raw": 50.63116455078125,
+      "y_raw": 410.6329345703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Services and Networking",
+      "type": "section",
+      "x_raw": 303.46319580078125,
+      "y_raw": 466.3790283203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Configuration Management",
+      "type": "skill",
+      "x_raw": 61.72882080078125,
+      "y_raw": 466.3790283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Role Based Access Control (RBAC)",
+      "type": "skill",
+      "x_raw": 520.8694458007812,
+      "y_raw": 484.1446533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Network Security",
+      "type": "skill",
+      "x_raw": 564.5569458007812,
+      "y_raw": 516.6173095703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "External Access to Services",
+      "type": "skill",
+      "x_raw": 296.53741455078125,
+      "y_raw": 517.8360595703125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "Container and Pod Security",
+      "type": "skill",
+      "x_raw": 540.1233520507812,
+      "y_raw": 549.0782470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Load Balancing",
+      "type": "section",
+      "x_raw": 325.11944580078125,
+      "y_raw": 550.3087158203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Container and Pod Security",
+      "type": "skill",
+      "x_raw": 540.1233520507812,
+      "y_raw": 581.5391845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Networking & Pod-to-Pod Communication",
+      "type": "skill",
+      "x_raw": 264.39288330078125,
+      "y_raw": 582.7696533203125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Resource Management",
+      "type": "skill",
+      "x_raw": 70.56475830078125,
+      "y_raw": 644.0235595703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Security",
+      "type": "skill",
+      "x_raw": 585.2991333007812,
+      "y_raw": 644.0235595703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Setting Resource Requests and Limits",
+      "type": "skill",
+      "x_raw": 46.17803955078125,
+      "y_raw": 704.0587158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Logs Metrics Traces",
+      "type": "section",
+      "x_raw": 314.18585205078125,
+      "y_raw": 704.3634033203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Assigning Quotas to Namespaces",
+      "type": "skill",
+      "x_raw": 57.26397705078125,
+      "y_raw": 736.5196533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Monitoring and Logging",
+      "type": "skill",
+      "x_raw": 548.4671020507812,
+      "y_raw": 736.8243408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Resource Health",
+      "type": "section",
+      "x_raw": 344.02178955078125,
+      "y_raw": 736.8243408203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "Observability Engines",
+      "type": "section",
+      "x_raw": 333.19366455078125,
+      "y_raw": 769.2969970703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Monitoring & Optimizing Resource Usage",
+      "type": "skill",
+      "x_raw": 39.17022705078125,
+      "y_raw": 769.6016845703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Autoscaling",
+      "type": "skill",
+      "x_raw": 577.1194458007812,
+      "y_raw": 831.7813720703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Scheduling",
+      "type": "section",
+      "x_raw": 365.31475830078125,
+      "y_raw": 831.7813720703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_43",
+      "label": "Storage and Volumes",
+      "type": "skill",
+      "x_raw": 122.93585205078125,
+      "y_raw": 831.7813720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "CSI Drivers",
+      "type": "skill",
+      "x_raw": 79.07257080078125,
+      "y_raw": 884.1524658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Horizontal Pod Autoscaler (HPA)",
+      "type": "skill",
+      "x_raw": 528.5803833007812,
+      "y_raw": 887.2110595703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Basics",
+      "type": "section",
+      "x_raw": 375.74444580078125,
+      "y_raw": 888.1368408203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Stateful Applications",
+      "type": "skill",
+      "x_raw": 57.79132080078125,
+      "y_raw": 916.6134033203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Vertical Pod Autoscaler (VPA)",
+      "type": "skill",
+      "x_raw": 535.4710083007812,
+      "y_raw": 919.6837158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Taints and Tolerations",
+      "type": "section",
+      "x_raw": 340.27178955078125,
+      "y_raw": 920.5977783203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "Cluster Autoscaling",
+      "type": "skill",
+      "x_raw": 558.8616333007812,
+      "y_raw": 952.1446533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Topology Spread Constraints",
+      "type": "section",
+      "x_raw": 324.31085205078125,
+      "y_raw": 953.0587158203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Pod Priorities Evictions",
+      "type": "section",
+      "x_raw": 321.80303955078125,
+      "y_raw": 985.5313720703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Deployment Patterns",
+      "type": "skill",
+      "x_raw": 123.51007080078125,
+      "y_raw": 985.5313720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Should you manage your own Cluster?",
+      "type": "skill",
+      "x_raw": 485.71319580078125,
+      "y_raw": 1038.6171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Creating Custom Controllers",
+      "type": "section",
+      "x_raw": 294.07647705078125,
+      "y_raw": 1039.4375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "CI / CD Integration",
+      "type": "skill",
+      "x_raw": 60.65069580078125,
+      "y_raw": 1040.3515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Installing the Control Plane",
+      "type": "skill",
+      "x_raw": 511.11944580078125,
+      "y_raw": 1071.08984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Custom Schedulers and Extenders",
+      "type": "skill",
+      "x_raw": 279.53350830078125,
+      "y_raw": 1071.8984375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "GitOps",
+      "type": "skill",
+      "x_raw": 89.36163330078125,
+      "y_raw": 1072.82421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Adding and Managing Worker Nodes",
+      "type": "skill",
+      "x_raw": 488.26788330078125,
+      "y_raw": 1103.55078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Custom Resource Definitions (CRDs)",
+      "type": "skill",
+      "x_raw": 273.29913330078125,
+      "y_raw": 1104.37109375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Helm Charts",
+      "type": "skill",
+      "x_raw": 76.23663330078125,
+      "y_raw": 1105.28515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Multi-Cluster Management",
+      "type": "skill",
+      "x_raw": 510.75616455078125,
+      "y_raw": 1136.01171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Kubernetes Extensions and APIs",
+      "type": "skill",
+      "x_raw": 284.17413330078125,
+      "y_raw": 1137.44140625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_65",
+      "label": "Canary Deployments",
+      "type": "skill",
+      "x_raw": 56.95928955078125,
+      "y_raw": 1137.7578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Blue-Green Deployments",
+      "type": "skill",
+      "x_raw": 46.08428955078125,
+      "y_raw": 1170.21875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Cluster Operations",
+      "type": "skill",
+      "x_raw": 479.30303955078125,
+      "y_raw": 1175.80859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Rolling Updates / Rollbacks",
+      "type": "skill",
+      "x_raw": 40.21319580078125,
+      "y_raw": 1202.6796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Advanced Topics",
+      "type": "section",
+      "x_raw": 321.28741455078125,
+      "y_raw": 1231.47265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Continue learning with following roadmaps",
+      "type": "skill",
+      "x_raw": 254.08038330078125,
+      "y_raw": 1303.5078125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "DevOps Backend Docker",
+      "type": "section",
+      "x_raw": 240.18194580078125,
+      "y_raw": 1334.84375,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "trunk"
+    },
+    {
+      "source": "node_14",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_42",
+      "type": "trunk"
+    },
+    {
+      "source": "node_42",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_42",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_42",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_42",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_69",
+      "type": "trunk"
+    },
+    {
+      "source": "node_69",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_71",
+      "type": "trunk"
+    }
+  ]
+}

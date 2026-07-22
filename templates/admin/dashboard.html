@@ -1,0 +1,441 @@
+{% extends "base.html" %}
+{% block title %}Admin{% endblock %}
+{% block content %}
+<section class="section"><div class="container">
+  <h2>Admin dashboard</h2>
+  <p class="sub">Sign in with an administrator account to use these tools. Every action is recorded in the audit log.</p>
+  <div class="stats" id="stat-tiles"></div>
+  <div class="tabs">
+    <button class="tab active" data-panel="a-jobs">Jobs</button>
+    <button class="tab" data-panel="a-apps">Applications</button>
+    <button class="tab" data-panel="a-users">Users</button>
+    <button class="tab" data-panel="a-analytics">Analytics</button>
+    <button class="tab" data-panel="a-system">System</button>
+    <button class="tab" data-panel="a-logs">Logs</button>
+    <button class="tab" data-panel="a-tax">Taxonomy</button>
+    <button class="tab" data-panel="a-roadmaps">Roadmaps</button>
+    <button class="tab" data-panel="a-rag">RAG / AI pipeline</button>
+    <button class="tab" data-panel="a-config">Configuration</button>
+    <button class="tab" data-panel="a-backup">Backups</button>
+  </div>
+  <div id="admin-msg" aria-live="polite"></div>
+
+  <div id="a-jobs" class="panel active">
+    <div class="card">
+      <h3 class="section-title">Create or edit a job</h3>
+      <input type="hidden" id="j-id">
+      <div class="grid-2">
+        <div class="field"><label>Title</label><input id="j-title"></div>
+        <div class="field"><label>Company</label><input id="j-company"></div>
+        <div class="field"><label>Location</label><input id="j-location"></div>
+        <div class="field"><label>Level</label><select id="j-level"><option>Intern</option><option>Junior</option><option selected>Mid</option><option>Senior</option><option>Lead</option></select></div>
+        <div class="field"><label>Type</label><select id="j-type"><option>Full-time</option><option>Contract</option><option>Internship</option></select></div>
+        <div class="field"><label>Salary range</label><input id="j-salary"></div>
+      </div>
+      <div class="field"><label>Skills (semicolon separated)</label><input id="j-skills"></div>
+      <div class="field"><label>Description</label><textarea id="j-desc"></textarea></div>
+      <button class="btn btn-primary btn-sm" onclick="saveJob()">Save job</button>
+      <button class="btn btn-ghost btn-sm" onclick="clearJobForm()">Clear</button>
+    </div>
+    <div class="card">
+      <h3 class="section-title">Job catalogue</h3>
+      <div class="field"><input id="j-filter" placeholder="Filter jobs by title, company or ID" oninput="renderJobs()"></div>
+      <div style="overflow:auto;max-height:480px"><table id="jobs-table"><thead><tr><th>ID</th><th>Title</th><th>Company</th><th>Level</th><th></th></tr></thead><tbody></tbody></table></div>
+    </div>
+  </div>
+
+  <div id="a-apps" class="panel">
+    <div class="card">
+      <h3 class="section-title">Job applications</h3>
+      <p class="meta">Applications submitted by users, newest first. Download the attached CV and update the status; applicants see status changes in their profile.</p>
+      <div class="field"><input id="app-filter" placeholder="Filter by applicant, job or company" oninput="renderApps()"></div>
+      <div style="overflow:auto"><table><thead><tr><th>Applicant</th><th>Job</th><th>Company</th><th>Applied</th><th>CV</th><th>Note</th><th>Status</th></tr></thead>
+      <tbody id="apps-rows"></tbody></table></div>
+    </div>
+  </div>
+
+  <div id="a-users" class="panel">
+    <div class="card">
+      <h3 class="section-title">User management</h3>
+      <p class="meta">Role-based access control: promote users to administrators or deactivate accounts. Deactivated users cannot sign in.</p>
+      <div style="overflow:auto"><table id="users-table"><thead><tr><th>Name</th><th>Email</th><th>Role</th><th>Status</th><th>Created</th><th></th></tr></thead><tbody></tbody></table></div>
+    </div>
+  </div>
+
+  <div id="a-analytics" class="panel">
+    <div class="card"><h3 class="section-title">Usage analytics</h3>
+      <div class="stats" id="analytics-tiles"></div>
+      <div class="grid-2">
+        <div><h3>Jobs by level</h3><div id="chart-levels"></div></div>
+        <div><h3>Feature usage this session</h3><div id="chart-events"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="a-system" class="panel">
+    <div class="card"><h3 class="section-title">System monitoring</h3>
+      <div class="stats" id="system-tiles"></div>
+      <button class="btn btn-ghost btn-sm" onclick="loadSystem()">Refresh</button>
+    </div>
+  </div>
+
+  <div id="a-logs" class="panel">
+    <div class="card"><h3 class="section-title">Audit log</h3>
+      <button class="btn btn-ghost btn-sm" onclick="loadLogs()">Refresh</button>
+      <div style="overflow:auto;margin-top:12px"><table><thead><tr><th>Time</th><th>Actor</th><th>Action</th><th>Detail</th></tr></thead><tbody id="audit-rows"></tbody></table></div>
+    </div>
+    <div class="card"><h3 class="section-title">Application log (last 80 lines)</h3>
+      <pre class="log" id="applog-out"></pre>
+    </div>
+  </div>
+
+  <div id="a-tax" class="panel">
+    <div class="card">
+      <h3 class="section-title">Skill taxonomy</h3>
+      <p class="meta">Hierarchical relationships with overlapping branches. A skill can have several parents, imply other skills, and carry aliases used for resume text recognition.</p>
+      <div class="grid-2">
+        <div class="field"><label>Skill name</label><input id="t-name"></div>
+        <div class="field"><label>Aliases (comma separated)</label><input id="t-aliases"></div>
+        <div class="field"><label>Parents (comma separated)</label><input id="t-parents"></div>
+        <div class="field"><label>Children (comma separated)</label><input id="t-children"></div>
+        <div class="field"><label>Implies (comma separated)</label><input id="t-implies"></div>
+        <div class="field"><label>&nbsp;</label><button class="btn btn-primary btn-sm" onclick="saveTax()">Save node</button>
+          <button class="btn btn-ghost btn-sm" onclick="loadTaxNode()">Load into form</button></div>
+      </div>
+      <div class="field"><input id="tax-search" placeholder="Search skills" oninput="renderTax()"></div>
+      <div style="overflow:auto;max-height:420px"><table><thead><tr><th>Skill</th><th>Parents</th><th>Implies</th><th>Aliases</th><th></th></tr></thead><tbody id="tax-rows"></tbody></table></div>
+    </div>
+  </div>
+
+  <div id="a-roadmaps" class="panel">
+    <div class="card">
+      <h3 class="section-title">Roadmap editor</h3>
+      <p class="meta">Edit the JSON of any roadmap. Changes are visible immediately on the public Roadmaps page.</p>
+      <div class="field"><label>Roadmap</label><select id="rm-select" onchange="loadRoadmapJson()"></select></div>
+      <div class="field"><label>Roadmap JSON</label><textarea id="rm-json" style="min-height:300px;font-family:var(--font-mono);font-size:.82rem"></textarea></div>
+      <button class="btn btn-primary btn-sm" onclick="saveRoadmapJson()">Save roadmap</button>
+    </div>
+  </div>
+
+  <div id="a-rag" class="panel">
+    <div class="grid-2">
+      <div class="card"><h3 class="section-title">AI pipeline</h3>
+        <p class="meta">Rebuild the vector index after job or model changes. To retrain, replace the artifacts in models_store/, restart, then rebuild.</p>
+        <button class="btn btn-primary btn-sm" onclick="adminPost('/admin/pipeline/rebuild-index')">Rebuild vector index</button>
+        <button class="btn btn-ghost btn-sm" onclick="adminPost('/admin/maintenance/reload-jobs')">Reload jobs from CSV</button>
+      </div>
+      <div class="card"><h3 class="section-title">Knowledge base documents</h3>
+        <p class="meta" id="kb-docs"></p>
+        <button class="btn btn-ghost btn-sm" onclick="adminPost('/admin/rag/rebuild').then(loadKb)">Re-index knowledge base</button>
+      </div>
+      <div class="card"><h3 class="section-title">Add PDF to knowledge base</h3>
+        <p class="meta">Upload a PDF; its text is extracted, stored and indexed for retrieval.</p>
+        <div class="field"><input type="file" id="kb-pdf" accept=".pdf" aria-label="Knowledge base PDF"></div>
+        <button class="btn btn-primary btn-sm" onclick="uploadKbPdf()">Upload and index PDF</button>
+        <div id="kb-pdf-msg"></div>
+      </div>
+      <div class="card"><h3 class="section-title">Add Markdown document</h3>
+        <div class="field"><label>Document name</label><input id="kb-name" placeholder="e.g. cloud_architecture"></div>
+        <div class="field"><label>Markdown content</label><textarea id="kb-content"></textarea></div>
+        <button class="btn btn-primary btn-sm" onclick="addKbDoc()">Add document</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="a-config" class="panel">
+    <div class="card"><h3 class="section-title">Configuration</h3>
+      <div class="stats" id="config-tiles"></div>
+      <h3>Hybrid scoring weights</h3>
+      <div class="grid-2">
+        <div class="field"><label>Semantic weight</label><input id="w-sem" type="number" step="0.05" min="0" max="1"></div>
+        <div class="field"><label>Skill weight</label><input id="w-skill" type="number" step="0.05" min="0" max="1"></div>
+      </div>
+      <button class="btn btn-primary btn-sm" onclick="saveWeights()">Update weights</button>
+    </div>
+  </div>
+
+  <div id="a-backup" class="panel">
+    <div class="card"><h3 class="section-title">Data backups</h3>
+      <p class="meta">Creates a zip archive of the data directory (jobs, taxonomy, roadmaps, knowledge base) in the backups folder on the server.</p>
+      <button class="btn btn-primary btn-sm" onclick="adminPost('/admin/backups').then(loadBackups)">Create data backup</button>
+      <ul id="backup-list" style="margin-top:14px;list-style:none"></ul>
+    </div>
+  </div>
+</div></section>
+{% endblock %}
+{% block scripts %}
+<script>
+const msg = () => document.getElementById("admin-msg");
+document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
+  document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
+  document.querySelectorAll(".panel").forEach((x) => x.classList.remove("active"));
+  t.classList.add("active"); document.getElementById(t.dataset.panel).classList.add("active");
+}));
+async function adminPost(path, body = {}) {
+  try { const r = await API.post(path, body); notify(msg(), r.detail || "Done."); return r; }
+  catch (e) { notify(msg(), e.message, false); throw e; }
+}
+function tile(value, label) { return el("div", { class: "stat" }, [el("strong", {}, String(value)), el("span", {}, label)]); }
+function bar(label, value, max) {
+  const pct = max ? Math.round((value / max) * 100) : 0;
+  return el("div", { style: "margin-bottom:8px" }, [
+    el("div", { class: "meta" }, label + " (" + value + ")"),
+    el("div", { style: "background:var(--tint);border-radius:6px;height:10px" },
+      [el("div", { style: "background:var(--primary);height:10px;border-radius:6px;width:" + pct + "%" })]),
+  ]);
+}
+
+/* Jobs */
+let allJobs = [];
+async function loadJobsAdmin() { allJobs = await API.get("/jobs"); renderJobs(); topTiles(); }
+function renderJobs() {
+  const f = (document.getElementById("j-filter").value || "").toLowerCase();
+  const tb = document.querySelector("#jobs-table tbody"); tb.innerHTML = "";
+  allJobs.filter((j) => !f || (j.title + j.company + j.job_id).toLowerCase().includes(f)).slice(0, 300).forEach((j) => {
+    tb.append(el("tr", {}, [
+      el("td", {}, j.job_id), el("td", {}, j.title), el("td", {}, j.company), el("td", {}, j.experience_level),
+      el("td", {}, [
+        el("button", { class: "btn btn-ghost btn-sm", onclick: () => editJob(j) }, "Edit"), " ",
+        el("button", { class: "btn btn-danger btn-sm", onclick: () => delJob(j.job_id) }, "Delete"),
+      ]),
+    ]));
+  });
+}
+function editJob(j) {
+  document.getElementById("j-id").value = j.job_id;
+  document.getElementById("j-title").value = j.title;
+  document.getElementById("j-company").value = j.company;
+  document.getElementById("j-location").value = j.location;
+  document.getElementById("j-level").value = j.experience_level;
+  document.getElementById("j-type").value = j.job_type;
+  document.getElementById("j-salary").value = j.salary_range;
+  document.getElementById("j-skills").value = j.skills.join(";");
+  document.getElementById("j-desc").value = j.description;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+function clearJobForm() { document.querySelectorAll("#a-jobs input, #a-jobs textarea").forEach((n) => (n.value = "")); }
+async function saveJob() {
+  const body = {
+    title: document.getElementById("j-title").value, company: document.getElementById("j-company").value,
+    location: document.getElementById("j-location").value, experience_level: document.getElementById("j-level").value,
+    job_type: document.getElementById("j-type").value, salary_range: document.getElementById("j-salary").value,
+    skills: document.getElementById("j-skills").value.split(";").map((s) => s.trim()).filter(Boolean),
+    description: document.getElementById("j-desc").value,
+  };
+  const id = document.getElementById("j-id").value;
+  try {
+    if (id) await API.put("/admin/jobs/" + id, body); else await API.post("/admin/jobs", body);
+    notify(msg(), "Job saved."); clearJobForm(); loadJobsAdmin();
+  } catch (e) { notify(msg(), e.message, false); }
+}
+async function delJob(id) {
+  if (!confirm("Delete job " + id + "?")) return;
+  try { await API.del("/admin/jobs/" + id); loadJobsAdmin(); notify(msg(), "Job deleted."); }
+  catch (e) { notify(msg(), e.message, false); }
+}
+
+/* Applications */
+let allApps = [];
+async function loadApps() {
+  try { allApps = await API.get("/admin/applications"); renderApps(); topTiles(); } catch (e) {}
+}
+function renderApps() {
+  const f = (document.getElementById("app-filter").value || "").toLowerCase();
+  const tb = document.getElementById("apps-rows"); tb.innerHTML = "";
+  const list = allApps.filter((a) => !f || (a.applicant + a.job_title + a.company).toLowerCase().includes(f));
+  if (!list.length) tb.append(el("tr", {}, [el("td", { colspan: "7", class: "meta" }, "No applications yet.")]));
+  list.forEach((a) => {
+    const sel = el("select", { class: "status-select", onchange: (e) =>
+      adminPost("/admin/applications/status", { application_id: a.application_id, status: e.target.value }).then(loadApps) });
+    ["submitted","reviewed","shortlisted","rejected"].forEach((s) =>
+      sel.append(el("option", { value: s, ...(s === a.status ? { selected: "" } : {}) }, s)));
+    tb.append(el("tr", {}, [
+      el("td", {}, a.applicant_name + " (" + a.applicant + ")"),
+      el("td", {}, [el("a", { href: "/jobs/" + a.job_id }, a.job_title)]),
+      el("td", {}, a.company), el("td", {}, a.applied_at),
+      el("td", {}, a.cv_id ? [el("a", { class: "btn btn-ghost btn-sm", href: "/api/v1/profile/cvs/" + a.cv_id + "/download" }, "Download CV")] : el("span", { class: "meta" }, "None")),
+      el("td", {}, a.note || ""), el("td", {}, [sel]),
+    ]));
+  });
+}
+
+/* Users */
+async function loadUsers() {
+  try {
+    const users = await API.get("/admin/users");
+    const tb = document.querySelector("#users-table tbody"); tb.innerHTML = "";
+    users.forEach((u) => tb.append(el("tr", {}, [
+      el("td", {}, u.name), el("td", {}, u.email),
+      el("td", {}, [el("span", { class: "badge " + (u.role === "admin" ? "shortlisted" : "submitted") }, u.role)]),
+      el("td", {}, [el("span", { class: "badge " + (u.active ? "shortlisted" : "rejected") }, u.active ? "active" : "inactive")]),
+      el("td", {}, u.created_at || ""),
+      el("td", {}, [
+        el("button", { class: "btn btn-ghost btn-sm", onclick: () => adminPost("/admin/users/update", { email: u.email, active: !u.active }).then(loadUsers) }, u.active ? "Deactivate" : "Activate"), " ",
+        el("button", { class: "btn btn-ghost btn-sm", onclick: () => adminPost("/admin/users/update", { email: u.email, role: u.role === "admin" ? "user" : "admin" }).then(loadUsers) }, u.role === "admin" ? "Make user" : "Make admin"),
+      ]),
+    ])));
+  } catch (e) { notify(msg(), "Admin sign-in required: " + e.message, false); }
+}
+
+/* Analytics + system + top tiles */
+let analyticsData = null;
+async function loadAnalytics() {
+  try {
+    analyticsData = await API.get("/admin/analytics");
+    const tiles = document.getElementById("analytics-tiles"); tiles.innerHTML = "";
+    tiles.append(tile(analyticsData.total_jobs, "jobs in catalogue"));
+    tiles.append(tile(analyticsData.total_users, "registered users"));
+    tiles.append(tile(Object.values(analyticsData.events).reduce((a, b) => a + b, 0), "feature calls this session"));
+    const lv = document.getElementById("chart-levels"); lv.innerHTML = "";
+    const maxL = Math.max(...Object.values(analyticsData.jobs_by_level), 1);
+    Object.entries(analyticsData.jobs_by_level).forEach(([k, v]) => lv.append(bar(k, v, maxL)));
+    const ev = document.getElementById("chart-events"); ev.innerHTML = "";
+    const maxE = Math.max(...Object.values(analyticsData.events), 1);
+    Object.entries(analyticsData.events).forEach(([k, v]) => ev.append(bar(k, v, maxE)));
+    topTiles();
+  } catch (e) {}
+}
+async function loadSystem() {
+  try {
+    const s = await API.get("/admin/system");
+    const t = document.getElementById("system-tiles"); t.innerHTML = "";
+    t.append(tile(Math.floor(s.uptime_seconds / 60) + " min", "uptime"));
+    t.append(tile(s.python_version, "Python"));
+    t.append(tile(s.cpu_percent === null ? "n/a" : s.cpu_percent + "%", "CPU"));
+    t.append(tile(s.memory_percent === null ? "n/a" : s.memory_percent + "%", "memory"));
+  } catch (e) {}
+}
+function topTiles() {
+  const t = document.getElementById("stat-tiles"); t.innerHTML = "";
+  t.append(tile(allJobs.length, "jobs"));
+  t.append(tile(allApps.length, "applications"));
+  if (analyticsData) t.append(tile(analyticsData.total_users, "users"));
+}
+
+/* Logs */
+async function loadLogs() {
+  try {
+    const audit = await API.get("/admin/audit-logs");
+    const tb = document.getElementById("audit-rows"); tb.innerHTML = "";
+    audit.slice(0, 100).forEach((a) => tb.append(el("tr", {}, [
+      el("td", {}, a.timestamp), el("td", {}, a.actor), el("td", {}, a.action), el("td", {}, a.detail)])));
+    if (!audit.length) tb.append(el("tr", {}, [el("td", { colspan: "4", class: "meta" }, "No entries yet.")]));
+    const logs = await API.get("/admin/app-logs?lines=80");
+    document.getElementById("applog-out").textContent = logs.lines.join("\n") || "Log file is empty.";
+  } catch (e) {}
+}
+
+/* Taxonomy */
+let taxData = {};
+async function loadTax() { try { taxData = await API.get("/admin/taxonomy"); renderTax(); } catch (e) {} }
+function renderTax() {
+  const f = (document.getElementById("tax-search").value || "").toLowerCase();
+  const tb = document.getElementById("tax-rows"); tb.innerHTML = "";
+  Object.entries(taxData).filter(([k]) => !f || k.toLowerCase().includes(f)).slice(0, 120).forEach(([k, n]) => {
+    tb.append(el("tr", {}, [
+      el("td", {}, k), el("td", {}, (n.parents || []).join(", ")), el("td", {}, (n.implies || []).join(", ")),
+      el("td", {}, (n.aliases || []).slice(0, 4).join(", ")),
+      el("td", {}, [
+        el("button", { class: "btn btn-ghost btn-sm", onclick: () => fillTaxForm(k) }, "Edit"), " ",
+        el("button", { class: "btn btn-danger btn-sm", onclick: () => adminPost("/admin/taxonomy/" + encodeURIComponent(k), {}).catch(()=>{}) && delTax(k) }, "Delete"),
+      ]),
+    ]));
+  });
+}
+function fillTaxForm(k) {
+  const n = taxData[k];
+  document.getElementById("t-name").value = k;
+  document.getElementById("t-parents").value = (n.parents || []).join(", ");
+  document.getElementById("t-children").value = (n.children || []).join(", ");
+  document.getElementById("t-implies").value = (n.implies || []).join(", ");
+  document.getElementById("t-aliases").value = (n.aliases || []).join(", ");
+}
+function loadTaxNode() { fillTaxForm(document.getElementById("t-name").value); }
+async function delTax(k) {
+  if (!confirm("Delete skill node " + k + "?")) return;
+  try { await API.del("/admin/taxonomy/" + encodeURIComponent(k)); notify(msg(), "Deleted."); loadTax(); }
+  catch (e) { notify(msg(), e.message, false); }
+}
+async function saveTax() {
+  const split = (id) => document.getElementById(id).value.split(",").map((s) => s.trim()).filter(Boolean);
+  await adminPost("/admin/taxonomy/" + encodeURIComponent(document.getElementById("t-name").value),
+    { name: document.getElementById("t-name").value, parents: split("t-parents"),
+      children: split("t-children"), implies: split("t-implies"), aliases: split("t-aliases") });
+  loadTax();
+}
+
+/* Roadmaps */
+let roadmapsCache = {};
+async function loadRoadmaps() {
+  try {
+    roadmapsCache = await API.get("/admin/roadmaps");
+    const sel = document.getElementById("rm-select"); sel.innerHTML = "";
+    Object.keys(roadmapsCache).sort().forEach((k) => sel.append(el("option", { value: k }, k)));
+    loadRoadmapJson();
+  } catch (e) {}
+}
+function loadRoadmapJson() {
+  const k = document.getElementById("rm-select").value;
+  if (k) document.getElementById("rm-json").value = JSON.stringify(roadmapsCache[k], null, 2);
+}
+async function saveRoadmapJson() {
+  try {
+    const data = JSON.parse(document.getElementById("rm-json").value);
+    await adminPost("/admin/roadmaps/" + document.getElementById("rm-select").value, data);
+    loadRoadmaps();
+  } catch (e) { notify(msg(), "Invalid JSON: " + e.message, false); }
+}
+
+/* RAG */
+async function loadKb() {
+  try { document.getElementById("kb-docs").textContent = "Indexed documents: " + (await API.get("/admin/rag/documents")).join(", "); } catch (e) {}
+}
+async function uploadKbPdf() {
+  const f = document.getElementById("kb-pdf").files[0];
+  const m = document.getElementById("kb-pdf-msg");
+  if (!f) return notify(m, "Choose a PDF first.", false);
+  const fd = new FormData(); fd.append("file", f);
+  loading(m, "Extracting and indexing");
+  try {
+    const res = await fetch("/api/v1/admin/rag/upload-pdf", { method: "POST", body: fd, credentials: "same-origin" });
+    if (!res.ok) throw new Error((await res.json()).detail);
+    const data = await res.json();
+    notify(m, data.detail + " (" + data.characters + " characters extracted)");
+    document.getElementById("kb-pdf").value = ""; loadKb();
+  } catch (e) { notify(m, e.message, false); }
+}
+async function addKbDoc() {
+  await adminPost("/admin/rag/documents", { name: document.getElementById("kb-name").value, content: document.getElementById("kb-content").value });
+  loadKb();
+}
+
+/* Config + backups */
+async function loadConfig() {
+  try {
+    const c = await API.get("/admin/config");
+    const t = document.getElementById("config-tiles"); t.innerHTML = "";
+    t.append(tile(c.app_env, "environment"));
+    t.append(tile(c.gemini_configured ? "connected" : "offline mode", "Gemini"));
+    t.append(tile(c.firestore_project || "memory store", "database"));
+    t.append(tile(c.reduced_dim + " dims", "embeddings"));
+    document.getElementById("w-sem").value = c.semantic_weight;
+    document.getElementById("w-skill").value = c.skill_weight;
+  } catch (e) {}
+}
+async function saveWeights() {
+  await adminPost("/admin/config/weights", { semantic_weight: parseFloat(document.getElementById("w-sem").value), skill_weight: parseFloat(document.getElementById("w-skill").value) });
+  loadConfig();
+}
+async function loadBackups() {
+  try {
+    const list = await API.get("/admin/backups");
+    const ul = document.getElementById("backup-list"); ul.innerHTML = "";
+    list.forEach((b) => ul.append(el("li", {}, b)));
+    if (!list.length) ul.append(el("li", { class: "meta" }, "No backups yet."));
+  } catch (e) {}
+}
+
+loadJobsAdmin(); loadApps(); loadUsers(); loadAnalytics(); loadSystem(); loadLogs();
+loadTax(); loadRoadmaps(); loadKb(); loadConfig(); loadBackups();
+</script>
+{% endblock %}

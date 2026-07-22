@@ -1,0 +1,1247 @@
+{
+  "topic": "Api Design",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Api Design",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 498.12713623046875,
+      "y_raw": 54.62956619262695,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 63.3258056640625,
+      "y_raw": 62.67939376831055,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 63.3258056640625,
+      "y_raw": 80.641357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Full Stack Roadmap",
+      "type": "skill",
+      "x_raw": 63.3258056640625,
+      "y_raw": 98.61503601074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Building APIs",
+      "type": "section",
+      "x_raw": 297.6749267578125,
+      "y_raw": 108.42474365234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "URL, Query & Path Parameters",
+      "type": "skill",
+      "x_raw": 525.181396484375,
+      "y_raw": 174.14163208007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "What are APIs",
+      "type": "skill",
+      "x_raw": 88.13040161132812,
+      "y_raw": 180.9022674560547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Content Negotiation",
+      "type": "skill",
+      "x_raw": 549.341552734375,
+      "y_raw": 206.48019409179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "HTTP",
+      "type": "skill",
+      "x_raw": 106.98284912109375,
+      "y_raw": 216.35751342773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Learn the Basics",
+      "type": "section",
+      "x_raw": 308.7825012207031,
+      "y_raw": 216.83792114257812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Understand TCP / IP",
+      "type": "skill",
+      "x_raw": 548.1581420898438,
+      "y_raw": 238.81875610351562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "HTTP Versions",
+      "type": "skill",
+      "x_raw": 85.86904907226562,
+      "y_raw": 253.06646728515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Basics of DNS",
+      "type": "skill",
+      "x_raw": 562.7105102539062,
+      "y_raw": 271.1573181152344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "HTTP Methods",
+      "type": "skill",
+      "x_raw": 85.20120239257812,
+      "y_raw": 284.5145568847656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "HTTP Status Codes",
+      "type": "skill",
+      "x_raw": 74.773193359375,
+      "y_raw": 315.9508972167969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "REST Principles",
+      "type": "skill",
+      "x_raw": 567.467529296875,
+      "y_raw": 316.8531188964844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Different API Styles",
+      "type": "section",
+      "x_raw": 303.5333557128906,
+      "y_raw": 340.8023986816406,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "HTTP Headers",
+      "type": "skill",
+      "x_raw": 85.400390625,
+      "y_raw": 347.38726806640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "URI Design",
+      "type": "skill",
+      "x_raw": 577.9776000976562,
+      "y_raw": 349.1916809082031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Cookies",
+      "type": "skill",
+      "x_raw": 101.10098266601562,
+      "y_raw": 378.8353576660156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Versioning Strategies",
+      "type": "skill",
+      "x_raw": 555.656982421875,
+      "y_raw": 381.5302429199219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "RESTful APIs",
+      "type": "section",
+      "x_raw": 318.097412109375,
+      "y_raw": 405.7841491699219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "CORS",
+      "type": "skill",
+      "x_raw": 106.12753295898438,
+      "y_raw": 410.2716979980469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Handling CRUD Operations",
+      "type": "skill",
+      "x_raw": 541.0225830078125,
+      "y_raw": 413.8688049316406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Simple JSON APIs",
+      "type": "section",
+      "x_raw": 306.38055419921875,
+      "y_raw": 438.1227111816406,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "HTTP Caching",
+      "type": "skill",
+      "x_raw": 87.19305419921875,
+      "y_raw": 441.71978759765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "SOAP APIs",
+      "type": "section",
+      "x_raw": 323.4520263671875,
+      "y_raw": 470.4612731933594,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "Building JSON / RESTful APIs",
+      "type": "skill",
+      "x_raw": 535.9960327148438,
+      "y_raw": 471.36346435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "GraphQL APIs Visit GraphQL Roadmap",
+      "type": "skill",
+      "x_raw": 64.23971557617188,
+      "y_raw": 502.7998352050781,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Pagination",
+      "type": "skill",
+      "x_raw": 580.1803588867188,
+      "y_raw": 531.8458862304688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "gRPC APIs",
+      "type": "section",
+      "x_raw": 321.9522705078125,
+      "y_raw": 535.1383666992188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "Rate Limiting",
+      "type": "skill",
+      "x_raw": 573.9703979492188,
+      "y_raw": 564.1845092773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "API Authentication and Authorization",
+      "type": "skill",
+      "x_raw": 212.8447723388672,
+      "y_raw": 581.4424438476562,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Idempotency",
+      "type": "skill",
+      "x_raw": 574.5797119140625,
+      "y_raw": 596.5230102539062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "HATEOAS",
+      "type": "skill",
+      "x_raw": 581.8792724609375,
+      "y_raw": 628.8616333007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Authentication Methods",
+      "type": "skill",
+      "x_raw": 51.59722900390625,
+      "y_raw": 657.7437133789062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Error Handling RFC 7807 - Problem Details for APIs",
+      "type": "skill",
+      "x_raw": 309.110595703125,
+      "y_raw": 661.2001342773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Basic Auth",
+      "type": "skill",
+      "x_raw": 81.66268920898438,
+      "y_raw": 732.0872192382812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Role Based Access Control (RBAC)",
+      "type": "skill",
+      "x_raw": 515.2923583984375,
+      "y_raw": 744.2141723632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Authorization Methods",
+      "type": "section",
+      "x_raw": 288.6763610839844,
+      "y_raw": 761.8949584960938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Token Based Auth",
+      "type": "skill",
+      "x_raw": 64.54434204101562,
+      "y_raw": 764.42578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Attribute Based Access Control (ABAC)",
+      "type": "skill",
+      "x_raw": 506.6335754394531,
+      "y_raw": 776.552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "JWT",
+      "type": "skill",
+      "x_raw": 95.64093017578125,
+      "y_raw": 796.7643432617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "OAuth 2.0",
+      "type": "skill",
+      "x_raw": 83.73660278320312,
+      "y_raw": 829.1029052734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "API Keys & Management API Documentation Tools",
+      "type": "skill",
+      "x_raw": 283.07568359375,
+      "y_raw": 829.5715942382812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Session Based Auth",
+      "type": "skill",
+      "x_raw": 60.1739501953125,
+      "y_raw": 861.4883422851562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Common Vulnerabilities",
+      "type": "section",
+      "x_raw": 287.8913269042969,
+      "y_raw": 892.4911499023438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Swagger / Open API",
+      "type": "skill",
+      "x_raw": 547.806640625,
+      "y_raw": 904.0791625976562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Best Practices API Security Best Practices",
+      "type": "skill",
+      "x_raw": 50.636444091796875,
+      "y_raw": 923.7634887695312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Readme.com",
+      "type": "skill",
+      "x_raw": 564.667236328125,
+      "y_raw": 935.3397827148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "API Performance Best Practices",
+      "type": "skill",
+      "x_raw": 38.8961181640625,
+      "y_raw": 961.9136352539062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Stoplight API Security",
+      "type": "skill",
+      "x_raw": 314.1722717285156,
+      "y_raw": 966.612060546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Postman",
+      "type": "skill",
+      "x_raw": 574.98974609375,
+      "y_raw": 997.8726806640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "API Performance",
+      "type": "skill",
+      "x_raw": 73.74209594726562,
+      "y_raw": 1021.7868041992188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Unit Testing",
+      "type": "skill",
+      "x_raw": 571.5216064453125,
+      "y_raw": 1044.4942626953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "API Integration Patterns",
+      "type": "section",
+      "x_raw": 285.5010986328125,
+      "y_raw": 1067.8575439453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Integration Testing",
+      "type": "skill",
+      "x_raw": 555.8327026367188,
+      "y_raw": 1076.832763671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Performance Metrics",
+      "type": "skill",
+      "x_raw": 64.40374755859375,
+      "y_raw": 1082.2342529296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Functional Testing",
+      "type": "skill",
+      "x_raw": 556.95751953125,
+      "y_raw": 1109.1712646484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "Caching Strategies",
+      "type": "skill",
+      "x_raw": 68.90304565429688,
+      "y_raw": 1112.9676513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Synchronous vs Asynchronous APIs",
+      "type": "skill",
+      "x_raw": 258.86865234375,
+      "y_raw": 1138.5338134765625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_61",
+      "label": "Load Testing",
+      "type": "skill",
+      "x_raw": 569.4125366210938,
+      "y_raw": 1141.5098876953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Load Balancing",
+      "type": "skill",
+      "x_raw": 76.89395141601562,
+      "y_raw": 1143.689208984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Event Driven Architecture",
+      "type": "section",
+      "x_raw": 281.13067626953125,
+      "y_raw": 1169.2554931640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Rate Limiting / Throttling",
+      "type": "skill",
+      "x_raw": 55.7215576171875,
+      "y_raw": 1174.4224853515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "API Testing",
+      "type": "skill",
+      "x_raw": 572.9862060546875,
+      "y_raw": 1195.7940673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "API Gateways",
+      "type": "section",
+      "x_raw": 308.1966552734375,
+      "y_raw": 1200.3988037109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "Profiling and Monitoring",
+      "type": "skill",
+      "x_raw": 58.06494140625,
+      "y_raw": 1205.1441650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Microservices Architecture",
+      "type": "section",
+      "x_raw": 278.3655090332031,
+      "y_raw": 1231.3431396484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_69",
+      "label": "Performance Testing",
+      "type": "skill",
+      "x_raw": 65.16534423828125,
+      "y_raw": 1235.8775634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Mocking APIs",
+      "type": "skill",
+      "x_raw": 567.9127807617188,
+      "y_raw": 1257.7178955078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Webhooks vs Polling",
+      "type": "section",
+      "x_raw": 293.0701904296875,
+      "y_raw": 1262.2757568359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "Error Handling / Retries",
+      "type": "skill",
+      "x_raw": 57.2916259765625,
+      "y_raw": 1266.5992431640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Contract Testing",
+      "type": "skill",
+      "x_raw": 561.515380859375,
+      "y_raw": 1290.0562744140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Batch Processing Rabbit MQ",
+      "type": "skill",
+      "x_raw": 113.26309204101562,
+      "y_raw": 1293.2198486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Messaging Queues",
+      "type": "section",
+      "x_raw": 294.95660400390625,
+      "y_raw": 1324.1524658203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_76",
+      "label": "Kafka",
+      "type": "skill",
+      "x_raw": 125.00341796875,
+      "y_raw": 1338.8101806640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Web Sockets",
+      "type": "skill",
+      "x_raw": 581.0239868164062,
+      "y_raw": 1382.1744384765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Real-time APIs",
+      "type": "skill",
+      "x_raw": 430.39190673828125,
+      "y_raw": 1397.8748779296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "GDPR API Lifecycle Management",
+      "type": "skill",
+      "x_raw": 73.35543823242188,
+      "y_raw": 1397.8748779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Server Sent Events",
+      "type": "skill",
+      "x_raw": 566.6473388671875,
+      "y_raw": 1414.5128173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "CCPA",
+      "type": "skill",
+      "x_raw": 74.49197387695312,
+      "y_raw": 1434.5018310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Standards and Compliance",
+      "type": "skill",
+      "x_raw": 193.98062133789062,
+      "y_raw": 1466.7818603515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "PCI DSS",
+      "type": "skill",
+      "x_raw": 68.08285522460938,
+      "y_raw": 1466.8404541015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "HIPAA",
+      "type": "skill",
+      "x_raw": 74.35137939453125,
+      "y_raw": 1499.1790771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "PII",
+      "type": "skill",
+      "x_raw": 81.34634399414062,
+      "y_raw": 1531.5177001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Continue Learning with following relevant tracks",
+      "type": "skill",
+      "x_raw": 323.18255615234375,
+      "y_raw": 1567.2657470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Backend Roadmap DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 323.93243408203125,
+      "y_raw": 1597.7764892578125,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "trunk"
+    },
+    {
+      "source": "node_66",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_68",
+      "type": "trunk"
+    },
+    {
+      "source": "node_68",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_75",
+      "type": "trunk"
+    },
+    {
+      "source": "node_75",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_87",
+      "type": "branch"
+    }
+  ]
+}

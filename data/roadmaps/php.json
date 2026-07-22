@@ -1,0 +1,341 @@
+{
+ "domain": "Php",
+ "stages": [
+  {
+   "name": "PHP",
+   "skills": [
+    "Backend Development",
+    "DevOps Engineering",
+    "System Design",
+    "Software Architect"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Introduction to PHP",
+   "skills": [
+    "Evolution and History",
+    "PHP Versions and Features What is PHP?",
+    "Development Environment Installing PHP"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Learn the Fundamentals",
+   "skills": [
+    "Basic PHP Syntax",
+    "Variables and Scope",
+    "WAMP XAMPP MAMP",
+    "Data Types",
+    "LAMP",
+    "Casting Data Types",
+    "Local Server"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Arrays",
+   "skills": [
+    "echo print",
+    "if/else switch match",
+    "var_dump print_r"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Indexed Arrays",
+   "skills": [
+    "Null Coalescing Operator",
+    "Output and Debugging",
+    "Null Safe Operator"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Associative Arrays",
+   "skills": [
+    "Constants"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Multi-dimensional Arrays",
+   "skills": [
+    "Conditionals",
+    "Function Declaration"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Functions",
+   "skills": [
+    "Parameters / Return Values",
+    "Loops",
+    "Default / Optional Params"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Anonymous Functions",
+   "skills": [
+    "Named Arguments",
+    "File Handling"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Callback Functions",
+   "skills": [
+    "HTTP Methods"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Arrow Functions",
+   "skills": [
+    "$_GET $_POST",
+    "require require_once"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Recursion",
+   "skills": [
+    "$_REQUEST",
+    "include include_once"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Variadic Functions",
+   "skills": [
+    "$_SERVER",
+    "Include and Require Files"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "CSV Processing",
+   "skills": [
+    "Super Global Variables",
+    "Reading Files"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "JSON Processing",
+   "skills": [
+    "Writing Files"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "XML Processing",
+   "skills": [
+    "HTTP / Request Handling",
+    "File Permissions"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "File Operations",
+   "skills": [
+    "File Operations",
+    "Form Processing",
+    "Cookies",
+    "File Uploads State Management",
+    "Sessions",
+    "Working with Databases",
+    "Input Validation",
+    "SQL Injection",
+    "XSS Prevention",
+    "CSRF Protection",
+    "Object-Relational Mapping (ORM)",
+    "PDO MySQLi",
+    "Password Hashing Auth Mechanisms"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "OOP Fundamentals",
+   "skills": [
+    "Database Connectivity",
+    "Database Transactions",
+    "Sanitization Techniques",
+    "Connection Pooling",
+    "Basics of Security",
+    "Performance Optimization",
+    "Database Migrations",
+    "Classes and Objects",
+    "Advanced Database Techniques",
+    "Constructor / Destructor",
+    "Properties and Methods",
+    "Object Oriented Programming",
+    "Access Specifiers",
+    "Static Methods and Properties"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "More OOP Concepts",
+   "skills": [
+    "Abstract classes",
+    "Interfaces",
+    "Frameworks & Tools",
+    "Traits",
+    "Namespaces"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Composer",
+   "skills": [
+    "Magic methods",
+    "Laravel Symfony"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Packagist",
+   "skills": [
+    "Popular Frameworks",
+    "Dependency injection"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Autoloading",
+   "skills": [
+    "Type Declarations",
+    "PHPUnit Pest"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Package Management",
+   "skills": [
+    "Testing Tools",
+    "PSR Standards",
+    "PHP-FIG",
+    "Style Tools",
+    "Static Analysis",
+    "External Integrations",
+    "cURL Guzzle"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Executing System Commands",
+   "skills": [
+    "PHPCodeSniffer",
+    "PHPStan",
+    "Advanced PHP Topics",
+    "PHP CS Fixer",
+    "Phan Psalm",
+    "Profiling Techniques",
+    "Xdebug"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Process Control",
+   "skills": [
+    "Caching Strategies",
+    "Zend Debugger"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Environment Variables",
+   "skills": [
+    "Memory Management",
+    "Debugging Tools"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "Configuration Files",
+   "skills": [
+    "Configuration Tuning"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "System Interactions",
+   "skills": [
+    "Opcode Caching",
+    "Apache",
+    "PHP-FPM",
+    "Nginx",
+    "Performance Optimization",
+    "Web Servers"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  },
+  {
+   "name": "DevOps",
+   "skills": [
+    "Backend System Design"
+   ],
+   "resources": [
+    "roadmap.sh/php"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "domain": "Machine Learning",
+ "stages": [
+  {
+   "name": "Machine Learning",
+   "skills": [
+    "Find the interactive version of this",
+    "Pre-requisites",
+    "What is an ML Engineer?"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Mathematical Foundations",
+   "skills": [
+    "Introduction ML Engineer vs AI Engineer",
+    "Skills and Responsibilities",
+    "Derivatives, Partial Derivatives",
+    "Chain rule of derivation",
+    "Gradient, Jacobian, Hessian",
+    "Matrix & Matrix Operations",
+    "Scalars, Vectors, Tensors"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Basics of Probability",
+   "skills": [
+    "Singular Value Decomposition",
+    "Linear Algebra Calculus",
+    "Determinants, inverse of Matrix",
+    "Eigenvalues, Diagonalization"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Random Variances, PDFs",
+   "skills": [
+    "Discrete Mathematics"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Types of Distribution",
+   "skills": [
+    "Python"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Probability",
+   "skills": [
+    "Programming Fundamentals",
+    "Statistics"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Object Oriented Programming",
+   "skills": [
+    "Basic concepts",
+    "Basic Syntax",
+    "Descriptive Statistics"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Matplotlib",
+   "skills": [
+    "Graphs & Charts"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Numpy",
+   "skills": [
+    "Variables and Data Types"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Seaborn",
+   "skills": [
+    "Inferential Statistics"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Pandas",
+   "skills": [
+    "Data Structures"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Essential libraries",
+   "skills": [
+    "Databases (SQL, No-SQL)",
+    "Loops",
+    "Internet APIs",
+    "Conditionals",
+    "Mobile Apps IoT",
+    "Exceptions"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Data Cleaning",
+   "skills": [
+    "Functions, Builtin Functions",
+    "Data Collection Data Sources",
+    "Data Formats",
+    "Preprocessing Techniques"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Machine Learning",
+   "skills": [
+    "Data Cleaning",
+    "CSV Excel",
+    "Feature Engineering",
+    "JSON Parquet",
+    "Feature Scaling & Normalization",
+    "Other Data Formats",
+    "Dimensionality Reduction",
+    "Supervised Learning",
+    "What is Machine Learning?",
+    "Feature Selection"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Scikit-learn",
+   "skills": [
+    "Semi-supervised Learning",
+    "Data Loading",
+    "Self-supervised Learning",
+    "Train - Test Data",
+    "Reinforcement Learning",
+    "Data Preparation",
+    "Model Selection",
+    "Tuning"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Regression",
+   "skills": [
+    "Prediction",
+    "Unsupervised Learning",
+    "Classification"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Linear Regression",
+   "skills": [
+    "K-Nearest Neighbors (KNN)"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Polynomial Regression",
+   "skills": [
+    "Logistic Regression"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Ridge Lasso",
+   "skills": [
+    "Support Vector Machines",
+    "What is Unsupervised Learning?"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "ElasticNet Regularization",
+   "skills": [
+    "Decision Trees, Random Forest",
+    "Gradient Boosting Machines"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Principal Component Analysis",
+   "skills": [
+    "Clustering Dimensionality Reduction",
+    "Exclusive"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Autoencoders",
+   "skills": [
+    "Overlapping",
+    "Reinforcement Learning",
+    "Hierarchical"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Model Evaluation",
+   "skills": [
+    "Probabilistic",
+    "What is Reinforcement Learning?",
+    "Deep-Q Networks",
+    "Accuracy Precision",
+    "What is Model Evaluation?"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Metrics to Evaluate",
+   "skills": [
+    "Policy Gradient",
+    "Recall F1-Score",
+    "Why is it important?",
+    "Actor-Critic Methods",
+    "ROC-AUC Log Loss",
+    "Q-Learning",
+    "Confusion Matrix"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Validation Techniques",
+   "skills": [
+    "Deep Learning",
+    "K-Fold Cross Validation",
+    "LOOCV"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Deep Learning Libraries",
+   "skills": [
+    "Neural Network (NN) Basics",
+    "Deep Learning Architectures"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "TensorFlow Keras",
+   "skills": [
+    "Perceptron, Multi-layer Perceptrons"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "PyTorch Scikit-learn",
+   "skills": [
+    "Forward propagation"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Convolution",
+   "skills": [
+    "Back Propagation",
+    "Convolutional Neural Network Pooling",
+    "Activation Functions"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Padding",
+   "skills": [
+    "Loss Functions"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Recurrent Neural Networks",
+   "skills": [
+    "Applications of CNNs"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "RNN GRU LSMT",
+   "skills": [
+    "Image & Video Recognition"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Self-Attention",
+   "skills": [
+    "Image Classification",
+    "Attention Mechanisms",
+    "Image Segmentation"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Transformers",
+   "skills": [
+    "Recommendation Systems"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Multi-head Attention",
+   "skills": [
+    "Autoencoders"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  },
+  {
+   "name": "Explainable AI",
+   "skills": [
+    "Natural Language Processing",
+    "Tokenization",
+    "Lemmatization",
+    "Embeddings",
+    "Attention Models",
+    "Stemming"
+   ],
+   "resources": [
+    "roadmap.sh/machine-learning"
+   ]
+  }
+ ]
+}

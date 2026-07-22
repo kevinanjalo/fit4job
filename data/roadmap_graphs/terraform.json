@@ -1,0 +1,1681 @@
+{
+  "topic": "Terraform",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Terraform",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 518.8304443359375,
+      "y_raw": 42.22466278076172,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "roadmap and other similar roadmaps",
+      "type": "skill",
+      "x_raw": 518.8304443359375,
+      "y_raw": 57.56157684326172,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 54.6573486328125,
+      "y_raw": 62.1430778503418,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Linux Roadmap",
+      "type": "skill",
+      "x_raw": 54.6573486328125,
+      "y_raw": 80.18650817871094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Docker Roadmap",
+      "type": "skill",
+      "x_raw": 54.6573486328125,
+      "y_raw": 98.22993469238281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Mastering Terraform",
+      "type": "section",
+      "x_raw": 288.4134826660156,
+      "y_raw": 115.14275360107422,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Kubernetes Roadmap",
+      "type": "skill",
+      "x_raw": 54.6573486328125,
+      "y_raw": 116.27336120605469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Make sure to visit DevOps roadmap",
+      "type": "skill",
+      "x_raw": 522.3218994140625,
+      "y_raw": 136.0504913330078,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 562.2166748046875,
+      "y_raw": 167.0875244140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "What is Infrastructure as Code?",
+      "type": "skill",
+      "x_raw": 42.24957275390625,
+      "y_raw": 180.01084899902344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "What is Terraform?",
+      "type": "skill",
+      "x_raw": 72.04466247558594,
+      "y_raw": 212.1843719482422,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Getting Started",
+      "type": "skill",
+      "x_raw": 548.2857055664062,
+      "y_raw": 241.21014404296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 337.5876770019531,
+      "y_raw": 244.36964416503906,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Usecases and Benefits",
+      "type": "skill",
+      "x_raw": 61.42950439453125,
+      "y_raw": 244.36964416503906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "CaC vs IaC",
+      "type": "skill",
+      "x_raw": 89.09217834472656,
+      "y_raw": 276.5314636230469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Installing Terraform",
+      "type": "skill",
+      "x_raw": 70.75584411621094,
+      "y_raw": 308.70501708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "What is HCL?",
+      "type": "section",
+      "x_raw": 334.5179748535156,
+      "y_raw": 309.0096435546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "Hashicorp Config. Language (HCL)",
+      "type": "skill",
+      "x_raw": 508.5901794433594,
+      "y_raw": 325.4127502441406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Basic Syntax",
+      "type": "section",
+      "x_raw": 336.451171875,
+      "y_raw": 341.4878234863281,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Terraform Registry",
+      "type": "skill",
+      "x_raw": 50.8846435546875,
+      "y_raw": 379.4375915527344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Project Initialization Providers",
+      "type": "section",
+      "x_raw": 250.0067596435547,
+      "y_raw": 410.7089538574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Configuring Providers",
+      "type": "skill",
+      "x_raw": 43.843017578125,
+      "y_raw": 411.915771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Output Syntax",
+      "type": "skill",
+      "x_raw": 601.9122314453125,
+      "y_raw": 431.5409240722656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Versions",
+      "type": "skill",
+      "x_raw": 74.15362548828125,
+      "y_raw": 444.3939514160156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Sensitive Outputs",
+      "type": "skill",
+      "x_raw": 593.628662109375,
+      "y_raw": 464.01910400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Resource Behavior",
+      "type": "skill",
+      "x_raw": 49.373199462890625,
+      "y_raw": 485.5188903808594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Input Variables",
+      "type": "skill",
+      "x_raw": 431.9407653808594,
+      "y_raw": 488.0496520996094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Preconditions",
+      "type": "skill",
+      "x_raw": 602.275390625,
+      "y_raw": 497.0948181152344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Resources",
+      "type": "skill",
+      "x_raw": 246.85501098632812,
+      "y_raw": 517.9970092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Resource Lifecycle",
+      "type": "skill",
+      "x_raw": 49.759857177734375,
+      "y_raw": 517.9970092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Type Constraints",
+      "type": "skill",
+      "x_raw": 427.4767761230469,
+      "y_raw": 520.5277709960938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Outputs",
+      "type": "skill",
+      "x_raw": 615.7493896484375,
+      "y_raw": 542.7657470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Variable Definition File",
+      "type": "skill",
+      "x_raw": 414.436279296875,
+      "y_raw": 553.0059814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Meta Arguments",
+      "type": "skill",
+      "x_raw": 55.59466552734375,
+      "y_raw": 553.4863891601562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "depends_on",
+      "type": "skill",
+      "x_raw": 64.03057861328125,
+      "y_raw": 589.9364624023438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Variables",
+      "type": "skill",
+      "x_raw": 445.0163879394531,
+      "y_raw": 604.6641235351562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Sensitive Data",
+      "type": "skill",
+      "x_raw": 244.16021728515625,
+      "y_raw": 605.5779418945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "count",
+      "type": "skill",
+      "x_raw": 80.35166931152344,
+      "y_raw": 622.1099853515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Versioning",
+      "type": "skill",
+      "x_raw": 253.0647735595703,
+      "y_raw": 638.05615234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "for_each",
+      "type": "skill",
+      "x_raw": 72.51332092285156,
+      "y_raw": 654.2835083007812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Local Values",
+      "type": "skill",
+      "x_raw": 437.2834777832031,
+      "y_raw": 659.3567504882812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Splitting State Files",
+      "type": "skill",
+      "x_raw": 233.07640075683594,
+      "y_raw": 670.5343017578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "provider",
+      "type": "skill",
+      "x_raw": 74.23564147949219,
+      "y_raw": 686.4688110351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Environment Variables",
+      "type": "skill",
+      "x_raw": 414.6589050292969,
+      "y_raw": 691.8348999023438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Import Existing Resources",
+      "type": "skill",
+      "x_raw": 216.28663635253906,
+      "y_raw": 703.0125122070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "lifecycle",
+      "type": "skill",
+      "x_raw": 74.80975341796875,
+      "y_raw": 718.6422729492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Validation Rules",
+      "type": "skill",
+      "x_raw": 429.2576904296875,
+      "y_raw": 724.3013916015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "State Locking",
+      "type": "skill",
+      "x_raw": 245.87083435058594,
+      "y_raw": 735.4906616210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Remote State",
+      "type": "skill",
+      "x_raw": 245.63650512695312,
+      "y_raw": 767.9688110351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "terraform fmt",
+      "type": "skill",
+      "x_raw": 432.397705078125,
+      "y_raw": 777.1663208007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "terraform validate",
+      "type": "skill",
+      "x_raw": 421.78253173828125,
+      "y_raw": 809.6444702148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Format & Validate",
+      "type": "skill",
+      "x_raw": 593.8980712890625,
+      "y_raw": 812.6438598632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "State",
+      "type": "skill",
+      "x_raw": 265.19134521484375,
+      "y_raw": 822.8840942382812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Best Practices for State",
+      "type": "skill",
+      "x_raw": 53.72003173828125,
+      "y_raw": 822.8840942382812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "TFLint",
+      "type": "skill",
+      "x_raw": 447.8400573730469,
+      "y_raw": 842.1226196289062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "State Management",
+      "type": "skill",
+      "x_raw": 225.22634887695312,
+      "y_raw": 882.7243041992188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "terraform plan",
+      "type": "skill",
+      "x_raw": 484.1495361328125,
+      "y_raw": 891.5897827148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "terraform apply",
+      "type": "skill",
+      "x_raw": 481.7242126464844,
+      "y_raw": 924.2905883789062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "terraform destroy",
+      "type": "section",
+      "x_raw": 346.5742492675781,
+      "y_raw": 924.2905883789062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Inspect / Modify State",
+      "type": "skill",
+      "x_raw": 57.51617431640625,
+      "y_raw": 972.4453735351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Deployment",
+      "type": "skill",
+      "x_raw": 489.1056213378906,
+      "y_raw": 981.7835083007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Clean Up",
+      "type": "section",
+      "x_raw": 364.71142578125,
+      "y_raw": 981.7835083007812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "graph",
+      "type": "skill",
+      "x_raw": 55.196319580078125,
+      "y_raw": 1009.2470092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "show",
+      "type": "skill",
+      "x_raw": 129.65475463867188,
+      "y_raw": 1009.2470092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "When to Use?",
+      "type": "skill",
+      "x_raw": 587.8875732421875,
+      "y_raw": 1033.418212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "list output",
+      "type": "skill",
+      "x_raw": 62.4371337890625,
+      "y_raw": 1040.5184326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Modules",
+      "type": "skill",
+      "x_raw": 275.53704833984375,
+      "y_raw": 1063.5648193359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Provisioners",
+      "type": "skill",
+      "x_raw": 417.072509765625,
+      "y_raw": 1064.7716064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Creation / Destroy Time",
+      "type": "skill",
+      "x_raw": 565.309814453125,
+      "y_raw": 1065.8963623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "rm mv",
+      "type": "skill",
+      "x_raw": 62.495697021484375,
+      "y_raw": 1071.789794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "file provisioner",
+      "type": "skill",
+      "x_raw": 586.3760986328125,
+      "y_raw": 1098.37451171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "-replace option in apply",
+      "type": "skill",
+      "x_raw": 54.6690673828125,
+      "y_raw": 1104.736572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Root vs Child Modules",
+      "type": "skill",
+      "x_raw": 243.77357482910156,
+      "y_raw": 1117.390380859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "local-exec provisioner",
+      "type": "skill",
+      "x_raw": 569.5863647460938,
+      "y_raw": 1130.8526611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "state pull / push",
+      "type": "skill",
+      "x_raw": 71.66972351074219,
+      "y_raw": 1137.2147216796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Published Modules Usage",
+      "type": "skill",
+      "x_raw": 235.03305053710938,
+      "y_raw": 1149.2711181640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "remote-exec provisioner",
+      "type": "skill",
+      "x_raw": 563.96240234375,
+      "y_raw": 1163.3309326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "state replace-provider",
+      "type": "skill",
+      "x_raw": 57.60992431640625,
+      "y_raw": 1169.7164306640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Creating Local Modules",
+      "type": "skill",
+      "x_raw": 240.4460906982422,
+      "y_raw": 1181.1400146484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Custom Provisioners",
+      "type": "skill",
+      "x_raw": 572.7380981445312,
+      "y_raw": 1195.79736328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "state force-unlock",
+      "type": "skill",
+      "x_raw": 67.39321899414062,
+      "y_raw": 1201.5853271484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Inputs / Outputs",
+      "type": "skill",
+      "x_raw": 257.62249755859375,
+      "y_raw": 1213.0206298828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Basic / Advanced Commands",
+      "type": "skill",
+      "x_raw": 41.745758056640625,
+      "y_raw": 1240.296630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Modules Best Practices",
+      "type": "skill",
+      "x_raw": 240.52810668945312,
+      "y_raw": 1244.8895263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Data Sources Template Files",
+      "type": "skill",
+      "x_raw": 414.3659973144531,
+      "y_raw": 1267.5726318359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "GitHub Actions",
+      "type": "skill",
+      "x_raw": 239.87197875976562,
+      "y_raw": 1291.322021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Workspaces CI / CD Integration",
+      "type": "skill",
+      "x_raw": 401.5950012207031,
+      "y_raw": 1321.5858154296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Circle CI",
+      "type": "skill",
+      "x_raw": 254.1075439453125,
+      "y_raw": 1323.19091796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Splitting Large State",
+      "type": "skill",
+      "x_raw": 48.471038818359375,
+      "y_raw": 1333.47802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "GitLab CI",
+      "type": "skill",
+      "x_raw": 252.37350463867188,
+      "y_raw": 1355.071533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "Parallelism",
+      "type": "skill",
+      "x_raw": 70.86129760742188,
+      "y_raw": 1364.7493896484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Unit Testing",
+      "type": "skill",
+      "x_raw": 598.772216796875,
+      "y_raw": 1375.786376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Jenkins",
+      "type": "skill",
+      "x_raw": 256.4859924316406,
+      "y_raw": 1387.8309326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Deployment Workflow",
+      "type": "skill",
+      "x_raw": 46.326904296875,
+      "y_raw": 1396.020751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Contract Testing",
+      "type": "skill",
+      "x_raw": 588.250732421875,
+      "y_raw": 1407.6669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Version Management",
+      "type": "skill",
+      "x_raw": 46.455810546875,
+      "y_raw": 1427.2921142578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 428.484375,
+      "y_raw": 1439.535888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "Integration Testing",
+      "type": "skill",
+      "x_raw": 583.001708984375,
+      "y_raw": 1439.535888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Scaling Terraform",
+      "type": "skill",
+      "x_raw": 231.3306427001953,
+      "y_raw": 1439.535888671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Terragrunt",
+      "type": "skill",
+      "x_raw": 71.01361083984375,
+      "y_raw": 1458.5751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "End to End Testing",
+      "type": "skill",
+      "x_raw": 582.6151123046875,
+      "y_raw": 1471.41650390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Infracost",
+      "type": "skill",
+      "x_raw": 74.69259643554688,
+      "y_raw": 1489.8465576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Testing Modules",
+      "type": "skill",
+      "x_raw": 588.250732421875,
+      "y_raw": 1503.285400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Security",
+      "type": "skill",
+      "x_raw": 253.2170867919922,
+      "y_raw": 1554.1820068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Secret Management",
+      "type": "skill",
+      "x_raw": 47.93206787109375,
+      "y_raw": 1555.587890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "What and when to use HCP?",
+      "type": "skill",
+      "x_raw": 543.56396484375,
+      "y_raw": 1557.345458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "Compliance / Sentinel",
+      "type": "skill",
+      "x_raw": 43.901611328125,
+      "y_raw": 1587.1639404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Enterprise Features",
+      "type": "skill",
+      "x_raw": 563.0485229492188,
+      "y_raw": 1589.22607421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "HCP",
+      "type": "section",
+      "x_raw": 407.21893310546875,
+      "y_raw": 1621.094970703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_109",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 575.9367065429688,
+      "y_raw": 1621.094970703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Terrascan",
+      "type": "skill",
+      "x_raw": 248.76480102539062,
+      "y_raw": 1624.1177978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "Workspaces",
+      "type": "skill",
+      "x_raw": 580.799072265625,
+      "y_raw": 1652.9755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Checkov",
+      "type": "skill",
+      "x_raw": 251.88140869140625,
+      "y_raw": 1655.9866943359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "VCS Integration",
+      "type": "skill",
+      "x_raw": 572.831787109375,
+      "y_raw": 1684.856201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Trivy",
+      "type": "skill",
+      "x_raw": 261.2663269042969,
+      "y_raw": 1687.8673095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Run Tasks",
+      "type": "skill",
+      "x_raw": 585.5090942382812,
+      "y_raw": 1716.72509765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "KICS",
+      "type": "skill",
+      "x_raw": 260.22357177734375,
+      "y_raw": 1719.736328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Have a look at the following relevant roadmaps",
+      "type": "skill",
+      "x_raw": 311.4598693847656,
+      "y_raw": 1795.3194580078125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_118",
+      "label": "Linux DevOps Docker Kubernetes",
+      "type": "skill",
+      "x_raw": 304.23077392578125,
+      "y_raw": 1826.0518798828125,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_108",
+      "type": "trunk"
+    },
+    {
+      "source": "node_108",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_118",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+ "domain": "Ios",
+ "stages": [
+  {
+   "name": "iOS Developer",
+   "skills": [
+    "Find the interactive version of this",
+    "Special thanks to Dennis who helped",
+    "Interoperability with Swift",
+    "Core OS"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Pick a Language",
+   "skills": [
+    "Objective-C Basics",
+    "Core Services",
+    "Cocoa Touch",
+    "Objective-C",
+    "Swift (Recommended)",
+    "iOS Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "The Fundamentals",
+   "skills": [
+    "History and Why Swift?",
+    "Benefits over Objective-C",
+    "Media",
+    "Swift Basics",
+    "Core Graphics",
+    "Core Animation"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Core Programming Concepts",
+   "skills": [
+    "OOP",
+    "AVFoundation",
+    "Functional Programming",
+    "Core Image",
+    "Memory Management",
+    "Core Audio",
+    "ViewController Lifecycle",
+    "Metal",
+    "Error Handling",
+    "Concurrency (GCD, async/await)",
+    "Version Control Git GitHub",
+    "\u2014 UI Kit Basics \u2014",
+    "Components",
+    "Installing"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Declarative Syntax",
+   "skills": [
+    "Setting Up",
+    "Views",
+    "Preferences",
+    "View Controllers",
+    "New Project",
+    "User Interactions",
+    "App Components Xcode",
+    "\u2014 Building Simple UIs \u2014",
+    "Interface overview",
+    "Basic Interfaces",
+    "Toolbar",
+    "Storyboards"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Components",
+   "skills": [
+    "Navigators",
+    "UIKit",
+    "Xibs",
+    "Navigating"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "State Management",
+   "skills": [
+    "Editors",
+    "Navigation"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Data binding",
+   "skills": [
+    "Project Files",
+    "View Transitions",
+    "Groups"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Basics",
+   "skills": [
+    "Breakpoints"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "SwiftUI",
+   "skills": [
+    "Debugger",
+    "Debug Navigator",
+    "Interfaces and Navigation",
+    "Stepping"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Simple UI Building",
+   "skills": [
+    "Interface Builder"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Building Interfaces",
+   "skills": [
+    "IBOutlets",
+    "UI Design HIG",
+    "Interface Builder",
+    "IBActions"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Views and Modifiers",
+   "skills": [
+    "Auto layout"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Navigation",
+   "skills": [
+    "UIKit"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "View Transitions",
+   "skills": [
+    "Basics / Creating Animations Lottie"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "SwiftUI",
+   "skills": [
+    "Views, View Controllers",
+    "Core Animation",
+    "Navigation Controllers, Segues"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Navigation Stacks",
+   "skills": [
+    "Navigation Stacks",
+    "Design Architecture",
+    "Pushing Presenting"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Navigation View",
+   "skills": [
+    "Modals and Navigation"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "NavigationLink",
+   "skills": [
+    "Architectural Patterns",
+    "Combine",
+    "Presenting / Dismissing views",
+    "MVC MVP",
+    "Publishers / Subscribers"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Reactive Programming",
+   "skills": [
+    "MVVM MVVM-C",
+    "Operators & Pipelines",
+    "VIPER TCA",
+    "Combine and MVVM",
+    "RxSwift",
+    "Observables & observers",
+    "Implementing Delegates",
+    "Subjects",
+    "Operators Schedulers",
+    "Patterns and Techniques Delegate Pattern",
+    "RxSwift with MVVM",
+    "Callbacks Closures",
+    "Core Data",
+    "Understanding and using Closures"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "GCD",
+   "skills": [
+    "User Defaults",
+    "Capturing Values & Memory Mgmt.",
+    "Data Persistence",
+    "Keychain",
+    "Callback Hell",
+    "File System",
+    "SQLite",
+    "Storage",
+    "Async / Await",
+    "JSON / XML",
+    "Concurrency",
+    "Parsing"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  },
+  {
+   "name": "Operation Queues",
+   "skills": [
+    "Serializing",
+    "CocoaPods Carthage",
+    "Asynchronism Concurrency and Multithreading",
+    "Swift Package Manager",
+    "Networking",
+    "Dependency Manager",
+    "HTTP / HTTPs",
+    "Accessibility Inspector",
+    "REST",
+    "Frameworks & Library",
+    "Voice Over",
+    "GraphQL",
+    "Dynamic Type",
+    "SwiftLint"
+   ],
+   "resources": [
+    "roadmap.sh/ios"
+   ]
+  }
+ ]
+}

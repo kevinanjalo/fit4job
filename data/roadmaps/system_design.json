@@ -1,0 +1,276 @@
+{
+ "domain": "System Design",
+ "stages": [
+  {
+   "name": "System Design",
+   "skills": [
+    "Software Design and Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "What is System Design?"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Latency vs Throughput",
+   "skills": [
+    "AP - Availability + Partition Tolerance",
+    "CP - Consistency + Partition Tolerance",
+    "Availability vs Consistency CAP Theorem"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Consistency Patterns",
+   "skills": [
+    "Weak Consistency",
+    "Eventual Consistency",
+    "Strong Consistency"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Availability Patterns",
+   "skills": [
+    "Active - Active",
+    "Master - Slave",
+    "Active - Passive",
+    "Master - Master"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "9% Availability - three 9s",
+   "skills": [
+    "Fail-Over",
+    "Replication"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "99% Availability - four 9s",
+   "skills": [
+    "Availability in Parallel vs Sequence",
+    "Event-Driven",
+    "Availability in Numbers",
+    "Background Jobs",
+    "Schedule Driven",
+    "Pull CDNs",
+    "Push CDNs",
+    "Microservices",
+    "Key-Value Store",
+    "LB vs Reverse Proxy",
+    "Service Discovery",
+    "Document Store",
+    "Load Balancing Algorithms",
+    "Wide Column Store"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Busy Database",
+   "skills": [
+    "Sharding",
+    "SQL vs NoSQL",
+    "Refresh Ahead",
+    "Caching",
+    "Federation",
+    "Write-behind",
+    "Back Pressure",
+    "Denormalization",
+    "Write-through",
+    "Task Queues",
+    "SQL Tuning",
+    "Asynchronism",
+    "Cache Aside",
+    "RDBMS"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Busy Frontend",
+   "skills": [
+    "Monolithic Persistence"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Chatty I/O",
+   "skills": [
+    "Noisy Neighbor",
+    "Health Monitoring",
+    "Retry Storm Synchronous I/O"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "No Caching",
+   "skills": [
+    "Availability Monitoring",
+    "Extraneous Fetching",
+    "Performance Monitoring",
+    "Monitoring",
+    "Security Monitoring",
+    "Usage Monitoring"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Cloud Design Patterns",
+   "skills": [
+    "some insight into designing scalable systems.",
+    "Instrumentation",
+    "Visualization & Alerts",
+    "Design & Implementation"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Data Management",
+   "skills": [
+    "Strangler Fig",
+    "Sidecar",
+    "Messaging",
+    "Static Content Hosting"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Valet Key",
+   "skills": [
+    "Sequential Convoy",
+    "Leader Election",
+    "CQRS"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Static Content Hosting",
+   "skills": [
+    "Scheduling Agent Supervisor",
+    "Pipes & Filters",
+    "Ambassador"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Sharding",
+   "skills": [
+    "Queu-based Load Leveling",
+    "Gateway Routing"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Materialized View",
+   "skills": [
+    "Publisher/Subscriber",
+    "Gateway Offloading"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Index Table",
+   "skills": [
+    "Priority Queue",
+    "Gateway Aggregation"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Event Sourcing",
+   "skills": [
+    "Pipes and Filters",
+    "External Config Store"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "CQRS",
+   "skills": [
+    "Competing Consumers",
+    "Compute Resource Consolidation"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Cache-Aside",
+   "skills": [
+    "Choreography",
+    "Backends for Frontend",
+    "Claim Check",
+    "Anti-Corruption Layer",
+    "Async Request Reply"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  },
+  {
+   "name": "Bulkhead",
+   "skills": [
+    "Reliability Patterns",
+    "Availability",
+    "High Availability",
+    "Resiliency",
+    "Deployment Stamps",
+    "Bulkhead",
+    "Geodes",
+    "Throttling",
+    "Circuit Breaker",
+    "Health Endpoint Monitoring",
+    "Compensating Transaction",
+    "Queue-Based Load Leveling",
+    "Leader Election",
+    "Security"
+   ],
+   "resources": [
+    "roadmap.sh/system-design"
+   ]
+  }
+ ]
+}

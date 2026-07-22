@@ -1,0 +1,547 @@
+{
+  "topic": "Frontend Beginner",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Frontend Beginner",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "This is the beginner friendly version of",
+      "type": "skill",
+      "x_raw": 37.4697265625,
+      "y_raw": 48.17360305786133,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "the Frontend roadmap. Make sure to",
+      "type": "skill",
+      "x_raw": 37.4697265625,
+      "y_raw": 64.16658020019531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 470.7915954589844,
+      "y_raw": 64.90472412109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "Front-end",
+      "type": "section",
+      "x_raw": 311.75225830078125,
+      "y_raw": 101.81269836425781,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Important Tip",
+      "type": "skill",
+      "x_raw": 175.31399536132812,
+      "y_raw": 182.27842712402344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "HTML",
+      "type": "section",
+      "x_raw": 335.92333984375,
+      "y_raw": 185.24456787109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "You should be able to find an intern or Junior Frontend",
+      "type": "skill",
+      "x_raw": 433.697265625,
+      "y_raw": 192.26272583007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Developer join after learning these three.",
+      "type": "skill",
+      "x_raw": 433.697265625,
+      "y_raw": 211.71206665039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Make sure to build as many projects as possible",
+      "type": "skill",
+      "x_raw": 36.696441650390625,
+      "y_raw": 214.84036254882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "CSS",
+      "type": "section",
+      "x_raw": 340.4458923339844,
+      "y_raw": 232.5673828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "for each node of the roadmap.",
+      "type": "skill",
+      "x_raw": 120.73867797851562,
+      "y_raw": 235.54336547851562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Start applying for jobs and keep learning.",
+      "type": "skill",
+      "x_raw": 433.697265625,
+      "y_raw": 244.83453369140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "JavaScript",
+      "type": "section",
+      "x_raw": 325.53082275390625,
+      "y_raw": 278.976318359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Create your GitHub Profile and publish the",
+      "type": "skill",
+      "x_raw": 479.5906677246094,
+      "y_raw": 354.289794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Learn about Version Control Systems",
+      "type": "skill",
+      "x_raw": 31.119415283203125,
+      "y_raw": 357.2774658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Git GitHub",
+      "type": "section",
+      "x_raw": 282.85943603515625,
+      "y_raw": 365.22125244140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_16",
+      "label": "projects you have developed so far to GitHub.",
+      "type": "skill",
+      "x_raw": 479.5906677246094,
+      "y_raw": 373.1064147949219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "& start using Git for your future projects.",
+      "type": "skill",
+      "x_raw": 31.119415283203125,
+      "y_raw": 376.726806640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Learn to use npm package manager. This should",
+      "type": "skill",
+      "x_raw": 31.119415283203125,
+      "y_raw": 442.4210510253906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "npm",
+      "type": "section",
+      "x_raw": 341.9690246582031,
+      "y_raw": 448.3378601074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_20",
+      "label": "be a quick one. Just get the basics and move on.",
+      "type": "skill",
+      "x_raw": 31.119415283203125,
+      "y_raw": 461.2377014160156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Create some project with React. Make sure to",
+      "type": "skill",
+      "x_raw": 449.3621826171875,
+      "y_raw": 493.8446350097656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "React",
+      "type": "section",
+      "x_raw": 338.03228759765625,
+      "y_raw": 510.4234619140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_23",
+      "label": "install some external npm packages and include",
+      "type": "skill",
+      "x_raw": 449.3621826171875,
+      "y_raw": 512.6612548828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "API calls to fetch some external data.",
+      "type": "skill",
+      "x_raw": 449.3621826171875,
+      "y_raw": 531.4779052734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "There are several CSS frameworks available. You",
+      "type": "skill",
+      "x_raw": 31.119415283203125,
+      "y_raw": 565.3502197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Tailwind",
+      "type": "section",
+      "x_raw": 333.9080810546875,
+      "y_raw": 573.7744140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "can pick any. I would recommend learning Tailwind.",
+      "type": "skill",
+      "x_raw": 31.119415283203125,
+      "y_raw": 584.1668701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Learn about different Testing types and how to",
+      "type": "skill",
+      "x_raw": 36.696441650390625,
+      "y_raw": 638.3438720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Vitest",
+      "type": "section",
+      "x_raw": 339.32110595703125,
+      "y_raw": 643.0069580078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "test your frontend using something like Vitest.",
+      "type": "skill",
+      "x_raw": 36.696441650390625,
+      "y_raw": 660.9215087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Depending on the depth of your knowledge and your",
+      "type": "skill",
+      "x_raw": 227.6748809814453,
+      "y_raw": 740.476318359375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "projects, at this point, you should have enough knowledge",
+      "type": "skill",
+      "x_raw": 215.57176208496094,
+      "y_raw": 756.46923828125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "to find a Junior to Mid-level (maybe even senior) position",
+      "type": "skill",
+      "x_raw": 216.63796997070312,
+      "y_raw": 772.4622802734375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "at any company. Keep learning and building projects till you",
+      "type": "skill",
+      "x_raw": 211.95138549804688,
+      "y_raw": 788.4552001953125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "find a job. Your job will teach you a lot as well.",
+      "type": "skill",
+      "x_raw": 246.19862365722656,
+      "y_raw": 804.4482421875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Continue Learning with following roadmap",
+      "type": "skill",
+      "x_raw": 252.45521545410156,
+      "y_raw": 907.5531005859375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Visit Detailed Frontend Roadmap",
+      "type": "skill",
+      "x_raw": 273.111328125,
+      "y_raw": 939.5859375,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "trunk"
+    },
+    {
+      "source": "node_15",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_19",
+      "type": "trunk"
+    },
+    {
+      "source": "node_19",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_22",
+      "type": "trunk"
+    },
+    {
+      "source": "node_22",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_37",
+      "type": "branch"
+    }
+  ]
+}

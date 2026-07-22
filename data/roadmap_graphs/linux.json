@@ -1,0 +1,1247 @@
+{
+  "topic": "Linux",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Linux",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 523.4827880859375,
+      "y_raw": 49.58867645263672,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 527.2210693359375,
+      "y_raw": 65.84258270263672,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 57.193695068359375,
+      "y_raw": 85.15397644042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Docker Roadmap",
+      "type": "skill",
+      "x_raw": 57.193695068359375,
+      "y_raw": 104.27897644042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Linux",
+      "type": "section",
+      "x_raw": 328.1663513183594,
+      "y_raw": 115.48365783691406,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "Kubernetes Roadmap",
+      "type": "skill",
+      "x_raw": 57.193695068359375,
+      "y_raw": 123.40397644042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 57.193695068359375,
+      "y_raw": 142.5289764404297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Basic Commands",
+      "type": "skill",
+      "x_raw": 562.9515380859375,
+      "y_raw": 168.51055908203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Moving Files / Directories",
+      "type": "skill",
+      "x_raw": 542.6898193359375,
+      "y_raw": 202.29571533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Navigation Basics",
+      "type": "section",
+      "x_raw": 305.4905700683594,
+      "y_raw": 218.87774658203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Creating & Deleting Files / Dirs",
+      "type": "skill",
+      "x_raw": 529.3773193359375,
+      "y_raw": 236.09259033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Editing Files",
+      "type": "section",
+      "x_raw": 319.4358825683594,
+      "y_raw": 252.67462158203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Vim Nano",
+      "type": "skill",
+      "x_raw": 61.154632568359375,
+      "y_raw": 252.67462158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Directory Hierarchy Overview",
+      "type": "skill",
+      "x_raw": 535.1546630859375,
+      "y_raw": 269.88946533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Command Path",
+      "type": "skill",
+      "x_raw": 72.60385131835938,
+      "y_raw": 295.38946533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "stdout / stdin / stderr cut",
+      "type": "skill",
+      "x_raw": 531.4515380859375,
+      "y_raw": 322.16680908203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Environment Variables",
+      "type": "skill",
+      "x_raw": 55.506195068359375,
+      "y_raw": 329.18634033203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "paste sort head tr",
+      "type": "skill",
+      "x_raw": 519.1116943359375,
+      "y_raw": 355.96368408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Shell and Other Basics",
+      "type": "skill",
+      "x_raw": 293.7483825683594,
+      "y_raw": 362.97149658203125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Command Help",
+      "type": "skill",
+      "x_raw": 71.99447631835938,
+      "y_raw": 362.97149658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "tail join split pipe",
+      "type": "skill",
+      "x_raw": 525.6741943359375,
+      "y_raw": 389.74884033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Redirects",
+      "type": "skill",
+      "x_raw": 86.37338256835938,
+      "y_raw": 396.76837158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "tee nl wc expand",
+      "type": "skill",
+      "x_raw": 524.2327880859375,
+      "y_raw": 423.54571533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Super User",
+      "type": "skill",
+      "x_raw": 82.21322631835938,
+      "y_raw": 430.56524658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "unexpand uniq grep awk",
+      "type": "skill",
+      "x_raw": 518.9827880859375,
+      "y_raw": 457.34259033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "File Permissions",
+      "type": "skill",
+      "x_raw": 69.88510131835938,
+      "y_raw": 489.41680908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Archiving and Compressing",
+      "type": "skill",
+      "x_raw": 43.037445068359375,
+      "y_raw": 523.2019653320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Working with Files",
+      "type": "section",
+      "x_raw": 305.7015075683594,
+      "y_raw": 538.9519653320312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "Text Processing",
+      "type": "skill",
+      "x_raw": 568.3656005859375,
+      "y_raw": 539.2683715820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Copying and Renaming",
+      "type": "skill",
+      "x_raw": 52.553070068359375,
+      "y_raw": 556.9988403320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Soft Links / Hard Links",
+      "type": "skill",
+      "x_raw": 54.275726318359375,
+      "y_raw": 590.7957153320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Server Review",
+      "type": "skill",
+      "x_raw": 571.7171630859375,
+      "y_raw": 647.5379028320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Process Management",
+      "type": "section",
+      "x_raw": 294.3577575683594,
+      "y_raw": 647.5379028320312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Background / Foreground Processes",
+      "type": "skill",
+      "x_raw": 257.8304138183594,
+      "y_raw": 711.6160278320312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "Uptime and Load",
+      "type": "skill",
+      "x_raw": 565.0726318359375,
+      "y_raw": 714.1707153320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "User Management",
+      "type": "skill",
+      "x_raw": 74.71322631835938,
+      "y_raw": 714.4871215820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Listing / Finding Processes",
+      "type": "skill",
+      "x_raw": 281.4319763183594,
+      "y_raw": 745.4129028320312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Authentication Logs",
+      "type": "skill",
+      "x_raw": 558.6507568359375,
+      "y_raw": 747.9558715820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Create / Delete / Update",
+      "type": "skill",
+      "x_raw": 58.670257568359375,
+      "y_raw": 754.0144653320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Process Signals Killing Processes",
+      "type": "skill",
+      "x_raw": 250.75228881835938,
+      "y_raw": 779.1980590820312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Services Running",
+      "type": "skill",
+      "x_raw": 564.1116943359375,
+      "y_raw": 781.7527465820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Users and Groups",
+      "type": "skill",
+      "x_raw": 76.14291381835938,
+      "y_raw": 787.8113403320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Process Priorities Process Forking",
+      "type": "skill",
+      "x_raw": 249.43978881835938,
+      "y_raw": 812.9949340820312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_43",
+      "label": "Available Memory / Disk",
+      "type": "skill",
+      "x_raw": 548.3734130859375,
+      "y_raw": 815.5496215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Managing Permissions",
+      "type": "skill",
+      "x_raw": 65.16244506835938,
+      "y_raw": 821.6082153320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Creating New Services",
+      "type": "section",
+      "x_raw": 321.7327575683594,
+      "y_raw": 867.5105590820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Inodes Filesystems",
+      "type": "skill",
+      "x_raw": 557.8538818359375,
+      "y_raw": 883.4480590820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Checking Service Logs",
+      "type": "section",
+      "x_raw": 321.5452575683594,
+      "y_raw": 901.3074340820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Service Management (systemd)",
+      "type": "skill",
+      "x_raw": 42.428070068359375,
+      "y_raw": 917.2449340820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Mounts",
+      "type": "skill",
+      "x_raw": 555.8616943359375,
+      "y_raw": 917.2449340820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "LVM",
+      "type": "skill",
+      "x_raw": 647.5257568359375,
+      "y_raw": 917.2449340820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Starting / Stopping Services",
+      "type": "skill",
+      "x_raw": 309.1585388183594,
+      "y_raw": 935.0925903320312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Swap",
+      "type": "skill",
+      "x_raw": 654.9085693359375,
+      "y_raw": 951.6746215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Adding Disks",
+      "type": "skill",
+      "x_raw": 552.6741943359375,
+      "y_raw": 951.6746215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Checking Service Status",
+      "type": "section",
+      "x_raw": 318.2522888183594,
+      "y_raw": 968.8894653320312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_55",
+      "label": "Package Management",
+      "type": "skill",
+      "x_raw": 65.40853881835938,
+      "y_raw": 1009.6941528320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Disks and Filesystems",
+      "type": "skill",
+      "x_raw": 567.0999755859375,
+      "y_raw": 1009.6941528320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Package Repositories",
+      "type": "skill",
+      "x_raw": 45.006195068359375,
+      "y_raw": 1066.764404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Snap",
+      "type": "skill",
+      "x_raw": 194.47885131835938,
+      "y_raw": 1066.764404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Logs",
+      "type": "section",
+      "x_raw": 400.5296325683594,
+      "y_raw": 1070.584716796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_60",
+      "label": "Finding & Installing Packages",
+      "type": "skill",
+      "x_raw": 60.252288818359375,
+      "y_raw": 1100.549560546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Booting Linux",
+      "type": "skill",
+      "x_raw": 587.8656005859375,
+      "y_raw": 1104.381591796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Boot Loaders",
+      "type": "section",
+      "x_raw": 379.3890075683594,
+      "y_raw": 1104.381591796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "Listing Installed Packages",
+      "type": "skill",
+      "x_raw": 68.40853881835938,
+      "y_raw": 1134.346435546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "TCP/IP Stack",
+      "type": "section",
+      "x_raw": 379.8108825683594,
+      "y_raw": 1159.213623046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_65",
+      "label": "Install / Remove / Upgrade Packages",
+      "type": "skill",
+      "x_raw": 39.756195068359375,
+      "y_raw": 1168.776123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Subnetting",
+      "type": "section",
+      "x_raw": 385.9749450683594,
+      "y_raw": 1193.010498046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "Networking",
+      "type": "skill",
+      "x_raw": 593.5257568359375,
+      "y_raw": 1226.795654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Ethernet & arp/rarp",
+      "type": "section",
+      "x_raw": 364.0022888183594,
+      "y_raw": 1226.795654296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_69",
+      "label": "Literals Variables",
+      "type": "skill",
+      "x_raw": 71.04525756835938,
+      "y_raw": 1251.662841796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "DHCP IP Routing",
+      "type": "section",
+      "x_raw": 355.1194763183594,
+      "y_raw": 1261.225341796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "Loops Conditionals",
+      "type": "skill",
+      "x_raw": 73.81088256835938,
+      "y_raw": 1285.459716796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "DNS Resolution",
+      "type": "section",
+      "x_raw": 373.4827575683594,
+      "y_raw": 1295.655029296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "Debugging",
+      "type": "skill",
+      "x_raw": 100.44760131835938,
+      "y_raw": 1319.889404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Netfilter SSH",
+      "type": "section",
+      "x_raw": 359.1390075683594,
+      "y_raw": 1329.451904296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "File Transfer",
+      "type": "section",
+      "x_raw": 381.9085388183594,
+      "y_raw": 1363.881591796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_76",
+      "label": "Shell Programming",
+      "type": "skill",
+      "x_raw": 80.84213256835938,
+      "y_raw": 1402.776123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "ICMP ping",
+      "type": "section",
+      "x_raw": 288.1702575683594,
+      "y_raw": 1453.787841796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_78",
+      "label": "ulimits cgroups",
+      "type": "skill",
+      "x_raw": 485.7601013183594,
+      "y_raw": 1485.030029296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "traceroute",
+      "type": "section",
+      "x_raw": 305.3616638183594,
+      "y_raw": 1487.572998046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "Troubleshooting",
+      "type": "skill",
+      "x_raw": 87.75619506835938,
+      "y_raw": 1504.787841796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Container Runtime",
+      "type": "skill",
+      "x_raw": 488.0101013183594,
+      "y_raw": 1518.815185546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "netstat",
+      "type": "section",
+      "x_raw": 313.8460388183594,
+      "y_raw": 1521.369873046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Docker",
+      "type": "skill",
+      "x_raw": 516.6156005859375,
+      "y_raw": 1552.612060546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "Packet Analysis",
+      "type": "section",
+      "x_raw": 293.0335388183594,
+      "y_raw": 1555.166748046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_85",
+      "label": "Containerization",
+      "type": "skill",
+      "x_raw": 494.1038513183594,
+      "y_raw": 1611.908935546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Continue learning with following roadmaps",
+      "type": "skill",
+      "x_raw": 424.6233825683594,
+      "y_raw": 1682.350341796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "DevOps Backend Docker",
+      "type": "skill",
+      "x_raw": 410.1858825683594,
+      "y_raw": 1714.846435546875,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_32",
+      "type": "trunk"
+    },
+    {
+      "source": "node_32",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_54",
+      "type": "trunk"
+    },
+    {
+      "source": "node_54",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_54",
+      "target": "node_59",
+      "type": "trunk"
+    },
+    {
+      "source": "node_59",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "trunk"
+    },
+    {
+      "source": "node_64",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_66",
+      "type": "trunk"
+    },
+    {
+      "source": "node_66",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_68",
+      "type": "trunk"
+    },
+    {
+      "source": "node_68",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "trunk"
+    },
+    {
+      "source": "node_75",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_77",
+      "type": "trunk"
+    },
+    {
+      "source": "node_77",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "trunk"
+    },
+    {
+      "source": "node_84",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_87",
+      "type": "branch"
+    }
+  ]
+}

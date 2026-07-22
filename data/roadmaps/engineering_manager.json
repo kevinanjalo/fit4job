@@ -1,0 +1,488 @@
+{
+ "domain": "Engineering Manager",
+ "stages": [
+  {
+   "name": "Engineering Manager",
+   "skills": [
+    "Backend Development",
+    "DevOps Engineering",
+    "System Design",
+    "Software Architect"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Technical Leadership",
+   "skills": [
+    "Process",
+    "What is Engineering Management?",
+    "EM vs Tech Lead vs IC People Product",
+    "Key Focus Areas",
+    "Quality and Process",
+    "System Monitoring & Performance"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Architectural Decision-Making",
+   "skills": [
+    "Technical Strategy CI/CD Implementation",
+    "Development / Release Workflow",
+    "Software Engineering Background",
+    "Testing Strategies",
+    "System Design and Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Technical Risk Assessment",
+   "skills": [
+    "Build vs Buy Evaluation",
+    "Technical Standards Setting",
+    "Technical Debt and Management",
+    "Security Best Practices"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Scaling Infrastructure",
+   "skills": [
+    "Code Review Best Practices",
+    "Incident Management"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Leadership Skills",
+   "skills": [
+    "People Management",
+    "Team Development Delegation"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Conflict Resolution",
+   "skills": [
+    "Communication",
+    "One-on-One Meetings",
+    "Hiring and Recruitment"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Feedback Delivery",
+   "skills": [
+    "Team Meetings",
+    "Team Structure and Design"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Team Motivation",
+   "skills": [
+    "Status Reporting",
+    "Performance Evaluations",
+    "Trust / Influence Building"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Emotional Intelligence",
+   "skills": [
+    "Stakeholder Management",
+    "Career Development Planning",
+    "Cross-functional Collaboration",
+    "Mentoring and Coaching"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Project Planning",
+   "skills": [
+    "Execution"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Resource Allocation",
+   "skills": [
+    "Agile methodologies"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Sprint Planning",
+   "skills": [
+    "Project Tracking",
+    "Project Management"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Release Management",
+   "skills": [
+    "Milestone Management"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Risk Management",
+   "skills": [
+    "Scope Management"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Dependency management",
+   "skills": [
+    "Timeline Estimation",
+    "Strategic Thinking"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Business Acumen",
+   "skills": [
+    "Product strategy alignment",
+    "Measurement",
+    "Business Case Development",
+    "KPI Definition",
+    "ROI analysis",
+    "Velocity Tracking",
+    "Market awareness"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Budget Planning",
+   "skills": [
+    "Quality Metrics",
+    "Competitive Analysis",
+    "Team Health Metrics"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Resource forecasting",
+   "skills": [
+    "Project Postmortems"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Cost Optimization",
+   "skills": [
+    "Company Culture"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Vendor Management",
+   "skills": [
+    "Change management",
+    "Culture Building"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Financial Management",
+   "skills": [
+    "Organization structure",
+    "Politics navigation"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Engineering Culture",
+   "skills": [
+    "Team Culture",
+    "Cross-department collaboration",
+    "Organizational Awareness",
+    "Defining and Enforcing Values"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Innovation fostering",
+   "skills": [
+    "Inclusive environment creation"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Learning culture development",
+   "skills": [
+    "Team Traditions and Rituals",
+    "Crisis Management"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Knowledge sharing practices",
+   "skills": [
+    "Recognition programs"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Technical excellence mindset",
+   "skills": [
+    "Social connections"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Risk Mitigation",
+   "skills": [
+    "Incident Response",
+    "Team Support"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Contingency planning",
+   "skills": [
+    "Emergency protocols",
+    "Contingency planning"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Disaster recovery",
+   "skills": [
+    "War Room Management",
+    "Disaster recovery"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Business continuity",
+   "skills": [
+    "Stakeholder Communication",
+    "Business continuity"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Security incident handling",
+   "skills": [
+    "Service Recovery",
+    "Security incident handling"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Production issues management",
+   "skills": [
+    "Post-incident analysis",
+    "Production issues management"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Partner Management",
+   "skills": [
+    "Stakeholder Management",
+    "Customer Relations"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Vendor relationships",
+   "skills": [
+    "Customer feedback integration"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Technology partnerships",
+   "skills": [
+    "Technical customer support"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Integration management",
+   "skills": [
+    "Customer success alignment"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "API strategy",
+   "skills": [
+    "Feature prioritization"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "External collaboration",
+   "skills": [
+    "Technical partnerships",
+    "Decision records"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Knowledge Management",
+   "skills": [
+    "Best Practices",
+    "Executive Communication",
+    "Lessons Learned",
+    "Board presentations",
+    "Executive summaries"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Technical Change",
+   "skills": [
+    "Knowledge Transfer Change Management",
+    "Strategic proposals",
+    "Mentoring Programs",
+    "Budget requests",
+    "Knowledge bases",
+    "Vision alignment"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Migration planning",
+   "skills": [
+    "Tech Talks"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Legacy system retirement",
+   "skills": [
+    "Brown Bags",
+    "Organizational Change"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Technology adoption",
+   "skills": [
+    "Change strategy",
+    "Team Change"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Tool transitions",
+   "skills": [
+    "Impact assessment",
+    "Reorganizations"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  },
+  {
+   "name": "Process changes",
+   "skills": [
+    "Stakeholder management",
+    "Team mergers",
+    "Communication planning",
+    "Role transitions",
+    "Resistance management",
+    "Responsibility shifts",
+    "Culture evolution",
+    "Software Architect System Design",
+    "Software Design & Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/engineering-manager"
+   ]
+  }
+ ]
+}

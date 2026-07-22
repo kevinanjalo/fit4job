@@ -1,0 +1,1807 @@
+{
+  "topic": "Design System",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Design System",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this roadmap",
+      "type": "skill",
+      "x_raw": 473.95318603515625,
+      "y_raw": 46.5713996887207,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "and more roadmaps at",
+      "type": "skill",
+      "x_raw": 524.1094360351562,
+      "y_raw": 62.8135871887207,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "UX Design",
+      "type": "skill",
+      "x_raw": 57.58599853515625,
+      "y_raw": 72.10545349121094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Frontend Development",
+      "type": "skill",
+      "x_raw": 57.58599853515625,
+      "y_raw": 91.21873474121094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Design System",
+      "type": "section",
+      "x_raw": 268.67584228515625,
+      "y_raw": 110.05231475830078,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "JavaScript Roadmap",
+      "type": "skill",
+      "x_raw": 57.58599853515625,
+      "y_raw": 110.33201599121094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "React Roadmap",
+      "type": "skill",
+      "x_raw": 57.58599853515625,
+      "y_raw": 129.42185974121094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "What is a Design System?",
+      "type": "skill",
+      "x_raw": 516.6797485351562,
+      "y_raw": 168.59873962402344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Need of Design System",
+      "type": "skill",
+      "x_raw": 522.0000610351562,
+      "y_raw": 202.36045837402344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Understand the Basics",
+      "type": "section",
+      "x_raw": 272.56646728515625,
+      "y_raw": 236.12217712402344,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Design System vs Component Library",
+      "type": "skill",
+      "x_raw": 488.15631103515625,
+      "y_raw": 236.12217712402344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Component",
+      "type": "skill",
+      "x_raw": 73.58209228515625,
+      "y_raw": 238.03233337402344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "What is Atomic Design",
+      "type": "skill",
+      "x_raw": 524.8945922851562,
+      "y_raw": 269.8839111328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Component Library",
+      "type": "skill",
+      "x_raw": 55.28912353515625,
+      "y_raw": 271.7940673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Stakeholders Involved in Building",
+      "type": "skill",
+      "x_raw": 498.79693603515625,
+      "y_raw": 303.6456298828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Design Language",
+      "type": "skill",
+      "x_raw": 58.91021728515625,
+      "y_raw": 305.5557861328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Design System Examples Terminology",
+      "type": "skill",
+      "x_raw": 298.87506103515625,
+      "y_raw": 337.4073486328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Governance",
+      "type": "skill",
+      "x_raw": 72.11724853515625,
+      "y_raw": 339.3175048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Guidelines",
+      "type": "skill",
+      "x_raw": 76.11334228515625,
+      "y_raw": 373.0792236328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Making it from Scratch",
+      "type": "skill",
+      "x_raw": 524.8477172851562,
+      "y_raw": 391.5479736328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Pattern",
+      "type": "skill",
+      "x_raw": 84.43365478515625,
+      "y_raw": 406.8409423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Making a Design System",
+      "type": "skill",
+      "x_raw": 268.34771728515625,
+      "y_raw": 425.9542236328125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "Making it from Existing Design",
+      "type": "skill",
+      "x_raw": 505.46490478515625,
+      "y_raw": 425.9542236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Pilot",
+      "type": "skill",
+      "x_raw": 91.66412353515625,
+      "y_raw": 440.6026611328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Token",
+      "type": "skill",
+      "x_raw": 87.59771728515625,
+      "y_raw": 474.3643798828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Performing a Visual Audit",
+      "type": "skill",
+      "x_raw": 518.5664672851562,
+      "y_raw": 481.6885986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "UI Kit",
+      "type": "skill",
+      "x_raw": 88.65240478515625,
+      "y_raw": 508.1260986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Identify Existing Design Process",
+      "type": "skill",
+      "x_raw": 501.24615478515625,
+      "y_raw": 515.7667236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Identify Design Elements",
+      "type": "skill",
+      "x_raw": 533.3086547851562,
+      "y_raw": 555.6456298828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Existing Design Analysis",
+      "type": "section",
+      "x_raw": 269.43756103515625,
+      "y_raw": 569.9190673828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "A/B Tests & Experiments",
+      "type": "skill",
+      "x_raw": 41.25006103515625,
+      "y_raw": 569.9190673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Icons Visual Forms Sizing",
+      "type": "skill",
+      "x_raw": 483.66802978515625,
+      "y_raw": 591.5518798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "If building from existing design",
+      "type": "skill",
+      "x_raw": 254.28521728515625,
+      "y_raw": 599.6495361328125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Regional Requirements",
+      "type": "skill",
+      "x_raw": 44.23834228515625,
+      "y_raw": 603.6807861328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Spaces Color Typography",
+      "type": "skill",
+      "x_raw": 484.18365478515625,
+      "y_raw": 625.3135986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Documentation",
+      "type": "skill",
+      "x_raw": 64.87506103515625,
+      "y_raw": 637.4425048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Identify Components",
+      "type": "skill",
+      "x_raw": 529.4883422851562,
+      "y_raw": 672.8565673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Brand",
+      "type": "skill",
+      "x_raw": 88.35943603515625,
+      "y_raw": 687.5167236328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Avatar Badges Banners",
+      "type": "skill",
+      "x_raw": 487.33599853515625,
+      "y_raw": 708.1300048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Writing Guidelines",
+      "type": "skill",
+      "x_raw": 56.96490478515625,
+      "y_raw": 719.6143798828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Buttons Cards",
+      "type": "skill",
+      "x_raw": 488.19146728515625,
+      "y_raw": 741.8917236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Forms",
+      "type": "skill",
+      "x_raw": 558.8203735351562,
+      "y_raw": 741.8917236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Tone of Voice",
+      "type": "skill",
+      "x_raw": 68.88287353515625,
+      "y_raw": 753.3760986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Creating Design Language",
+      "type": "section",
+      "x_raw": 262.60552978515625,
+      "y_raw": 765.1417236328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "Dropdowns",
+      "type": "skill",
+      "x_raw": 495.92584228515625,
+      "y_raw": 775.6534423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "...other",
+      "type": "skill",
+      "x_raw": 618.9024047851562,
+      "y_raw": 775.6534423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Terminology",
+      "type": "skill",
+      "x_raw": 72.21099853515625,
+      "y_raw": 787.1378173828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Design Principles",
+      "type": "skill",
+      "x_raw": 59.06256103515625,
+      "y_raw": 820.8995361328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Colors",
+      "type": "skill",
+      "x_raw": 512.2734985351562,
+      "y_raw": 854.3917236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Vision",
+      "type": "skill",
+      "x_raw": 87.05865478515625,
+      "y_raw": 854.6612548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Layout",
+      "type": "skill",
+      "x_raw": 626.7774047851562,
+      "y_raw": 855.1534423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Accessibility",
+      "type": "skill",
+      "x_raw": 497.23834228515625,
+      "y_raw": 885.9854736328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Units",
+      "type": "skill",
+      "x_raw": 633.5859985351562,
+      "y_raw": 886.7471923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Logo",
+      "type": "skill",
+      "x_raw": 90.26959228515625,
+      "y_raw": 892.6300048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Functional Colors",
+      "type": "skill",
+      "x_raw": 484.21881103515625,
+      "y_raw": 919.7471923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Grid",
+      "type": "skill",
+      "x_raw": 635.8242797851562,
+      "y_raw": 920.5089111328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Monochrome Version",
+      "type": "skill",
+      "x_raw": 49.30084228515625,
+      "y_raw": 924.7393798828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Defining Design Tokens",
+      "type": "section",
+      "x_raw": 270.16412353515625,
+      "y_raw": 937.0675048828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_58",
+      "label": "Dark Mode",
+      "type": "skill",
+      "x_raw": 499.86334228515625,
+      "y_raw": 953.5089111328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "Breakpoints",
+      "type": "skill",
+      "x_raw": 616.5352172851562,
+      "y_raw": 954.2706298828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Small Use Guidance",
+      "type": "skill",
+      "x_raw": 51.45709228515625,
+      "y_raw": 958.5010986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Guidelines",
+      "type": "skill",
+      "x_raw": 500.85943603515625,
+      "y_raw": 987.2706298828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Spacking",
+      "type": "skill",
+      "x_raw": 623.7539672851562,
+      "y_raw": 988.0323486328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Placement Guidance",
+      "type": "skill",
+      "x_raw": 49.87506103515625,
+      "y_raw": 992.2628173828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Usage Guidance",
+      "type": "skill",
+      "x_raw": 59.95318603515625,
+      "y_raw": 1026.0245361328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Typography",
+      "type": "skill",
+      "x_raw": 551.4961547851562,
+      "y_raw": 1028.7198486328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "File Formats",
+      "type": "skill",
+      "x_raw": 70.80474853515625,
+      "y_raw": 1059.7862548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Responsiveness Grid Relation",
+      "type": "skill",
+      "x_raw": 478.88677978515625,
+      "y_raw": 1060.3135986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Guidelines",
+      "type": "skill",
+      "x_raw": 630.4219360351562,
+      "y_raw": 1093.5245361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Readability Performance",
+      "type": "skill",
+      "x_raw": 474.91412353515625,
+      "y_raw": 1094.1807861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Guidelines",
+      "type": "skill",
+      "x_raw": 75.93756103515625,
+      "y_raw": 1100.2979736328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Accessibility",
+      "type": "skill",
+      "x_raw": 71.09771728515625,
+      "y_raw": 1132.4073486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Iconography",
+      "type": "skill",
+      "x_raw": 551.4961547851562,
+      "y_raw": 1136.6378173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "User Onboarding",
+      "type": "skill",
+      "x_raw": 58.72271728515625,
+      "y_raw": 1166.1690673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Accessibility Style Naming",
+      "type": "skill",
+      "x_raw": 473.68365478515625,
+      "y_raw": 1167.9620361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Microcopy Guidelines",
+      "type": "skill",
+      "x_raw": 48.35162353515625,
+      "y_raw": 1199.9307861328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Grid Relation Sizes Keywords",
+      "type": "skill",
+      "x_raw": 480.72662353515625,
+      "y_raw": 1201.3370361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Reserved Icons Guidelines",
+      "type": "skill",
+      "x_raw": 485.16802978515625,
+      "y_raw": 1235.7432861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Design",
+      "type": "skill",
+      "x_raw": 90.26959228515625,
+      "y_raw": 1304.3800048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Creating Core Components Avatar Input Text",
+      "type": "skill",
+      "x_raw": 251.62506103515625,
+      "y_raw": 1311.2940673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Design Editor",
+      "type": "skill",
+      "x_raw": 72.97271728515625,
+      "y_raw": 1335.5050048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Banner",
+      "type": "skill",
+      "x_raw": 498.52740478515625,
+      "y_raw": 1345.0557861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Input Checkbox",
+      "type": "skill",
+      "x_raw": 599.5313110351562,
+      "y_raw": 1345.0557861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Plugins",
+      "type": "skill",
+      "x_raw": 88.45318603515625,
+      "y_raw": 1369.2667236328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Badge",
+      "type": "skill",
+      "x_raw": 500.35552978515625,
+      "y_raw": 1378.8175048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Input Radio",
+      "type": "skill",
+      "x_raw": 609.2461547851562,
+      "y_raw": 1378.8175048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Version Control",
+      "type": "skill",
+      "x_raw": 68.82427978515625,
+      "y_raw": 1403.0284423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Button",
+      "type": "skill",
+      "x_raw": 500.44927978515625,
+      "y_raw": 1412.5792236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Input Switch",
+      "type": "skill",
+      "x_raw": 608.0508422851562,
+      "y_raw": 1412.5792236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Tooling",
+      "type": "section",
+      "x_raw": 316.01959228515625,
+      "y_raw": 1429.7823486328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_90",
+      "label": "Contribution Guidelines",
+      "type": "skill",
+      "x_raw": 48.70318603515625,
+      "y_raw": 1436.7901611328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Card",
+      "type": "skill",
+      "x_raw": 504.71490478515625,
+      "y_raw": 1446.3409423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "List",
+      "type": "skill",
+      "x_raw": 628.8867797851562,
+      "y_raw": 1446.3409423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Development",
+      "type": "skill",
+      "x_raw": 75.62115478515625,
+      "y_raw": 1475.7315673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Carousel",
+      "type": "skill",
+      "x_raw": 494.63677978515625,
+      "y_raw": 1480.1026611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Loading Indicator",
+      "type": "skill",
+      "x_raw": 594.8438110351562,
+      "y_raw": 1480.1026611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Component Catalog",
+      "type": "skill",
+      "x_raw": 57.84381103515625,
+      "y_raw": 1506.8565673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Dropdown",
+      "type": "skill",
+      "x_raw": 491.74224853515625,
+      "y_raw": 1513.8643798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Modal",
+      "type": "skill",
+      "x_raw": 622.4883422851562,
+      "y_raw": 1513.8643798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Documentation",
+      "type": "skill",
+      "x_raw": 69.53912353515625,
+      "y_raw": 1540.6182861328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Icon",
+      "type": "skill",
+      "x_raw": 505.88677978515625,
+      "y_raw": 1547.6260986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Tabs",
+      "type": "skill",
+      "x_raw": 626.1328735351562,
+      "y_raw": 1547.6260986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Code Style",
+      "type": "skill",
+      "x_raw": 80.49615478515625,
+      "y_raw": 1574.3800048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "Select",
+      "type": "skill",
+      "x_raw": 501.16412353515625,
+      "y_raw": 1581.3878173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Toast",
+      "type": "skill",
+      "x_raw": 624.4453735351562,
+      "y_raw": 1581.3878173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Unit Testing",
+      "type": "skill",
+      "x_raw": 77.91802978515625,
+      "y_raw": 1608.1417236328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Textarea",
+      "type": "skill",
+      "x_raw": 495.42193603515625,
+      "y_raw": 1615.1495361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Tooltip",
+      "type": "skill",
+      "x_raw": 621.4922485351562,
+      "y_raw": 1615.1495361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Accessibility Testing",
+      "type": "skill",
+      "x_raw": 58.53521728515625,
+      "y_raw": 1641.9034423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Semantic Versioning",
+      "type": "skill",
+      "x_raw": 57.05865478515625,
+      "y_raw": 1675.6651611328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "Task Management",
+      "type": "skill",
+      "x_raw": 533.6250610351562,
+      "y_raw": 1689.1300048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "Project Management",
+      "type": "section",
+      "x_raw": 282.19927978515625,
+      "y_raw": 1708.6065673828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_112",
+      "label": "Release Strategy",
+      "type": "skill",
+      "x_raw": 64.87506103515625,
+      "y_raw": 1709.4268798828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "Roadmap Milestones Ticketing",
+      "type": "skill",
+      "x_raw": 483.42193603515625,
+      "y_raw": 1720.2550048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Commit Guidelines",
+      "type": "skill",
+      "x_raw": 60.51568603515625,
+      "y_raw": 1743.1885986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Analytics",
+      "type": "skill",
+      "x_raw": 557.2031860351562,
+      "y_raw": 1758.8917236328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "PR Templates",
+      "type": "skill",
+      "x_raw": 73.05474853515625,
+      "y_raw": 1776.9503173828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Component Analytics Logging",
+      "type": "skill",
+      "x_raw": 491.14459228515625,
+      "y_raw": 1796.0635986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Contribution Guidelines",
+      "type": "skill",
+      "x_raw": 49.34771728515625,
+      "y_raw": 1810.7120361328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "Tooling Analytics",
+      "type": "skill",
+      "x_raw": 541.7461547851562,
+      "y_raw": 1829.8253173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Service and Health Metrics",
+      "type": "skill",
+      "x_raw": 515.8477172851562,
+      "y_raw": 1863.5870361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Communications",
+      "type": "skill",
+      "x_raw": 553.6758422851562,
+      "y_raw": 1905.5284423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "Community Meetings",
+      "type": "skill",
+      "x_raw": 531.4102172851562,
+      "y_raw": 1935.0596923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Communication Channel",
+      "type": "skill",
+      "x_raw": 522.6211547851562,
+      "y_raw": 1968.8214111328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_124",
+      "label": "Visit the following roadmaps to keep learning",
+      "type": "skill",
+      "x_raw": 114.09381103515625,
+      "y_raw": 1977.0831298828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_125",
+      "label": "Open Hours FAQs UX Design",
+      "type": "skill",
+      "x_raw": 318.12896728515625,
+      "y_raw": 2002.5831298828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_126",
+      "label": "Frontend",
+      "type": "skill",
+      "x_raw": 81.49224853515625,
+      "y_raw": 2011.7940673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Backend",
+      "type": "skill",
+      "x_raw": 204.07037353515625,
+      "y_raw": 2011.7940673828125,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_57",
+      "type": "trunk"
+    },
+    {
+      "source": "node_57",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_89",
+      "type": "trunk"
+    },
+    {
+      "source": "node_89",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_111",
+      "type": "trunk"
+    },
+    {
+      "source": "node_111",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_127",
+      "type": "branch"
+    }
+  ]
+}

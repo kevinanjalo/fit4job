@@ -1,0 +1,841 @@
+{
+  "topic": "Docker",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Docker",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Roadmap was made in partnership with Sid Palas. Checkout his free",
+      "type": "skill",
+      "x_raw": 36.2347412109375,
+      "y_raw": 39.79932403564453,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 518.2972412109375,
+      "y_raw": 41.72119903564453,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 521.8948974609375,
+      "y_raw": 57.38916778564453,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "course covering Docker in Depth",
+      "type": "skill",
+      "x_raw": 36.2347412109375,
+      "y_raw": 71.12354278564453,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Docker",
+      "type": "section",
+      "x_raw": 321.3519287109375,
+      "y_raw": 93.84825897216797,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "Docker Beginner to Pro",
+      "type": "skill",
+      "x_raw": 70.4300537109375,
+      "y_raw": 103.15088653564453,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Kubernetes Roadmap",
+      "type": "skill",
+      "x_raw": 55.5823974609375,
+      "y_raw": 165.71939086914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 55.5823974609375,
+      "y_raw": 184.14126586914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "What are Containers?",
+      "type": "skill",
+      "x_raw": 546.5511474609375,
+      "y_raw": 200.00634765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 55.5823974609375,
+      "y_raw": 202.56314086914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Why do we need Containers?",
+      "type": "skill",
+      "x_raw": 529.4534912109375,
+      "y_raw": 232.54931640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 320.8948974609375,
+      "y_raw": 244.31494140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Bare Metal vs VMs vs Containers",
+      "type": "skill",
+      "x_raw": 519.7855224609375,
+      "y_raw": 265.10400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Package Managers",
+      "type": "skill",
+      "x_raw": 79.2777099609375,
+      "y_raw": 265.80712890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Docker and OCI",
+      "type": "skill",
+      "x_raw": 560.5198974609375,
+      "y_raw": 298.26806640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Users / Groups Permissions",
+      "type": "skill",
+      "x_raw": 58.7698974609375,
+      "y_raw": 298.36181640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Shell Commands",
+      "type": "skill",
+      "x_raw": 85.3128662109375,
+      "y_raw": 330.90478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Underlying Technologies Namespaces cgroups",
+      "type": "skill",
+      "x_raw": 291.2581787109375,
+      "y_raw": 355.17431640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Shell Scripting",
+      "type": "skill",
+      "x_raw": 91.4183349609375,
+      "y_raw": 363.45947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Union Filesystems",
+      "type": "skill",
+      "x_raw": 557.6605224609375,
+      "y_raw": 388.33837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Linux Fundamentals",
+      "type": "skill",
+      "x_raw": 72.7738037109375,
+      "y_raw": 396.91650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Just get the basic idea of these",
+      "type": "skill",
+      "x_raw": 513.4339599609375,
+      "y_raw": 419.94384765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Programming Languages",
+      "type": "skill",
+      "x_raw": 65.6605224609375,
+      "y_raw": 431.63916015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Application Architecture",
+      "type": "skill",
+      "x_raw": 68.8831787109375,
+      "y_raw": 464.80322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Installation / Setup Docker Desktop (Win/Mac/Linux)",
+      "type": "skill",
+      "x_raw": 304.7933349609375,
+      "y_raw": 467.87353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Web Development",
+      "type": "skill",
+      "x_raw": 76.7698974609375,
+      "y_raw": 493.94775390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Docker Engine ( Linux ) Basics of Docker",
+      "type": "skill",
+      "x_raw": 309.2230224609375,
+      "y_raw": 500.41650390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Data Persistence Ephemeral Container Filesystem",
+      "type": "skill",
+      "x_raw": 308.7073974609375,
+      "y_raw": 568.29150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Using 3rd Party Container Images",
+      "type": "skill",
+      "x_raw": 47.4730224609375,
+      "y_raw": 568.29150390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Volume Mounts Bind Mounts",
+      "type": "skill",
+      "x_raw": 521.4613037109375,
+      "y_raw": 600.83447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Databases",
+      "type": "skill",
+      "x_raw": 84.8792724609375,
+      "y_raw": 620.48681640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Command Line Utilities",
+      "type": "skill",
+      "x_raw": 55.4183349609375,
+      "y_raw": 653.04150390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "docker compose Runtime Configuration Options",
+      "type": "skill",
+      "x_raw": 304.5120849609375,
+      "y_raw": 661.33837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "docker run",
+      "type": "skill",
+      "x_raw": 588.2113037109375,
+      "y_raw": 693.88134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Container Registries",
+      "type": "section",
+      "x_raw": 299.9066162109375,
+      "y_raw": 738.10791015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Running Containers",
+      "type": "skill",
+      "x_raw": 566.5902099609375,
+      "y_raw": 738.10791015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Building Container Images",
+      "type": "skill",
+      "x_raw": 64.4417724609375,
+      "y_raw": 738.41259765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Dockerfiles",
+      "type": "skill",
+      "x_raw": 84.0472412109375,
+      "y_raw": 801.97509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Dockerhub",
+      "type": "section",
+      "x_raw": 322.9691162109375,
+      "y_raw": 804.74072265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "Efficient Layer Caching",
+      "type": "skill",
+      "x_raw": 56.0394287109375,
+      "y_raw": 834.52978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Others (ghcr, ecr, gcr, acr, etc)",
+      "type": "skill",
+      "x_raw": 277.6175537109375,
+      "y_raw": 837.29541015625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "Image Security",
+      "type": "skill",
+      "x_raw": 514.2073974609375,
+      "y_raw": 837.90478515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Image Size and Security",
+      "type": "skill",
+      "x_raw": 53.6839599609375,
+      "y_raw": 867.08447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Image Tagging Best Practices",
+      "type": "skill",
+      "x_raw": 277.8284912109375,
+      "y_raw": 869.85009765625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "Runtime Security",
+      "type": "skill",
+      "x_raw": 509.4144287109375,
+      "y_raw": 870.45947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Docker CLI Images Containers",
+      "type": "skill",
+      "x_raw": 53.6722412109375,
+      "y_raw": 933.70556640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Container Security",
+      "type": "skill",
+      "x_raw": 569.9534912109375,
+      "y_raw": 934.02197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Volumes Networks",
+      "type": "skill",
+      "x_raw": 51.4105224609375,
+      "y_raw": 966.56494140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Nomad",
+      "type": "skill",
+      "x_raw": 596.3792724609375,
+      "y_raw": 995.73291015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Docker Swarm",
+      "type": "skill",
+      "x_raw": 579.5277099609375,
+      "y_raw": 1028.27587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Hot Reloading",
+      "type": "skill",
+      "x_raw": 68.2855224609375,
+      "y_raw": 1047.27197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Kubernetes",
+      "type": "skill",
+      "x_raw": 586.1722412109375,
+      "y_raw": 1060.83056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Debuggers",
+      "type": "skill",
+      "x_raw": 75.7503662109375,
+      "y_raw": 1079.82666015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "PaaS Options",
+      "type": "skill",
+      "x_raw": 581.7191162109375,
+      "y_raw": 1093.38525390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Tests",
+      "type": "skill",
+      "x_raw": 89.5784912109375,
+      "y_raw": 1112.38134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Continuous Integration Deploying Containers",
+      "type": "skill",
+      "x_raw": 48.2113037109375,
+      "y_raw": 1144.92431640625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Developer Experience",
+      "type": "section",
+      "x_raw": 284.3558349609375,
+      "y_raw": 1146.34228515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "Continue learning with following roadmaps",
+      "type": "skill",
+      "x_raw": 457.8988037109375,
+      "y_raw": 1223.93212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Kubernetes Roadmap DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 435.7620849609375,
+      "y_raw": 1255.36181640625,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "branch"
+    }
+  ]
+}

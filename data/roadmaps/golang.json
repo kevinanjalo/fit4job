@@ -1,0 +1,355 @@
+{
+ "domain": "Golang",
+ "stages": [
+  {
+   "name": "Introduction to Go",
+   "skills": [
+    "System Design",
+    "Software Design & Architecture",
+    "Why use Go History of Go",
+    "Language Basics",
+    "Setting up the Environment",
+    "Hello World in Go `go` command"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Data Types",
+   "skills": [
+    "Numeric Types",
+    "Variables & Constants",
+    "Integers (Signed, Unsigned)",
+    "Floating Points",
+    "var vs :="
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Composite Types",
+   "skills": [
+    "Complex Numbers",
+    "Zero Values",
+    "const and iota",
+    "Boolean",
+    "Runes",
+    "Scope and Shadowing",
+    "Strings",
+    "Raw String Literals"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Arrays",
+   "skills": [
+    "Capacity and Growth",
+    "Interpreted String Literals"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Slices",
+   "skills": [
+    "make()",
+    "Type Conversion"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Strings",
+   "skills": [
+    "Slice to Array Conversion",
+    "Array to Slice Conversion",
+    "Maps Comma-Ok Idiom"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Structs",
+   "skills": [
+    "Struct Tags & JSON",
+    "Embedding Structs",
+    "Conditionals",
+    "Loops for loop for range",
+    "Iterating Maps",
+    "if if-else switch",
+    "Iterating Strings"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Pointers",
+   "skills": [
+    "break continue",
+    "Functions Functions Basics",
+    "goto (discouraged)",
+    "Variadic Functions",
+    "Multiple Return Values",
+    "Pointers Basics",
+    "Anonymous Functions",
+    "Pointers with Structs",
+    "Closures",
+    "With Maps & Slices",
+    "Named Return Values"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Methods and Interfaces",
+   "skills": [
+    "Get a Brief Overview",
+    "Call by Value",
+    "Memory Management",
+    "Why Generics?",
+    "Garbage Collection"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Methods vs Functions",
+   "skills": [
+    "Generic Functions",
+    "Generic Types / Interfaces"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Pointer Receivers",
+   "skills": [
+    "Type Constraints"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Value Receivers",
+   "skills": [
+    "Interfaces Basics",
+    "Type Inference"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Interfaces",
+   "skills": [
+    "Empty Interfaces",
+    "Embedding Interfaces",
+    "Generics",
+    "Type Assertions"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Code Organization",
+   "skills": [
+    "Type Switch",
+    "Error Handling"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Modules & Dependencies",
+   "skills": [
+    "go mod init",
+    "Error Handling Basics",
+    "go mod tidy",
+    "`error` interface",
+    "go mod vendor Packages"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Package Import Rules",
+   "skills": [
+    "errors.New fmt.Errorf",
+    "Wrapping/Unwrapping Errors",
+    "Using 3rd Party Packages",
+    "Concurrency",
+    "Sentinel Errors",
+    "Publishing Modules Goroutines"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Deadlines & Cancellations",
+   "skills": [
+    "`panic` and `recover`",
+    "Channels",
+    "Stack Traces & Debugging",
+    "Select Statement"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Common Usecases",
+   "skills": [
+    "Buffered vs Unbuffered",
+    "fan-in fan-out pipeline",
+    "Worker Pools"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "`context` Package",
+   "skills": [
+    "Concurrency Patterns",
+    "`sync` Package",
+    "Mutexes WaitGroups"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Testing & Benchmarking",
+   "skills": [
+    "Race Detection",
+    "`testing` package basics",
+    "Standard Library",
+    "Table-driven Tests",
+    "Mocks and Stubs",
+    "I/O & File Handling",
+    "`httptest` for HTTP Tests",
+    "flag time encoding/json"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Building CLIs",
+   "skills": [
+    "os bufio slog regexp",
+    "go:embed for embedding",
+    "Cobra urfave/cli",
+    "bubbletea",
+    "Web Development net/http (standard)",
+    "gRPC & Protocol Buffers",
+    "Frameworks (Optional)",
+    "ORMs & DB Access pgx GORM",
+    "gin echo"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "go vet goimports",
+   "skills": [
+    "fiber beego",
+    "Logging Zerolog Zap",
+    "Code Generation / Build Tags",
+    "Code Quality and Analysis",
+    "Core Go Commands",
+    "go generate",
+    "go run",
+    "go build"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Linters",
+   "skills": [
+    "Build Tags",
+    "go install go fmt"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "revive staticcheck",
+   "skills": [
+    "go mod go test",
+    "Performance and Debugging"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "golangci-lint",
+   "skills": [
+    "go clean go doc",
+    "pprof trace"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "go version",
+    "Race Detector"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "govulncheck",
+   "skills": [
+    "Deployment & Tooling",
+    "Building Executables Advanced Topics",
+    "Memory Mgmt. in Depth",
+    "Cross-compilation",
+    "Escape Analysis"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  },
+  {
+   "name": "Backend",
+   "skills": [
+    "Reflection",
+    "Unsafe Package",
+    "Build Constraints & Tags",
+    "CGO Basics",
+    "DevOps Docker Kubernetes",
+    "Compiler & Linker Flags",
+    "Plugins & Dynamic Loading"
+   ],
+   "resources": [
+    "roadmap.sh/golang"
+   ]
+  }
+ ]
+}

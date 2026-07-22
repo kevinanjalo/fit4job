@@ -1,0 +1,3375 @@
+{
+  "topic": "Cyber Security",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Cyber Security",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "CTFs (Capture the Flag)",
+      "type": "skill",
+      "x_raw": 73.48252868652344,
+      "y_raw": 61.32991027832031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 483.698974609375,
+      "y_raw": 92.13774108886719,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "HackTheBox",
+      "type": "skill",
+      "x_raw": 100.80998229980469,
+      "y_raw": 92.94631958007812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Cyber Security",
+      "type": "section",
+      "x_raw": 299.7542724609375,
+      "y_raw": 121.43146514892578,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "TryHackMe",
+      "type": "skill",
+      "x_raw": 103.85678100585938,
+      "y_raw": 126.36737060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "VulnHub",
+      "type": "skill",
+      "x_raw": 111.30972290039062,
+      "y_raw": 159.78842163085938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "picoCTF",
+      "type": "skill",
+      "x_raw": 111.02848815917969,
+      "y_raw": 193.20945739746094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Fundamental IT Skills",
+      "type": "section",
+      "x_raw": 305.906494140625,
+      "y_raw": 199.5257110595703,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "SANS Holiday Hack Challenge",
+      "type": "skill",
+      "x_raw": 58.72898864746094,
+      "y_raw": 226.64222717285156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Computer Hardware Components",
+      "type": "section",
+      "x_raw": 313.14849853515625,
+      "y_raw": 255.44619750976562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Certifications",
+      "type": "skill",
+      "x_raw": 100.59906005859375,
+      "y_raw": 262.5944519042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "NFC",
+      "type": "skill",
+      "x_raw": 565.4117431640625,
+      "y_raw": 270.7388000488281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Bluetooth",
+      "type": "skill",
+      "x_raw": 620.652587890625,
+      "y_raw": 270.7388000488281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Connection Types and their function",
+      "type": "skill",
+      "x_raw": 307.17205810546875,
+      "y_raw": 288.87896728515625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "Beginner Certifications",
+      "type": "skill",
+      "x_raw": 75.53326416015625,
+      "y_raw": 289.38287353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "WiFi",
+      "type": "skill",
+      "x_raw": 566.1148681640625,
+      "y_raw": 304.17156982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Infrared",
+      "type": "skill",
+      "x_raw": 624.5899658203125,
+      "y_raw": 304.17156982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "OS-Independent Troubleshooting",
+      "type": "section",
+      "x_raw": 313.7929992675781,
+      "y_raw": 322.3000183105469,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "CompTIA A+ CompTIA Linux+",
+      "type": "skill",
+      "x_raw": 45.39338684082031,
+      "y_raw": 322.7218933105469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Understand Basics of Popular Suites",
+      "type": "skill",
+      "x_raw": 306.0236511230469,
+      "y_raw": 355.7327880859375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_20",
+      "label": "MS Office Suite",
+      "type": "skill",
+      "x_raw": 572.53662109375,
+      "y_raw": 355.8148193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "CompTIA Network+ CCNA",
+      "type": "skill",
+      "x_raw": 45.053558349609375,
+      "y_raw": 356.1546325683594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Basics of Computer Networking",
+      "type": "skill",
+      "x_raw": 317.71868896484375,
+      "y_raw": 389.1538391113281,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_23",
+      "label": "iCloud",
+      "type": "skill",
+      "x_raw": 594.5790405273438,
+      "y_raw": 389.2475891113281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "CompTIA Security+",
+      "type": "skill",
+      "x_raw": 84.76741027832031,
+      "y_raw": 389.5757141113281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Google Suite",
+      "type": "skill",
+      "x_raw": 578.7708129882812,
+      "y_raw": 422.6803283691406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Advanced Certifications",
+      "type": "skill",
+      "x_raw": 74.29110717773438,
+      "y_raw": 424.0397033691406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "CEH CISA CISM",
+      "type": "skill",
+      "x_raw": 50.23310852050781,
+      "y_raw": 457.6950988769531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Windows Linux MacOS",
+      "type": "skill",
+      "x_raw": 516.2645263671875,
+      "y_raw": 473.9720764160156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "GSEC GPEN GWAPT",
+      "type": "skill",
+      "x_raw": 47.455841064453125,
+      "y_raw": 491.1278991699219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Basics of Subnetting",
+      "type": "section",
+      "x_raw": 307.13690185546875,
+      "y_raw": 513.5101928710938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "Operating Systems",
+      "type": "skill",
+      "x_raw": 549.8848266601562,
+      "y_raw": 520.201416015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "GIAC OSCP CREST",
+      "type": "skill",
+      "x_raw": 49.37767028808594,
+      "y_raw": 524.5489501953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Public vs Private IP Addresses",
+      "type": "skill",
+      "x_raw": 283.9577941894531,
+      "y_raw": 547.5640258789062,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "CISSP",
+      "type": "skill",
+      "x_raw": 116.67677307128906,
+      "y_raw": 557.9817504882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Learn following for each",
+      "type": "skill",
+      "x_raw": 517.5301513671875,
+      "y_raw": 568.0361938476562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "IP Terminology",
+      "type": "section",
+      "x_raw": 322.12481689453125,
+      "y_raw": 582.0045776367188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Installation and Configuration",
+      "type": "skill",
+      "x_raw": 504.95623779296875,
+      "y_raw": 601.8908081054688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "localhost loopback CIDR",
+      "type": "section",
+      "x_raw": 278.12200927734375,
+      "y_raw": 613.5389404296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "VMWare VirtualBox",
+      "type": "skill",
+      "x_raw": 62.47889709472656,
+      "y_raw": 615.2263793945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Different Versions and Differences",
+      "type": "skill",
+      "x_raw": 492.90966796875,
+      "y_raw": 635.3235473632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "subnet mask",
+      "type": "section",
+      "x_raw": 326.1208190917969,
+      "y_raw": 647.6044921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "esxi proxmox",
+      "type": "skill",
+      "x_raw": 73.48252868652344,
+      "y_raw": 648.6591796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Navigating using GUI and CLI",
+      "type": "skill",
+      "x_raw": 503.7961120605469,
+      "y_raw": 668.74462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Common Virtualization Technologies",
+      "type": "skill",
+      "x_raw": 45.41682434082031,
+      "y_raw": 679.1740112304688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "default gateway",
+      "type": "section",
+      "x_raw": 318.8905334472656,
+      "y_raw": 681.0255737304688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Understand Permissions",
+      "type": "skill",
+      "x_raw": 516.7332763671875,
+      "y_raw": 702.1773681640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Hypervisor",
+      "type": "skill",
+      "x_raw": 63.1234130859375,
+      "y_raw": 716.802001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "GuestOS",
+      "type": "skill",
+      "x_raw": 151.69154357910156,
+      "y_raw": 716.802001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Understand the Terminology",
+      "type": "section",
+      "x_raw": 290.8131103515625,
+      "y_raw": 719.2277221679688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "Installing Software and Applications",
+      "type": "skill",
+      "x_raw": 490.54254150390625,
+      "y_raw": 735.598388671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "VM",
+      "type": "skill",
+      "x_raw": 165.54275512695312,
+      "y_raw": 750.2230834960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "HostOS",
+      "type": "skill",
+      "x_raw": 70.57635498046875,
+      "y_raw": 750.2230834960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "VLAN DMZ ARP VM",
+      "type": "section",
+      "x_raw": 280.5125732421875,
+      "y_raw": 750.5745849609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_54",
+      "label": "Performing CRUD on Files",
+      "type": "skill",
+      "x_raw": 512.1162109375,
+      "y_raw": 769.0311889648438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Basics of Virtualization",
+      "type": "skill",
+      "x_raw": 77.876953125,
+      "y_raw": 780.8199462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "DHCP DNS NAT IP",
+      "type": "section",
+      "x_raw": 279.2118225097656,
+      "y_raw": 783.5151977539062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "Troubleshooting",
+      "type": "skill",
+      "x_raw": 537.0882568359375,
+      "y_raw": 802.4639282226562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Router Switch VPN",
+      "type": "section",
+      "x_raw": 283.07891845703125,
+      "y_raw": 817.4284057617188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "ipconfig netstat",
+      "type": "skill",
+      "x_raw": 47.60816955566406,
+      "y_raw": 818.4010620117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "ping dig",
+      "type": "skill",
+      "x_raw": 105.98954772949219,
+      "y_raw": 818.4010620117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 525.1823120117188,
+      "y_raw": 835.885009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "nmap route tcpdump",
+      "type": "skill",
+      "x_raw": 47.88941955566406,
+      "y_raw": 851.8338012695312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "arp",
+      "type": "skill",
+      "x_raw": 199.8426971435547,
+      "y_raw": 852.1384887695312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "MAN LAN WAN WLAN",
+      "type": "section",
+      "x_raw": 280.9461669921875,
+      "y_raw": 859.9664306640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_65",
+      "label": "nslookup iptables",
+      "type": "skill",
+      "x_raw": 98.00927734375,
+      "y_raw": 885.2666015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "tracert",
+      "type": "skill",
+      "x_raw": 47.490997314453125,
+      "y_raw": 885.5595703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Understand these",
+      "type": "section",
+      "x_raw": 314.3672180175781,
+      "y_raw": 890.1180419921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "Packet Sniffers",
+      "type": "skill",
+      "x_raw": 94.50544738769531,
+      "y_raw": 918.6876220703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "DHCP DNS NTP IPAM",
+      "type": "section",
+      "x_raw": 278.07513427734375,
+      "y_raw": 925.9296264648438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Networking Knowledge",
+      "type": "skill",
+      "x_raw": 539.0101318359375,
+      "y_raw": 937.6364135742188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Port Scanners",
+      "type": "skill",
+      "x_raw": 96.40383911132812,
+      "y_raw": 952.1204223632812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Functions of each",
+      "type": "section",
+      "x_raw": 314.89453125,
+      "y_raw": 956.0812377929688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "Protocol Analyzers",
+      "type": "skill",
+      "x_raw": 85.98612976074219,
+      "y_raw": 985.5414428710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Star Ring Mesh Bus",
+      "type": "skill",
+      "x_raw": 283.48907470703125,
+      "y_raw": 991.2131958007812,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "Understand the OSI Model",
+      "type": "skill",
+      "x_raw": 518.5496826171875,
+      "y_raw": 994.060791015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Troubleshooting Tools",
+      "type": "skill",
+      "x_raw": 81.20500183105469,
+      "y_raw": 1014.767333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Network Topologies",
+      "type": "section",
+      "x_raw": 310.6876220703125,
+      "y_raw": 1021.3648681640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_78",
+      "label": "Common Protocols and their Uses",
+      "type": "skill",
+      "x_raw": 500.62042236328125,
+      "y_raw": 1027.4935302734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Kerberos LDAP SSO RADIUS",
+      "type": "skill",
+      "x_raw": 44.03404235839844,
+      "y_raw": 1057.8209228515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "SSH RDP FTP SFTP",
+      "type": "section",
+      "x_raw": 278.9071350097656,
+      "y_raw": 1057.8560791015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Common Ports and their Uses",
+      "type": "skill",
+      "x_raw": 510.68658447265625,
+      "y_raw": 1060.9146728515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Certificates Local Auth",
+      "type": "skill",
+      "x_raw": 50.90106201171875,
+      "y_raw": 1091.253662109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "HTTP / HTTPS SSL / TLS",
+      "type": "section",
+      "x_raw": 281.6726989746094,
+      "y_raw": 1091.499755859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_84",
+      "label": "SSL and TLS Basics",
+      "type": "skill",
+      "x_raw": 534.7211303710938,
+      "y_raw": 1094.347412109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Network Protocols",
+      "type": "section",
+      "x_raw": 312.01177978515625,
+      "y_raw": 1123.6552734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "Authentication Methodologies",
+      "type": "skill",
+      "x_raw": 57.45167541503906,
+      "y_raw": 1125.3779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Basics of NAS and SAN",
+      "type": "skill",
+      "x_raw": 526.5650634765625,
+      "y_raw": 1127.7801513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Security Skills and Knowledge",
+      "type": "skill",
+      "x_raw": 509.97174072265625,
+      "y_raw": 1193.6612548828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Core Concepts of Zero Trust",
+      "type": "skill",
+      "x_raw": 302.37921142578125,
+      "y_raw": 1229.554931640625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_90",
+      "label": "Understand Common Hacking Tools",
+      "type": "skill",
+      "x_raw": 60.88519287109375,
+      "y_raw": 1231.336181640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Roles of Compliance and Auditors",
+      "type": "skill",
+      "x_raw": 289.1842346191406,
+      "y_raw": 1262.9759521484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "Blue / Red / Purple Teams",
+      "type": "skill",
+      "x_raw": 516.7449951171875,
+      "y_raw": 1264.2884521484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Understand Common Exploit Frameworks",
+      "type": "skill",
+      "x_raw": 47.385528564453125,
+      "y_raw": 1264.7689208984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Understand the Definition of Risk",
+      "type": "skill",
+      "x_raw": 291.1646423339844,
+      "y_raw": 1296.4088134765625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "False Negative / False Positive",
+      "type": "skill",
+      "x_raw": 506.7843322753906,
+      "y_raw": 1297.70947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Understand Concept of Defense in Depth",
+      "type": "skill",
+      "x_raw": 47.303497314453125,
+      "y_raw": 1298.18994140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Understand Backups and Resiliency",
+      "type": "skill",
+      "x_raw": 283.66485595703125,
+      "y_raw": 1329.829833984375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_98",
+      "label": "True Negative / True Positive",
+      "type": "skill",
+      "x_raw": 511.02642822265625,
+      "y_raw": 1331.142333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Understand Concept of Runbooks",
+      "type": "skill",
+      "x_raw": 65.37336730957031,
+      "y_raw": 1331.622802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Cyber Kill Chain",
+      "type": "section",
+      "x_raw": 332.85894775390625,
+      "y_raw": 1363.2625732421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_101",
+      "label": "Basics of Threat Intel, OSINT",
+      "type": "skill",
+      "x_raw": 511.4482727050781,
+      "y_raw": 1364.5633544921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Understand Basics of Forensics",
+      "type": "skill",
+      "x_raw": 70.58807373046875,
+      "y_raw": 1365.0438232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "MFA & 2FA",
+      "type": "section",
+      "x_raw": 287.55535888671875,
+      "y_raw": 1396.6953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_104",
+      "label": "Honeypots",
+      "type": "section",
+      "x_raw": 393.3144836425781,
+      "y_raw": 1396.6953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_105",
+      "label": "Understand Handshakes",
+      "type": "skill",
+      "x_raw": 521.432373046875,
+      "y_raw": 1397.99609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "Basics and Concepts of Threat Hunting",
+      "type": "skill",
+      "x_raw": 52.83460998535156,
+      "y_raw": 1398.4765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Operating System Hardening",
+      "type": "section",
+      "x_raw": 301.3362731933594,
+      "y_raw": 1430.116455078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_108",
+      "label": "Understand CIA Triad",
+      "type": "skill",
+      "x_raw": 529.2134399414062,
+      "y_raw": 1431.4171142578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "Basics of Vulnerability Management",
+      "type": "skill",
+      "x_raw": 61.728912353515625,
+      "y_raw": 1431.8975830078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "Understand Concept of Isolation",
+      "type": "skill",
+      "x_raw": 292.67633056640625,
+      "y_raw": 1463.5491943359375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Privilege Escalation",
+      "type": "skill",
+      "x_raw": 533.94775390625,
+      "y_raw": 1464.8499755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Basics of Reverse Engineering",
+      "type": "skill",
+      "x_raw": 72.60365295410156,
+      "y_raw": 1465.330322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "Basics of IDS and IPS",
+      "type": "skill",
+      "x_raw": 318.5272521972656,
+      "y_raw": 1496.97021484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_114",
+      "label": "Web Based Attacks and OWASP10",
+      "type": "skill",
+      "x_raw": 498.9446716308594,
+      "y_raw": 1498.28271484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Penetration Testing Rules of Engagement",
+      "type": "skill",
+      "x_raw": 46.89335632324219,
+      "y_raw": 1498.76318359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "Learn how Malware works and Types",
+      "type": "skill",
+      "x_raw": 493.17919921875,
+      "y_raw": 1531.7037353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_117",
+      "label": "Perimiter vs DMZ vs Segmentation",
+      "type": "skill",
+      "x_raw": 64.14292907714844,
+      "y_raw": 1532.1842041015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Authentication vs Authorization",
+      "type": "section",
+      "x_raw": 296.8715515136719,
+      "y_raw": 1532.1842041015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "Basics of Cryptography",
+      "type": "section",
+      "x_raw": 305.472900390625,
+      "y_raw": 1568.698974609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_120",
+      "label": "Attack Types and Differences",
+      "type": "skill",
+      "x_raw": 524.033935546875,
+      "y_raw": 1568.698974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Tools for Incident Response and Discovery",
+      "type": "skill",
+      "x_raw": 31.26092529296875,
+      "y_raw": 1569.6949462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_122",
+      "label": "Phishing Whishing Whaling",
+      "type": "skill",
+      "x_raw": 506.3858947753906,
+      "y_raw": 1596.4716796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Salting Hashing Key Exchange",
+      "type": "skill",
+      "x_raw": 266.040283203125,
+      "y_raw": 1597.1513671875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_124",
+      "label": "nmap",
+      "type": "skill",
+      "x_raw": 69.38107299804688,
+      "y_raw": 1598.4169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_125",
+      "label": "ping arp cat dd",
+      "type": "skill",
+      "x_raw": 116.02055358886719,
+      "y_raw": 1598.4169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "dig",
+      "type": "skill",
+      "x_raw": 35.69050598144531,
+      "y_raw": 1598.4169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Smishing Spam vs Spim",
+      "type": "skill",
+      "x_raw": 514.9286499023438,
+      "y_raw": 1629.8458251953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "Private vs Public Keys",
+      "type": "skill",
+      "x_raw": 319.2420959472656,
+      "y_raw": 1630.5723876953125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_129",
+      "label": "nslookup",
+      "type": "skill",
+      "x_raw": 190.12808227539062,
+      "y_raw": 1631.8380126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_130",
+      "label": "hping",
+      "type": "skill",
+      "x_raw": 70.72869873046875,
+      "y_raw": 1631.8380126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_131",
+      "label": "head grep",
+      "type": "skill",
+      "x_raw": 112.9151611328125,
+      "y_raw": 1631.8380126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_132",
+      "label": "tail",
+      "type": "skill",
+      "x_raw": 36.58110046386719,
+      "y_raw": 1631.8380126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_133",
+      "label": "Shoulder Surfing",
+      "type": "skill",
+      "x_raw": 514.3427124023438,
+      "y_raw": 1663.559814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Tailgating",
+      "type": "skill",
+      "x_raw": 621.133056640625,
+      "y_raw": 1663.559814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "PKI",
+      "type": "skill",
+      "x_raw": 280.2196044921875,
+      "y_raw": 1664.005126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_136",
+      "label": "Obfuscation",
+      "type": "section",
+      "x_raw": 375.6781921386719,
+      "y_raw": 1664.005126953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_137",
+      "label": "tracert",
+      "type": "skill",
+      "x_raw": 42.74501037597656,
+      "y_raw": 1665.270751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_138",
+      "label": "winhex",
+      "type": "skill",
+      "x_raw": 98.33738708496094,
+      "y_raw": 1665.270751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_139",
+      "label": "autopsy",
+      "type": "skill",
+      "x_raw": 147.320556640625,
+      "y_raw": 1665.270751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_140",
+      "label": "ipconfig",
+      "type": "skill",
+      "x_raw": 199.95986938476562,
+      "y_raw": 1665.270751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_141",
+      "label": "Understand Frameworks",
+      "type": "section",
+      "x_raw": 306.4220886230469,
+      "y_raw": 1696.57080078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_142",
+      "label": "Dumpster Diving",
+      "type": "skill",
+      "x_raw": 549.1348266601562,
+      "y_raw": 1697.5433349609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_143",
+      "label": "curl",
+      "type": "skill",
+      "x_raw": 52.084625244140625,
+      "y_raw": 1698.6917724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "wireshark",
+      "type": "skill",
+      "x_raw": 107.876220703125,
+      "y_raw": 1698.6917724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_145",
+      "label": "memdump",
+      "type": "skill",
+      "x_raw": 181.8665771484375,
+      "y_raw": 1698.6917724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_146",
+      "label": "Kill Chain Diamond Model",
+      "type": "skill",
+      "x_raw": 271.8526306152344,
+      "y_raw": 1727.0972900390625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_147",
+      "label": "Zero day",
+      "type": "skill",
+      "x_raw": 567.9781494140625,
+      "y_raw": 1730.9644775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_148",
+      "label": "FTK Imager",
+      "type": "skill",
+      "x_raw": 107.934814453125,
+      "y_raw": 1732.75732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_149",
+      "label": "ATT&CK",
+      "type": "section",
+      "x_raw": 352.72174072265625,
+      "y_raw": 1761.3856201171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_150",
+      "label": "Social Engineering",
+      "type": "skill",
+      "x_raw": 543.638916015625,
+      "y_raw": 1764.397216796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_151",
+      "label": "Understand Common Standards",
+      "type": "skill",
+      "x_raw": 54.28770446777344,
+      "y_raw": 1765.264404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_152",
+      "label": "ISO",
+      "type": "skill",
+      "x_raw": 72.76771545410156,
+      "y_raw": 1792.955078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_153",
+      "label": "RMF",
+      "type": "skill",
+      "x_raw": 168.39035034179688,
+      "y_raw": 1793.482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_154",
+      "label": "Common Distros for hacking",
+      "type": "skill",
+      "x_raw": 304.2776184082031,
+      "y_raw": 1794.162109375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_155",
+      "label": "Reconnaissance Impersonation",
+      "type": "skill",
+      "x_raw": 505.48358154296875,
+      "y_raw": 1797.8182373046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_156",
+      "label": "ParrotOS Kali Linux",
+      "type": "section",
+      "x_raw": 289.3365783691406,
+      "y_raw": 1824.091064453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_157",
+      "label": "NIST",
+      "type": "skill",
+      "x_raw": 51.967437744140625,
+      "y_raw": 1827.2198486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_158",
+      "label": "CIS CSF",
+      "type": "skill",
+      "x_raw": 120.90715026855469,
+      "y_raw": 1827.2198486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_159",
+      "label": "Watering Hole Attack",
+      "type": "skill",
+      "x_raw": 538.3890380859375,
+      "y_raw": 1831.2509765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_160",
+      "label": "Understand the following",
+      "type": "section",
+      "x_raw": 311.6368103027344,
+      "y_raw": 1854.12548828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_161",
+      "label": "Using tools for Unintended Purposes",
+      "type": "skill",
+      "x_raw": 45.20588684082031,
+      "y_raw": 1856.9730224609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_162",
+      "label": "Drive by Attack",
+      "type": "skill",
+      "x_raw": 553.693359375,
+      "y_raw": 1864.672119140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_163",
+      "label": "SIEM SOAR",
+      "type": "section",
+      "x_raw": 297.0121765136719,
+      "y_raw": 1882.566162109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_164",
+      "label": "LOLBAS",
+      "type": "skill",
+      "x_raw": 44.23326110839844,
+      "y_raw": 1884.347412109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_165",
+      "label": "GTFOBINS WADCOMS",
+      "type": "skill",
+      "x_raw": 103.20054626464844,
+      "y_raw": 1884.347412109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_166",
+      "label": "Typo Squatting",
+      "type": "skill",
+      "x_raw": 553.541015625,
+      "y_raw": 1898.1048583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_167",
+      "label": "Secure vs Unsecure Protocols",
+      "type": "skill",
+      "x_raw": 292.96929931640625,
+      "y_raw": 1912.9287109375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_168",
+      "label": "Learn how to find and use these logs",
+      "type": "skill",
+      "x_raw": 49.99873352050781,
+      "y_raw": 1914.4638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_169",
+      "label": "Brute Force vs Password Spray",
+      "type": "skill",
+      "x_raw": 515.1161499023438,
+      "y_raw": 1931.53759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_170",
+      "label": "FTP vs SFTP SSL vs TLS IPSEC",
+      "type": "skill",
+      "x_raw": 262.5364685058594,
+      "y_raw": 1944.111572265625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_171",
+      "label": "Event Logs syslogs netflow",
+      "type": "skill",
+      "x_raw": 45.12385559082031,
+      "y_raw": 1944.3575439453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_172",
+      "label": "Common Attacks",
+      "type": "skill",
+      "x_raw": 545.8536376953125,
+      "y_raw": 1964.7593994140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_173",
+      "label": "Packet Captures Firewall Logs",
+      "type": "skill",
+      "x_raw": 45.15901184082031,
+      "y_raw": 1977.7904052734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_174",
+      "label": "DNSSEC LDAPS SRTP S/MIME",
+      "type": "section",
+      "x_raw": 258.10687255859375,
+      "y_raw": 1978.809814453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_175",
+      "label": "DoS vs DDoS MITM",
+      "type": "skill",
+      "x_raw": 512.9248046875,
+      "y_raw": 1992.0751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_176",
+      "label": "CSRF",
+      "type": "skill",
+      "x_raw": 646.6090087890625,
+      "y_raw": 1992.1337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_177",
+      "label": "Understand the following Terms",
+      "type": "skill",
+      "x_raw": 282.84454345703125,
+      "y_raw": 2006.3482666015625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_178",
+      "label": "Understand Hardening Concepts",
+      "type": "skill",
+      "x_raw": 56.38529968261719,
+      "y_raw": 2011.12939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_179",
+      "label": "Spoofing",
+      "type": "skill",
+      "x_raw": 505.08514404296875,
+      "y_raw": 2026.1407470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_180",
+      "label": "XSS SQL Injection",
+      "type": "skill",
+      "x_raw": 570.80224609375,
+      "y_raw": 2026.1407470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_181",
+      "label": "Antivirus Antimalware EDR DLP",
+      "type": "skill",
+      "x_raw": 269.4386291503906,
+      "y_raw": 2035.6209716796875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_182",
+      "label": "MAC-based NAC-based",
+      "type": "skill",
+      "x_raw": 44.08091735839844,
+      "y_raw": 2038.503662109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_183",
+      "label": "Evil Twin",
+      "type": "skill",
+      "x_raw": 514.9169311523438,
+      "y_raw": 2059.514892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_184",
+      "label": "VLAN Hopping",
+      "type": "skill",
+      "x_raw": 593.3720703125,
+      "y_raw": 2059.514892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_185",
+      "label": "Firewall & Nextgen Firewall HIPS NIDS",
+      "type": "skill",
+      "x_raw": 263.64971923828125,
+      "y_raw": 2069.0537109375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_186",
+      "label": "Port Blocking Group Policy",
+      "type": "skill",
+      "x_raw": 45.041839599609375,
+      "y_raw": 2071.9365234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_187",
+      "label": "DNS Poisoning",
+      "type": "skill",
+      "x_raw": 556.3768310546875,
+      "y_raw": 2092.90087890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_188",
+      "label": "NIPS Host Based Firewall Sandboxing",
+      "type": "skill",
+      "x_raw": 256.10302734375,
+      "y_raw": 2102.474853515625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_189",
+      "label": "ACLs Sinkholes Patching",
+      "type": "skill",
+      "x_raw": 39.08885192871094,
+      "y_raw": 2105.357666015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_190",
+      "label": "Deauth Attack",
+      "type": "skill",
+      "x_raw": 558.4393310546875,
+      "y_raw": 2126.322021484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_191",
+      "label": "ACL",
+      "type": "skill",
+      "x_raw": 448.2154541015625,
+      "y_raw": 2135.90771484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_192",
+      "label": "EAP vs PEAP WPS",
+      "type": "skill",
+      "x_raw": 263.9778137207031,
+      "y_raw": 2135.90771484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_193",
+      "label": "Jump Server Endpoint Security",
+      "type": "skill",
+      "x_raw": 45.47541809082031,
+      "y_raw": 2138.790283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_194",
+      "label": "Replay Attack",
+      "type": "skill",
+      "x_raw": 559.7166137695312,
+      "y_raw": 2159.754638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_195",
+      "label": "WPA vs WPA2 vs WPA3 vs WEP",
+      "type": "skill",
+      "x_raw": 294.77392578125,
+      "y_raw": 2169.32861328125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_196",
+      "label": "Understand Common Tools",
+      "type": "skill",
+      "x_raw": 75.50982666015625,
+      "y_raw": 2171.16845703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_197",
+      "label": "Rogue Access Point",
+      "type": "skill",
+      "x_raw": 544.060791015625,
+      "y_raw": 2193.1875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_198",
+      "label": "VirusTotal",
+      "type": "skill",
+      "x_raw": 51.00653076171875,
+      "y_raw": 2201.320068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_199",
+      "label": "any.run",
+      "type": "skill",
+      "x_raw": 193.18661499023438,
+      "y_raw": 2201.320068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_200",
+      "label": "urlscan",
+      "type": "skill",
+      "x_raw": 133.24668884277344,
+      "y_raw": 2201.320068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_201",
+      "label": "Understand the Incident Response Process",
+      "type": "skill",
+      "x_raw": 266.8957214355469,
+      "y_raw": 2202.234130859375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_202",
+      "label": "Buffer Overflow",
+      "type": "skill",
+      "x_raw": 555.1932983398438,
+      "y_raw": 2226.6083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_203",
+      "label": "Preparation Identification Containment",
+      "type": "section",
+      "x_raw": 254.94290161132812,
+      "y_raw": 2230.2412109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_204",
+      "label": "Joe Sandbox",
+      "type": "skill",
+      "x_raw": 43.84654235839844,
+      "y_raw": 2234.752685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_205",
+      "label": "urlvoid",
+      "type": "skill",
+      "x_raw": 135.5552215576172,
+      "y_raw": 2234.752685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_206",
+      "label": "WHOIS",
+      "type": "skill",
+      "x_raw": 193.04598999023438,
+      "y_raw": 2234.752685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_207",
+      "label": "Memory Leak",
+      "type": "skill",
+      "x_raw": 559.9392700195312,
+      "y_raw": 2260.041259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_208",
+      "label": "Eradication Recovery Lessons Learned",
+      "type": "skill",
+      "x_raw": 252.8921661376953,
+      "y_raw": 2263.041015625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_209",
+      "label": "Understand Audience",
+      "type": "skill",
+      "x_raw": 77.12698364257812,
+      "y_raw": 2263.732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_210",
+      "label": "Pass the Hash",
+      "type": "skill",
+      "x_raw": 557.7947998046875,
+      "y_raw": 2293.462158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_211",
+      "label": "Stakeholders HR Legal",
+      "type": "skill",
+      "x_raw": 41.78410339355469,
+      "y_raw": 2293.544189453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_212",
+      "label": "Understand Threat Classification",
+      "type": "section",
+      "x_raw": 303.7033996582031,
+      "y_raw": 2296.333251953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_213",
+      "label": "Zero Day Known vs Unknown APT",
+      "type": "skill",
+      "x_raw": 266.8254089355469,
+      "y_raw": 2326.85986328125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_214",
+      "label": "Compliance Management",
+      "type": "skill",
+      "x_raw": 41.79582214355469,
+      "y_raw": 2327.49267578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_215",
+      "label": "Directory Traversal",
+      "type": "skill",
+      "x_raw": 546.4981689453125,
+      "y_raw": 2328.25439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_216",
+      "label": "Cloud Skills and Knowledge",
+      "type": "skill",
+      "x_raw": 243.0369415283203,
+      "y_raw": 2383.0263671875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_217",
+      "label": "Understand Cloud Services",
+      "type": "skill",
+      "x_raw": 511.9404296875,
+      "y_raw": 2427.392578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_218",
+      "label": "Understand the Concept of Security in the Cloud",
+      "type": "skill",
+      "x_raw": 191.8389892578125,
+      "y_raw": 2437.470458984375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_219",
+      "label": "SaaS PaaS IaaS",
+      "type": "skill",
+      "x_raw": 509.92486572265625,
+      "y_raw": 2456.454345703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_220",
+      "label": "Understand the differences between cloud and on-premises",
+      "type": "skill",
+      "x_raw": 163.21078491210938,
+      "y_raw": 2470.903076171875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_221",
+      "label": "Cloud Models",
+      "type": "skill",
+      "x_raw": 548.0919189453125,
+      "y_raw": 2495.664306640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_222",
+      "label": "Understand the concept of Infrastructure as Code",
+      "type": "skill",
+      "x_raw": 187.77267456054688,
+      "y_raw": 2504.32421875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_223",
+      "label": "Private Public Hybrid",
+      "type": "skill",
+      "x_raw": 507.1710205078125,
+      "y_raw": 2524.71435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_224",
+      "label": "Understand the Concept of Serverless",
+      "type": "skill",
+      "x_raw": 215.85011291503906,
+      "y_raw": 2537.757080078125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_225",
+      "label": "Common Cloud Environments",
+      "type": "skill",
+      "x_raw": 507.7100830078125,
+      "y_raw": 2564.85009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_226",
+      "label": "Understand the basics and general flow of deploying in the cloud",
+      "type": "skill",
+      "x_raw": 152.2305908203125,
+      "y_raw": 2571.189697265625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_227",
+      "label": "AWS GCP Azure",
+      "type": "skill",
+      "x_raw": 511.3545227050781,
+      "y_raw": 2592.224365234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_228",
+      "label": "Python",
+      "type": "section",
+      "x_raw": 367.53387451171875,
+      "y_raw": 2629.957763671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_229",
+      "label": "Common Cloud Storage",
+      "type": "skill",
+      "x_raw": 515.3505249023438,
+      "y_raw": 2631.446044921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_230",
+      "label": "S3 Dropbox",
+      "type": "skill",
+      "x_raw": 512.8427734375,
+      "y_raw": 2658.83203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_231",
+      "label": "iCloud",
+      "type": "skill",
+      "x_raw": 616.9495849609375,
+      "y_raw": 2658.83203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_232",
+      "label": "Go",
+      "type": "section",
+      "x_raw": 376.93206787109375,
+      "y_raw": 2663.37890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_233",
+      "label": "Box OneDrive",
+      "type": "skill",
+      "x_raw": 511.3428039550781,
+      "y_raw": 2691.620361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_234",
+      "label": "Programming Skills",
+      "type": "skill",
+      "x_raw": 127.621826171875,
+      "y_raw": 2694.280517578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_235",
+      "label": "JavaScript",
+      "type": "section",
+      "x_raw": 358.7098693847656,
+      "y_raw": 2696.811767578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_236",
+      "label": "Google Drive",
+      "type": "skill",
+      "x_raw": 545.5255126953125,
+      "y_raw": 2725.68603515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_237",
+      "label": "C++",
+      "type": "section",
+      "x_raw": 373.0180969238281,
+      "y_raw": 2730.232666015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_238",
+      "label": "Bash",
+      "type": "section",
+      "x_raw": 371.68218994140625,
+      "y_raw": 2763.66552734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_239",
+      "label": "Power Shell Keep Learning",
+      "type": "skill",
+      "x_raw": 123.93051147460938,
+      "y_raw": 2797.08642578125,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "trunk"
+    },
+    {
+      "source": "node_41",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_53",
+      "type": "trunk"
+    },
+    {
+      "source": "node_53",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_64",
+      "type": "trunk"
+    },
+    {
+      "source": "node_64",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "trunk"
+    },
+    {
+      "source": "node_69",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_77",
+      "type": "trunk"
+    },
+    {
+      "source": "node_77",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "trunk"
+    },
+    {
+      "source": "node_83",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_85",
+      "type": "trunk"
+    },
+    {
+      "source": "node_85",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_100",
+      "type": "trunk"
+    },
+    {
+      "source": "node_100",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_103",
+      "type": "trunk"
+    },
+    {
+      "source": "node_103",
+      "target": "node_104",
+      "type": "trunk"
+    },
+    {
+      "source": "node_104",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_104",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_104",
+      "target": "node_107",
+      "type": "trunk"
+    },
+    {
+      "source": "node_107",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_118",
+      "type": "trunk"
+    },
+    {
+      "source": "node_118",
+      "target": "node_119",
+      "type": "trunk"
+    },
+    {
+      "source": "node_119",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_136",
+      "type": "trunk"
+    },
+    {
+      "source": "node_136",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_141",
+      "type": "trunk"
+    },
+    {
+      "source": "node_141",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_149",
+      "type": "trunk"
+    },
+    {
+      "source": "node_149",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_152",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_154",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_149",
+      "target": "node_156",
+      "type": "trunk"
+    },
+    {
+      "source": "node_156",
+      "target": "node_157",
+      "type": "branch"
+    },
+    {
+      "source": "node_156",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_156",
+      "target": "node_159",
+      "type": "branch"
+    },
+    {
+      "source": "node_156",
+      "target": "node_160",
+      "type": "trunk"
+    },
+    {
+      "source": "node_160",
+      "target": "node_161",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_162",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_163",
+      "type": "trunk"
+    },
+    {
+      "source": "node_163",
+      "target": "node_164",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_165",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_166",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_167",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_168",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_169",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_170",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_171",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_172",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_173",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_174",
+      "type": "trunk"
+    },
+    {
+      "source": "node_174",
+      "target": "node_175",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_176",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_177",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_178",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_179",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_180",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_181",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_182",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_183",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_184",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_185",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_186",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_187",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_188",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_189",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_190",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_191",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_192",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_193",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_194",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_195",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_196",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_197",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_198",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_199",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_200",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_201",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_202",
+      "type": "branch"
+    },
+    {
+      "source": "node_174",
+      "target": "node_203",
+      "type": "trunk"
+    },
+    {
+      "source": "node_203",
+      "target": "node_204",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_205",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_206",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_207",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_208",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_209",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_210",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_211",
+      "type": "branch"
+    },
+    {
+      "source": "node_203",
+      "target": "node_212",
+      "type": "trunk"
+    },
+    {
+      "source": "node_212",
+      "target": "node_213",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_214",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_215",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_216",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_217",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_218",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_219",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_220",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_221",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_222",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_223",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_224",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_225",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_226",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_227",
+      "type": "branch"
+    },
+    {
+      "source": "node_212",
+      "target": "node_228",
+      "type": "trunk"
+    },
+    {
+      "source": "node_228",
+      "target": "node_229",
+      "type": "branch"
+    },
+    {
+      "source": "node_228",
+      "target": "node_230",
+      "type": "branch"
+    },
+    {
+      "source": "node_228",
+      "target": "node_231",
+      "type": "branch"
+    },
+    {
+      "source": "node_228",
+      "target": "node_232",
+      "type": "trunk"
+    },
+    {
+      "source": "node_232",
+      "target": "node_233",
+      "type": "branch"
+    },
+    {
+      "source": "node_232",
+      "target": "node_234",
+      "type": "branch"
+    },
+    {
+      "source": "node_232",
+      "target": "node_235",
+      "type": "trunk"
+    },
+    {
+      "source": "node_235",
+      "target": "node_236",
+      "type": "branch"
+    },
+    {
+      "source": "node_235",
+      "target": "node_237",
+      "type": "trunk"
+    },
+    {
+      "source": "node_237",
+      "target": "node_238",
+      "type": "trunk"
+    },
+    {
+      "source": "node_238",
+      "target": "node_239",
+      "type": "branch"
+    }
+  ]
+}

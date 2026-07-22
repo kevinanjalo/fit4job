@@ -1,0 +1,245 @@
+{
+ "domain": "Server Side Game Developer",
+ "stages": [
+  {
+   "name": "Game Developer",
+   "skills": [
+    "Shout out to Chris Ohk who helped",
+    "Client Side Server-Side Development",
+    "Reliability",
+    "Datagram",
+    "Checksum",
+    "Congestion Control",
+    "TCP",
+    "Segment Structure",
+    "UDP",
+    "Operations",
+    "Max Segment Size Vulnerability",
+    "Packet Structure",
+    "Window Scaling",
+    "Denial of Service"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Erlang",
+   "skills": [
+    "Veto",
+    "Max Segment Scaling",
+    "TCP vs UDP",
+    "Packet vs Datagram",
+    "Timestamp",
+    "Congestion Control",
+    "Reliable vs Unreliable",
+    "Data Transfer",
+    "Reliable Transmission",
+    "Streaming vs Broadcast",
+    "Out-of-Band Data",
+    "Flow Control",
+    "Selective Ack.",
+    "Error Detection"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "TOML",
+   "skills": [
+    "Datagram Construction",
+    "Sharding",
+    "API",
+    "Serialization",
+    "IP Addressing Routing",
+    "Fiber",
+    "BSD Socket",
+    "JSON",
+    "Winsock",
+    "XML YAML",
+    "Multithreading",
+    "Thread Local Storage",
+    "Protobuf"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Programming Techniques",
+   "skills": [
+    "Design Patterns",
+    "Windows pthread",
+    "TDD",
+    "Synchronization",
+    "Dependency Injection"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Key-Value",
+   "skills": [
+    "Condition Variable",
+    "Dump Analysis",
+    "Redis",
+    "Spinlock",
+    "Functional Programming",
+    "Memcached"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Databases",
+   "skills": [
+    "Barrier",
+    "MS SQL",
+    "DynamoDB",
+    "Future & Promises Coroutine Channel",
+    "MySQL",
+    "MongoDB"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "ORM",
+   "skills": [
+    "Mutex Semaphore",
+    "PostgreSQL",
+    "Cassandra"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "DAL",
+   "skills": [
+    "RDBMS",
+    "Couchbase",
+    "REST",
+    "Apache Kafka",
+    "NoSQL",
+    "gRPC",
+    "RabbitMQ",
+    "SSL"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Cipher",
+   "skills": [
+    "RPC / REST",
+    "Message Queues",
+    "Thread Building Block (C++)",
+    "Concurrency (Java)",
+    "Update Process"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "OORP FRP",
+   "skills": [
+    "Maximise your skills",
+    "Asnc-await (C#)",
+    "Determinism",
+    "goroutine (Go)",
+    "Synchrony"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Reactive Approach",
+   "skills": [
+    "Task-Based",
+    "Reactive Model",
+    "Multithreading"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Asynchronous",
+   "skills": [
+    "Actor Model"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Proactor",
+   "skills": [
+    "Akk.net (C#)",
+    "Reactor"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "IOCP io_uring",
+   "skills": [
+    "Akka (Java)",
+    "select WSA Poll",
+    "Serverless"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Registered IO",
+   "skills": [
+    "epoll kqueue",
+    "Azure"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Data Clustering",
+   "skills": [
+    "Containerization Docker",
+    "Cloud",
+    "GCP"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  },
+  {
+   "name": "Apache Spark",
+   "skills": [
+    "AWS",
+    "Docker Compose",
+    "Kubernetes",
+    "AI Cloud ML",
+    "Amazon ML",
+    "Deep Learning",
+    "Azure ML",
+    "TensorFlow",
+    "API Design",
+    "Client-side game Development",
+    "Pytorch"
+   ],
+   "resources": [
+    "roadmap.sh/server-side-game-developer"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1261 @@
+{
+  "topic": "Java",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Java",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "This is Java specific roadmap and intentionally skips some backend topics.",
+      "type": "skill",
+      "x_raw": 54.8067626953125,
+      "y_raw": 49.76140213012695,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "Visit Backend Roadmap",
+      "type": "skill",
+      "x_raw": 93.594482421875,
+      "y_raw": 102.65380096435547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Java",
+      "type": "section",
+      "x_raw": 353.78057861328125,
+      "y_raw": 106.3895034790039,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_3",
+      "label": "Strings and Methods",
+      "type": "skill",
+      "x_raw": 575.1671752929688,
+      "y_raw": 161.80191040039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_4",
+      "label": "Basic Syntax",
+      "type": "skill",
+      "x_raw": 73.09359741210938,
+      "y_raw": 163.13739013671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Math Operations Lifecycle of a Program",
+      "type": "skill",
+      "x_raw": 49.47650146484375,
+      "y_raw": 195.66943359375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Arrays",
+      "type": "skill",
+      "x_raw": 610.5459594726562,
+      "y_raw": 229.54869079589844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Learn the Basics",
+      "type": "section",
+      "x_raw": 331.24127197265625,
+      "y_raw": 230.56787109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "Data Types",
+      "type": "skill",
+      "x_raw": 76.85403442382812,
+      "y_raw": 230.56787109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Conditionals",
+      "type": "skill",
+      "x_raw": 595.4337768554688,
+      "y_raw": 263.41619873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Variables and Scopes",
+      "type": "skill",
+      "x_raw": 51.280609130859375,
+      "y_raw": 264.4354248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Loops",
+      "type": "skill",
+      "x_raw": 610.9208374023438,
+      "y_raw": 297.29547119140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Type Casting",
+      "type": "skill",
+      "x_raw": 72.2618408203125,
+      "y_raw": 298.31463623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Basics of OOP",
+      "type": "skill",
+      "x_raw": 590.244140625,
+      "y_raw": 331.1629943847656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Object Oriented Programming Basics of OOP",
+      "type": "skill",
+      "x_raw": 71.75808715820312,
+      "y_raw": 371.83685302734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Classes and Objects",
+      "type": "skill",
+      "x_raw": 56.153961181640625,
+      "y_raw": 405.92694091796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Attributes and Methods",
+      "type": "skill",
+      "x_raw": 49.441375732421875,
+      "y_raw": 439.79449462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Exception Handling",
+      "type": "skill",
+      "x_raw": 583.4027099609375,
+      "y_raw": 443.12152099609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "More about OOP",
+      "type": "section",
+      "x_raw": 332.5533447265625,
+      "y_raw": 446.74139404296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Access Specifiers",
+      "type": "skill",
+      "x_raw": 63.124267578125,
+      "y_raw": 473.67376708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Object Lifecycle Abstraction Inheritance",
+      "type": "skill",
+      "x_raw": 233.49285888671875,
+      "y_raw": 480.50347900390625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Static Keyword",
+      "type": "skill",
+      "x_raw": 70.59832763671875,
+      "y_raw": 507.541259765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Lambda Expressions",
+      "type": "skill",
+      "x_raw": 579.8882446289062,
+      "y_raw": 514.3944091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Method Chaining",
+      "type": "skill",
+      "x_raw": 230.6578369140625,
+      "y_raw": 514.7107543945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Interfaces Encapsulation",
+      "type": "skill",
+      "x_raw": 361.06719970703125,
+      "y_raw": 514.7107543945312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Enums Final Keyword",
+      "type": "skill",
+      "x_raw": 72.54299926757812,
+      "y_raw": 541.4205322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Annotations",
+      "type": "skill",
+      "x_raw": 602.0761108398438,
+      "y_raw": 547.9691162109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Method Overloading / Overriding",
+      "type": "skill",
+      "x_raw": 360.4697265625,
+      "y_raw": 548.5782470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Record",
+      "type": "section",
+      "x_raw": 288.505615234375,
+      "y_raw": 548.5782470703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "Nested Classes",
+      "type": "skill",
+      "x_raw": 67.77505493164062,
+      "y_raw": 574.7608642578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Modules",
+      "type": "skill",
+      "x_raw": 610.0070190429688,
+      "y_raw": 581.5320434570312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Static vs Dynamic Binding",
+      "type": "skill",
+      "x_raw": 378.2293701171875,
+      "y_raw": 583.0901489257812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Initializer Block",
+      "type": "skill",
+      "x_raw": 235.4375,
+      "y_raw": 583.0901489257812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Packages",
+      "type": "skill",
+      "x_raw": 82.72317504882812,
+      "y_raw": 609.272705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Optionals",
+      "type": "skill",
+      "x_raw": 607.7225952148438,
+      "y_raw": 615.094970703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Pass by Value / Pass by Reference",
+      "type": "skill",
+      "x_raw": 288.505615234375,
+      "y_raw": 616.8522338867188,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Collections",
+      "type": "skill",
+      "x_raw": 424.4677734375,
+      "y_raw": 679.8662109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "volatile keyword Cryptography",
+      "type": "skill",
+      "x_raw": 64.79949951171875,
+      "y_raw": 694.7908935546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Array vs ArrayList",
+      "type": "skill",
+      "x_raw": 408.72308349609375,
+      "y_raw": 709.621826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Dependency Injection",
+      "type": "skill",
+      "x_raw": 577.4047241210938,
+      "y_raw": 712.3865356445312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Date and Time",
+      "type": "skill",
+      "x_raw": 61.89422607421875,
+      "y_raw": 728.1546630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Java Memory Model",
+      "type": "skill",
+      "x_raw": 220.71197509765625,
+      "y_raw": 728.7990112304688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Set Map",
+      "type": "skill",
+      "x_raw": 409.5782470703125,
+      "y_raw": 743.4893798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Networking",
+      "type": "skill",
+      "x_raw": 69.25112915039062,
+      "y_raw": 761.5184936523438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Virtual Threads",
+      "type": "skill",
+      "x_raw": 233.17657470703125,
+      "y_raw": 762.66650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Queue",
+      "type": "section",
+      "x_raw": 401.35443115234375,
+      "y_raw": 777.3685913085938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Dequeue",
+      "type": "skill",
+      "x_raw": 461.41632080078125,
+      "y_raw": 777.3685913085938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Threads",
+      "type": "skill",
+      "x_raw": 250.0224609375,
+      "y_raw": 796.5457763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Regular Expressions",
+      "type": "skill",
+      "x_raw": 46.25494384765625,
+      "y_raw": 796.5457763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Stack",
+      "type": "section",
+      "x_raw": 404.22454833984375,
+      "y_raw": 811.2361450195312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "Iterator",
+      "type": "skill",
+      "x_raw": 466.07879638671875,
+      "y_raw": 811.2361450195312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "I/O Operations",
+      "type": "skill",
+      "x_raw": 594.0983276367188,
+      "y_raw": 819.4248046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Generic Collections",
+      "type": "skill",
+      "x_raw": 403.24053955078125,
+      "y_raw": 846.7086181640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "File Operations",
+      "type": "skill",
+      "x_raw": 593.4188842773438,
+      "y_raw": 853.2923583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Concurrency",
+      "type": "skill",
+      "x_raw": 238.7645263671875,
+      "y_raw": 853.2923583984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Spring Boot is recommended",
+      "type": "skill",
+      "x_raw": 380.865234375,
+      "y_raw": 908.11767578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "JDBC",
+      "type": "skill",
+      "x_raw": 611.4127807617188,
+      "y_raw": 914.9825439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "High Order Functions",
+      "type": "skill",
+      "x_raw": 52.45208740234375,
+      "y_raw": 934.1714477539062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "EBean",
+      "type": "skill",
+      "x_raw": 609.2338256835938,
+      "y_raw": 948.86181640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "Spring (Spring Boot)",
+      "type": "skill",
+      "x_raw": 401.35443115234375,
+      "y_raw": 951.040771484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Maven",
+      "type": "skill",
+      "x_raw": 262.7916259765625,
+      "y_raw": 952.2942504882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Functional Interfaces",
+      "type": "skill",
+      "x_raw": 53.096405029296875,
+      "y_raw": 968.0389404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Hibernate",
+      "type": "skill",
+      "x_raw": 601.4434814453125,
+      "y_raw": 982.7293701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Quarkus",
+      "type": "section",
+      "x_raw": 393.142333984375,
+      "y_raw": 984.9199829101562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Javalin",
+      "type": "skill",
+      "x_raw": 472.1705322265625,
+      "y_raw": 984.9199829101562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Gradle",
+      "type": "skill",
+      "x_raw": 262.87359619140625,
+      "y_raw": 986.1735229492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Functional Composition",
+      "type": "skill",
+      "x_raw": 47.262420654296875,
+      "y_raw": 1001.918212890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Spring Data JPA",
+      "type": "skill",
+      "x_raw": 586.4251098632812,
+      "y_raw": 1016.608642578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Play Framework",
+      "type": "skill",
+      "x_raw": 413.05755615234375,
+      "y_raw": 1018.78759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Bazel",
+      "type": "skill",
+      "x_raw": 265.6383056640625,
+      "y_raw": 1020.041015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Stream API",
+      "type": "skill",
+      "x_raw": 77.51007080078125,
+      "y_raw": 1035.7857666015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Database Access",
+      "type": "skill",
+      "x_raw": 583.1449584960938,
+      "y_raw": 1069.3370361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Functional Programming",
+      "type": "skill",
+      "x_raw": 38.839447021484375,
+      "y_raw": 1069.4423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Web Frameworks",
+      "type": "skill",
+      "x_raw": 409.215087890625,
+      "y_raw": 1070.0750732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Build Tools",
+      "type": "skill",
+      "x_raw": 253.00970458984375,
+      "y_raw": 1070.403076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Logging Frameworks",
+      "type": "skill",
+      "x_raw": 574.7454223632812,
+      "y_raw": 1147.2874755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 430.2900390625,
+      "y_raw": 1147.2874755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "JUnit",
+      "type": "skill",
+      "x_raw": 58.824951171875,
+      "y_raw": 1149.9232177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "REST Assured",
+      "type": "skill",
+      "x_raw": 140.149169921875,
+      "y_raw": 1150.6495361328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Cucumber-JVM",
+      "type": "skill",
+      "x_raw": 255.024658203125,
+      "y_raw": 1154.12890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "TestNG",
+      "type": "skill",
+      "x_raw": 53.3072509765625,
+      "y_raw": 1183.802490234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "JMeter Behavior Testing",
+      "type": "skill",
+      "x_raw": 157.580810546875,
+      "y_raw": 1184.51708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Logback Log4j2",
+      "type": "skill",
+      "x_raw": 572.121337890625,
+      "y_raw": 1207.67724609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Unit Testing",
+      "type": "skill",
+      "x_raw": 39.788360595703125,
+      "y_raw": 1216.1705322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Integration Testing",
+      "type": "skill",
+      "x_raw": 130.4844970703125,
+      "y_raw": 1218.173828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Mocking > Mockito",
+      "type": "skill",
+      "x_raw": 247.22259521484375,
+      "y_raw": 1221.500732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "SLF4J TinyLog",
+      "type": "skill",
+      "x_raw": 577.08837890625,
+      "y_raw": 1241.5565185546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Visit Backend path and see what you missed",
+      "type": "skill",
+      "x_raw": 339.488525390625,
+      "y_raw": 1323.7828369140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 404.70489501953125,
+      "y_raw": 1358.0018310546875,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "trunk"
+    },
+    {
+      "source": "node_2",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_88",
+      "type": "branch"
+    }
+  ]
+}

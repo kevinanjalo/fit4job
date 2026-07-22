@@ -1,0 +1,208 @@
+{
+ "domain": "Elasticsearch",
+ "stages": [
+  {
+   "name": "Elasticsearch",
+   "skills": [
+    "Pre-requisites",
+    "JSON REST API Basics",
+    "What is Elasticsearch"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Search Engines vs Relational DBs",
+    "The ELK Stack",
+    "Logical Concepts",
+    "Elasticsearch Usecases",
+    "Cluster (System)"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Core Architecture",
+   "skills": [
+    "Environment Setup",
+    "Node (Instance)",
+    "Running with Docker",
+    "Index (Database)"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Data Modelling",
+   "skills": [
+    "Elastic Cloud Kibana Console",
+    "Document (Row)",
+    "ID (Primary Key)"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Mappings",
+   "skills": [
+    "Physical Layout",
+    "Explicit Dynamic",
+    "Master-Elegible Nodes",
+    "Mapping Explosion",
+    "Data Nodes",
+    "Code Data Types",
+    "Coordinating Nodes"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Data Types",
+   "skills": [
+    "Numeric Boolean",
+    "Sharding & Scaling",
+    "Dates Geo Points",
+    "Primary Shards",
+    "Text vs Keyword",
+    "Replica Shards",
+    "Text Keyword",
+    "The \"Split Brain\" Problem",
+    "Advanced Types",
+    "Object Nested",
+    "Data Ingestion Create Index",
+    "CRUD Operations",
+    "Flattened"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Search Fundamentals",
+   "skills": [
+    "Delete Index",
+    "Query Languages",
+    "Index Document",
+    "Query DSL ES|QL",
+    "Get Document",
+    "EQL SQL",
+    "Update Document",
+    "KQL Lucene",
+    "Delete Documents",
+    "Search Contexts",
+    "Query Filter",
+    "Bulk Operations",
+    "Bulk index",
+    "Leaf Queries"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "How Search Works",
+   "skills": [
+    "Delete by Query",
+    "Bool Queries (Compound Queries)",
+    "must",
+    "should",
+    "Controlling Search Results Pagination",
+    "must_not",
+    "filter",
+    "Sorting",
+    "Source Filtering",
+    "Highlighting Text Analysis",
+    "Metric Aggregations",
+    "Doc values",
+    "fielddata",
+    "Value Count"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Aggregations",
+   "skills": [
+    "Standard Analyzer",
+    "Stats / Extended Stats",
+    "Custom Analyzers",
+    "Bulk Aggregations",
+    "Terms",
+    "Range / Date Range",
+    "Histogram",
+    "Pivot",
+    "Latest",
+    "Filter Aggregations Transformations",
+    "Transform API",
+    "Advanced Aggregations"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Relevance & Tuning",
+   "skills": [
+    "Nested Aggregations",
+    "Document Scoring",
+    "Pipeline Aggregations",
+    "Understanding Similarity",
+    "BM25 algorithm",
+    "Cluster Management",
+    "Improve Query Precision",
+    "CAT API",
+    "Boosting Queries",
+    "Segment Merging",
+    "Function Score Query",
+    "Cluster Monitoring"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Production",
+   "skills": [
+    "Match Phrase Query",
+    "Cross-cluster Replication",
+    "Synonyms Graph",
+    "Autoscaling",
+    "Data Life Cycle",
+    "ILM"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  },
+  {
+   "name": "Advanced Features",
+   "skills": [
+    "AI-Powered Search",
+    "Rollover Policies",
+    "Vector Search",
+    "Data Tiers",
+    "Semantic Search",
+    "Data Safety",
+    "Hybrid Search",
+    "Snapshots & restore",
+    "SLM",
+    "Security",
+    "Authentication",
+    "Roles & Users",
+    "API Keys",
+    "Data Engineer MongoDB DevOps"
+   ],
+   "resources": [
+    "roadmap.sh/elasticsearch"
+   ]
+  }
+ ]
+}

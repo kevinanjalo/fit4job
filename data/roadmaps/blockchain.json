@@ -1,0 +1,165 @@
+{
+ "domain": "Blockchain",
+ "stages": [
+  {
+   "name": "Blockchain",
+   "skills": [
+    "Find the interactive version of this"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Basic Blockchain Knowledge",
+   "skills": [
+    "What is Blockchain",
+    "Blockchain Structure",
+    "Decentralization",
+    "Basic Blockchain Operations",
+    "Why it matters?",
+    "Applications and Uses",
+    "Storage"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "General Blockchain Knowledge",
+   "skills": [
+    "Cryptography",
+    "Mining and Incentive Models",
+    "Consensus Protocols",
+    "Decentralization vs Trust",
+    "Blockchain Interoperability",
+    "Blockchain Forking",
+    "Cryptocurrencies",
+    "Cryptowallets",
+    "Hybrid Smart Contracts",
+    "Oracles",
+    "Chainlink",
+    "Solana TON",
+    "Blockchains",
+    "Oracle Networks"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Security Practices",
+   "skills": [
+    "Smart Contracts",
+    "Rust",
+    "Binance Smart Chain",
+    "TON Venom",
+    "Programming Languages",
+    "Gnosis Chain",
+    "Hardhat Brownie",
+    "L2 Blockchains",
+    "IDEs",
+    "Huobi Eco Chain",
+    "Truffle Foundry",
+    "Arbitrum",
+    "Unit Tests",
+    "Avalanche Fantom"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Management Platforms OpenZeppelin",
+   "skills": [
+    "Source of Randomness Attacks",
+    "MythX",
+    "Upgrades",
+    "Echidna",
+    "ERC Tokens",
+    "Crypto Wallets",
+    "GitHub",
+    "Crypto Faucets",
+    "Repo Hosting Services",
+    "Version Control Systems",
+    "GitLab",
+    "Decentralized Storage",
+    "Bitbucket",
+    "Git"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Testing",
+   "skills": [
+    "dApps - Decentralized Applications",
+    "State & Payment Channels",
+    "Supporting Languages",
+    "Frontend Frameworks",
+    "Optimistic Rollups & Fraud Proofs"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Deployment",
+   "skills": [
+    "React",
+    "Vue",
+    "JavaScript",
+    "Go",
+    "Zk Rollups & Zero Knowledge Proof"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Maintenance",
+   "skills": [
+    "Angular",
+    "Python",
+    "Validium Plasma Sidechains"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Architecture",
+   "skills": [
+    "Client Nodes",
+    "Client Libraries",
+    "Ethereum 2.0"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "Geth Besu",
+    "ethers.js",
+    "On-Chain Scaling",
+    "Nethermind",
+    "web3.js",
+    "Substrate",
+    "Moralis",
+    "Applicability",
+    "Node as a Service",
+    "Building for Scale",
+    "Defi DAOs",
+    "Alchemy",
+    "NFTs",
+    "Infura"
+   ],
+   "resources": [
+    "roadmap.sh/blockchain"
+   ]
+  }
+ ]
+}

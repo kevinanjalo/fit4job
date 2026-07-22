@@ -1,0 +1,729 @@
+{
+  "topic": "Full Stack",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Full Stack",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "If you are already a full-stack developer",
+      "type": "skill",
+      "x_raw": 220.90679931640625,
+      "y_raw": 50.0656852722168,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 462.1900939941406,
+      "y_raw": 58.478328704833984,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "you should visit the following tracks.",
+      "type": "skill",
+      "x_raw": 220.90679931640625,
+      "y_raw": 67.2307357788086,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_3",
+      "label": "Full Stack",
+      "type": "skill",
+      "x_raw": 39.48443603515625,
+      "y_raw": 98.28156280517578,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Frontend Backend DevOps",
+      "type": "section",
+      "x_raw": 231.65106201171875,
+      "y_raw": 101.42024993896484,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "Target audience for this roadmap is",
+      "type": "skill",
+      "x_raw": 220.90679931640625,
+      "y_raw": 136.87518310546875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Key topics to learn",
+      "type": "skill",
+      "x_raw": 495.16107177734375,
+      "y_raw": 150.6423797607422,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "absolute beginners wanting to get into",
+      "type": "skill",
+      "x_raw": 220.90679931640625,
+      "y_raw": 154.0402374267578,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "full-stack development.",
+      "type": "skill",
+      "x_raw": 220.90679931640625,
+      "y_raw": 171.19358825683594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Project ideas and suggestions",
+      "type": "skill",
+      "x_raw": 495.16107177734375,
+      "y_raw": 174.87265014648438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "HTML CSS JavaScript",
+      "type": "section",
+      "x_raw": 172.43453979492188,
+      "y_raw": 256.7376403808594,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "npm Checkpoint - Static Webpages Checkpoint - Interactivity",
+      "type": "skill",
+      "x_raw": 202.8043975830078,
+      "y_raw": 317.3016052246094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Checkpoint - External Packages",
+      "type": "skill",
+      "x_raw": 416.4947204589844,
+      "y_raw": 372.487548828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Checkpoint - Collaborative Work",
+      "type": "skill",
+      "x_raw": 198.4574737548828,
+      "y_raw": 372.487548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Tailwind CSS React",
+      "type": "skill",
+      "x_raw": 138.29190063476562,
+      "y_raw": 439.77691650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Git GitHub",
+      "type": "skill",
+      "x_raw": 421.9781494140625,
+      "y_raw": 440.45648193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Feel free to skip these and",
+      "type": "skill",
+      "x_raw": 133.79266357421875,
+      "y_raw": 489.35052490234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "revisit after learning Backend",
+      "type": "skill",
+      "x_raw": 126.8914794921875,
+      "y_raw": 506.51556396484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "You can pick any backend programming language. My recommendation is Node.js because you are",
+      "type": "skill",
+      "x_raw": 413.4366455078125,
+      "y_raw": 516.7794799804688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "already familiar with JavaScript and it's easier to pick.",
+      "type": "skill",
+      "x_raw": 413.4366455078125,
+      "y_raw": 551.0978393554688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Checkpoint - Frontend Apps",
+      "type": "skill",
+      "x_raw": 136.19461059570312,
+      "y_raw": 552.8319702148438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Start Backend Development",
+      "type": "skill",
+      "x_raw": 111.30819702148438,
+      "y_raw": 613.3373413085938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Node.js",
+      "type": "skill",
+      "x_raw": 453.6719970703125,
+      "y_raw": 614.4035034179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Backend Starts here",
+      "type": "skill",
+      "x_raw": 235.3769989013672,
+      "y_raw": 647.30419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Checkpoint \u2014 CLI Apps",
+      "type": "skill",
+      "x_raw": 427.8599548339844,
+      "y_raw": 666.2267456054688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "PostgreSQL",
+      "type": "skill",
+      "x_raw": 613.5941162109375,
+      "y_raw": 709.9654541015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Checkpoint \u2014 Simple CRUD Apps",
+      "type": "skill",
+      "x_raw": 400.9465637207031,
+      "y_raw": 752.2395629882812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "RESTful APIs",
+      "type": "section",
+      "x_raw": 356.96185302734375,
+      "y_raw": 798.1223754882812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "JWT Auth Redis",
+      "type": "skill",
+      "x_raw": 128.61386108398438,
+      "y_raw": 798.1223754882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Use the checkpoints and do not forget",
+      "type": "skill",
+      "x_raw": 470.9425048828125,
+      "y_raw": 852.3475341796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "to practice what you learn. There are",
+      "type": "skill",
+      "x_raw": 470.9425048828125,
+      "y_raw": 869.5009155273438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Checkpoint \u2014 Complete App",
+      "type": "skill",
+      "x_raw": 125.40347290039062,
+      "y_raw": 870.578857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "project ideas at each checkpoint that you can build to solidify your knowledge.",
+      "type": "skill",
+      "x_raw": 470.9425048828125,
+      "y_raw": 886.6659545898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Route53 SES",
+      "type": "section",
+      "x_raw": 270.52728271484375,
+      "y_raw": 922.8941650390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "DevOps starts here",
+      "type": "skill",
+      "x_raw": 107.39480590820312,
+      "y_raw": 930.2171630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "EC2 VPC",
+      "type": "section",
+      "x_raw": 270.6795959472656,
+      "y_raw": 959.895751953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "S3",
+      "type": "section",
+      "x_raw": 370.7290344238281,
+      "y_raw": 959.895751953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Linux Basics",
+      "type": "skill",
+      "x_raw": 47.8385009765625,
+      "y_raw": 998.2564086914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Basic AWS Services",
+      "type": "section",
+      "x_raw": 275.7412414550781,
+      "y_raw": 998.2564086914062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "Checkpoint \u2014 Deployment",
+      "type": "skill",
+      "x_raw": 445.44683837890625,
+      "y_raw": 1035.5391845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Monit",
+      "type": "skill",
+      "x_raw": 630.06787109375,
+      "y_raw": 1079.82861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Checkpoint \u2014 Automation",
+      "type": "skill",
+      "x_raw": 53.11102294921875,
+      "y_raw": 1119.1148681640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Checkpoint \u2014 Monitoring",
+      "type": "skill",
+      "x_raw": 448.7743835449219,
+      "y_raw": 1119.66552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Checkpoint \u2014 CI / CD",
+      "type": "skill",
+      "x_raw": 283.3219909667969,
+      "y_raw": 1119.66552734375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "GitHub Actions",
+      "type": "skill",
+      "x_raw": 503.9486083984375,
+      "y_raw": 1164.611083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Ansible",
+      "type": "skill",
+      "x_raw": 214.2868194580078,
+      "y_raw": 1164.611083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Terraform",
+      "type": "skill",
+      "x_raw": 57.8797607421875,
+      "y_raw": 1215.895263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Checkpoint \u2014 Infrastructure",
+      "type": "skill",
+      "x_raw": 154.94140625,
+      "y_raw": 1262.539794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Continue Learning with following relevant tracks",
+      "type": "skill",
+      "x_raw": 278.67041015625,
+      "y_raw": 1404.79296875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_49",
+      "label": "Frontend",
+      "type": "skill",
+      "x_raw": 271.98016357421875,
+      "y_raw": 1440.493896484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Backend DevOps AWS",
+      "type": "skill",
+      "x_raw": 344.61236572265625,
+      "y_raw": 1440.493896484375,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_33",
+      "type": "trunk"
+    },
+    {
+      "source": "node_33",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_33",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_50",
+      "type": "branch"
+    }
+  ]
+}

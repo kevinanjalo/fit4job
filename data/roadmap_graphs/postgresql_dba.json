@@ -1,0 +1,2479 @@
+{
+  "topic": "Postgresql Dba",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Postgresql Dba",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 457.34185791015625,
+      "y_raw": 56.10533905029297,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "MongoDB Roadmap",
+      "type": "skill",
+      "x_raw": 58.689788818359375,
+      "y_raw": 65.79486083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 58.689788818359375,
+      "y_raw": 84.97694396972656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "PostgreSQL",
+      "type": "skill",
+      "x_raw": 242.49557495117188,
+      "y_raw": 90.55940246582031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Queries",
+      "type": "skill",
+      "x_raw": 74.82522583007812,
+      "y_raw": 139.65342712402344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "What are Relational Databases?",
+      "type": "skill",
+      "x_raw": 475.1060791015625,
+      "y_raw": 156.17555236816406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "Data Types",
+      "type": "skill",
+      "x_raw": 67.16177368164062,
+      "y_raw": 173.54136657714844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "RDBMS Benefits and Limitations",
+      "type": "skill",
+      "x_raw": 473.3601379394531,
+      "y_raw": 190.06349182128906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Introduction",
+      "type": "skill",
+      "x_raw": 261.51361083984375,
+      "y_raw": 207.42930603027344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Rows Columns",
+      "type": "skill",
+      "x_raw": 47.300079345703125,
+      "y_raw": 207.42930603027344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "PostgreSQL vs NoSQL Databases",
+      "type": "skill",
+      "x_raw": 469.2940368652344,
+      "y_raw": 223.95144653320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Tables Schemas",
+      "type": "skill",
+      "x_raw": 44.64013671875,
+      "y_raw": 241.3172607421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "PostgreSQL vs Other RDBMS",
+      "type": "skill",
+      "x_raw": 479.968994140625,
+      "y_raw": 257.8393859863281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Databases",
+      "type": "skill",
+      "x_raw": 68.38043212890625,
+      "y_raw": 275.2169189453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Basic RDBMS Concepts Object Model",
+      "type": "skill",
+      "x_raw": 61.806732177734375,
+      "y_raw": 308.47210693359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "High Level Database Concepts",
+      "type": "skill",
+      "x_raw": 463.0133056640625,
+      "y_raw": 309.96026611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "ACID MVCC Transactions",
+      "type": "skill",
+      "x_raw": 457.7754211425781,
+      "y_raw": 343.85992431640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Relational Model",
+      "type": "skill",
+      "x_raw": 53.264434814453125,
+      "y_raw": 362.8193664550781,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Write-ahead Log",
+      "type": "skill",
+      "x_raw": 498.0495910644531,
+      "y_raw": 377.74786376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Domains Attributes",
+      "type": "skill",
+      "x_raw": 38.664031982421875,
+      "y_raw": 397.351806640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Query Processing",
+      "type": "skill",
+      "x_raw": 495.76458740234375,
+      "y_raw": 411.64752197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Tuples Relations",
+      "type": "skill",
+      "x_raw": 44.112823486328125,
+      "y_raw": 431.25146484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Installation and Setup",
+      "type": "skill",
+      "x_raw": 237.94906616210938,
+      "y_raw": 462.58489990234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Constraints NULL",
+      "type": "skill",
+      "x_raw": 37.351654052734375,
+      "y_raw": 465.139404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "DML Queries",
+      "type": "skill",
+      "x_raw": 603.357666015625,
+      "y_raw": 479.58746337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "DDL Queries",
+      "type": "skill",
+      "x_raw": 498.166748046875,
+      "y_raw": 480.23193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Querying Data",
+      "type": "skill",
+      "x_raw": 607.0956420898438,
+      "y_raw": 510.81549072265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "For Schemas",
+      "type": "skill",
+      "x_raw": 506.2989501953125,
+      "y_raw": 511.4599609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Managing Postgres",
+      "type": "skill",
+      "x_raw": 196.4445343017578,
+      "y_raw": 527.208740234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Using Docker",
+      "type": "skill",
+      "x_raw": 71.77859497070312,
+      "y_raw": 527.7477416992188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Filtering Data",
+      "type": "skill",
+      "x_raw": 609.579833984375,
+      "y_raw": 544.7151489257812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "ForTables",
+      "type": "skill",
+      "x_raw": 514.7357788085938,
+      "y_raw": 545.347900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Using `systemd`",
+      "type": "skill",
+      "x_raw": 218.53262329101562,
+      "y_raw": 556.5267333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Package Managers",
+      "type": "skill",
+      "x_raw": 57.424285888671875,
+      "y_raw": 561.6473999023438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Learn SQL",
+      "type": "section",
+      "x_raw": 387.90203857421875,
+      "y_raw": 576.048583984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Data Types",
+      "type": "skill",
+      "x_raw": 511.47821044921875,
+      "y_raw": 579.24755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Modifying Data",
+      "type": "skill",
+      "x_raw": 605.8067016601562,
+      "y_raw": 579.24755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Using `pg_ctl`",
+      "type": "skill",
+      "x_raw": 223.4423828125,
+      "y_raw": 590.4146728515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Connect using `psql`",
+      "type": "skill",
+      "x_raw": 55.701751708984375,
+      "y_raw": 595.5353393554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Joining Tables",
+      "type": "skill",
+      "x_raw": 607.7869873046875,
+      "y_raw": 613.7799682617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Using `pg_ctlcluster`",
+      "type": "skill",
+      "x_raw": 206.86167907714844,
+      "y_raw": 624.3143310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Deployment in Cloud",
+      "type": "skill",
+      "x_raw": 54.061248779296875,
+      "y_raw": 629.4232788085938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Import / Export Using `COPY`",
+      "type": "skill",
+      "x_raw": 523.7350463867188,
+      "y_raw": 656.620361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Advanced Topics Configuring",
+      "type": "skill",
+      "x_raw": 277.1217346191406,
+      "y_raw": 680.3723754882812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Reporting Logging & Statistics",
+      "type": "skill",
+      "x_raw": 49.2921142578125,
+      "y_raw": 680.3723754882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Adding Extra Extensions",
+      "type": "skill",
+      "x_raw": 64.20889282226562,
+      "y_raw": 714.2720336914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "CTE",
+      "type": "skill",
+      "x_raw": 631.9725952148438,
+      "y_raw": 725.0524291992188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Transactions",
+      "type": "skill",
+      "x_raw": 508.63079833984375,
+      "y_raw": 725.6852416992188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Following postgres.conf configuration",
+      "type": "skill",
+      "x_raw": 32.418426513671875,
+      "y_raw": 748.0545654296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Lateral Join",
+      "type": "skill",
+      "x_raw": 614.2904052734375,
+      "y_raw": 758.9404296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Subqueries",
+      "type": "skill",
+      "x_raw": 511.7828674316406,
+      "y_raw": 759.5848999023438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Default Privileges",
+      "type": "section",
+      "x_raw": 335.7811584472656,
+      "y_raw": 783.7352905273438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Resource Usage",
+      "type": "skill",
+      "x_raw": 81.78561401367188,
+      "y_raw": 786.9342651367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Set Operations",
+      "type": "skill",
+      "x_raw": 605.8184204101562,
+      "y_raw": 792.840087890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Grouping",
+      "type": "skill",
+      "x_raw": 516.739501953125,
+      "y_raw": 793.4728393554688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Grant / Revoke",
+      "type": "section",
+      "x_raw": 340.99560546875,
+      "y_raw": 817.6232299804688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Write-ahead Log",
+      "type": "skill",
+      "x_raw": 82.07858276367188,
+      "y_raw": 820.8222045898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Object Privileges",
+      "type": "section",
+      "x_raw": 337.17559814453125,
+      "y_raw": 851.52294921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_58",
+      "label": "Vacuums Replication",
+      "type": "skill",
+      "x_raw": 47.370391845703125,
+      "y_raw": 854.7101440429688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Query Planner",
+      "type": "skill",
+      "x_raw": 88.12496948242188,
+      "y_raw": 888.60986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Advanced Topics",
+      "type": "skill",
+      "x_raw": 599.0924072265625,
+      "y_raw": 901.8040771484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Authentication Models",
+      "type": "skill",
+      "x_raw": 444.6983337402344,
+      "y_raw": 901.8743896484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Checkpoints / Background Writer",
+      "type": "skill",
+      "x_raw": 41.488037109375,
+      "y_raw": 922.497802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Security",
+      "type": "section",
+      "x_raw": 285.8280944824219,
+      "y_raw": 935.6920776367188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Row-Level Security",
+      "type": "skill",
+      "x_raw": 593.5849609375,
+      "y_raw": 935.6920776367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Roles pg_hba.conf",
+      "type": "skill",
+      "x_raw": 442.22589111328125,
+      "y_raw": 935.7740478515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "SELinux",
+      "type": "skill",
+      "x_raw": 620.5477294921875,
+      "y_raw": 969.5917358398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "SSL Settings",
+      "type": "skill",
+      "x_raw": 468.36834716796875,
+      "y_raw": 969.6619873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Infrastructure Skills",
+      "type": "section",
+      "x_raw": 258.5958557128906,
+      "y_raw": 996.495849609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_69",
+      "label": "Backup & Recovery Tools",
+      "type": "skill",
+      "x_raw": 479.828369140625,
+      "y_raw": 1057.334716796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Anonymization",
+      "type": "section",
+      "x_raw": 283.5548095703125,
+      "y_raw": 1057.639404296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "PostgreSQL Anonymizer",
+      "type": "section",
+      "x_raw": 259.75592041015625,
+      "y_raw": 1085.35205078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "rd Party Builtin Tools",
+      "type": "section",
+      "x_raw": 445.19049072265625,
+      "y_raw": 1106.690185546875,
+      "is_trunk": true,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Upgrade Procedures",
+      "type": "section",
+      "x_raw": 267.58343505859375,
+      "y_raw": 1124.653564453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_74",
+      "label": "pg_dump pg_dumpall",
+      "type": "skill",
+      "x_raw": 554.295166015625,
+      "y_raw": 1136.3245849609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "barman WAL-G",
+      "type": "skill",
+      "x_raw": 419.2589416503906,
+      "y_raw": 1137.601806640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Using `pg_upgrade`",
+      "type": "section",
+      "x_raw": 270.1847839355469,
+      "y_raw": 1156.5377197265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_77",
+      "label": "pg_restore",
+      "type": "skill",
+      "x_raw": 591.7804565429688,
+      "y_raw": 1170.2242431640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "pgbackrest",
+      "type": "skill",
+      "x_raw": 444.7920837402344,
+      "y_raw": 1171.50146484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Learn to Automate",
+      "type": "skill",
+      "x_raw": 71.30990600585938,
+      "y_raw": 1179.856201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Using Logical Replication",
+      "type": "section",
+      "x_raw": 255.63125610351562,
+      "y_raw": 1190.4256591796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "pg_basebackup",
+      "type": "skill",
+      "x_raw": 579.1251831054688,
+      "y_raw": 1204.1121826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "pg_probackup",
+      "type": "skill",
+      "x_raw": 437.59735107421875,
+      "y_raw": 1205.389404296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Shell Scripts",
+      "type": "skill",
+      "x_raw": 85.78140258789062,
+      "y_raw": 1219.0523681640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Cluster Management",
+      "type": "section",
+      "x_raw": 267.3022155761719,
+      "y_raw": 1227.6531982421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_85",
+      "label": "Backup Validation Procedures",
+      "type": "skill",
+      "x_raw": 477.7660217285156,
+      "y_raw": 1239.2890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Any Programming Language",
+      "type": "skill",
+      "x_raw": 46.92510986328125,
+      "y_raw": 1252.9403076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Patroni",
+      "type": "section",
+      "x_raw": 300.920654296875,
+      "y_raw": 1257.58056640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "Connection Pooling",
+      "type": "skill",
+      "x_raw": 552.7835693359375,
+      "y_raw": 1279.141357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Replication",
+      "type": "skill",
+      "x_raw": 413.3765869140625,
+      "y_raw": 1279.141357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 71.62628173828125,
+      "y_raw": 1288.9256591796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Patroni Alternatives",
+      "type": "section",
+      "x_raw": 270.78240966796875,
+      "y_raw": 1291.480224609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "PgBouncer",
+      "type": "skill",
+      "x_raw": 595.4246826171875,
+      "y_raw": 1312.607421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Logical Replication",
+      "type": "skill",
+      "x_raw": 430.215087890625,
+      "y_raw": 1312.923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Configuration Management",
+      "type": "skill",
+      "x_raw": 49.74908447265625,
+      "y_raw": 1318.84130859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Kubernetes Deployment",
+      "type": "section",
+      "x_raw": 259.62701416015625,
+      "y_raw": 1328.707763671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_96",
+      "label": "PgBouncer Alternatives",
+      "type": "skill",
+      "x_raw": 565.2864379882812,
+      "y_raw": 1346.495361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "Streaming Replication",
+      "type": "skill",
+      "x_raw": 422.7742919921875,
+      "y_raw": 1346.823486328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Ansible Salt",
+      "type": "skill",
+      "x_raw": 64.4432373046875,
+      "y_raw": 1349.0380859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Simple Stateful Setup",
+      "type": "section",
+      "x_raw": 266.89208984375,
+      "y_raw": 1360.4161376953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_100",
+      "label": "Monitoring",
+      "type": "skill",
+      "x_raw": 513.0952758789062,
+      "y_raw": 1380.85205078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Chef Puppet",
+      "type": "skill",
+      "x_raw": 64.6072998046875,
+      "y_raw": 1383.570556640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Helm Operators",
+      "type": "section",
+      "x_raw": 263.3650207519531,
+      "y_raw": 1394.3040771484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_103",
+      "label": "Prometheus Zabbix",
+      "type": "skill",
+      "x_raw": 434.52728271484375,
+      "y_raw": 1411.517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "temBoard",
+      "type": "skill",
+      "x_raw": 628.6798706054688,
+      "y_raw": 1411.517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Load Balancing / Discovery",
+      "type": "skill",
+      "x_raw": 252.2916717529297,
+      "y_raw": 1431.7659912109375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_106",
+      "label": "check_pgactivity",
+      "type": "skill",
+      "x_raw": 441.3939208984375,
+      "y_raw": 1446.5655517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "check_pgbackrest",
+      "type": "skill",
+      "x_raw": 578.480712890625,
+      "y_raw": 1446.5655517578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "HAProxy Consul",
+      "type": "section",
+      "x_raw": 264.0563659667969,
+      "y_raw": 1462.6307373046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_109",
+      "label": "Resource Usage / Provisioning / Capacity Planning",
+      "type": "skill",
+      "x_raw": 430.1565246582031,
+      "y_raw": 1493.9642333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "KeepAlived Etcd",
+      "type": "section",
+      "x_raw": 257.494384765625,
+      "y_raw": 1497.1632080078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Data and Processing Application Skills",
+      "type": "skill",
+      "x_raw": 66.048583984375,
+      "y_raw": 1562.3695068359375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_112",
+      "label": "Migrations",
+      "type": "section",
+      "x_raw": 361.4197692871094,
+      "y_raw": 1569.591064453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "Bulk Loading / Processing Data",
+      "type": "skill",
+      "x_raw": 514.8060913085938,
+      "y_raw": 1597.3037109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Practical Patterns / Antipatterns",
+      "type": "skill",
+      "x_raw": 307.89276123046875,
+      "y_raw": 1600.408935546875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_115",
+      "label": "Data Partitioning",
+      "type": "skill",
+      "x_raw": 551.5062866210938,
+      "y_raw": 1631.203369140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Migration Related Tools",
+      "type": "section",
+      "x_raw": 328.43408203125,
+      "y_raw": 1634.30859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Advanced Topics",
+      "type": "skill",
+      "x_raw": 63.435516357421875,
+      "y_raw": 1655.2098388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Sharding Patterns",
+      "type": "skill",
+      "x_raw": 548.6588745117188,
+      "y_raw": 1665.09130859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "Queues",
+      "type": "section",
+      "x_raw": 367.80596923828125,
+      "y_raw": 1668.7120361328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_120",
+      "label": "Normalization / Normal Forms",
+      "type": "skill",
+      "x_raw": 518.4620361328125,
+      "y_raw": 1698.990966796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Patterns / Antipatterns PgQ",
+      "type": "skill",
+      "x_raw": 304.61175537109375,
+      "y_raw": 1700.4908447265625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_122",
+      "label": "Low Level Internals",
+      "type": "skill",
+      "x_raw": 81.97311401367188,
+      "y_raw": 1725.6256103515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "Processes & Memory Architecture",
+      "type": "skill",
+      "x_raw": 50.487335205078125,
+      "y_raw": 1757.123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Advanced SQL",
+      "type": "skill",
+      "x_raw": 562.5327758789062,
+      "y_raw": 1766.462158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Fine-grained Tuning",
+      "type": "section",
+      "x_raw": 322.97357177734375,
+      "y_raw": 1766.778564453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_126",
+      "label": "Vacuum Processing",
+      "type": "skill",
+      "x_raw": 85.42987060546875,
+      "y_raw": 1791.022705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "PL/pgSQL",
+      "type": "skill",
+      "x_raw": 572.117919921875,
+      "y_raw": 1798.3814697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "Per-User, Per-Database Setting",
+      "type": "section",
+      "x_raw": 294.1828918457031,
+      "y_raw": 1800.39697265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_129",
+      "label": "Buffer Management",
+      "type": "skill",
+      "x_raw": 84.504150390625,
+      "y_raw": 1824.91064453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_130",
+      "label": "Procedures and Functions",
+      "type": "skill",
+      "x_raw": 533.7420654296875,
+      "y_raw": 1832.2694091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_131",
+      "label": "Storage Parameters",
+      "type": "section",
+      "x_raw": 322.5048828125,
+      "y_raw": 1834.284912109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_132",
+      "label": "Lock Management",
+      "type": "skill",
+      "x_raw": 87.87890625,
+      "y_raw": 1858.810302734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_133",
+      "label": "Workload-Dependant Tuning",
+      "type": "section",
+      "x_raw": 301.54168701171875,
+      "y_raw": 1863.5911865234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_134",
+      "label": "Triggers Recursive CTE",
+      "type": "skill",
+      "x_raw": 523.172607421875,
+      "y_raw": 1866.1690673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "Physical Storage and File Layout",
+      "type": "skill",
+      "x_raw": 54.319061279296875,
+      "y_raw": 1892.6982421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_136",
+      "label": "OLTP OLAP HTAP",
+      "type": "section",
+      "x_raw": 293.78448486328125,
+      "y_raw": 1894.1278076171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_137",
+      "label": "Aggregate and Window functions",
+      "type": "skill",
+      "x_raw": 518.5206298828125,
+      "y_raw": 1900.7015380859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_138",
+      "label": "System Catalog",
+      "type": "skill",
+      "x_raw": 95.4134521484375,
+      "y_raw": 1926.597900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_139",
+      "label": "Troubleshooting Techniques",
+      "type": "skill",
+      "x_raw": 514.4779663085938,
+      "y_raw": 1968.73193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_140",
+      "label": "Operating System Tools",
+      "type": "skill",
+      "x_raw": 538.9799194335938,
+      "y_raw": 2012.946533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_141",
+      "label": "Query Analysis",
+      "type": "section",
+      "x_raw": 277.9771423339844,
+      "y_raw": 2012.946533203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_142",
+      "label": "Profiling Tools",
+      "type": "skill",
+      "x_raw": 416.2943115234375,
+      "y_raw": 2013.696533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_143",
+      "label": "Posgres System Views",
+      "type": "skill",
+      "x_raw": 121.19267272949219,
+      "y_raw": 2013.696533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "top sysstat iotop",
+      "type": "skill",
+      "x_raw": 536.1559448242188,
+      "y_raw": 2042.7098388671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "EXPLAIN Depesz",
+      "type": "section",
+      "x_raw": 257.2834777832031,
+      "y_raw": 2042.7098388671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_146",
+      "label": "perf-tools",
+      "type": "skill",
+      "x_raw": 428.6448974609375,
+      "y_raw": 2043.4598388671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_147",
+      "label": "pg_stat_activity",
+      "type": "skill",
+      "x_raw": 136.30865478515625,
+      "y_raw": 2043.4598388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_148",
+      "label": "PEV2 Tensor",
+      "type": "section",
+      "x_raw": 266.01324462890625,
+      "y_raw": 2076.609619140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_149",
+      "label": "gdb strace",
+      "type": "skill",
+      "x_raw": 409.43939208984375,
+      "y_raw": 2077.359619140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_150",
+      "label": "pg_stat_statements",
+      "type": "skill",
+      "x_raw": 125.66886901855469,
+      "y_raw": 2077.359619140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_151",
+      "label": "Log Analysis",
+      "type": "skill",
+      "x_raw": 560.9977416992188,
+      "y_raw": 2077.758056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_152",
+      "label": "explain.dalibo.com Techniques",
+      "type": "skill",
+      "x_raw": 147.8975830078125,
+      "y_raw": 2110.49755859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_153",
+      "label": "Core Dumps",
+      "type": "skill",
+      "x_raw": 421.5204772949219,
+      "y_raw": 2111.24755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_154",
+      "label": "pgCluu",
+      "type": "skill",
+      "x_raw": 576.5238647460938,
+      "y_raw": 2112.99365234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_155",
+      "label": "ebpf",
+      "type": "skill",
+      "x_raw": 441.2415771484375,
+      "y_raw": 2145.147216796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_156",
+      "label": "pgBadger",
+      "type": "skill",
+      "x_raw": 569.4111328125,
+      "y_raw": 2146.881591796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_157",
+      "label": "Posgres Tools",
+      "type": "section",
+      "x_raw": 279.89886474609375,
+      "y_raw": 2147.81884765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_158",
+      "label": "USE RED",
+      "type": "skill",
+      "x_raw": 132.25428771972656,
+      "y_raw": 2149.10791015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_159",
+      "label": "awk grep sed",
+      "type": "skill",
+      "x_raw": 530.5079345703125,
+      "y_raw": 2180.78125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_160",
+      "label": "pgcenter",
+      "type": "section",
+      "x_raw": 287.67950439453125,
+      "y_raw": 2182.257568359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_161",
+      "label": "Golden Signals",
+      "type": "skill",
+      "x_raw": 139.2029571533203,
+      "y_raw": 2182.995849609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_162",
+      "label": "SQL Optimization Techniques",
+      "type": "skill",
+      "x_raw": 509.67364501953125,
+      "y_raw": 2260.341552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_163",
+      "label": "SQL Query Patterns / Anti-patterns",
+      "type": "skill",
+      "x_raw": 245.40159606933594,
+      "y_raw": 2263.837158203125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_164",
+      "label": "Schema Design Patterns / Anti-patterns",
+      "type": "skill",
+      "x_raw": 233.4494171142578,
+      "y_raw": 2297.72509765625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_165",
+      "label": "B-Tree",
+      "type": "skill",
+      "x_raw": 543.7373657226562,
+      "y_raw": 2339.9677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_166",
+      "label": "BRIN",
+      "type": "skill",
+      "x_raw": 618.8486328125,
+      "y_raw": 2340.7880859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_167",
+      "label": "Hash GiST",
+      "type": "skill",
+      "x_raw": 548.5065307617188,
+      "y_raw": 2373.867431640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_168",
+      "label": "Indexes and their Usecases",
+      "type": "skill",
+      "x_raw": 262.72052001953125,
+      "y_raw": 2374.605712890625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_169",
+      "label": "SP-GiST GIN",
+      "type": "skill",
+      "x_raw": 539.9173583984375,
+      "y_raw": 2407.75537109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_170",
+      "label": "Mailing Lists",
+      "type": "skill",
+      "x_raw": 64.5018310546875,
+      "y_raw": 2423.293212890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_171",
+      "label": "Get Involved in Development",
+      "type": "skill",
+      "x_raw": 260.3769836425781,
+      "y_raw": 2456.87646484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_172",
+      "label": "Reviewing Patches",
+      "type": "skill",
+      "x_raw": 48.682769775390625,
+      "y_raw": 2457.18115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_173",
+      "label": "Writing Patches",
+      "type": "skill",
+      "x_raw": 56.639190673828125,
+      "y_raw": 2491.080810546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_174",
+      "label": "Visit the following relevant roadmaps",
+      "type": "skill",
+      "x_raw": 242.46041870117188,
+      "y_raw": 2561.270751953125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_175",
+      "label": "MongoDB Backend",
+      "type": "section",
+      "x_raw": 241.76907348632812,
+      "y_raw": 2594.84228515625,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "trunk"
+    },
+    {
+      "source": "node_57",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_68",
+      "type": "trunk"
+    },
+    {
+      "source": "node_68",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "trunk"
+    },
+    {
+      "source": "node_73",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_76",
+      "type": "trunk"
+    },
+    {
+      "source": "node_76",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_84",
+      "type": "trunk"
+    },
+    {
+      "source": "node_84",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_95",
+      "type": "trunk"
+    },
+    {
+      "source": "node_95",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_99",
+      "type": "trunk"
+    },
+    {
+      "source": "node_99",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_102",
+      "type": "trunk"
+    },
+    {
+      "source": "node_102",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_108",
+      "type": "trunk"
+    },
+    {
+      "source": "node_108",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_119",
+      "type": "trunk"
+    },
+    {
+      "source": "node_119",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_125",
+      "type": "trunk"
+    },
+    {
+      "source": "node_125",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_125",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_125",
+      "target": "node_128",
+      "type": "trunk"
+    },
+    {
+      "source": "node_128",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_131",
+      "type": "trunk"
+    },
+    {
+      "source": "node_131",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_131",
+      "target": "node_133",
+      "type": "trunk"
+    },
+    {
+      "source": "node_133",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_133",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_133",
+      "target": "node_136",
+      "type": "trunk"
+    },
+    {
+      "source": "node_136",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_136",
+      "target": "node_141",
+      "type": "trunk"
+    },
+    {
+      "source": "node_141",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_145",
+      "type": "trunk"
+    },
+    {
+      "source": "node_145",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_145",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_145",
+      "target": "node_148",
+      "type": "trunk"
+    },
+    {
+      "source": "node_148",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_152",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_154",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_156",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_157",
+      "type": "trunk"
+    },
+    {
+      "source": "node_157",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_157",
+      "target": "node_159",
+      "type": "branch"
+    },
+    {
+      "source": "node_157",
+      "target": "node_160",
+      "type": "trunk"
+    },
+    {
+      "source": "node_160",
+      "target": "node_161",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_162",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_163",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_164",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_165",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_166",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_167",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_168",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_169",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_170",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_171",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_172",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_173",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_174",
+      "type": "branch"
+    },
+    {
+      "source": "node_160",
+      "target": "node_175",
+      "type": "trunk"
+    }
+  ]
+}

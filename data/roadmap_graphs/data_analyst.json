@@ -1,0 +1,1807 @@
+{
+  "topic": "Data Analyst",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Data Analyst",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 480.51763916015625,
+      "y_raw": 83.05775451660156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "AI and Data Scientist Roadmap",
+      "type": "skill",
+      "x_raw": 59.50067138671875,
+      "y_raw": 92.21710968017578,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "SQL Roadmap",
+      "type": "skill",
+      "x_raw": 59.50067138671875,
+      "y_raw": 110.92819213867188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Python Roadmap",
+      "type": "skill",
+      "x_raw": 59.50067138671875,
+      "y_raw": 129.6510009765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Prompt Engineering Roadmap",
+      "type": "skill",
+      "x_raw": 59.50067138671875,
+      "y_raw": 148.36207580566406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Data Analyst",
+      "type": "section",
+      "x_raw": 313.8636169433594,
+      "y_raw": 159.80653381347656,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "What is Data Analytics",
+      "type": "skill",
+      "x_raw": 561.2787475585938,
+      "y_raw": 202.55328369140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Building a Strong Foundation",
+      "type": "skill",
+      "x_raw": 41.01220703125,
+      "y_raw": 233.5400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 334.2852783203125,
+      "y_raw": 236.69485473632812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_9",
+      "label": "Types of Data Analytics",
+      "type": "skill",
+      "x_raw": 558.7245483398438,
+      "y_raw": 236.69485473632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Descriptive Analytics",
+      "type": "skill",
+      "x_raw": 564.699951171875,
+      "y_raw": 287.3916931152344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Analysis / Reporting with Excel",
+      "type": "skill",
+      "x_raw": 50.99456787109375,
+      "y_raw": 301.9786071777344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Key Concepts of Data",
+      "type": "skill",
+      "x_raw": 310.94622802734375,
+      "y_raw": 303.8532409667969,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Diagnostic Analytics",
+      "type": "skill",
+      "x_raw": 566.0824584960938,
+      "y_raw": 320.45538330078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "IF DATEDIF",
+      "type": "skill",
+      "x_raw": 75.42324829101562,
+      "y_raw": 337.8542175292969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Collection Cleanup",
+      "type": "section",
+      "x_raw": 293.67626953125,
+      "y_raw": 342.21270751953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_16",
+      "label": "Predictive Analytics",
+      "type": "skill",
+      "x_raw": 567.8633422851562,
+      "y_raw": 353.51904296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "VLOOKUP / HLOOKUP",
+      "type": "skill",
+      "x_raw": 67.83102416992188,
+      "y_raw": 370.9178771972656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Exploration Visualisation",
+      "type": "section",
+      "x_raw": 290.41912841796875,
+      "y_raw": 375.2763671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Prescriptive Analytics",
+      "type": "skill",
+      "x_raw": 563.3525390625,
+      "y_raw": 386.58270263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "REPLACE / SUBSTITUTE",
+      "type": "skill",
+      "x_raw": 61.808807373046875,
+      "y_raw": 403.9815673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Statistical Analysis",
+      "type": "section",
+      "x_raw": 318.03466796875,
+      "y_raw": 408.35174560546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "UPPER / LOWER / PROPER",
+      "type": "skill",
+      "x_raw": 54.415740966796875,
+      "y_raw": 437.04522705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Machine Learning",
+      "type": "section",
+      "x_raw": 318.5501708984375,
+      "y_raw": 441.4154357910156,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Python",
+      "type": "skill",
+      "x_raw": 501.74774169921875,
+      "y_raw": 464.1803894042969,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "CONCAT TRIM",
+      "type": "skill",
+      "x_raw": 58.785980224609375,
+      "y_raw": 470.10888671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Charting",
+      "type": "section",
+      "x_raw": 297.53094482421875,
+      "y_raw": 494.74847412109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "AVERAGE COUNT",
+      "type": "skill",
+      "x_raw": 56.337249755859375,
+      "y_raw": 503.17254638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Learn a Programming Lang.",
+      "type": "skill",
+      "x_raw": 444.54827880859375,
+      "y_raw": 508.89013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Pandas",
+      "type": "skill",
+      "x_raw": 640.6339111328125,
+      "y_raw": 508.89013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Pivot Tables",
+      "type": "section",
+      "x_raw": 289.8684387207031,
+      "y_raw": 527.8121337890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "SUM MIN / MAX",
+      "type": "skill",
+      "x_raw": 68.56915283203125,
+      "y_raw": 536.2362060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "Data Manipulation Libraries",
+      "type": "skill",
+      "x_raw": 443.8218688964844,
+      "y_raw": 542.4810791015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Dplyr",
+      "type": "skill",
+      "x_raw": 645.9765625,
+      "y_raw": 542.4810791015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Learn Common Functions",
+      "type": "skill",
+      "x_raw": 63.78887939453125,
+      "y_raw": 567.9290771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Learn SQL",
+      "type": "section",
+      "x_raw": 291.9656677246094,
+      "y_raw": 572.5805053710938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Data Visualisation Libraries Matplotlib",
+      "type": "skill",
+      "x_raw": 444.8177795410156,
+      "y_raw": 575.5447387695312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Ggplot2",
+      "type": "skill",
+      "x_raw": 640.2941284179688,
+      "y_raw": 608.6083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Gain Programming Skills",
+      "type": "skill",
+      "x_raw": 437.7762145996094,
+      "y_raw": 620.14599609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Databases",
+      "type": "skill",
+      "x_raw": 232.49325561523438,
+      "y_raw": 648.619873046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Data Collection Mastering Data Handling",
+      "type": "skill",
+      "x_raw": 398.2919616699219,
+      "y_raw": 677.5094604492188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "CSV Files",
+      "type": "skill",
+      "x_raw": 235.24659729003906,
+      "y_raw": 681.6835327148438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Dispersion",
+      "type": "skill",
+      "x_raw": 74.66168212890625,
+      "y_raw": 692.9195556640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "APIs",
+      "type": "skill",
+      "x_raw": 247.39649963378906,
+      "y_raw": 714.7472534179688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Range Variance",
+      "type": "skill",
+      "x_raw": 51.66241455078125,
+      "y_raw": 730.6112670898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Handling Missing Data",
+      "type": "skill",
+      "x_raw": 555.5142822265625,
+      "y_raw": 733.844970703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Web Scraping",
+      "type": "skill",
+      "x_raw": 225.0533447265625,
+      "y_raw": 747.8109130859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Standard Deviation",
+      "type": "skill",
+      "x_raw": 55.060150146484375,
+      "y_raw": 763.6749267578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Data Cleanup",
+      "type": "skill",
+      "x_raw": 402.18182373046875,
+      "y_raw": 766.9086303710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Removing Duplicates",
+      "type": "skill",
+      "x_raw": 558.455078125,
+      "y_raw": 766.9086303710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Finding Outliers",
+      "type": "skill",
+      "x_raw": 571.6008911132812,
+      "y_raw": 799.9722900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Distribution Space",
+      "type": "skill",
+      "x_raw": 187.19766235351562,
+      "y_raw": 800.2183227539062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Central Tendency",
+      "type": "skill",
+      "x_raw": 58.481353759765625,
+      "y_raw": 800.2183227539062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Data Transformation",
+      "type": "skill",
+      "x_raw": 560.88037109375,
+      "y_raw": 833.0359497070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Mean Median",
+      "type": "skill",
+      "x_raw": 54.55633544921875,
+      "y_raw": 834.80517578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Skewness",
+      "type": "skill",
+      "x_raw": 206.06106567382812,
+      "y_raw": 834.80517578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Data Analysis Techniques",
+      "type": "skill",
+      "x_raw": 362.67413330078125,
+      "y_raw": 858.7855224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Using Libraries for Cleanup",
+      "type": "skill",
+      "x_raw": 545.7896728515625,
+      "y_raw": 863.2174072265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Mode Average",
+      "type": "skill",
+      "x_raw": 54.497772216796875,
+      "y_raw": 867.8688354492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Kurtosis",
+      "type": "skill",
+      "x_raw": 210.23208618164062,
+      "y_raw": 867.8688354492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Pandas Dplyr",
+      "type": "skill",
+      "x_raw": 553.9559936523438,
+      "y_raw": 895.42578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Generating Statistics",
+      "type": "skill",
+      "x_raw": 54.55633544921875,
+      "y_raw": 924.482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Descriptive Analysis",
+      "type": "section",
+      "x_raw": 256.19549560546875,
+      "y_raw": 949.7078247070312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "Data Visualisation",
+      "type": "skill",
+      "x_raw": 549.925537109375,
+      "y_raw": 949.7078247070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Visualizing Distributions",
+      "type": "skill",
+      "x_raw": 46.4486083984375,
+      "y_raw": 969.0399169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Tools Libraries",
+      "type": "skill",
+      "x_raw": 515.2449951171875,
+      "y_raw": 1002.9822998046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Learn to analyze relationships",
+      "type": "skill",
+      "x_raw": 233.1610870361328,
+      "y_raw": 1013.8433837890625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "and make data driven decisions Hypothesis Testing",
+      "type": "skill",
+      "x_raw": 48.733306884765625,
+      "y_raw": 1029.7542724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Matplotlib",
+      "type": "skill",
+      "x_raw": 573.8504638671875,
+      "y_raw": 1038.1783447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "ggplot2",
+      "type": "skill",
+      "x_raw": 644.746337890625,
+      "y_raw": 1038.1783447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Tableau",
+      "type": "skill",
+      "x_raw": 508.8478698730469,
+      "y_raw": 1038.81103515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Correlation Analysis",
+      "type": "skill",
+      "x_raw": 46.4134521484375,
+      "y_raw": 1063.6732177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Statistical Analysis",
+      "type": "section",
+      "x_raw": 259.89788818359375,
+      "y_raw": 1063.977783203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "Seaborn",
+      "type": "skill",
+      "x_raw": 609.7611694335938,
+      "y_raw": 1071.253662109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Power BI",
+      "type": "skill",
+      "x_raw": 506.317138671875,
+      "y_raw": 1071.8746337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Regression",
+      "type": "skill",
+      "x_raw": 66.38992309570312,
+      "y_raw": 1096.74853515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Charting",
+      "type": "skill",
+      "x_raw": 573.1591796875,
+      "y_raw": 1107.1644287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Learn Different Techniques",
+      "type": "skill",
+      "x_raw": 31.111846923828125,
+      "y_raw": 1128.9803466796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Advanced Topics",
+      "type": "section",
+      "x_raw": 255.7385711669922,
+      "y_raw": 1129.2232666015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Bar Charts",
+      "type": "skill",
+      "x_raw": 516.065185546875,
+      "y_raw": 1142.3721923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Histograms",
+      "type": "skill",
+      "x_raw": 617.2011108398438,
+      "y_raw": 1142.9931640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "Machine Learning Types",
+      "type": "skill",
+      "x_raw": 42.336151123046875,
+      "y_raw": 1168.909912109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Line Chart",
+      "type": "skill",
+      "x_raw": 516.8150024414062,
+      "y_raw": 1175.4359130859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Stacked Charts",
+      "type": "skill",
+      "x_raw": 607.7576904296875,
+      "y_raw": 1176.056884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "Machine Learning Reinforcement Learning",
+      "type": "skill",
+      "x_raw": 41.83233642578125,
+      "y_raw": 1201.5517578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Scatter Plot",
+      "type": "skill",
+      "x_raw": 514.1905517578125,
+      "y_raw": 1208.49951171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Heatmap",
+      "type": "skill",
+      "x_raw": 622.2977294921875,
+      "y_raw": 1209.1204833984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Unsupervised Learning",
+      "type": "skill",
+      "x_raw": 44.210784912109375,
+      "y_raw": 1234.6153564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Funnel Charts",
+      "type": "skill",
+      "x_raw": 508.2503356933594,
+      "y_raw": 1241.563232421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Pie Charts",
+      "type": "skill",
+      "x_raw": 619.32177734375,
+      "y_raw": 1242.1842041015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Model Evaluation Techniques",
+      "type": "skill",
+      "x_raw": 209.54083251953125,
+      "y_raw": 1256.4547119140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Supervised Learning",
+      "type": "skill",
+      "x_raw": 50.502471923828125,
+      "y_raw": 1267.6790771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Popular ML Algorithms",
+      "type": "skill",
+      "x_raw": 48.2646484375,
+      "y_raw": 1303.9764404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Big Data Technologies",
+      "type": "skill",
+      "x_raw": 555.5963134765625,
+      "y_raw": 1310.50244140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Decision Trees",
+      "type": "skill",
+      "x_raw": 64.26922607421875,
+      "y_raw": 1335.06005859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Big Data Concepts KNN",
+      "type": "skill",
+      "x_raw": 138.24655151367188,
+      "y_raw": 1365.6280517578125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_96",
+      "label": "Naive Byes",
+      "type": "skill",
+      "x_raw": 48.8270263671875,
+      "y_raw": 1368.1236572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "CNNs RNN",
+      "type": "skill",
+      "x_raw": 235.02398681640625,
+      "y_raw": 1374.3568115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Data Storage Solutions",
+      "type": "skill",
+      "x_raw": 554.6707153320312,
+      "y_raw": 1398.7034912109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "K-Means Clustering",
+      "type": "skill",
+      "x_raw": 52.5645751953125,
+      "y_raw": 1401.1873779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Neural Networks",
+      "type": "skill",
+      "x_raw": 252.5751495361328,
+      "y_raw": 1407.4205322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Data Processing Frameworks",
+      "type": "skill",
+      "x_raw": 539.9197387695312,
+      "y_raw": 1430.853271484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Logistic Regression",
+      "type": "skill",
+      "x_raw": 52.693450927734375,
+      "y_raw": 1434.8836669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "Learn the Basics",
+      "type": "skill",
+      "x_raw": 252.07135009765625,
+      "y_raw": 1438.9727783203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Hadoop Spark",
+      "type": "skill",
+      "x_raw": 550.148193359375,
+      "y_raw": 1465.4400634765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Frameworks",
+      "type": "skill",
+      "x_raw": 65.8861083984375,
+      "y_raw": 1489.505615234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Deep Learning (Optional)",
+      "type": "skill",
+      "x_raw": 231.2864532470703,
+      "y_raw": 1491.0169677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Data Processing Techniques",
+      "type": "skill",
+      "x_raw": 541.44287109375,
+      "y_raw": 1498.2342529296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Tensorflow",
+      "type": "skill",
+      "x_raw": 69.42446899414062,
+      "y_raw": 1524.0806884765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Parallel Processing",
+      "type": "skill",
+      "x_raw": 564.688232421875,
+      "y_raw": 1533.6060791015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Practice Training Models",
+      "type": "skill",
+      "x_raw": 233.18450927734375,
+      "y_raw": 1540.6593017578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "Pytorch",
+      "type": "skill",
+      "x_raw": 77.18069458007812,
+      "y_raw": 1557.7769775390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "MPI MapReduce",
+      "type": "skill",
+      "x_raw": 552.1165161132812,
+      "y_raw": 1566.6697998046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Image Recognition",
+      "type": "skill",
+      "x_raw": 246.93955993652344,
+      "y_raw": 1575.24609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Natural Language Processing",
+      "type": "skill",
+      "x_raw": 221.4095458984375,
+      "y_raw": 1608.309814453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Build a portfolio of projects. Some example projects:",
+      "type": "skill",
+      "x_raw": 44.491973876953125,
+      "y_raw": 1663.037109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": ") Predicting sales trends 2) Customer Segmentation.",
+      "type": "section",
+      "x_raw": 44.491973876953125,
+      "y_raw": 1682.380859375,
+      "is_trunk": true,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Keep learning with the following relevant track",
+      "type": "skill",
+      "x_raw": 396.4524841308594,
+      "y_raw": 1704.9700927734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Participate in Kaggle Competitions",
+      "type": "skill",
+      "x_raw": 44.386505126953125,
+      "y_raw": 1709.8323974609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "Participate in competitions and learn from community",
+      "type": "skill",
+      "x_raw": 44.386505126953125,
+      "y_raw": 1729.1761474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "AI and Data Scientist Roadmap",
+      "type": "skill",
+      "x_raw": 433.8277893066406,
+      "y_raw": 1739.486572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Online Courses and Certifications",
+      "type": "skill",
+      "x_raw": 44.491973876953125,
+      "y_raw": 1755.9949951171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_122",
+      "label": "Platforms like Coursera, edX, Udemy and Datacamp",
+      "type": "skill",
+      "x_raw": 44.491973876953125,
+      "y_raw": 1775.3387451171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "offer courses in Data Analytics and related topics.",
+      "type": "skill",
+      "x_raw": 44.491973876953125,
+      "y_raw": 1791.2496337890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Stay Updated and Network",
+      "type": "skill",
+      "x_raw": 43.871002197265625,
+      "y_raw": 1815.88916015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_125",
+      "label": "Join networking events, communities, seek mentorship,",
+      "type": "skill",
+      "x_raw": 43.871002197265625,
+      "y_raw": 1835.8538818359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "attend webinars and engage in discussions to expand",
+      "type": "skill",
+      "x_raw": 43.871002197265625,
+      "y_raw": 1851.7647705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "your network.",
+      "type": "skill",
+      "x_raw": 43.871002197265625,
+      "y_raw": 1867.6756591796875,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "trunk"
+    },
+    {
+      "source": "node_8",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_15",
+      "type": "trunk"
+    },
+    {
+      "source": "node_15",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_127",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+ "domain": "Cloudflare",
+ "stages": [
+  {
+   "name": "JavaScript Fundamentals",
+   "skills": [
+    "Useful Links",
+    "Prerequisites Core Development Skills",
+    "Node.js and NPM",
+    "Discord Community"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Basic Command-line Knowledge",
+   "skills": [
+    "TypeScript Fundamentals",
+    "Workers Runtime Environment",
+    "HTTP and Web Protocols"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Git Basics",
+   "skills": [
+    "Understand Serverless Architecture",
+    "Edge Computing Fundamentals",
+    "Request/Response Handling"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Workers Core Concepts",
+   "skills": [
+    "Fetch API and Runtime APIs",
+    "API Routers",
+    "Workers Lifecycle",
+    "Hono Itty Router",
+    "Service Bindings",
+    "Frontend Frameworks"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Frameworks and Tools",
+   "skills": [
+    "Caching Strategies",
+    "Any Frontend Framework",
+    "Middleware Patterns",
+    "Building / Deploying",
+    "Bindings",
+    "Wrangler",
+    "Miniflare",
+    "Logging and Monitoring",
+    "DevTools Integration",
+    "Storage Solutions Workers KV",
+    "CI/CD Pipelines"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "R2 Storage",
+   "skills": [
+    "Key-value Operations",
+    "Object Storage",
+    "Metadata Handling",
+    "Large File Handling",
+    "Bulk Operations",
+    "Asset Management",
+    "Caching Patterns",
+    "Bucket Operations",
+    "Bucket Lifecycle",
+    "Schema Management"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Durable Objects",
+   "skills": [
+    "Migrations",
+    "Durable Execution",
+    "Query Optimization",
+    "Drizzle Prisma",
+    "Queues",
+    "Frameworks"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "State Management",
+   "skills": [
+    "Message Processing"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Coordination",
+   "skills": [
+    "Workflows",
+    "Background Jobs"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Persistence",
+   "skills": [
+    "Rate Limiting"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Transactional Operations",
+   "skills": [
+    "Advanced Features",
+    "Dead Letter Queues",
+    "Workers AI",
+    "Vectorize",
+    "Stream",
+    "Images",
+    "Video Delivery",
+    "Text Generation",
+    "Vector Embeddings",
+    "Calls",
+    "Live streaming",
+    "Image Processing",
+    "Similarity Search",
+    "Video Processing"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Security & Performance",
+   "skills": [
+    "Tunnels",
+    "AI Model Integration",
+    "Email Workers",
+    "AI Gateway Browser Rendering",
+    "Workers Security Model",
+    "Isolates Architecture",
+    "Routing",
+    "Web Security Headers",
+    "Processing",
+    "Rate Limiting",
+    "Filtering",
+    "Cache API"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Integration & Workflows",
+   "skills": [
+    "HTML Rewriting",
+    "Development Tools",
+    "Edge SSL/TLS"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Pages Functions",
+   "skills": [
+    "Wrangler",
+    "Bot Management"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Service Bindings",
+   "skills": [
+    "Miniflare"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Inter Worker Communication",
+   "skills": [
+    "DevTools"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "External API Integration",
+   "skills": [
+    "Testing Frameworks"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Webhook Handling",
+   "skills": [
+    "Monitoring Tools"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  },
+  {
+   "name": "Event-driven Architectures",
+   "skills": [
+    "Debugging Techniques"
+   ],
+   "resources": [
+    "roadmap.sh/cloudflare"
+   ]
+  }
+ ]
+}

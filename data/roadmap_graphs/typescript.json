@@ -1,0 +1,1415 @@
+{
+  "topic": "Typescript",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Typescript",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "roadmap and other similar roadmaps",
+      "type": "skill",
+      "x_raw": 502.509765625,
+      "y_raw": 61.68392562866211,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "JavaScript Roadmap",
+      "type": "skill",
+      "x_raw": 58.40667724609375,
+      "y_raw": 72.25279998779297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "TypeScript",
+      "type": "section",
+      "x_raw": 351.8699951171875,
+      "y_raw": 90.78111267089844,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_3",
+      "label": "Node.js Roadmap",
+      "type": "skill",
+      "x_raw": 58.40667724609375,
+      "y_raw": 91.37718963623047,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 58.40667724609375,
+      "y_raw": 110.51329803466797,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Frontend Roadmap",
+      "type": "skill",
+      "x_raw": 58.40667724609375,
+      "y_raw": 129.6376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "TS Playground",
+      "type": "skill",
+      "x_raw": 578.86669921875,
+      "y_raw": 157.66915893554688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "JavaScript Roadmap",
+      "type": "section",
+      "x_raw": 343.4327697753906,
+      "y_raw": 175.37562561035156,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "tsc ts-node",
+      "type": "skill",
+      "x_raw": 549.4301147460938,
+      "y_raw": 191.4532470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "TypeScript vs JavaScript",
+      "type": "skill",
+      "x_raw": 78.22244262695312,
+      "y_raw": 206.28871154785156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Introduction to TypeScript",
+      "type": "section",
+      "x_raw": 331.67926025390625,
+      "y_raw": 239.4517059326172,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Running TypeScript",
+      "type": "skill",
+      "x_raw": 566.5623779296875,
+      "y_raw": 239.4517059326172,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "TS and JS Interoperability",
+      "type": "skill",
+      "x_raw": 74.73037719726562,
+      "y_raw": 240.0845184326172,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Installation and Configuration",
+      "type": "skill",
+      "x_raw": 65.71893310546875,
+      "y_raw": 273.88031005859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Object Types",
+      "type": "skill",
+      "x_raw": 624.240234375,
+      "y_raw": 284.81353759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Primitive Types",
+      "type": "skill",
+      "x_raw": 537.2078857421875,
+      "y_raw": 285.44635009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Interface",
+      "type": "skill",
+      "x_raw": 633.017333984375,
+      "y_raw": 315.00006103515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "boolean",
+      "type": "skill",
+      "x_raw": 552.8870849609375,
+      "y_raw": 315.63287353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "tsconfig.json Compiler Options",
+      "type": "skill",
+      "x_raw": 43.50091552734375,
+      "y_raw": 320.4256896972656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Class",
+      "type": "skill",
+      "x_raw": 641.7123413085938,
+      "y_raw": 348.7958984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "number",
+      "type": "skill",
+      "x_raw": 553.8010864257812,
+      "y_raw": 349.4286804199219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "TypeScript Types",
+      "type": "section",
+      "x_raw": 352.9246520996094,
+      "y_raw": 373.9786682128906,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "Type Inference",
+      "type": "skill",
+      "x_raw": 70.89846801757812,
+      "y_raw": 373.9786682128906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Enum",
+      "type": "skill",
+      "x_raw": 641.06787109375,
+      "y_raw": 382.5799560546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "string",
+      "type": "skill",
+      "x_raw": 558.8399658203125,
+      "y_raw": 383.2244873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Type Compatibility",
+      "type": "skill",
+      "x_raw": 63.117462158203125,
+      "y_raw": 407.77447509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Array",
+      "type": "skill",
+      "x_raw": 642.5326538085938,
+      "y_raw": 416.3757629394531,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "void",
+      "type": "skill",
+      "x_raw": 562.6015625,
+      "y_raw": 417.008544921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Assertions",
+      "type": "section",
+      "x_raw": 369.71710205078125,
+      "y_raw": 426.52386474609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "Tuple",
+      "type": "skill",
+      "x_raw": 641.7709350585938,
+      "y_raw": 450.17156982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "undefined",
+      "type": "skill",
+      "x_raw": 548.01220703125,
+      "y_raw": 450.80438232421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "as [type]",
+      "type": "section",
+      "x_raw": 373.00994873046875,
+      "y_raw": 455.43310546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Union Types",
+      "type": "skill",
+      "x_raw": 165.89935302734375,
+      "y_raw": 470.6083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "null",
+      "type": "skill",
+      "x_raw": 564.13671875,
+      "y_raw": 483.6392822265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Object",
+      "type": "skill",
+      "x_raw": 639.04052734375,
+      "y_raw": 483.95562744140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "as const",
+      "type": "skill",
+      "x_raw": 408.8681945800781,
+      "y_raw": 489.22894287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "as any",
+      "type": "section",
+      "x_raw": 339.5891418457031,
+      "y_raw": 489.22894287109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Intersection Types",
+      "type": "skill",
+      "x_raw": 150.97015380859375,
+      "y_raw": 504.39251708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Bottom Types",
+      "type": "skill",
+      "x_raw": 622.9629516601562,
+      "y_raw": 514.6577758789062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Top Types",
+      "type": "skill",
+      "x_raw": 549.00830078125,
+      "y_raw": 515.2905883789062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Non-null Assertion",
+      "type": "section",
+      "x_raw": 349.3739929199219,
+      "y_raw": 533.1259765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "Type Aliases",
+      "type": "skill",
+      "x_raw": 165.4188995361328,
+      "y_raw": 538.1882934570312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "never",
+      "type": "skill",
+      "x_raw": 641.20849609375,
+      "y_raw": 545.4888305664062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "unknown",
+      "type": "skill",
+      "x_raw": 551.0706787109375,
+      "y_raw": 546.1216430664062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "satisfies keyword",
+      "type": "section",
+      "x_raw": 352.9129333496094,
+      "y_raw": 566.9217529296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_45",
+      "label": "keyof Operator",
+      "type": "skill",
+      "x_raw": 159.66519165039062,
+      "y_raw": 571.9723510742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "any",
+      "type": "skill",
+      "x_raw": 564.01953125,
+      "y_raw": 579.9174194335938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "instanceof",
+      "type": "skill",
+      "x_raw": 267.3804931640625,
+      "y_raw": 621.0137939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Combining Types",
+      "type": "skill",
+      "x_raw": 65.76580810546875,
+      "y_raw": 634.3141479492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Types vs Interfaces",
+      "type": "skill",
+      "x_raw": 587.350830078125,
+      "y_raw": 641.3451538085938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "typeof",
+      "type": "skill",
+      "x_raw": 277.73956298828125,
+      "y_raw": 654.8095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "TypeScript Interfaces",
+      "type": "skill",
+      "x_raw": 389.8492736816406,
+      "y_raw": 675.1409912109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Extending Interfaces",
+      "type": "skill",
+      "x_raw": 583.8469848632812,
+      "y_raw": 675.1409912109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Equality",
+      "type": "skill",
+      "x_raw": 273.53265380859375,
+      "y_raw": 688.5936889648438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Type Guards / Narrowing",
+      "type": "skill",
+      "x_raw": 46.336761474609375,
+      "y_raw": 689.3905029296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Interface Declaration",
+      "type": "skill",
+      "x_raw": 582.8861083984375,
+      "y_raw": 708.936767578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Truthiness",
+      "type": "skill",
+      "x_raw": 267.4273681640625,
+      "y_raw": 722.3894653320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Hybrid Types",
+      "type": "skill",
+      "x_raw": 603.2994995117188,
+      "y_raw": 742.7208251953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Type Predicates",
+      "type": "skill",
+      "x_raw": 253.57626342773438,
+      "y_raw": 756.1852416992188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "TypeScript Functions",
+      "type": "skill",
+      "x_raw": 56.56689453125,
+      "y_raw": 803.3634643554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Classes",
+      "type": "skill",
+      "x_raw": 551.9730224609375,
+      "y_raw": 816.558349609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Typing Functions",
+      "type": "skill",
+      "x_raw": 66.94937133789062,
+      "y_raw": 854.17431640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Generics Generic Types",
+      "type": "section",
+      "x_raw": 269.40777587890625,
+      "y_raw": 872.2557983398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "Constructor Params",
+      "type": "skill",
+      "x_raw": 566.7264404296875,
+      "y_raw": 874.8104248046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Function Overloading",
+      "type": "skill",
+      "x_raw": 56.08642578125,
+      "y_raw": 887.9584350585938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Generic Constraints",
+      "type": "section",
+      "x_raw": 255.61524963378906,
+      "y_raw": 906.0515747070312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_66",
+      "label": "Access Modifiers",
+      "type": "skill",
+      "x_raw": 573.5582885742188,
+      "y_raw": 908.594482421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Partial Pick",
+      "type": "skill",
+      "x_raw": 42.106414794921875,
+      "y_raw": 930.58984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Abstract Classes",
+      "type": "skill",
+      "x_raw": 574.3785400390625,
+      "y_raw": 942.3902587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Omit Readonly",
+      "type": "skill",
+      "x_raw": 46.043792724609375,
+      "y_raw": 964.3856811523438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Inheritance vs Polymorphism",
+      "type": "skill",
+      "x_raw": 545.1412353515625,
+      "y_raw": 976.1860961914062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Record Exclude",
+      "type": "skill",
+      "x_raw": 39.50494384765625,
+      "y_raw": 998.1814575195312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Decorators Utility Types",
+      "type": "section",
+      "x_raw": 272.4194030761719,
+      "y_raw": 1000.724365234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "Method Overriding",
+      "type": "skill",
+      "x_raw": 569.5505981445312,
+      "y_raw": 1009.9701538085938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Extract",
+      "type": "skill",
+      "x_raw": 40.360382080078125,
+      "y_raw": 1031.9656982421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Awaited",
+      "type": "skill",
+      "x_raw": 104.83489990234375,
+      "y_raw": 1031.9656982421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Constructor Overloading",
+      "type": "skill",
+      "x_raw": 555.359619140625,
+      "y_raw": 1043.76611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Parameters",
+      "type": "skill",
+      "x_raw": 62.27374267578125,
+      "y_raw": 1065.761474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Advanced Types",
+      "type": "skill",
+      "x_raw": 261.38067626953125,
+      "y_raw": 1087.4404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "NonNullable",
+      "type": "skill",
+      "x_raw": 60.4105224609375,
+      "y_raw": 1099.5572509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Namespaces",
+      "type": "skill",
+      "x_raw": 578.49169921875,
+      "y_raw": 1100.5064697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "ReturnType",
+      "type": "skill",
+      "x_raw": 62.30889892578125,
+      "y_raw": 1133.34130859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Ambient Modules",
+      "type": "skill",
+      "x_raw": 568.4959106445312,
+      "y_raw": 1134.30224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Mapped Types",
+      "type": "skill",
+      "x_raw": 265.20086669921875,
+      "y_raw": 1149.2900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "InstanceType",
+      "type": "skill",
+      "x_raw": 57.738739013671875,
+      "y_raw": 1167.1370849609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "External Modules",
+      "type": "skill",
+      "x_raw": 568.3787841796875,
+      "y_raw": 1168.0980224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Conditional Types",
+      "type": "skill",
+      "x_raw": 257.85345458984375,
+      "y_raw": 1183.0740966796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Namespace Augmentation",
+      "type": "skill",
+      "x_raw": 545.8208618164062,
+      "y_raw": 1201.882080078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Literal Types",
+      "type": "skill",
+      "x_raw": 270.22808837890625,
+      "y_raw": 1216.869873046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Global Augmentation",
+      "type": "skill",
+      "x_raw": 560.0001220703125,
+      "y_raw": 1235.6778564453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Template Literal Types",
+      "type": "skill",
+      "x_raw": 246.1702423095703,
+      "y_raw": 1250.6656494140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Recursive Types",
+      "type": "skill",
+      "x_raw": 261.1111755371094,
+      "y_raw": 1284.4498291015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "TypeScript Modules",
+      "type": "skill",
+      "x_raw": 562.859375,
+      "y_raw": 1298.4766845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Formatting",
+      "type": "skill",
+      "x_raw": 611.6664428710938,
+      "y_raw": 1342.151123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Have a look at the following related roadmaps",
+      "type": "skill",
+      "x_raw": 65.60177612304688,
+      "y_raw": 1372.150146484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Linting",
+      "type": "skill",
+      "x_raw": 621.5450439453125,
+      "y_raw": 1375.9468994140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Ecosystem",
+      "type": "skill",
+      "x_raw": 416.02813720703125,
+      "y_raw": 1392.4462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "Frontend Backend Node.js",
+      "type": "skill",
+      "x_raw": 61.230804443359375,
+      "y_raw": 1405.0084228515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Useful Packages",
+      "type": "skill",
+      "x_raw": 597.1707763671875,
+      "y_raw": 1409.74267578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Build Tools",
+      "type": "skill",
+      "x_raw": 611.7953491210938,
+      "y_raw": 1443.5267333984375,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "trunk"
+    },
+    {
+      "source": "node_2",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_44",
+      "type": "trunk"
+    },
+    {
+      "source": "node_44",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_65",
+      "type": "trunk"
+    },
+    {
+      "source": "node_65",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_99",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,2507 @@
+{
+  "topic": "Ios",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Ios",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 481.938232421875,
+      "y_raw": 39.04183578491211,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Special thanks to Dennis who helped",
+      "type": "skill",
+      "x_raw": 36.121826171875,
+      "y_raw": 39.04183578491211,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "roadmap and other similar roadmaps",
+      "type": "skill",
+      "x_raw": 481.938232421875,
+      "y_raw": 53.67855453491211,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "publish the initial version of this roadmap.",
+      "type": "skill",
+      "x_raw": 36.121826171875,
+      "y_raw": 53.67855453491211,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Visit his LinkedIn",
+      "type": "skill",
+      "x_raw": 90.895263671875,
+      "y_raw": 83.84262084960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "iOS Developer",
+      "type": "section",
+      "x_raw": 279.379638671875,
+      "y_raw": 108.26592254638672,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Interoperability with Swift",
+      "type": "skill",
+      "x_raw": 497.535888671875,
+      "y_raw": 143.63168334960938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Core OS",
+      "type": "skill",
+      "x_raw": 93.145263671875,
+      "y_raw": 151.72933959960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Objective-C Basics",
+      "type": "skill",
+      "x_raw": 509.840576171875,
+      "y_raw": 176.91293334960938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Core Services",
+      "type": "skill",
+      "x_raw": 80.899169921875,
+      "y_raw": 182.72543334960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Cocoa Touch",
+      "type": "skill",
+      "x_raw": 83.172607421875,
+      "y_raw": 213.72152709960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Objective-C",
+      "type": "skill",
+      "x_raw": 525.824951171875,
+      "y_raw": 220.43637084960938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Pick a Language",
+      "type": "section",
+      "x_raw": 295.223388671875,
+      "y_raw": 239.84262084960938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Swift (Recommended)",
+      "type": "skill",
+      "x_raw": 502.563232421875,
+      "y_raw": 257.2332458496094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "iOS Architecture",
+      "type": "skill",
+      "x_raw": 76.082763671875,
+      "y_raw": 287.9363708496094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "History and Why Swift?",
+      "type": "skill",
+      "x_raw": 502.996826171875,
+      "y_raw": 309.3699645996094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Benefits over Objective-C",
+      "type": "skill",
+      "x_raw": 495.168701171875,
+      "y_raw": 339.6629333496094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "The Fundamentals",
+      "type": "section",
+      "x_raw": 282.637451171875,
+      "y_raw": 348.114990234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Media",
+      "type": "skill",
+      "x_raw": 98.688232421875,
+      "y_raw": 356.7137145996094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Swift Basics",
+      "type": "skill",
+      "x_raw": 525.391357421875,
+      "y_raw": 369.9676208496094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Core Graphics",
+      "type": "skill",
+      "x_raw": 80.031982421875,
+      "y_raw": 390.5809020996094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Core Animation",
+      "type": "skill",
+      "x_raw": 77.969482421875,
+      "y_raw": 421.5769958496094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "OOP",
+      "type": "skill",
+      "x_raw": 557.172607421875,
+      "y_raw": 429.0652770996094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "AVFoundation",
+      "type": "skill",
+      "x_raw": 81.614013671875,
+      "y_raw": 452.5730895996094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Functional Programming",
+      "type": "skill",
+      "x_raw": 513.848388671875,
+      "y_raw": 460.0613708496094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Core Image",
+      "type": "skill",
+      "x_raw": 85.774169921875,
+      "y_raw": 483.5691833496094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Memory Management",
+      "type": "skill",
+      "x_raw": 519.274169921875,
+      "y_raw": 491.3387145996094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Core Programming Concepts",
+      "type": "section",
+      "x_raw": 267.883544921875,
+      "y_raw": 499.3660583496094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "Core Audio",
+      "type": "skill",
+      "x_raw": 87.438232421875,
+      "y_raw": 514.5653076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "ViewController Lifecycle",
+      "type": "skill",
+      "x_raw": 514.926513671875,
+      "y_raw": 522.0535888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Metal",
+      "type": "skill",
+      "x_raw": 99.508544921875,
+      "y_raw": 545.5614013671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Error Handling",
+      "type": "skill",
+      "x_raw": 535.469482421875,
+      "y_raw": 553.6239013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Concurrency (GCD, async/await)",
+      "type": "skill",
+      "x_raw": 496.211669921875,
+      "y_raw": 584.6199951171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Version Control Git GitHub",
+      "type": "skill",
+      "x_raw": 71.149169921875,
+      "y_raw": 602.2801513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "\u2014 UI Kit Basics \u2014",
+      "type": "skill",
+      "x_raw": 509.664794921875,
+      "y_raw": 647.1160888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Components",
+      "type": "skill",
+      "x_raw": 521.371826171875,
+      "y_raw": 675.8387451171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Installing",
+      "type": "skill",
+      "x_raw": 206.676513671875,
+      "y_raw": 679.0848388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Setting Up",
+      "type": "skill",
+      "x_raw": 57.262451171875,
+      "y_raw": 705.806396484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Views",
+      "type": "skill",
+      "x_raw": 536.817138671875,
+      "y_raw": 705.9793701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Preferences",
+      "type": "skill",
+      "x_raw": 199.399169921875,
+      "y_raw": 708.9676513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "View Controllers",
+      "type": "skill",
+      "x_raw": 513.778076171875,
+      "y_raw": 736.1199951171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "New Project",
+      "type": "skill",
+      "x_raw": 199.457763671875,
+      "y_raw": 738.8504638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "User Interactions",
+      "type": "skill",
+      "x_raw": 511.399169921875,
+      "y_raw": 766.2606201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "App Components Xcode",
+      "type": "skill",
+      "x_raw": 73.574951171875,
+      "y_raw": 784.087646484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "\u2014 Building Simple UIs \u2014",
+      "type": "skill",
+      "x_raw": 583.094482421875,
+      "y_raw": 811.3660888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Interface overview",
+      "type": "skill",
+      "x_raw": 186.250732421875,
+      "y_raw": 832.5301513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Basic Interfaces",
+      "type": "skill",
+      "x_raw": 601.703857421875,
+      "y_raw": 840.0887451171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Declarative Syntax",
+      "type": "section",
+      "x_raw": 330.754638671875,
+      "y_raw": 860.6551513671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Toolbar",
+      "type": "skill",
+      "x_raw": 210.520263671875,
+      "y_raw": 861.9910888671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Storyboards",
+      "type": "skill",
+      "x_raw": 611.242919921875,
+      "y_raw": 871.3778076171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Navigators",
+      "type": "skill",
+      "x_raw": 202.949951171875,
+      "y_raw": 891.4520263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Components",
+      "type": "section",
+      "x_raw": 343.059326171875,
+      "y_raw": 892.7879638671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "UIKit",
+      "type": "skill",
+      "x_raw": 489.145263671875,
+      "y_raw": 901.9168701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Xibs",
+      "type": "skill",
+      "x_raw": 628.563232421875,
+      "y_raw": 902.0809326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Navigating",
+      "type": "skill",
+      "x_raw": 56.594482421875,
+      "y_raw": 904.392333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Editors",
+      "type": "skill",
+      "x_raw": 211.293701171875,
+      "y_raw": 920.9129638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "State Management",
+      "type": "section",
+      "x_raw": 329.043701171875,
+      "y_raw": 924.3582763671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "Navigation",
+      "type": "skill",
+      "x_raw": 613.961669921875,
+      "y_raw": 933.0770263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Project Files",
+      "type": "skill",
+      "x_raw": 199.563232421875,
+      "y_raw": 950.3739013671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Data binding",
+      "type": "section",
+      "x_raw": 343.317138671875,
+      "y_raw": 955.9285888671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_60",
+      "label": "View Transitions",
+      "type": "skill",
+      "x_raw": 602.137451171875,
+      "y_raw": 964.0731201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Groups",
+      "type": "skill",
+      "x_raw": 210.789794921875,
+      "y_raw": 979.8465576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Basics",
+      "type": "section",
+      "x_raw": 352.879638671875,
+      "y_raw": 1011.032958984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "Breakpoints",
+      "type": "skill",
+      "x_raw": 201.051513671875,
+      "y_raw": 1020.1473388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Debugger",
+      "type": "skill",
+      "x_raw": 57.262451171875,
+      "y_raw": 1047.888427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Debug Navigator",
+      "type": "skill",
+      "x_raw": 190.047607421875,
+      "y_raw": 1050.2879638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Interfaces and Navigation",
+      "type": "skill",
+      "x_raw": 545.864013671875,
+      "y_raw": 1061.388427734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "SwiftUI",
+      "type": "section",
+      "x_raw": 355.785888671875,
+      "y_raw": 1063.7879638671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "Stepping",
+      "type": "skill",
+      "x_raw": 207.848388671875,
+      "y_raw": 1081.2840576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Simple UI Building",
+      "type": "section",
+      "x_raw": 322.176513671875,
+      "y_raw": 1120.685302734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Interface Builder",
+      "type": "skill",
+      "x_raw": 190.551513671875,
+      "y_raw": 1123.9403076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "IBOutlets",
+      "type": "skill",
+      "x_raw": 206.864013671875,
+      "y_raw": 1153.8699951171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "UI Design HIG",
+      "type": "skill",
+      "x_raw": 503.336669921875,
+      "y_raw": 1155.6746826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Interface Builder",
+      "type": "skill",
+      "x_raw": 42.531982421875,
+      "y_raw": 1162.333740234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Building Interfaces",
+      "type": "section",
+      "x_raw": 329.817138671875,
+      "y_raw": 1171.6239013671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "IBActions",
+      "type": "skill",
+      "x_raw": 206.606201171875,
+      "y_raw": 1183.7996826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Views and Modifiers",
+      "type": "section",
+      "x_raw": 327.028076171875,
+      "y_raw": 1203.1942138671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_77",
+      "label": "Auto layout",
+      "type": "skill",
+      "x_raw": 203.453857421875,
+      "y_raw": 1213.7293701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Navigation",
+      "type": "section",
+      "x_raw": 347.582763671875,
+      "y_raw": 1234.7645263671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "UIKit",
+      "type": "skill",
+      "x_raw": 604.317138671875,
+      "y_raw": 1248.8739013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "View Transitions",
+      "type": "section",
+      "x_raw": 335.746826171875,
+      "y_raw": 1266.3348388671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Basics / Creating Animations Lottie",
+      "type": "skill",
+      "x_raw": 64.375732421875,
+      "y_raw": 1281.7215576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Views, View Controllers",
+      "type": "skill",
+      "x_raw": 564.672607421875,
+      "y_raw": 1311.2059326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "SwiftUI",
+      "type": "section",
+      "x_raw": 367.199951171875,
+      "y_raw": 1335.2176513671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_84",
+      "label": "Core Animation",
+      "type": "skill",
+      "x_raw": 182.465576171875,
+      "y_raw": 1335.2176513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Navigation Controllers, Segues",
+      "type": "skill",
+      "x_raw": 547.340576171875,
+      "y_raw": 1342.2020263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Navigation Stacks",
+      "type": "skill",
+      "x_raw": 575.746826171875,
+      "y_raw": 1372.6239013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Design Architecture",
+      "type": "skill",
+      "x_raw": 64.446044921875,
+      "y_raw": 1393.251708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Navigation Stacks",
+      "type": "section",
+      "x_raw": 343.211669921875,
+      "y_raw": 1400.8895263671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_89",
+      "label": "Pushing Presenting",
+      "type": "skill",
+      "x_raw": 570.813232421875,
+      "y_raw": 1406.8660888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Navigation View",
+      "type": "section",
+      "x_raw": 347.078857421875,
+      "y_raw": 1435.1317138671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_91",
+      "label": "Modals and Navigation",
+      "type": "skill",
+      "x_raw": 562.985107421875,
+      "y_raw": 1437.8621826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "NavigationLink",
+      "type": "section",
+      "x_raw": 349.481201171875,
+      "y_raw": 1466.1278076171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_93",
+      "label": "Architectural Patterns",
+      "type": "skill",
+      "x_raw": 69.567138671875,
+      "y_raw": 1480.5770263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Combine",
+      "type": "skill",
+      "x_raw": 578.442138671875,
+      "y_raw": 1487.7957763671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Presenting / Dismissing views",
+      "type": "skill",
+      "x_raw": 316.293701171875,
+      "y_raw": 1496.3739013671875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_96",
+      "label": "MVC MVP",
+      "type": "skill",
+      "x_raw": 64.891357421875,
+      "y_raw": 1515.2059326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Publishers / Subscribers",
+      "type": "skill",
+      "x_raw": 544.328857421875,
+      "y_raw": 1522.0379638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "MVVM MVVM-C",
+      "type": "skill",
+      "x_raw": 60.989013671875,
+      "y_raw": 1545.5926513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Operators & Pipelines",
+      "type": "skill",
+      "x_raw": 549.813232421875,
+      "y_raw": 1553.0340576171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "VIPER TCA",
+      "type": "skill",
+      "x_raw": 66.039794921875,
+      "y_raw": 1576.1434326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Combine and MVVM",
+      "type": "skill",
+      "x_raw": 552.918701171875,
+      "y_raw": 1583.2684326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Reactive Programming",
+      "type": "section",
+      "x_raw": 306.403076171875,
+      "y_raw": 1611.3934326171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_103",
+      "label": "RxSwift",
+      "type": "skill",
+      "x_raw": 581.864013671875,
+      "y_raw": 1625.6434326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Observables & observers",
+      "type": "skill",
+      "x_raw": 542.360107421875,
+      "y_raw": 1659.8856201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Implementing Delegates",
+      "type": "skill",
+      "x_raw": 116.137451171875,
+      "y_raw": 1659.8856201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Subjects",
+      "type": "skill",
+      "x_raw": 517.270263671875,
+      "y_raw": 1690.8817138671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Operators Schedulers",
+      "type": "skill",
+      "x_raw": 573.590576171875,
+      "y_raw": 1690.8817138671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Patterns and Techniques Delegate Pattern",
+      "type": "skill",
+      "x_raw": 132.778076171875,
+      "y_raw": 1712.693115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "RxSwift with MVVM",
+      "type": "skill",
+      "x_raw": 556.035888671875,
+      "y_raw": 1721.1160888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Callbacks Closures",
+      "type": "skill",
+      "x_raw": 56.617919921875,
+      "y_raw": 1765.2606201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "Core Data",
+      "type": "skill",
+      "x_raw": 619.879638671875,
+      "y_raw": 1773.6512451171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Understanding and using Closures",
+      "type": "skill",
+      "x_raw": 179.207763671875,
+      "y_raw": 1799.5028076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "User Defaults",
+      "type": "skill",
+      "x_raw": 612.309326171875,
+      "y_raw": 1804.6473388671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Capturing Values & Memory Mgmt.",
+      "type": "skill",
+      "x_raw": 179.711669921875,
+      "y_raw": 1830.4989013671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Data Persistence",
+      "type": "skill",
+      "x_raw": 407.489013671875,
+      "y_raw": 1835.6434326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Keychain",
+      "type": "skill",
+      "x_raw": 622.492919921875,
+      "y_raw": 1835.6434326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_117",
+      "label": "Callback Hell",
+      "type": "skill",
+      "x_raw": 226.504638671875,
+      "y_raw": 1860.7332763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "File System",
+      "type": "skill",
+      "x_raw": 617.289794921875,
+      "y_raw": 1866.6395263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "SQLite",
+      "type": "skill",
+      "x_raw": 627.414794921875,
+      "y_raw": 1897.6356201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Storage",
+      "type": "skill",
+      "x_raw": 279.778076171875,
+      "y_raw": 1926.747802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "Async / Await",
+      "type": "skill",
+      "x_raw": 48.754638671875,
+      "y_raw": 1928.8543701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_122",
+      "label": "JSON / XML",
+      "type": "skill",
+      "x_raw": 471.660888671875,
+      "y_raw": 1948.3778076171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Concurrency",
+      "type": "skill",
+      "x_raw": 49.305419921875,
+      "y_raw": 1971.3934326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "GCD",
+      "type": "section",
+      "x_raw": 295.141357421875,
+      "y_raw": 1995.1942138671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "Parsing",
+      "type": "skill",
+      "x_raw": 482.442138671875,
+      "y_raw": 2006.0809326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_126",
+      "label": "Operation Queues",
+      "type": "section",
+      "x_raw": 265.047607421875,
+      "y_raw": 2026.7410888671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_127",
+      "label": "Serializing",
+      "type": "skill",
+      "x_raw": 476.184326171875,
+      "y_raw": 2037.5809326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "CocoaPods Carthage",
+      "type": "skill",
+      "x_raw": 39.309326171875,
+      "y_raw": 2054.865966796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "Asynchronism Concurrency and Multithreading",
+      "type": "skill",
+      "x_raw": 235.364013671875,
+      "y_raw": 2083.368896484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_130",
+      "label": "Swift Package Manager",
+      "type": "skill",
+      "x_raw": 45.543701171875,
+      "y_raw": 2085.862060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_131",
+      "label": "Networking",
+      "type": "skill",
+      "x_raw": 614.172607421875,
+      "y_raw": 2086.342529296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Dependency Manager",
+      "type": "skill",
+      "x_raw": 48.508544921875,
+      "y_raw": 2126.526123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_133",
+      "label": "HTTP / HTTPs",
+      "type": "skill",
+      "x_raw": 606.848388671875,
+      "y_raw": 2135.045654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Accessibility Inspector",
+      "type": "skill",
+      "x_raw": 436.446044921875,
+      "y_raw": 2138.033935546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "REST",
+      "type": "skill",
+      "x_raw": 626.617919921875,
+      "y_raw": 2164.412841796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_136",
+      "label": "Frameworks & Library",
+      "type": "skill",
+      "x_raw": 235.809326171875,
+      "y_raw": 2166.229248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "Voice Over",
+      "type": "skill",
+      "x_raw": 461.172607421875,
+      "y_raw": 2169.030029296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_138",
+      "label": "GraphQL",
+      "type": "skill",
+      "x_raw": 618.883544921875,
+      "y_raw": 2193.780029296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_139",
+      "label": "Dynamic Type",
+      "type": "skill",
+      "x_raw": 454.516357421875,
+      "y_raw": 2200.026123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_140",
+      "label": "SwiftLint",
+      "type": "skill",
+      "x_raw": 76.094482421875,
+      "y_raw": 2202.322998046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_141",
+      "label": "URLSession",
+      "type": "skill",
+      "x_raw": 611.910888671875,
+      "y_raw": 2223.158935546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_142",
+      "label": "XCFramework",
+      "type": "skill",
+      "x_raw": 253.094482421875,
+      "y_raw": 2223.557373046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_143",
+      "label": "Tailor",
+      "type": "skill",
+      "x_raw": 82.750732421875,
+      "y_raw": 2233.319091796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "Alamofire",
+      "type": "skill",
+      "x_raw": 618.414794921875,
+      "y_raw": 2252.526123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "Static Library",
+      "type": "skill",
+      "x_raw": 254.805419921875,
+      "y_raw": 2254.553466796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_146",
+      "label": "Accessibility",
+      "type": "skill",
+      "x_raw": 458.418701171875,
+      "y_raw": 2255.127685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_147",
+      "label": "SwiftFormat",
+      "type": "skill",
+      "x_raw": 68.699951171875,
+      "y_raw": 2264.315185546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_148",
+      "label": "Dynamic Library",
+      "type": "skill",
+      "x_raw": 248.149169921875,
+      "y_raw": 2285.549560546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_149",
+      "label": "Common Services Frameworks",
+      "type": "skill",
+      "x_raw": 435.250732421875,
+      "y_raw": 2329.462646484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_150",
+      "label": "Linting Code Quality Tools",
+      "type": "skill",
+      "x_raw": 53.887451171875,
+      "y_raw": 2329.462646484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_151",
+      "label": "ARKit",
+      "type": "skill",
+      "x_raw": 626.781982421875,
+      "y_raw": 2367.733154296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_152",
+      "label": "Debugging Debugging Techniques",
+      "type": "skill",
+      "x_raw": 65.676513671875,
+      "y_raw": 2392.896240234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_153",
+      "label": "Unit & UI Testing",
+      "type": "skill",
+      "x_raw": 456.930419921875,
+      "y_raw": 2394.205810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_154",
+      "label": "HealthKit",
+      "type": "skill",
+      "x_raw": 618.731201171875,
+      "y_raw": 2398.729248046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_155",
+      "label": "XCTest",
+      "type": "skill",
+      "x_raw": 478.539794921875,
+      "y_raw": 2428.928466796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_156",
+      "label": "GameKit",
+      "type": "skill",
+      "x_raw": 619.879638671875,
+      "y_raw": 2429.725341796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_157",
+      "label": "Xcode Debugger",
+      "type": "skill",
+      "x_raw": 228.121826171875,
+      "y_raw": 2443.975341796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_158",
+      "label": "XCUITest",
+      "type": "skill",
+      "x_raw": 473.453857421875,
+      "y_raw": 2459.924560546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_159",
+      "label": "MapKit",
+      "type": "skill",
+      "x_raw": 623.430419921875,
+      "y_raw": 2460.721435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_160",
+      "label": "Profiling Instruments",
+      "type": "skill",
+      "x_raw": 220.024169921875,
+      "y_raw": 2474.971435546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_161",
+      "label": "Jenkins",
+      "type": "skill",
+      "x_raw": 84.977294921875,
+      "y_raw": 2480.139404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_162",
+      "label": "Core ML",
+      "type": "skill",
+      "x_raw": 619.891357421875,
+      "y_raw": 2492.010498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_163",
+      "label": "Test Plan & Coverage",
+      "type": "skill",
+      "x_raw": 446.371826171875,
+      "y_raw": 2498.666748046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_164",
+      "label": "CircleCI",
+      "type": "skill",
+      "x_raw": 84.028076171875,
+      "y_raw": 2511.135498046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_165",
+      "label": "CI / CD",
+      "type": "skill",
+      "x_raw": 250.856201171875,
+      "y_raw": 2542.131591796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_166",
+      "label": "GitHub Actions",
+      "type": "skill",
+      "x_raw": 67.973388671875,
+      "y_raw": 2542.131591796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_167",
+      "label": "GitLab",
+      "type": "skill",
+      "x_raw": 86.207763671875,
+      "y_raw": 2573.127685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_168",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 475.012451171875,
+      "y_raw": 2575.603271484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_169",
+      "label": "App Distribution",
+      "type": "skill",
+      "x_raw": 594.133544921875,
+      "y_raw": 2576.177490234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_170",
+      "label": "Azure DevOps",
+      "type": "skill",
+      "x_raw": 69.110107421875,
+      "y_raw": 2604.123779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_171",
+      "label": "App Store Distribution TestFlight FastLane",
+      "type": "skill",
+      "x_raw": 247.211669921875,
+      "y_raw": 2636.549560546875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_172",
+      "label": "App Store Optimization (ASO) Continuous Learning Keeping Updated with WWDC",
+      "type": "skill",
+      "x_raw": 87.121826171875,
+      "y_raw": 2713.368896484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_173",
+      "label": "Latest Swift Version",
+      "type": "skill",
+      "x_raw": 570.180419921875,
+      "y_raw": 2769.721435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_174",
+      "label": "Have a look at the following relevant tracks",
+      "type": "skill",
+      "x_raw": 251.313232421875,
+      "y_raw": 2795.865966796875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_175",
+      "label": "Latest iOS SDK",
+      "type": "skill",
+      "x_raw": 579.321044921875,
+      "y_raw": 2800.717529296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_176",
+      "label": "Android Flutter React Native",
+      "type": "skill",
+      "x_raw": 254.442138671875,
+      "y_raw": 2824.471435546875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_177",
+      "label": "New Feature Announcements",
+      "type": "skill",
+      "x_raw": 547.598388671875,
+      "y_raw": 2831.713623046875,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_59",
+      "type": "trunk"
+    },
+    {
+      "source": "node_59",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "trunk"
+    },
+    {
+      "source": "node_69",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_76",
+      "type": "trunk"
+    },
+    {
+      "source": "node_76",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "trunk"
+    },
+    {
+      "source": "node_83",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_88",
+      "type": "trunk"
+    },
+    {
+      "source": "node_88",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_88",
+      "target": "node_90",
+      "type": "trunk"
+    },
+    {
+      "source": "node_90",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_92",
+      "type": "trunk"
+    },
+    {
+      "source": "node_92",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_102",
+      "type": "trunk"
+    },
+    {
+      "source": "node_102",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_124",
+      "type": "trunk"
+    },
+    {
+      "source": "node_124",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_126",
+      "type": "trunk"
+    },
+    {
+      "source": "node_126",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_141",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_152",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_154",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_156",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_157",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_159",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_160",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_161",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_162",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_163",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_164",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_165",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_166",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_167",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_168",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_169",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_170",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_171",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_172",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_173",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_174",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_175",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_176",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_177",
+      "type": "branch"
+    }
+  ]
+}

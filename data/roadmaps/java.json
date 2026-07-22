@@ -1,0 +1,122 @@
+{
+ "domain": "Java",
+ "stages": [
+  {
+   "name": "Java",
+   "skills": [
+    "Strings and Methods",
+    "Basic Syntax"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  },
+  {
+   "name": "Learn the Basics",
+   "skills": [
+    "Math Operations Lifecycle of a Program",
+    "Arrays",
+    "Data Types",
+    "Conditionals",
+    "Variables and Scopes",
+    "Loops",
+    "Type Casting",
+    "Basics of OOP"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  },
+  {
+   "name": "More about OOP",
+   "skills": [
+    "Object Oriented Programming Basics of OOP",
+    "Classes and Objects",
+    "Attributes and Methods",
+    "Exception Handling",
+    "Access Specifiers",
+    "Object Lifecycle Abstraction Inheritance"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  },
+  {
+   "name": "Record",
+   "skills": [
+    "Static Keyword",
+    "Lambda Expressions",
+    "Method Chaining",
+    "Interfaces Encapsulation",
+    "Enums Final Keyword",
+    "Annotations",
+    "Method Overloading / Overriding",
+    "Nested Classes",
+    "Modules",
+    "Static vs Dynamic Binding",
+    "Initializer Block",
+    "Packages",
+    "Optionals",
+    "Pass by Value / Pass by Reference"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  },
+  {
+   "name": "Queue",
+   "skills": [
+    "Collections",
+    "volatile keyword Cryptography",
+    "Array vs ArrayList",
+    "Dependency Injection",
+    "Date and Time",
+    "Java Memory Model",
+    "Set Map",
+    "Networking",
+    "Virtual Threads",
+    "Dequeue"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  },
+  {
+   "name": "Stack",
+   "skills": [
+    "Threads",
+    "Regular Expressions",
+    "Iterator",
+    "I/O Operations",
+    "Generic Collections",
+    "File Operations",
+    "Concurrency"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  },
+  {
+   "name": "Quarkus",
+   "skills": [
+    "Spring Boot is recommended",
+    "JDBC",
+    "High Order Functions",
+    "EBean",
+    "Spring (Spring Boot)",
+    "Maven",
+    "Functional Interfaces",
+    "Hibernate",
+    "Javalin",
+    "Gradle",
+    "Functional Composition",
+    "Spring Data JPA",
+    "Play Framework",
+    "Bazel"
+   ],
+   "resources": [
+    "roadmap.sh/java"
+   ]
+  }
+ ]
+}

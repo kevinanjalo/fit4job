@@ -1,0 +1,133 @@
+{
+ "domain": "Mongodb",
+ "stages": [
+  {
+   "name": "MongoDB",
+   "skills": [
+    "Find the interactive version of this",
+    "BSON vs JSON",
+    "SQL vs NoSQL"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "MongoDB Basics",
+   "skills": [
+    "Embedded Objects & Arrays",
+    "What is MongoDB?",
+    "Double String",
+    "When to use MongoDB?",
+    "Array Object",
+    "What is MongoDB Atlas?",
+    "Binary Data Undefined",
+    "MongoDB Terminology Data Model & Data Types",
+    "Object ID Boolean"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "Collections & Methods",
+   "skills": [
+    "Counting Documents",
+    "Date Null",
+    "insert() and relevant",
+    "Regular Expression",
+    "find() and relevant",
+    "JavaScript Symbol",
+    "update() and relevant",
+    "Int32/Int Int64 / Long",
+    "delete() and relevant",
+    "Timestamp Decimal128",
+    "bulkWrite() and relevant",
+    "Min Key Max Key",
+    "validate()",
+    "Useful concepts Read / Write Concerns"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "Aggregation",
+   "skills": [
+    "Creating Indexes",
+    "$exclude $slice",
+    "$elemMatch $size",
+    "Single Field Compound",
+    "Comparison Operators",
+    "Element Operators",
+    "Text Expiring",
+    "$eq",
+    "$gt $lt",
+    "$exists $type",
+    "Geospatial Indexes",
+    "$lte $gte $ne",
+    "$regex",
+    "Logical Operators $and $or $not $nor"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "Transactions",
+   "skills": [
+    "$match $group $sort",
+    "Language Drivers",
+    "$project $skip $limit"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "Developer Tools",
+   "skills": [
+    "MongoDB Connectors",
+    "$unwind $lookup $sum",
+    "Kafka Spark",
+    "Elastic Search",
+    "Replicasets"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "Scaling MongoDB",
+   "skills": [
+    "Backup & Recovery",
+    "Sharded Clusters",
+    "mongodump mongorestore",
+    "Tuning Configuration",
+    "Indexing",
+    "Query Optimization"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  },
+  {
+   "name": "MongoDB Security",
+   "skills": [
+    "Role-based Access Control",
+    "X.509 Certificate Auth",
+    "Encryption",
+    "Kerberos Authentication",
+    "Encryption at Rest",
+    "LDAP Proxy Auth",
+    "Queryable Encryption",
+    "MongoDB Audit",
+    "Client-Side Field Level",
+    "TLS / SSL Encryption"
+   ],
+   "resources": [
+    "roadmap.sh/mongodb"
+   ]
+  }
+ ]
+}

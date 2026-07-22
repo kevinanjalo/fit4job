@@ -1,0 +1,1695 @@
+{
+  "topic": "Laravel",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Laravel",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 493.7095642089844,
+      "y_raw": 100.26179504394531,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "PHP Roadmap",
+      "type": "skill",
+      "x_raw": 74.58197021484375,
+      "y_raw": 104.96598815917969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 74.58197021484375,
+      "y_raw": 125.8210220336914,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Laravel",
+      "type": "section",
+      "x_raw": 343.4947509765625,
+      "y_raw": 129.60098266601562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Full Stack Roadmap",
+      "type": "skill",
+      "x_raw": 74.58197021484375,
+      "y_raw": 146.6643524169922,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "PHP Roadmap",
+      "type": "section",
+      "x_raw": 335.879150390625,
+      "y_raw": 237.0497283935547,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Why Web Frameworks?",
+      "type": "skill",
+      "x_raw": 574.09521484375,
+      "y_raw": 241.46678161621094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Laravel Herd",
+      "type": "skill",
+      "x_raw": 73.99615478515625,
+      "y_raw": 252.12863159179688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Laravel for Full Stack",
+      "type": "skill",
+      "x_raw": 579.777587890625,
+      "y_raw": 278.3145751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Laravel for Frontend",
+      "type": "skill",
+      "x_raw": 581.1483764648438,
+      "y_raw": 315.162353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Installing Laravel",
+      "type": "skill",
+      "x_raw": 63.2757568359375,
+      "y_raw": 316.5448913574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "What is Laravel?",
+      "type": "section",
+      "x_raw": 331.57928466796875,
+      "y_raw": 316.5448913574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Yor First App",
+      "type": "skill",
+      "x_raw": 60.370086669921875,
+      "y_raw": 400.3234558105469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Starter Kits Create a new project",
+      "type": "skill",
+      "x_raw": 319.370849609375,
+      "y_raw": 404.75701904296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Livewire",
+      "type": "skill",
+      "x_raw": 649.8762817382812,
+      "y_raw": 445.72894287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Inertia",
+      "type": "skill",
+      "x_raw": 571.4356079101562,
+      "y_raw": 445.72894287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Project Structure",
+      "type": "skill",
+      "x_raw": 89.80148315429688,
+      "y_raw": 475.81640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Request\u2013Response Flow",
+      "type": "section",
+      "x_raw": 307.736572265625,
+      "y_raw": 481.2996826171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Breeze",
+      "type": "skill",
+      "x_raw": 569.5375366210938,
+      "y_raw": 482.57672119140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Jetstream",
+      "type": "skill",
+      "x_raw": 644.7562255859375,
+      "y_raw": 482.57672119140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "App",
+      "type": "skill",
+      "x_raw": 76.76123046875,
+      "y_raw": 511.48089599609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Bootstrap",
+      "type": "skill",
+      "x_raw": 153.01095581054688,
+      "y_raw": 511.48089599609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Config",
+      "type": "skill",
+      "x_raw": 69.80172729492188,
+      "y_raw": 548.3286743164062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Database",
+      "type": "skill",
+      "x_raw": 153.26873779296875,
+      "y_raw": 548.3286743164062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Routing & Controllers",
+      "type": "section",
+      "x_raw": 301.48004150390625,
+      "y_raw": 580.742919921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "Resources",
+      "type": "skill",
+      "x_raw": 150.17562866210938,
+      "y_raw": 585.1764526367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Public",
+      "type": "skill",
+      "x_raw": 71.05538940429688,
+      "y_raw": 585.1764526367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Basic Routes",
+      "type": "skill",
+      "x_raw": 611.1538696289062,
+      "y_raw": 585.5279541015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Routes",
+      "type": "skill",
+      "x_raw": 68.19659423828125,
+      "y_raw": 622.0242919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Storage",
+      "type": "skill",
+      "x_raw": 158.07241821289062,
+      "y_raw": 622.0242919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "View Routes",
+      "type": "skill",
+      "x_raw": 613.4854125976562,
+      "y_raw": 622.375732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Tests",
+      "type": "skill",
+      "x_raw": 73.129150390625,
+      "y_raw": 658.8720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "Vendor",
+      "type": "skill",
+      "x_raw": 160.13449096679688,
+      "y_raw": 658.8720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Redirect Routes",
+      "type": "skill",
+      "x_raw": 603.0462036132812,
+      "y_raw": 659.2235717773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Route model binding",
+      "type": "section",
+      "x_raw": 325.7914123535156,
+      "y_raw": 660.3248901367188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Route parameters",
+      "type": "skill",
+      "x_raw": 598.0784912109375,
+      "y_raw": 696.0713500976562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Rate limiting",
+      "type": "section",
+      "x_raw": 347.7829284667969,
+      "y_raw": 697.1727294921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Named routes",
+      "type": "skill",
+      "x_raw": 608.6114501953125,
+      "y_raw": 732.919189453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "CORS Caching",
+      "type": "section",
+      "x_raw": 328.4041442871094,
+      "y_raw": 734.0322265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "Route groups",
+      "type": "skill",
+      "x_raw": 610.4977416992188,
+      "y_raw": 769.7669677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Basic controllers",
+      "type": "skill",
+      "x_raw": 74.64056396484375,
+      "y_raw": 769.7669677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Advanced Routing",
+      "type": "section",
+      "x_raw": 337.37884521484375,
+      "y_raw": 771.3135375976562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "Resource controllers",
+      "type": "skill",
+      "x_raw": 63.54522705078125,
+      "y_raw": 807.5169067382812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Single-action controllers",
+      "type": "skill",
+      "x_raw": 54.465087890625,
+      "y_raw": 844.36474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Views & Blade",
+      "type": "skill",
+      "x_raw": 582.8707275390625,
+      "y_raw": 877.1304321289062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Middleware",
+      "type": "section",
+      "x_raw": 351.30950927734375,
+      "y_raw": 881.2125244140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Dependency injection",
+      "type": "skill",
+      "x_raw": 61.401123046875,
+      "y_raw": 881.2125244140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Global vs Route",
+      "type": "section",
+      "x_raw": 340.0150146484375,
+      "y_raw": 937.6031494140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "CRUD Operations",
+      "type": "skill",
+      "x_raw": 73.28146362304688,
+      "y_raw": 942.4771118164062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Blade Templating",
+      "type": "skill",
+      "x_raw": 590.369140625,
+      "y_raw": 978.1766967773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Relationships",
+      "type": "skill",
+      "x_raw": 85.37271118164062,
+      "y_raw": 982.1134033203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Displaying data",
+      "type": "skill",
+      "x_raw": 595.7703857421875,
+      "y_raw": 1015.0244750976562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Casts, Accessors",
+      "type": "skill",
+      "x_raw": 76.1519775390625,
+      "y_raw": 1021.7379760742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Blade Directives",
+      "type": "skill",
+      "x_raw": 592.9584350585938,
+      "y_raw": 1051.8721923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "if, else loops",
+      "type": "skill",
+      "x_raw": 383.2013244628906,
+      "y_raw": 1052.0479736328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Query scopes",
+      "type": "skill",
+      "x_raw": 84.70486450195312,
+      "y_raw": 1059.9798583984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Components",
+      "type": "skill",
+      "x_raw": 602.5189208984375,
+      "y_raw": 1088.719970703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Eloquent ORM",
+      "type": "skill",
+      "x_raw": 82.19760131835938,
+      "y_raw": 1101.93603515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Layouts",
+      "type": "skill",
+      "x_raw": 616.19189453125,
+      "y_raw": 1125.5677490234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "Databases & Eloquent",
+      "type": "section",
+      "x_raw": 290.8650817871094,
+      "y_raw": 1157.993896484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_60",
+      "label": "Blade + Livewire Configuration",
+      "type": "skill",
+      "x_raw": 85.5484619140625,
+      "y_raw": 1162.4156494140625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_61",
+      "label": "Query Builder",
+      "type": "skill",
+      "x_raw": 84.962646484375,
+      "y_raw": 1199.263427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Migrations, seeders",
+      "type": "skill",
+      "x_raw": 68.96987915039062,
+      "y_raw": 1236.1112060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Requests & Responses",
+      "type": "section",
+      "x_raw": 288.66241455078125,
+      "y_raw": 1268.5372314453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Retrieving data & files",
+      "type": "skill",
+      "x_raw": 571.0841064453125,
+      "y_raw": 1272.958984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Pagination",
+      "type": "skill",
+      "x_raw": 93.32809448242188,
+      "y_raw": 1272.958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Files Views",
+      "type": "section",
+      "x_raw": 331.3332214355469,
+      "y_raw": 1334.4461669921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "JSON Redirects Creating Responses",
+      "type": "skill",
+      "x_raw": 328.2401123046875,
+      "y_raw": 1371.2940673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Streamed Responses",
+      "type": "section",
+      "x_raw": 327.1622314453125,
+      "y_raw": 1408.141845703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_69",
+      "label": "Policies Gates",
+      "type": "skill",
+      "x_raw": 65.92364501953125,
+      "y_raw": 1425.78662109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Forms",
+      "type": "skill",
+      "x_raw": 614.0946655273438,
+      "y_raw": 1454.643798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Authentication",
+      "type": "section",
+      "x_raw": 348.1812744140625,
+      "y_raw": 1481.0640869140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "Authorization",
+      "type": "skill",
+      "x_raw": 88.4658203125,
+      "y_raw": 1481.0640869140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Manual validation",
+      "type": "skill",
+      "x_raw": 584.0189208984375,
+      "y_raw": 1491.49169921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Encryption & Hashing",
+      "type": "skill",
+      "x_raw": 65.6190185546875,
+      "y_raw": 1518.6031494140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Error messages",
+      "type": "skill",
+      "x_raw": 588.1781616210938,
+      "y_raw": 1528.3394775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "With Starter Kits",
+      "type": "section",
+      "x_raw": 343.6705017089844,
+      "y_raw": 1542.2584228515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_77",
+      "label": "Validation",
+      "type": "skill",
+      "x_raw": 601.8980102539062,
+      "y_raw": 1564.5194091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Manual Authentication",
+      "type": "section",
+      "x_raw": 326.88104248046875,
+      "y_raw": 1579.106201171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Logging & Debugging",
+      "type": "skill",
+      "x_raw": 41.448272705078125,
+      "y_raw": 1606.119384765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Sanctum Passport",
+      "type": "section",
+      "x_raw": 322.18280029296875,
+      "y_raw": 1615.8603515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Error Handling",
+      "type": "skill",
+      "x_raw": 592.3374633789062,
+      "y_raw": 1630.798583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Handling Exceptions",
+      "type": "skill",
+      "x_raw": 575.173095703125,
+      "y_raw": 1661.366455078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Telescope Debugbar",
+      "type": "section",
+      "x_raw": 318.3046875,
+      "y_raw": 1681.6356201171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_84",
+      "label": "Message Customization",
+      "type": "skill",
+      "x_raw": 565.776611328125,
+      "y_raw": 1698.2142333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Logging Basics",
+      "type": "skill",
+      "x_raw": 82.34988403320312,
+      "y_raw": 1703.0179443359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "HTTP Exceptions",
+      "type": "skill",
+      "x_raw": 583.8548583984375,
+      "y_raw": 1735.06201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Debugging basics",
+      "type": "section",
+      "x_raw": 338.9488220214844,
+      "y_raw": 1742.6541748046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "Log Stacks & Messages",
+      "type": "skill",
+      "x_raw": 59.38592529296875,
+      "y_raw": 1742.6541748046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Pest PHPUnit",
+      "type": "section",
+      "x_raw": 332.9852294921875,
+      "y_raw": 1808.171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_90",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 95.9993896484375,
+      "y_raw": 1861.300537109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Advanced Features",
+      "type": "skill",
+      "x_raw": 550.51025390625,
+      "y_raw": 1861.300537109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Unit & Feature tests",
+      "type": "skill",
+      "x_raw": 333.18438720703125,
+      "y_raw": 1865.7340087890625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_93",
+      "label": "Queues & Jobs",
+      "type": "skill",
+      "x_raw": 582.8238525390625,
+      "y_raw": 1950.4429931640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "CLIs",
+      "type": "skill",
+      "x_raw": 122.10333251953125,
+      "y_raw": 1960.8704833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Events & Listeners",
+      "type": "skill",
+      "x_raw": 573.1578979492188,
+      "y_raw": 1987.290771484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Artisan",
+      "type": "skill",
+      "x_raw": 88.53610229492188,
+      "y_raw": 1992.000732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Sail",
+      "type": "skill",
+      "x_raw": 162.290283203125,
+      "y_raw": 1992.000732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Configuration",
+      "type": "section",
+      "x_raw": 348.6616516113281,
+      "y_raw": 2001.221435546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_99",
+      "label": "Notifications",
+      "type": "skill",
+      "x_raw": 590.0645141601562,
+      "y_raw": 2024.1385498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Code Style",
+      "type": "skill",
+      "x_raw": 109.23883056640625,
+      "y_raw": 2029.375732421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Optimization",
+      "type": "section",
+      "x_raw": 351.32122802734375,
+      "y_raw": 2038.069091796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_102",
+      "label": "Task Schedulling",
+      "type": "skill",
+      "x_raw": 578.8637084960938,
+      "y_raw": 2060.986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Pint",
+      "type": "skill",
+      "x_raw": 126.45010375976562,
+      "y_raw": 2063.51708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Health Route",
+      "type": "section",
+      "x_raw": 349.3646240234375,
+      "y_raw": 2074.9169921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_105",
+      "label": "Performance",
+      "type": "skill",
+      "x_raw": 103.673583984375,
+      "y_raw": 2097.810791015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "File Storage",
+      "type": "skill",
+      "x_raw": 591.2361450195312,
+      "y_raw": 2097.834228515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Deployment Options",
+      "type": "section",
+      "x_raw": 331.7901611328125,
+      "y_raw": 2114.178466796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_108",
+      "label": "Octane",
+      "type": "skill",
+      "x_raw": 117.1942138671875,
+      "y_raw": 2127.335693359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Localization",
+      "type": "skill",
+      "x_raw": 591.622802734375,
+      "y_raw": 2134.681884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Laravel Cloud",
+      "type": "section",
+      "x_raw": 348.00555419921875,
+      "y_raw": 2151.553466796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Monitoring",
+      "type": "skill",
+      "x_raw": 109.57861328125,
+      "y_raw": 2162.00439453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Facades",
+      "type": "skill",
+      "x_raw": 600.3748779296875,
+      "y_raw": 2171.52978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Laravel Forge",
+      "type": "section",
+      "x_raw": 347.87664794921875,
+      "y_raw": 2188.4013671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_114",
+      "label": "Pulse",
+      "type": "skill",
+      "x_raw": 121.93930053710938,
+      "y_raw": 2195.00927734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Package Management",
+      "type": "skill",
+      "x_raw": 563.1521606445312,
+      "y_raw": 2208.377685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Deployment",
+      "type": "section",
+      "x_raw": 339.48779296875,
+      "y_raw": 2281.845703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Tools and Packages",
+      "type": "skill",
+      "x_raw": 61.14337158203125,
+      "y_raw": 2281.845703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Visit the following roadmaps to keep learning",
+      "type": "skill",
+      "x_raw": 265.616455078125,
+      "y_raw": 2391.42138671875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "PHP Backend Full Stack",
+      "type": "skill",
+      "x_raw": 267.760498046875,
+      "y_raw": 2430.085205078125,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "trunk"
+    },
+    {
+      "source": "node_41",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_59",
+      "type": "trunk"
+    },
+    {
+      "source": "node_59",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "trunk"
+    },
+    {
+      "source": "node_66",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_68",
+      "type": "trunk"
+    },
+    {
+      "source": "node_68",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_76",
+      "type": "trunk"
+    },
+    {
+      "source": "node_76",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "trunk"
+    },
+    {
+      "source": "node_83",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "trunk"
+    },
+    {
+      "source": "node_89",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_89",
+      "target": "node_98",
+      "type": "trunk"
+    },
+    {
+      "source": "node_98",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_101",
+      "type": "trunk"
+    },
+    {
+      "source": "node_101",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_104",
+      "type": "trunk"
+    },
+    {
+      "source": "node_104",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_104",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_104",
+      "target": "node_107",
+      "type": "trunk"
+    },
+    {
+      "source": "node_107",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_113",
+      "type": "trunk"
+    },
+    {
+      "source": "node_113",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_119",
+      "type": "branch"
+    }
+  ]
+}

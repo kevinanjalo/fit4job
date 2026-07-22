@@ -1,0 +1,182 @@
+{
+ "domain": "Frontend",
+ "stages": [
+  {
+   "name": "Front-end",
+   "skills": [
+    "How does the internet work?",
+    "What is HTTP?",
+    "Learn the basics"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "Internet",
+   "skills": [
+    "What is Domain Name?",
+    "Writing Semantic HTML",
+    "What is hosting?",
+    "Forms and Validations",
+    "DNS and how it works?",
+    "Accessibility",
+    "Browsers and how they work?",
+    "SEO Basics",
+    "Learn the basics",
+    "HTML",
+    "GitHub",
+    "CSS",
+    "Making Layouts",
+    "GitLab"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "npm",
+   "skills": [
+    "Responsive Design",
+    "Bitbucket",
+    "Learn the Basics",
+    "JavaScript",
+    "VCS Hosting Version Control Systems",
+    "Learn DOM Manipulation",
+    "Fetch API / Ajax (XHR)",
+    "Git",
+    "We\u2019ve trimmed down the CSS part for the"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "pnpm",
+   "skills": [
+    "sake of brevity. You should read about",
+    "Package Managers"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "yarn",
+   "skills": [
+    "React",
+    "Panda CSS, Shadcn UI, Mantine and more.",
+    "Vue.js",
+    "Angular",
+    "Pick a Framework",
+    "Writing CSS Tailwind",
+    "Svelte"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "Sass PostCSS",
+   "skills": [
+    "Solid JS",
+    "CSS Architecture CSS Preprocessors BEM",
+    "Qwik",
+    "Prettier ESLint"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "esbuild",
+   "skills": [
+    "Vite",
+    "CORS HTTPS",
+    "Linters and Formatters",
+    "Content Security Policy",
+    "SWC",
+    "Build Tools",
+    "Module Bundlers",
+    "Webpack",
+    "OWASP Security Risks",
+    "Rollup"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "Authentication Strategies",
+   "skills": [
+    "Vitest Jest",
+    "Parcel",
+    "Web Security Basics",
+    "Testing",
+    "Playwright",
+    "Cypress",
+    "JWT, OAuth, SSO, Basic Auth, Session Auth"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "TypeScript",
+   "skills": [
+    "Next.js",
+    "Web Components Type Checkers",
+    "React",
+    "Astro",
+    "HTML Templates",
+    "Angular",
+    "react-router",
+    "Custom Elements",
+    "Vue.js",
+    "Nuxt.js",
+    "SSR",
+    "Apollo",
+    "Shadow DOM",
+    "Svelte"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "Desktop Apps",
+   "skills": [
+    "Using DevTools",
+    "Static Site Generators",
+    "PWAs Mobile Apps",
+    "Measure & Improve Perf.",
+    "Nuxt.js",
+    "Performance Best Practices Storage",
+    "Web Sockets",
+    "Server Sent Events",
+    "Electron",
+    "Service Workers",
+    "Tauri",
+    "Location",
+    "Flutter",
+    "Notifications"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  },
+  {
+   "name": "TypeScript Nodejs",
+   "skills": [
+    "Device Orientation",
+    "Payments",
+    "Credentials",
+    "Fullstack",
+    "Browser APIs"
+   ],
+   "resources": [
+    "roadmap.sh/frontend"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1975 @@
+{
+  "topic": "Elasticsearch",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Elasticsearch",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Pre-requisites",
+      "type": "skill",
+      "x_raw": 591.8114013671875,
+      "y_raw": 74.59110260009766,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "MongoDB Roadmap",
+      "type": "skill",
+      "x_raw": 81.6473388671875,
+      "y_raw": 100.73131561279297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Elasticsearch",
+      "type": "section",
+      "x_raw": 317.0184326171875,
+      "y_raw": 111.74159240722656,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_3",
+      "label": "JSON REST API Basics",
+      "type": "skill",
+      "x_raw": 541.6903076171875,
+      "y_raw": 115.81766510009766,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_4",
+      "label": "Redis Roadmap",
+      "type": "skill",
+      "x_raw": 81.6473388671875,
+      "y_raw": 120.61803436279297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "PostgreSQL Roadmap",
+      "type": "skill",
+      "x_raw": 81.6473388671875,
+      "y_raw": 140.5047607421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "What is Elasticsearch",
+      "type": "skill",
+      "x_raw": 573.2489013671875,
+      "y_raw": 150.82156372070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Data Engineer Roadmap",
+      "type": "skill",
+      "x_raw": 81.6473388671875,
+      "y_raw": 160.3914794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Search Engines vs Relational DBs",
+      "type": "skill",
+      "x_raw": 540.2723388671875,
+      "y_raw": 180.11843872070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "The ELK Stack",
+      "type": "skill",
+      "x_raw": 589.7254638671875,
+      "y_raw": 215.25125122070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 342.9754638671875,
+      "y_raw": 218.56765747070312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Logical Concepts",
+      "type": "skill",
+      "x_raw": 93.9051513671875,
+      "y_raw": 225.08328247070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Elasticsearch Usecases",
+      "type": "skill",
+      "x_raw": 565.7840576171875,
+      "y_raw": 250.39578247070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Cluster (System)",
+      "type": "skill",
+      "x_raw": 94.7137451171875,
+      "y_raw": 259.6770324707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Environment Setup",
+      "type": "skill",
+      "x_raw": 572.9207763671875,
+      "y_raw": 285.4114074707031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Node (Instance)",
+      "type": "skill",
+      "x_raw": 95.2762451171875,
+      "y_raw": 294.8098449707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Core Architecture",
+      "type": "section",
+      "x_raw": 310.2215576171875,
+      "y_raw": 310.34716796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "Running with Docker",
+      "type": "skill",
+      "x_raw": 574.4676513671875,
+      "y_raw": 314.7082824707031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Index (Database)",
+      "type": "skill",
+      "x_raw": 92.7449951171875,
+      "y_raw": 329.9543762207031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Elastic Cloud Kibana Console",
+      "type": "skill",
+      "x_raw": 537.3426513671875,
+      "y_raw": 350.5090637207031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Document (Row)",
+      "type": "skill",
+      "x_raw": 94.1512451171875,
+      "y_raw": 365.0871887207031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Data Modelling",
+      "type": "section",
+      "x_raw": 319.1864013671875,
+      "y_raw": 390.15185546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "ID (Primary Key)",
+      "type": "skill",
+      "x_raw": 95.5223388671875,
+      "y_raw": 400.2317199707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Physical Layout",
+      "type": "skill",
+      "x_raw": 99.2137451171875,
+      "y_raw": 436.1614074707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Explicit Dynamic",
+      "type": "skill",
+      "x_raw": 560.6395263671875,
+      "y_raw": 436.2082824707031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Master-Elegible Nodes",
+      "type": "skill",
+      "x_raw": 78.3543701171875,
+      "y_raw": 470.7551574707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Mapping Explosion",
+      "type": "skill",
+      "x_raw": 585.2137451171875,
+      "y_raw": 471.4114074707031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Mappings",
+      "type": "section",
+      "x_raw": 348.4129638671875,
+      "y_raw": 472.7356262207031,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "Data Nodes",
+      "type": "skill",
+      "x_raw": 106.6082763671875,
+      "y_raw": 505.8879699707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Code Data Types",
+      "type": "skill",
+      "x_raw": 592.1395263671875,
+      "y_raw": 530.016845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Coordinating Nodes",
+      "type": "skill",
+      "x_raw": 85.9832763671875,
+      "y_raw": 541.032470703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Numeric Boolean",
+      "type": "skill",
+      "x_raw": 561.5067138671875,
+      "y_raw": 565.137939453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Sharding & Scaling",
+      "type": "skill",
+      "x_raw": 90.6004638671875,
+      "y_raw": 580.091064453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Dates Geo Points",
+      "type": "skill",
+      "x_raw": 568.2098388671875,
+      "y_raw": 600.270751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Primary Shards",
+      "type": "skill",
+      "x_raw": 98.8856201171875,
+      "y_raw": 614.684814453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Data Types",
+      "type": "section",
+      "x_raw": 345.2371826171875,
+      "y_raw": 631.184814453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Text vs Keyword",
+      "type": "skill",
+      "x_raw": 595.4559326171875,
+      "y_raw": 634.829345703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Replica Shards",
+      "type": "skill",
+      "x_raw": 98.5809326171875,
+      "y_raw": 649.817626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Text Keyword",
+      "type": "skill",
+      "x_raw": 572.7918701171875,
+      "y_raw": 667.184814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "The \"Split Brain\" Problem",
+      "type": "skill",
+      "x_raw": 73.1746826171875,
+      "y_raw": 684.962158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Advanced Types",
+      "type": "skill",
+      "x_raw": 594.4598388671875,
+      "y_raw": 699.844970703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Object Nested",
+      "type": "skill",
+      "x_raw": 566.4637451171875,
+      "y_raw": 732.446533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Data Ingestion Create Index",
+      "type": "skill",
+      "x_raw": 101.7918701171875,
+      "y_raw": 753.62060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "CRUD Operations",
+      "type": "skill",
+      "x_raw": 90.0848388671875,
+      "y_raw": 766.137939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Flattened",
+      "type": "skill",
+      "x_raw": 609.6942138671875,
+      "y_raw": 767.591064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Delete Index",
+      "type": "skill",
+      "x_raw": 102.3192138671875,
+      "y_raw": 833.227783203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Query Languages",
+      "type": "skill",
+      "x_raw": 593.3582763671875,
+      "y_raw": 833.321533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Index Document",
+      "type": "skill",
+      "x_raw": 92.9910888671875,
+      "y_raw": 868.360595703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Query DSL ES|QL",
+      "type": "skill",
+      "x_raw": 556.7489013671875,
+      "y_raw": 869.966064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Get Document",
+      "type": "skill",
+      "x_raw": 97.7489013671875,
+      "y_raw": 903.505126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "EQL SQL",
+      "type": "skill",
+      "x_raw": 572.9324951171875,
+      "y_raw": 905.098876953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Search Fundamentals",
+      "type": "section",
+      "x_raw": 295.0106201171875,
+      "y_raw": 918.55029296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Update Document",
+      "type": "skill",
+      "x_raw": 88.2332763671875,
+      "y_raw": 938.637939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "KQL Lucene",
+      "type": "skill",
+      "x_raw": 572.9910888671875,
+      "y_raw": 940.243408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Delete Documents",
+      "type": "skill",
+      "x_raw": 87.3192138671875,
+      "y_raw": 973.782470703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Search Contexts",
+      "type": "skill",
+      "x_raw": 593.6864013671875,
+      "y_raw": 977.239501953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Query Filter",
+      "type": "skill",
+      "x_raw": 568.1864013671875,
+      "y_raw": 1009.044189453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Bulk Operations",
+      "type": "skill",
+      "x_raw": 95.3817138671875,
+      "y_raw": 1012.161376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Bulk index",
+      "type": "skill",
+      "x_raw": 108.6707763671875,
+      "y_raw": 1043.5560302734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Leaf Queries",
+      "type": "skill",
+      "x_raw": 605.6160888671875,
+      "y_raw": 1068.5169677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Optimizing Bulk Indexing",
+      "type": "skill",
+      "x_raw": 72.0262451171875,
+      "y_raw": 1078.7005615234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Match Query",
+      "type": "skill",
+      "x_raw": 553.4910888671875,
+      "y_raw": 1100.0521240234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Term Query",
+      "type": "skill",
+      "x_raw": 658.5965576171875,
+      "y_raw": 1100.0521240234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Leaf vs Compound Queries",
+      "type": "skill",
+      "x_raw": 303.9285888671875,
+      "y_raw": 1102.3489990234375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Migrations & Repair",
+      "type": "skill",
+      "x_raw": 85.4442138671875,
+      "y_raw": 1117.0325927734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Exists Query",
+      "type": "skill",
+      "x_raw": 656.4520263671875,
+      "y_raw": 1135.1966552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Range Query",
+      "type": "skill",
+      "x_raw": 552.3543701171875,
+      "y_raw": 1135.1966552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Bulk index",
+      "type": "skill",
+      "x_raw": 108.6707763671875,
+      "y_raw": 1149.6341552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "ID Query",
+      "type": "skill",
+      "x_raw": 563.4637451171875,
+      "y_raw": 1170.3294677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Prefix Query",
+      "type": "skill",
+      "x_raw": 657.0496826171875,
+      "y_raw": 1170.3294677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Update by Query",
+      "type": "skill",
+      "x_raw": 92.0887451171875,
+      "y_raw": 1184.7786865234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Wildcard Query",
+      "type": "skill",
+      "x_raw": 598.4090576171875,
+      "y_raw": 1205.4739990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Delete by Query",
+      "type": "skill",
+      "x_raw": 93.9637451171875,
+      "y_raw": 1219.9232177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Bool Queries (Compound Queries)",
+      "type": "skill",
+      "x_raw": 549.9285888671875,
+      "y_raw": 1242.7864990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "must",
+      "type": "skill",
+      "x_raw": 574.1043701171875,
+      "y_raw": 1278.0364990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "should",
+      "type": "skill",
+      "x_raw": 672.2606201171875,
+      "y_raw": 1278.0364990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Controlling Search Results Pagination",
+      "type": "skill",
+      "x_raw": 103.8192138671875,
+      "y_raw": 1294.1732177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "must_not",
+      "type": "skill",
+      "x_raw": 665.1356201171875,
+      "y_raw": 1313.1693115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "filter",
+      "type": "skill",
+      "x_raw": 575.1590576171875,
+      "y_raw": 1313.1693115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Sorting",
+      "type": "skill",
+      "x_raw": 112.5028076171875,
+      "y_raw": 1329.3060302734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Source Filtering",
+      "type": "skill",
+      "x_raw": 90.4364013671875,
+      "y_raw": 1364.4505615234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Highlighting Text Analysis",
+      "type": "skill",
+      "x_raw": 100.4676513671875,
+      "y_raw": 1394.5660400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Metric Aggregations",
+      "type": "skill",
+      "x_raw": 88.3153076171875,
+      "y_raw": 1454.4622802734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Doc values",
+      "type": "skill",
+      "x_raw": 551.9207763671875,
+      "y_raw": 1464.6575927734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "fielddata",
+      "type": "skill",
+      "x_raw": 666.7528076171875,
+      "y_raw": 1464.6575927734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Value Count",
+      "type": "skill",
+      "x_raw": 107.9793701171875,
+      "y_raw": 1485.2943115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "The Inverted Index",
+      "type": "skill",
+      "x_raw": 586.6903076171875,
+      "y_raw": 1501.1263427734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "How Search Works",
+      "type": "section",
+      "x_raw": 326.1942138671875,
+      "y_raw": 1501.5833740234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "Avg / Sum / Min / Max",
+      "type": "skill",
+      "x_raw": 81.6239013671875,
+      "y_raw": 1520.4388427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Search Analyzer The Analyze API",
+      "type": "skill",
+      "x_raw": 332.4520263671875,
+      "y_raw": 1537.9818115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Cardinality",
+      "type": "skill",
+      "x_raw": 111.8348388671875,
+      "y_raw": 1555.5716552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Standard Analyzer",
+      "type": "skill",
+      "x_raw": 588.6004638671875,
+      "y_raw": 1573.1146240234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Stats / Extended Stats",
+      "type": "skill",
+      "x_raw": 81.8114013671875,
+      "y_raw": 1590.7161865234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Custom Analyzers",
+      "type": "skill",
+      "x_raw": 589.3504638671875,
+      "y_raw": 1608.2591552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Bulk Aggregations",
+      "type": "skill",
+      "x_raw": 93.6239013671875,
+      "y_raw": 1626.8919677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Aggregations",
+      "type": "section",
+      "x_raw": 325.5145263671875,
+      "y_raw": 1640.8355712890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_96",
+      "label": "Terms",
+      "type": "skill",
+      "x_raw": 123.0965576171875,
+      "y_raw": 1656.1888427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Range / Date Range",
+      "type": "skill",
+      "x_raw": 85.4324951171875,
+      "y_raw": 1691.3216552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Histogram",
+      "type": "skill",
+      "x_raw": 112.5965576171875,
+      "y_raw": 1727.5794677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Pivot",
+      "type": "skill",
+      "x_raw": 571.1981201171875,
+      "y_raw": 1745.5560302734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Latest",
+      "type": "skill",
+      "x_raw": 676.3153076171875,
+      "y_raw": 1745.5560302734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Filter Aggregations Transformations",
+      "type": "skill",
+      "x_raw": 90.4481201171875,
+      "y_raw": 1758.3629150390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Transform API",
+      "type": "skill",
+      "x_raw": 602.2176513671875,
+      "y_raw": 1780.7005615234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Advanced Aggregations",
+      "type": "skill",
+      "x_raw": 79.7020263671875,
+      "y_raw": 1801.3841552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Nested Aggregations",
+      "type": "skill",
+      "x_raw": 84.8231201171875,
+      "y_raw": 1840.6185302734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Document Scoring",
+      "type": "skill",
+      "x_raw": 592.0809326171875,
+      "y_raw": 1863.0364990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "Pipeline Aggregations",
+      "type": "skill",
+      "x_raw": 82.8660888671875,
+      "y_raw": 1875.7513427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Understanding Similarity",
+      "type": "skill",
+      "x_raw": 575.9793701171875,
+      "y_raw": 1896.9505615234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "BM25 algorithm",
+      "type": "skill",
+      "x_raw": 597.3074951171875,
+      "y_raw": 1932.0950927734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "Cluster Management",
+      "type": "skill",
+      "x_raw": 86.5926513671875,
+      "y_raw": 1937.5794677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "Relevance & Tuning",
+      "type": "section",
+      "x_raw": 301.7254638671875,
+      "y_raw": 1964.8590087890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Improve Query Precision",
+      "type": "skill",
+      "x_raw": 576.4949951171875,
+      "y_raw": 1968.0950927734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "CAT API",
+      "type": "skill",
+      "x_raw": 118.4559326171875,
+      "y_raw": 1968.4114990234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "Boosting Queries",
+      "type": "skill",
+      "x_raw": 593.4403076171875,
+      "y_raw": 1999.6068115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Segment Merging",
+      "type": "skill",
+      "x_raw": 93.4246826171875,
+      "y_raw": 2003.5443115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Function Score Query",
+      "type": "skill",
+      "x_raw": 582.4364013671875,
+      "y_raw": 2034.7396240234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Cluster Monitoring",
+      "type": "skill",
+      "x_raw": 92.0067138671875,
+      "y_raw": 2038.688720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Match Phrase Query",
+      "type": "skill",
+      "x_raw": 585.4949951171875,
+      "y_raw": 2069.884033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Cross-cluster Replication",
+      "type": "skill",
+      "x_raw": 74.6629638671875,
+      "y_raw": 2073.821533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "Synonyms Graph",
+      "type": "skill",
+      "x_raw": 595.0809326171875,
+      "y_raw": 2105.016845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Autoscaling",
+      "type": "skill",
+      "x_raw": 109.5965576171875,
+      "y_raw": 2108.966064453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "Production",
+      "type": "section",
+      "x_raw": 334.4324951171875,
+      "y_raw": 2118.56201171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_122",
+      "label": "Data Life Cycle",
+      "type": "skill",
+      "x_raw": 101.8387451171875,
+      "y_raw": 2146.477783203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "ILM",
+      "type": "skill",
+      "x_raw": 129.1199951171875,
+      "y_raw": 2182.395751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "AI-Powered Search",
+      "type": "skill",
+      "x_raw": 590.4168701171875,
+      "y_raw": 2213.251220703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Rollover Policies",
+      "type": "skill",
+      "x_raw": 97.0574951171875,
+      "y_raw": 2217.528564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Vector Search",
+      "type": "skill",
+      "x_raw": 602.1590576171875,
+      "y_raw": 2247.130126953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_127",
+      "label": "Data Tiers",
+      "type": "skill",
+      "x_raw": 112.8895263671875,
+      "y_raw": 2252.673095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_128",
+      "label": "Advanced Features",
+      "type": "section",
+      "x_raw": 303.7293701171875,
+      "y_raw": 2265.36279296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_129",
+      "label": "Semantic Search",
+      "type": "skill",
+      "x_raw": 594.6239013671875,
+      "y_raw": 2282.274658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_130",
+      "label": "Data Safety",
+      "type": "skill",
+      "x_raw": 111.1199951171875,
+      "y_raw": 2287.805908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_131",
+      "label": "Hybrid Search",
+      "type": "skill",
+      "x_raw": 602.0301513671875,
+      "y_raw": 2317.407470703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Snapshots & restore",
+      "type": "skill",
+      "x_raw": 87.4129638671875,
+      "y_raw": 2320.407470703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_133",
+      "label": "SLM",
+      "type": "skill",
+      "x_raw": 127.4559326171875,
+      "y_raw": 2355.552001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_134",
+      "label": "Security",
+      "type": "skill",
+      "x_raw": 119.7449951171875,
+      "y_raw": 2387.262939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_135",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 102.4246826171875,
+      "y_raw": 2421.411376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_136",
+      "label": "Roles & Users",
+      "type": "skill",
+      "x_raw": 102.5653076171875,
+      "y_raw": 2456.555908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "Visit the following roadmaps to keep learning",
+      "type": "skill",
+      "x_raw": 323.9793701171875,
+      "y_raw": 2457.505126953125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_138",
+      "label": "API Keys",
+      "type": "skill",
+      "x_raw": 116.5223388671875,
+      "y_raw": 2491.688720703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_139",
+      "label": "Data Engineer MongoDB DevOps",
+      "type": "skill",
+      "x_raw": 292.0106201171875,
+      "y_raw": 2494.524658203125,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "trunk"
+    },
+    {
+      "source": "node_2",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_2",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_95",
+      "type": "trunk"
+    },
+    {
+      "source": "node_95",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_121",
+      "type": "trunk"
+    },
+    {
+      "source": "node_121",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_128",
+      "type": "trunk"
+    },
+    {
+      "source": "node_128",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_139",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,1835 @@
+{
+  "topic": "Aws",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Aws",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 525.4885864257812,
+      "y_raw": 47.82782745361328,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Kubernetes Roadmap",
+      "type": "skill",
+      "x_raw": 55.812843322753906,
+      "y_raw": 50.426517486572266,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 529.1448364257812,
+      "y_raw": 63.76531982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 55.812843322753906,
+      "y_raw": 69.17650604248047,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 55.812843322753906,
+      "y_raw": 87.92650604248047,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "AWS",
+      "type": "section",
+      "x_raw": 341.52764892578125,
+      "y_raw": 100.78947448730469,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "AWS has lots of services. You don't",
+      "type": "skill",
+      "x_raw": 36.113624572753906,
+      "y_raw": 145.29266357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "need to master all of them. This",
+      "type": "skill",
+      "x_raw": 36.113624572753906,
+      "y_raw": 161.24188232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "roadmap only covers an opinionated",
+      "type": "skill",
+      "x_raw": 36.113624572753906,
+      "y_raw": 177.17938232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "list of services to help you get started.",
+      "type": "skill",
+      "x_raw": 36.113624572753906,
+      "y_raw": 193.1168670654297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "What is Cloud Computing?",
+      "type": "skill",
+      "x_raw": 543.0901489257812,
+      "y_raw": 210.1090545654297,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Step 1 - Essentials",
+      "type": "skill",
+      "x_raw": 46.695655822753906,
+      "y_raw": 227.3356170654297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "IaaS vs PaaS vs SaaS",
+      "type": "skill",
+      "x_raw": 554.6213989257812,
+      "y_raw": 243.2379608154297,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 330.79327392578125,
+      "y_raw": 253.9606170654297,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "IAM - Access Control",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 254.11009216308594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "VPC - Network Layer",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 274.1139831542969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Public vs Private vs Hybrid Cloud",
+      "type": "skill",
+      "x_raw": 528.2542114257812,
+      "y_raw": 276.36688232421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "EC2 - Compute",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 294.1178894042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Introduction to AWS",
+      "type": "skill",
+      "x_raw": 559.0276489257812,
+      "y_raw": 310.84344482421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Step 2 - Learn these next",
+      "type": "skill",
+      "x_raw": 46.695655822753906,
+      "y_raw": 334.31610107421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "AWS Global Infrastructure",
+      "type": "skill",
+      "x_raw": 544.5315551757812,
+      "y_raw": 348.97625732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Start with Essential Services",
+      "type": "skill",
+      "x_raw": 279.89874267578125,
+      "y_raw": 357.3687438964844,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "S3 - Storage",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 359.1335144042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "SES - Emails",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 379.1374206542969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Shared Responsibility Model",
+      "type": "skill",
+      "x_raw": 538.4026489257812,
+      "y_raw": 382.10516357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Route53 - DNS",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 399.1413269042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Well Architected Framework",
+      "type": "skill",
+      "x_raw": 539.3753051757812,
+      "y_raw": 415.23406982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Cloudwatch - Monitoring",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 419.1452331542969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Cloudfront - CDN",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 439.1491394042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Step 3 - Pick these after",
+      "type": "skill",
+      "x_raw": 46.695655822753906,
+      "y_raw": 478.46844482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "EC2",
+      "type": "section",
+      "x_raw": 349.26202392578125,
+      "y_raw": 495.24969482421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "VPC",
+      "type": "skill",
+      "x_raw": 516.2776489257812,
+      "y_raw": 495.24969482421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "RDS - Managed Database",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 500.1569519042969,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "DynamoDB - NoSQL Storage",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 520.160888671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "ElastiCache -",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 540.164794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Redis/Memcached",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 555.164794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Instance Types",
+      "type": "section",
+      "x_raw": 323.49249267578125,
+      "y_raw": 566.5114135742188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "CIDR Blocks",
+      "type": "skill",
+      "x_raw": 496.39093017578125,
+      "y_raw": 567.5895385742188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "ECS - Containers",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 575.168701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "EKS - Kubernetes",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 595.172607421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "CPU Credits",
+      "type": "section",
+      "x_raw": 329.87921142578125,
+      "y_raw": 599.6403198242188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "Subnets",
+      "type": "skill",
+      "x_raw": 506.96124267578125,
+      "y_raw": 600.9411010742188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Step 4 - Serverless",
+      "type": "skill",
+      "x_raw": 46.695655822753906,
+      "y_raw": 618.0504760742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Storage / Volumes",
+      "type": "section",
+      "x_raw": 315.45343017578125,
+      "y_raw": 632.7809448242188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "Private Subnet",
+      "type": "skill",
+      "x_raw": 491.72686767578125,
+      "y_raw": 637.1402587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Lambda",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 644.6256713867188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "ECS Fargate",
+      "type": "skill",
+      "x_raw": 65.1878433227539,
+      "y_raw": 664.6295776367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Keypairs",
+      "type": "section",
+      "x_raw": 338.86749267578125,
+      "y_raw": 665.9097900390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Public Subnet",
+      "type": "skill",
+      "x_raw": 493.73077392578125,
+      "y_raw": 670.5855712890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Elastic IP",
+      "type": "section",
+      "x_raw": 337.20343017578125,
+      "y_raw": 699.0386962890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "Route Tables",
+      "type": "skill",
+      "x_raw": 495.44171142578125,
+      "y_raw": 711.9879150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Best way to learn? Make a simple",
+      "type": "skill",
+      "x_raw": 45.781593322753906,
+      "y_raw": 724.7261962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "User Data Scripts",
+      "type": "section",
+      "x_raw": 317.39874267578125,
+      "y_raw": 732.1676025390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "app and use the services listed",
+      "type": "skill",
+      "x_raw": 45.781593322753906,
+      "y_raw": 740.6636962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Security Groups",
+      "type": "skill",
+      "x_raw": 488.85577392578125,
+      "y_raw": 745.1168212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "above for deployment.",
+      "type": "skill",
+      "x_raw": 45.781593322753906,
+      "y_raw": 756.6011962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Purchasing Options",
+      "type": "section",
+      "x_raw": 312.78155517578125,
+      "y_raw": 765.2965087890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "Internet Gateway",
+      "type": "skill",
+      "x_raw": 485.60968017578125,
+      "y_raw": 778.2457275390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "NAT Gateway",
+      "type": "skill",
+      "x_raw": 494.78546142578125,
+      "y_raw": 811.3746337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "Sandbox / Sending Limits",
+      "type": "skill",
+      "x_raw": 45.687843322753906,
+      "y_raw": 830.1363525390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Identity-based",
+      "type": "section",
+      "x_raw": 302.59796142578125,
+      "y_raw": 839.7340087890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_61",
+      "label": "Identity Verification",
+      "type": "skill",
+      "x_raw": 61.426124572753906,
+      "y_raw": 863.2652587890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "IAM Policies",
+      "type": "skill",
+      "x_raw": 487.34405517578125,
+      "y_raw": 874.3277587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Resource-based",
+      "type": "section",
+      "x_raw": 296.71514892578125,
+      "y_raw": 874.3863525390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "DKIM Setup",
+      "type": "skill",
+      "x_raw": 77.9495620727539,
+      "y_raw": 896.3941650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Users / User Groups",
+      "type": "skill",
+      "x_raw": 455.79718017578125,
+      "y_raw": 907.5152587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Feedback Handling",
+      "type": "skill",
+      "x_raw": 60.137062072753906,
+      "y_raw": 929.5230712890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Roles",
+      "type": "skill",
+      "x_raw": 492.04327392578125,
+      "y_raw": 940.6441650390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Instance Profiles",
+      "type": "section",
+      "x_raw": 299.48077392578125,
+      "y_raw": 941.8746337890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_69",
+      "label": "Configuration Sets",
+      "type": "skill",
+      "x_raw": 62.480812072753906,
+      "y_raw": 962.6519775390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Assuming Roles",
+      "type": "section",
+      "x_raw": 301.46124267578125,
+      "y_raw": 975.0152587890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "Sender Reputation",
+      "type": "skill",
+      "x_raw": 61.426124572753906,
+      "y_raw": 995.7926025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Dedicated IP",
+      "type": "skill",
+      "x_raw": 75.5003433227539,
+      "y_raw": 1028.9215087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Auto-Scaling",
+      "type": "skill",
+      "x_raw": 622.9651489257812,
+      "y_raw": 1087.1754150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "S3",
+      "type": "section",
+      "x_raw": 404.03546142578125,
+      "y_raw": 1087.1754150390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "SES",
+      "type": "skill",
+      "x_raw": 63.699562072753906,
+      "y_raw": 1087.1754150390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Hosted Zones",
+      "type": "skill",
+      "x_raw": 202.39096069335938,
+      "y_raw": 1140.2027587890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "AMIs",
+      "type": "skill",
+      "x_raw": 607.9534301757812,
+      "y_raw": 1141.7730712890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Buckets / Objects",
+      "type": "section",
+      "x_raw": 367.47296142578125,
+      "y_raw": 1141.7730712890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Route53",
+      "type": "skill",
+      "x_raw": 52.836280822753906,
+      "y_raw": 1173.3316650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Routing Policies",
+      "type": "skill",
+      "x_raw": 197.63314819335938,
+      "y_raw": 1173.3316650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Launch Templates",
+      "type": "skill",
+      "x_raw": 576.4065551757812,
+      "y_raw": 1174.9019775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Bucket / Object Lifecycle",
+      "type": "skill",
+      "x_raw": 350.25811767578125,
+      "y_raw": 1174.9019775390625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Health Checks",
+      "type": "skill",
+      "x_raw": 201.03158569335938,
+      "y_raw": 1206.4605712890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Auto-Scaling Groups",
+      "type": "skill",
+      "x_raw": 570.9338989257812,
+      "y_raw": 1208.0308837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Storage Types",
+      "type": "section",
+      "x_raw": 377.01202392578125,
+      "y_raw": 1208.0308837890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "Scaling Policies",
+      "type": "skill",
+      "x_raw": 582.6760864257812,
+      "y_raw": 1241.1597900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Standard",
+      "type": "section",
+      "x_raw": 389.23468017578125,
+      "y_raw": 1245.9996337890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "Metrics",
+      "type": "skill",
+      "x_raw": 218.18783569335938,
+      "y_raw": 1258.8551025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Elastic Load Balancers",
+      "type": "skill",
+      "x_raw": 564.9456176757812,
+      "y_raw": 1274.3004150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "S3-IA Glacier",
+      "type": "section",
+      "x_raw": 363.85186767578125,
+      "y_raw": 1279.7144775390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_91",
+      "label": "Cloudwatch",
+      "type": "skill",
+      "x_raw": 46.015968322753906,
+      "y_raw": 1291.9840087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Events",
+      "type": "skill",
+      "x_raw": 219.76986694335938,
+      "y_raw": 1291.9840087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Logs",
+      "type": "skill",
+      "x_raw": 224.56283569335938,
+      "y_raw": 1325.1246337890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Tables / Items / Attributes",
+      "type": "skill",
+      "x_raw": 539.4104614257812,
+      "y_raw": 1329.1090087890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Primary Keys / Secondary Indexes",
+      "type": "skill",
+      "x_raw": 520.1682739257812,
+      "y_raw": 1362.2379150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Data Modeling Streams",
+      "type": "skill",
+      "x_raw": 520.8128051757812,
+      "y_raw": 1395.8472900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "RDS",
+      "type": "skill",
+      "x_raw": 62.785499572753906,
+      "y_raw": 1396.8199462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "DynamoDB",
+      "type": "section",
+      "x_raw": 362.48077392578125,
+      "y_raw": 1396.8199462890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_99",
+      "label": "Capacity Settings",
+      "type": "skill",
+      "x_raw": 560.3518676757812,
+      "y_raw": 1429.2926025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "General Purpose",
+      "type": "skill",
+      "x_raw": 203.04721069335938,
+      "y_raw": 1456.2222900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "DB Instances",
+      "type": "skill",
+      "x_raw": 50.914405822753906,
+      "y_raw": 1456.4215087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Limits Backup / Restore",
+      "type": "skill",
+      "x_raw": 528.2776489257812,
+      "y_raw": 1463.3238525390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Provisioned IOPS",
+      "type": "skill",
+      "x_raw": 202.16830444335938,
+      "y_raw": 1489.3511962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Storage Types",
+      "type": "skill",
+      "x_raw": 49.180030822753906,
+      "y_raw": 1490.1832275390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "DynamoDB Local",
+      "type": "skill",
+      "x_raw": 560.8909301757812,
+      "y_raw": 1497.6363525390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "Magnetic",
+      "type": "skill",
+      "x_raw": 221.35189819335938,
+      "y_raw": 1522.4801025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Backup / Restore",
+      "type": "skill",
+      "x_raw": 40.859718322753906,
+      "y_raw": 1523.9332275390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Quotas",
+      "type": "skill",
+      "x_raw": 509.90264892578125,
+      "y_raw": 1553.9449462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "Distributions",
+      "type": "skill",
+      "x_raw": 196.03939819335938,
+      "y_raw": 1581.8707275390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "ElastiCache",
+      "type": "skill",
+      "x_raw": 498.31280517578125,
+      "y_raw": 1614.3668212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "ECR",
+      "type": "skill",
+      "x_raw": 645.3245239257812,
+      "y_raw": 1614.3668212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Cloudfront",
+      "type": "section",
+      "x_raw": 364.32061767578125,
+      "y_raw": 1614.9996337890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "Policies",
+      "type": "skill",
+      "x_raw": 207.61752319335938,
+      "y_raw": 1614.9996337890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Invalidations",
+      "type": "skill",
+      "x_raw": 195.89877319335938,
+      "y_raw": 1648.1285400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "ECS",
+      "type": "skill",
+      "x_raw": 645.8870239257812,
+      "y_raw": 1705.8199462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "EKS",
+      "type": "section",
+      "x_raw": 379.51983642578125,
+      "y_raw": 1705.8199462890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Creating / Invoking Functions",
+      "type": "skill",
+      "x_raw": 57.242530822753906,
+      "y_raw": 1717.0465087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Layers Custom Runtimes",
+      "type": "skill",
+      "x_raw": 42.078468322753906,
+      "y_raw": 1750.7965087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "Clusters / ECS Container Agents",
+      "type": "skill",
+      "x_raw": 515.1409301757812,
+      "y_raw": 1770.6949462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Lambda",
+      "type": "section",
+      "x_raw": 370.28546142578125,
+      "y_raw": 1783.9488525390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_121",
+      "label": "Versioning / Aliases",
+      "type": "skill",
+      "x_raw": 80.60971069335938,
+      "y_raw": 1784.1011962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_122",
+      "label": "Tasks Services",
+      "type": "skill",
+      "x_raw": 533.1057739257812,
+      "y_raw": 1803.8238525390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Event Bridge / Scheduled Execution",
+      "type": "skill",
+      "x_raw": 41.387062072753906,
+      "y_raw": 1816.7027587890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Launch Config / Autoscaling Groups",
+      "type": "skill",
+      "x_raw": 507.21905517578125,
+      "y_raw": 1836.9527587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Cold Start and Limitations",
+      "type": "skill",
+      "x_raw": 66.7112808227539,
+      "y_raw": 1850.4644775390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Fargate",
+      "type": "skill",
+      "x_raw": 575.1643676757812,
+      "y_raw": 1870.0816650390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_127",
+      "label": "API Gateway Lambda@Edge",
+      "type": "skill",
+      "x_raw": 40.883155822753906,
+      "y_raw": 1884.2144775390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_128",
+      "label": "Continue learning with following roadmaps",
+      "type": "skill",
+      "x_raw": 235.22689819335938,
+      "y_raw": 1953.0855712890625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_129",
+      "label": "Kubernetes Roadmap DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 212.66830444335938,
+      "y_raw": 1985.0074462890625,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_13",
+      "type": "trunk"
+    },
+    {
+      "source": "node_13",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_60",
+      "type": "trunk"
+    },
+    {
+      "source": "node_60",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_60",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_60",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_68",
+      "type": "trunk"
+    },
+    {
+      "source": "node_68",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_85",
+      "type": "trunk"
+    },
+    {
+      "source": "node_85",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_90",
+      "type": "trunk"
+    },
+    {
+      "source": "node_90",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_98",
+      "type": "trunk"
+    },
+    {
+      "source": "node_98",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_120",
+      "type": "trunk"
+    },
+    {
+      "source": "node_120",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_129",
+      "type": "branch"
+    }
+  ]
+}

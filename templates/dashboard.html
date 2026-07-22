@@ -1,0 +1,196 @@
+{% extends "base.html" %}
+{% block title %}Career tools{% endblock %}
+{% block content %}
+<section class="section">
+  <div class="container">
+    <h2>Career tools</h2>
+    <p class="sub">Upload or paste your resume once, then run matching, gap analysis, feedback and roadmaps against it.
+    </p>
+
+    <div class="card" style="margin-bottom:24px">
+      <div class="grid-2">
+        <div>
+          <div class="field"><label for="file">Upload resume (PDF, DOCX or TXT)</label>
+            <input type="file" id="file" accept=".pdf,.docx,.txt">
+          </div>
+          <button class="btn btn-ghost btn-sm" onclick="uploadResume()">Extract text</button>
+
+          <div class="cv-match-block" id="saved-cv-block" style="display:none">
+            <label for="saved-cv" style="font-weight:600;font-size:.88rem">Or use a saved CV</label>
+            <div class="inline-picker" style="margin-top:6px">
+              <div class="field"><select id="saved-cv"><option value="">Choose a saved CV</option></select></div>
+              <button class="btn btn-teal btn-sm" onclick="loadSavedCv()">Load CV</button>
+            </div>
+          </div>
+          <div id="upload-out"></div>
+        </div>
+        <div class="field"><label for="resume">Resume text</label>
+          <textarea id="resume" style="min-height:180px"
+            placeholder="Paste your resume here, upload a file, or load a saved CV"></textarea>
+        </div>
+      </div>
+      <div id="parsed" class="chips"></div>
+    </div>
+
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-panel="p-match">Job matching</button>
+      <button class="tab" data-panel="p-feedback">Resume feedback</button>
+      <button class="tab" data-panel="p-roadmap">Learning roadmap</button>
+      <button class="tab" data-panel="p-career">Career advice</button>
+    </div>
+
+    <div id="p-match" class="panel active">
+      <button class="btn btn-primary" onclick="runMatch()">Find my best matches</button>
+      <div id="match-out" class="grid-2" style="margin-top:20px" aria-live="polite"></div>
+    </div>
+
+    <div id="p-feedback" class="panel">
+      <button class="btn btn-primary" onclick="feedback()">Review my resume</button>
+      <div id="fb-out" style="margin-top:16px"></div>
+    </div>
+
+    <div id="p-roadmap" class="panel">
+      <div class="grid-2">
+        <div class="field"><label for="domain">Domain</label><select id="domain"></select></div>
+        <div class="field"><label>&nbsp;</label><button class="btn btn-primary" onclick="roadmap()">Build my
+            roadmap</button></div>
+      </div>
+      <div id="rm-out"></div>
+    </div>
+
+    <div id="p-career" class="panel">
+      <button class="btn btn-primary" onclick="career()">Recommend career paths</button>
+      <div id="career-out" style="margin-top:16px"></div>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+  document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
+    document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
+    document.querySelectorAll(".panel").forEach((x) => x.classList.remove("active"));
+    t.classList.add("active");
+    document.getElementById(t.dataset.panel).classList.add("active");
+  }));
+
+  let detectedSkills = [];
+
+  // Populate the saved-CV picker (only when signed in with saved CVs).
+  async function loadSavedCvList() {
+    try {
+      const cvs = await API.get("/profile/cvs");
+      if (!cvs.length) return;
+      const sel = document.getElementById("saved-cv");
+      cvs.forEach((c) => sel.append(el("option", { value: c.cv_id }, c.filename + " (" + c.uploaded_at + ")")));
+      document.getElementById("saved-cv-block").style.display = "";
+    } catch (e) { /* not signed in - hide the picker */ }
+  }
+  async function loadSavedCv() {
+    const id = document.getElementById("saved-cv").value;
+    const out = document.getElementById("upload-out");
+    if (!id) return notify(out, "Choose a saved CV first.", false);
+    loading(out, "Loading your CV");
+    try {
+      const data = await API.get("/profile/cvs/" + id + "/text");
+      document.getElementById("resume").value = data.text || "";
+      detectedSkills = data.detected_skills || [];
+      const chips = document.getElementById("parsed"); chips.innerHTML = "";
+      detectedSkills.forEach((s) => chips.append(el("span", { class: "chip" }, s)));
+      notify(out, "Loaded " + data.filename + " - " + detectedSkills.length + " skills detected.");
+    } catch (e) { notify(out, e.message, false); }
+  }
+
+  async function uploadResume() {
+    const f = document.getElementById("file").files[0];
+    const out = document.getElementById("upload-out");
+    if (!f) return notify(out, "Choose a file first.", false);
+    const fd = new FormData(); fd.append("file", f);
+    try {
+      const res = await fetch("/api/v1/resume/upload", { method: "POST", body: fd });
+      if (!res.ok) throw new Error((await res.json()).detail);
+      const data = await res.json();
+      document.getElementById("resume").value = data.text;
+      detectedSkills = data.parsed.detected_skills;
+      const chips = document.getElementById("parsed"); chips.innerHTML = "";
+      detectedSkills.forEach((s) => chips.append(el("span", { class: "chip" }, s)));
+      notify(out, "Extracted " + data.parsed.word_count + " words, " + detectedSkills.length + " skills detected.");
+    } catch (e) { notify(out, e.message, false); }
+  }
+
+  function resumeText() {
+    const t = document.getElementById("resume").value.trim();
+    if (!t) throw new Error("Add your resume text first (paste it or upload a file).");
+    return t;
+  }
+
+  async function runMatch() {
+    const out = document.getElementById("match-out");
+    try {
+      const rs = await API.post("/match", { resume_text: resumeText(), top_k: 8 });
+      out.innerHTML = "";
+      rs.forEach((r) => out.append(jobCard(r.job, { score: r.final_score, matched: r.matched_skills, missing: r.missing_skills })));
+    } catch (e) { out.innerHTML = ""; notify(out, e.message, false); }
+  }
+
+  async function feedback() {
+    const out = document.getElementById("fb-out");
+    loading(out, "Reviewing your resume");
+    try {
+      const r = await API.post("/resume-feedback", { resume_text: resumeText() });
+      aiBlock(out, r.feedback);
+    } catch (e) { notify(out, e.message, false); }
+  }
+
+  async function roadmap() {
+    const out = document.getElementById("rm-out");
+    const sel = document.getElementById("domain");
+    const key = sel.value;
+    const label = sel.options[sel.selectedIndex] ? sel.options[sel.selectedIndex].text : key;
+    loading(out, "Building your roadmap");
+    try {
+      const r = await API.post("/roadmap", { domain: key, known_skills: detectedSkills });
+      out.innerHTML = "";
+      out.append(el("div", { class: "focus-callout" }, [
+        el("div", {}, [
+          el("strong", {}, r.domain + " roadmap"),
+          el("p", { class: "meta", style: "margin:2px 0 0" },
+            detectedSkills.length
+              ? "Green means your resume already shows it; orange is still to learn."
+              : "Upload or paste your resume above to see which stages you have already covered."),
+        ]),
+        el("a", { class: "btn btn-teal btn-sm", href: "/roadmaps?roadmap=" + encodeURIComponent(r.domain_key) },
+          "Open interactive tree"),
+      ]));
+      r.stages.forEach((s, i) => {
+        const children = [
+          el("h3", {}, [
+            "Stage " + (i + 1) + ": " + s.name,
+            s.completed ? el("span", { class: "applied-badge", style: "margin-left:8px" }, "done") : "",
+          ]),
+          el("div", { class: "chips" }, s.skills.map((k) =>
+            el("span", { class: "chip " + (s.remaining_skills.includes(k) ? "miss" : "match") }, k))),
+        ];
+        if (s.resources && s.resources.length)
+          children.push(el("p", { class: "meta", style: "margin-top:8px" }, "Resources: " + s.resources.join("; ")));
+        out.append(el("div", { class: "card stage-card", style: "margin-top:12px" }, children));
+      });
+    } catch (e) { out.innerHTML = ""; notify(out, e.message, false); }
+  }
+
+  async function career() {
+    const out = document.getElementById("career-out");
+    loading(out, "Preparing recommendations");
+    try {
+      const r = await API.post("/career-advice", { resume_text: resumeText() });
+      aiBlock(out, r.recommendation);
+    } catch (e) { notify(out, e.message, false); }
+  }
+
+  API.get("/roadmaps").then((m) => {
+    const sel = document.getElementById("domain");
+    Object.entries(m).forEach(([k, v]) => sel.append(el("option", { value: k }, v)));
+  });
+  loadSavedCvList();
+</script>
+{% endblock %}

@@ -1,0 +1,99 @@
+{
+ "domain": "Software Architect",
+ "stages": [
+  {
+   "name": "Software Architect",
+   "skills": [
+    "Software Design & Architecture",
+    "Software Architecture",
+    "Describes how an application is built"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  },
+  {
+   "name": "Understand the Basics",
+   "skills": [
+    "including its components, how they",
+    "interact with each other, environment in",
+    "What is Software Architecture",
+    "which they operate and so on.",
+    "What is a Software Architect",
+    "Software Architect",
+    "Levels of Architecture",
+    "A software expert who makes high level"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  },
+  {
+   "name": "Responsibilities",
+   "skills": [
+    "software design choices, including",
+    "technical standards, tools, design",
+    "Application Architecture",
+    "principles, platforms to be used, etc.",
+    "Solution Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  },
+  {
+   "name": "Tech Decisions",
+   "skills": [
+    "Enterprise Architecture",
+    "Design & Architecture",
+    "Design & Architecture Decisions"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  },
+  {
+   "name": "Requirements Elicitation",
+   "skills": [
+    "Decision Making",
+    "Java / Kotlin / Scala",
+    "Simplifying Things"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  },
+  {
+   "name": "Enforcing Standards",
+   "skills": [
+    "Python Ruby Go",
+    "How to Code"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  },
+  {
+   "name": "Collaborate with Others",
+   "skills": [
+    "JavaScript / TypeScript",
+    ".NET Framework Based",
+    "Technical Skills Programming Languages",
+    "Communication",
+    "Git",
+    "GitHub",
+    "Estimate and Evaluate",
+    "Patterns & Design Principles",
+    "Tools",
+    "Slack",
+    "Balance",
+    "Trello",
+    "MVC, MVP, MVVM",
+    "Consult & Coach"
+   ],
+   "resources": [
+    "roadmap.sh/software-architect"
+   ]
+  }
+ ]
+}

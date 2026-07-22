@@ -1,0 +1,1471 @@
+{
+  "topic": "Sql",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Sql",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "PostgreSQL Roadmap",
+      "type": "skill",
+      "x_raw": 83.40167236328125,
+      "y_raw": 54.90790939331055,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 520.5696411132812,
+      "y_raw": 71.34191131591797,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "MongoDB Roadmap",
+      "type": "skill",
+      "x_raw": 83.40167236328125,
+      "y_raw": 74.71260070800781,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "SQL",
+      "type": "section",
+      "x_raw": 367.74542236328125,
+      "y_raw": 104.82298278808594,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "We just launched our premium SQL",
+      "type": "skill",
+      "x_raw": 67.33526611328125,
+      "y_raw": 125.58800506591797,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "course, check it out below",
+      "type": "skill",
+      "x_raw": 91.47589111328125,
+      "y_raw": 142.4161376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "NEW / Premium SQL Course",
+      "type": "skill",
+      "x_raw": 82.96807861328125,
+      "y_raw": 176.1895751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "What are Relational Databases?",
+      "type": "skill",
+      "x_raw": 561.8547973632812,
+      "y_raw": 176.9395751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "RDBMS Benefits and Limitations",
+      "type": "skill",
+      "x_raw": 560.4837036132812,
+      "y_raw": 211.9083251953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Learn the Basics",
+      "type": "section",
+      "x_raw": 343.06573486328125,
+      "y_raw": 213.2677001953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "SQL Keywords",
+      "type": "skill",
+      "x_raw": 90.63214111328125,
+      "y_raw": 237.5489501953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "SQL vs NoSQL Databases",
+      "type": "skill",
+      "x_raw": 576.6790161132812,
+      "y_raw": 246.88877868652344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Data Types",
+      "type": "skill",
+      "x_raw": 99.12823486328125,
+      "y_raw": 273.8536071777344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Basic SQL Syntax",
+      "type": "section",
+      "x_raw": 341.42510986328125,
+      "y_raw": 309.8184509277344,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "Data Definition Language (DDL)",
+      "type": "skill",
+      "x_raw": 557.6477661132812,
+      "y_raw": 309.8184509277344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Operators",
+      "type": "skill",
+      "x_raw": 101.70635986328125,
+      "y_raw": 310.1465759277344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "SELECT INSERT",
+      "type": "skill",
+      "x_raw": 69.19854736328125,
+      "y_raw": 351.9239196777344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Truncate Table",
+      "type": "skill",
+      "x_raw": 653.6126098632812,
+      "y_raw": 363.3262634277344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "UPDATE DELETE",
+      "type": "skill",
+      "x_raw": 68.71807861328125,
+      "y_raw": 386.9043884277344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Data Manipulation Language (DML)",
+      "type": "skill",
+      "x_raw": 383.41339111328125,
+      "y_raw": 389.7286071777344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Alter Table",
+      "type": "skill",
+      "x_raw": 664.4641723632812,
+      "y_raw": 399.6192321777344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Statements",
+      "type": "skill",
+      "x_raw": 98.60089111328125,
+      "y_raw": 421.7559509277344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Create Table",
+      "type": "skill",
+      "x_raw": 658.7688598632812,
+      "y_raw": 434.5997009277344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Select",
+      "type": "skill",
+      "x_raw": 459.46807861328125,
+      "y_raw": 453.1036071777344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Drop Table",
+      "type": "skill",
+      "x_raw": 663.7258911132812,
+      "y_raw": 469.5801696777344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "SUM COUNT",
+      "type": "skill",
+      "x_raw": 64.75714111328125,
+      "y_raw": 473.1661071777344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "FROM WHERE",
+      "type": "section",
+      "x_raw": 383.75323486328125,
+      "y_raw": 488.7520446777344,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "JOINs",
+      "type": "skill",
+      "x_raw": 543.9485473632812,
+      "y_raw": 488.7520446777344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "AVG MIN",
+      "type": "skill",
+      "x_raw": 66.90167236328125,
+      "y_raw": 507.8184509277344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Primary Key",
+      "type": "skill",
+      "x_raw": 661.3001098632812,
+      "y_raw": 514.8497314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "ORDER BY GROUP BY HAVING",
+      "type": "skill",
+      "x_raw": 371.81182861328125,
+      "y_raw": 523.7325439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Aggregate Queries",
+      "type": "skill",
+      "x_raw": 227.35479736328125,
+      "y_raw": 541.8028564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "MAX",
+      "type": "skill",
+      "x_raw": 92.71807861328125,
+      "y_raw": 542.4708251953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Foreign Key",
+      "type": "skill",
+      "x_raw": 660.9719848632812,
+      "y_raw": 549.8302001953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "INSERT UPDATE DELETE",
+      "type": "skill",
+      "x_raw": 368.91729736328125,
+      "y_raw": 558.7130126953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "GROUP BY",
+      "type": "skill",
+      "x_raw": 75.43292236328125,
+      "y_raw": 577.1231689453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Unique",
+      "type": "skill",
+      "x_raw": 672.8547973632812,
+      "y_raw": 584.8106689453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "HAVING",
+      "type": "skill",
+      "x_raw": 83.48370361328125,
+      "y_raw": 611.7637939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "NOT NULL",
+      "type": "skill",
+      "x_raw": 663.2922973632812,
+      "y_raw": 619.7911376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Data Constraints",
+      "type": "skill",
+      "x_raw": 469.06573486328125,
+      "y_raw": 630.9122314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "CHECK",
+      "type": "skill",
+      "x_raw": 671.8352661132812,
+      "y_raw": 654.7716064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Scalar Column Row Table Different Types",
+      "type": "skill",
+      "x_raw": 65.56573486328125,
+      "y_raw": 671.8223876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "JOIN Queries INNER JOIN",
+      "type": "skill",
+      "x_raw": 476.54229736328125,
+      "y_raw": 726.6075439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Subqueries",
+      "type": "skill",
+      "x_raw": 290.62432861328125,
+      "y_raw": 726.6075439453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Nested Subqueries",
+      "type": "skill",
+      "x_raw": 72.71417236328125,
+      "y_raw": 726.6075439453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Correlated Subqueries",
+      "type": "skill",
+      "x_raw": 64.21807861328125,
+      "y_raw": 761.5880126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "LEFT JOIN",
+      "type": "skill",
+      "x_raw": 654.5501098632812,
+      "y_raw": 762.1270751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "RIGHT JOIN",
+      "type": "skill",
+      "x_raw": 650.7883911132812,
+      "y_raw": 797.1075439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "FLOOR ABS MOD",
+      "type": "skill",
+      "x_raw": 441.15167236328125,
+      "y_raw": 806.4591064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "CONCAT LENGTH",
+      "type": "skill",
+      "x_raw": 74.02667236328125,
+      "y_raw": 813.5020751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "FULL OUTER JOIN",
+      "type": "skill",
+      "x_raw": 633.3508911132812,
+      "y_raw": 832.0880126953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Advanced Functions",
+      "type": "skill",
+      "x_raw": 268.21807861328125,
+      "y_raw": 833.5177001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "ROUND CEILING",
+      "type": "skill",
+      "x_raw": 450.58526611328125,
+      "y_raw": 840.6661376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "SUBSTRING REPLACE",
+      "type": "skill",
+      "x_raw": 64.08917236328125,
+      "y_raw": 847.8145751953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Self Join",
+      "type": "skill",
+      "x_raw": 661.1360473632812,
+      "y_raw": 867.0684814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Numeric Functions",
+      "type": "skill",
+      "x_raw": 453.40948486328125,
+      "y_raw": 871.2286376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "UPPER LOWER",
+      "type": "skill",
+      "x_raw": 77.38995361328125,
+      "y_raw": 882.1387939453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Cross Join",
+      "type": "skill",
+      "x_raw": 656.2024536132812,
+      "y_raw": 902.0489501953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "CASE NULLIF",
+      "type": "skill",
+      "x_raw": 451.47589111328125,
+      "y_raw": 906.5606689453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "String Functions",
+      "type": "skill",
+      "x_raw": 86.06182861328125,
+      "y_raw": 916.3223876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Views",
+      "type": "skill",
+      "x_raw": 304.48760986328125,
+      "y_raw": 929.3184814453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "COALESCE",
+      "type": "skill",
+      "x_raw": 475.28839111328125,
+      "y_raw": 940.8731689453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Managing Indexes",
+      "type": "skill",
+      "x_raw": 635.8587036132812,
+      "y_raw": 944.8341064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "DATE TIME",
+      "type": "skill",
+      "x_raw": 80.23760986328125,
+      "y_raw": 955.2872314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Creating Views",
+      "type": "skill",
+      "x_raw": 281.31964111328125,
+      "y_raw": 966.9473876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Conditional",
+      "type": "skill",
+      "x_raw": 474.86651611328125,
+      "y_raw": 972.5020751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Query Optimization",
+      "type": "skill",
+      "x_raw": 634.3469848632812,
+      "y_raw": 979.8145751953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "TIMESTAMP",
+      "type": "skill",
+      "x_raw": 97.85089111328125,
+      "y_raw": 990.2677001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Modifying Views",
+      "type": "skill",
+      "x_raw": 278.62432861328125,
+      "y_raw": 1001.9161376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "DATEPART DATEADD",
+      "type": "skill",
+      "x_raw": 66.30401611328125,
+      "y_raw": 1025.2481689453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Dropping Views Indexes",
+      "type": "skill",
+      "x_raw": 279.74932861328125,
+      "y_raw": 1036.8966064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Date and Time",
+      "type": "skill",
+      "x_raw": 93.40948486328125,
+      "y_raw": 1056.2442626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Transaction Isolation Levels",
+      "type": "skill",
+      "x_raw": 488.77667236328125,
+      "y_raw": 1091.3536376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Data Integrity Constraints",
+      "type": "section",
+      "x_raw": 298.88604736328125,
+      "y_raw": 1091.3536376953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_74",
+      "label": "Transactions",
+      "type": "skill",
+      "x_raw": 635.6360473632812,
+      "y_raw": 1147.1348876953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Data Integrity & Security",
+      "type": "skill",
+      "x_raw": 344.31964111328125,
+      "y_raw": 1147.1348876953125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_76",
+      "label": "Stored Procedures & Functions",
+      "type": "skill",
+      "x_raw": 69.10479736328125,
+      "y_raw": 1147.1348876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "BEGIN",
+      "type": "skill",
+      "x_raw": 689.0501098632812,
+      "y_raw": 1202.2950439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "ACID",
+      "type": "skill",
+      "x_raw": 609.5149536132812,
+      "y_raw": 1202.2950439453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "GRANT and Revoke",
+      "type": "section",
+      "x_raw": 312.31573486328125,
+      "y_raw": 1204.3106689453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "rank",
+      "type": "skill",
+      "x_raw": 515.7415161132812,
+      "y_raw": 1228.5684814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "COMMIT",
+      "type": "skill",
+      "x_raw": 683.6243286132812,
+      "y_raw": 1237.2755126953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "DB Security Best Practices",
+      "type": "skill",
+      "x_raw": 295.39385986328125,
+      "y_raw": 1239.2911376953125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "dense_rank",
+      "type": "skill",
+      "x_raw": 496.48760986328125,
+      "y_raw": 1262.8809814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "ROLLBACK",
+      "type": "skill",
+      "x_raw": 677.2493286132812,
+      "y_raw": 1272.2559814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Performance Optimization",
+      "type": "skill",
+      "x_raw": 82.26495361328125,
+      "y_raw": 1290.2559814453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "lead lag",
+      "type": "skill",
+      "x_raw": 493.05401611328125,
+      "y_raw": 1297.2052001953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "SAVEPOINT",
+      "type": "skill",
+      "x_raw": 676.0422973632812,
+      "y_raw": 1307.2364501953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Row_number",
+      "type": "skill",
+      "x_raw": 492.92510986328125,
+      "y_raw": 1331.5294189453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Query Analysis Techniques",
+      "type": "skill",
+      "x_raw": 80.49542236328125,
+      "y_raw": 1358.3419189453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "Window Functions",
+      "type": "skill",
+      "x_raw": 509.50714111328125,
+      "y_raw": 1393.6622314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Using Indexes",
+      "type": "skill",
+      "x_raw": 112.00714111328125,
+      "y_raw": 1401.2677001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Recursive Queries",
+      "type": "skill",
+      "x_raw": 508.12432861328125,
+      "y_raw": 1428.6427001953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Optimizing Joins",
+      "type": "skill",
+      "x_raw": 106.68682861328125,
+      "y_raw": 1436.2481689453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Advanced SQL",
+      "type": "section",
+      "x_raw": 306.15167236328125,
+      "y_raw": 1463.6231689453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "Pivot / Unpivot Operations",
+      "type": "skill",
+      "x_raw": 488.80010986328125,
+      "y_raw": 1463.6231689453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Reducing Subqueries",
+      "type": "skill",
+      "x_raw": 93.46807861328125,
+      "y_raw": 1471.2286376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Common Table Expressions",
+      "type": "skill",
+      "x_raw": 485.08526611328125,
+      "y_raw": 1498.6036376953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Selective Projection",
+      "type": "skill",
+      "x_raw": 97.96807861328125,
+      "y_raw": 1506.1973876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Dynamic SQL",
+      "type": "skill",
+      "x_raw": 520.9094848632812,
+      "y_raw": 1533.5841064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Query Optimization Techniques",
+      "type": "skill",
+      "x_raw": 70.15948486328125,
+      "y_raw": 1541.0489501953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Have a look at the following related roadmaps",
+      "type": "skill",
+      "x_raw": 227.88214111328125,
+      "y_raw": 1607.6700439453125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_102",
+      "label": "Backend MongoDB",
+      "type": "section",
+      "x_raw": 216.22198486328125,
+      "y_raw": 1641.5723876953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_103",
+      "label": "PostgreSQL",
+      "type": "skill",
+      "x_raw": 304.55792236328125,
+      "y_raw": 1641.5723876953125,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "trunk"
+    },
+    {
+      "source": "node_13",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_73",
+      "type": "trunk"
+    },
+    {
+      "source": "node_73",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_94",
+      "type": "trunk"
+    },
+    {
+      "source": "node_94",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_102",
+      "type": "trunk"
+    },
+    {
+      "source": "node_102",
+      "target": "node_103",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+ "domain": "Backend Beginner",
+ "stages": [
+  {
+   "name": "Backend",
+   "skills": [
+    "If you are a frontend developer jumping"
+   ],
+   "resources": [
+    "roadmap.sh/backend-beginner"
+   ]
+  },
+  {
+   "name": "Pick a Language",
+   "skills": [
+    "JavaScript",
+    "learning Node.js. Alternatively, Go and",
+    "Python are also good options.",
+    "Go",
+    "Learn the language and build some CLI",
+    "Python",
+    "apps to practice your knowledge.",
+    "make sure to develop as many projects as",
+    "GitHub for your future projects.",
+    "Git Version Control Systems",
+    "See if any of your past projects can be",
+    "published on GitHub as OpenSource."
+   ],
+   "resources": [
+    "roadmap.sh/backend-beginner"
+   ]
+  },
+  {
+   "name": "Learn about APIs",
+   "skills": [
+    "Github Repo hosting services",
+    "Learn about the relational databases,",
+    "normalization, DB migrations, SQL, DB",
+    "PostgreSQL Relational Databases",
+    "Indexes and Query performance analysis.",
+    "REST",
+    "Learn how to build RESTful APIs and add",
+    "JWT authentication to secure your APIs.",
+    "JSON APIs",
+    "Develop some API and add JWT auth."
+   ],
+   "resources": [
+    "roadmap.sh/backend-beginner"
+   ]
+  },
+  {
+   "name": "Caching",
+   "skills": [
+    "Authentication",
+    "Redis",
+    "JWT",
+    "Learn about different caching strategies,",
+    "including HTTP caching as well.",
+    "Learn about additional database topics",
+    "including performance analysis, ORMs,",
+    "Use Redis in some of your projects."
+   ],
+   "resources": [
+    "roadmap.sh/backend-beginner"
+   ]
+  },
+  {
+   "name": "More about Databases",
+   "skills": [
+    "limitations, common issues to keep in",
+    "mind with ORMs and in general.",
+    "Get some experience with some ORM.",
+    "ORMs",
+    "ACID",
+    "Transactions",
+    "Learn about differeng testing techniques and",
+    "learn learn how to write automated tests.",
+    "N+1 Problem",
+    "Integration Testing",
+    "Unit Testing Testing",
+    "Functional Testing"
+   ],
+   "resources": [
+    "roadmap.sh/backend-beginner"
+   ]
+  }
+ ]
+}

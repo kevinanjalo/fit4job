@@ -1,0 +1,1779 @@
+{
+  "topic": "Wordpress",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Wordpress",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Special thanks to Melapress for helping us create this roadmap",
+      "type": "skill",
+      "x_raw": 77.6181640625,
+      "y_raw": 42.6688232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 535.0126953125,
+      "y_raw": 69.7508544921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Visit Melapress Website",
+      "type": "skill",
+      "x_raw": 100.4462890625,
+      "y_raw": 94.9578857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "WordPress",
+      "type": "section",
+      "x_raw": 372.1923828125,
+      "y_raw": 128.49081420898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "HTML CSS JavaScript",
+      "type": "skill",
+      "x_raw": 74.1025390625,
+      "y_raw": 161.3914794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "How the Web Works?",
+      "type": "skill",
+      "x_raw": 612.7314453125,
+      "y_raw": 166.9813232421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "What is HTTP?",
+      "type": "skill",
+      "x_raw": 628.4345703125,
+      "y_raw": 201.9852294921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Frontend Fundamentals",
+      "type": "skill",
+      "x_raw": 99.3564453125,
+      "y_raw": 217.7469482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "What is a CMS?",
+      "type": "skill",
+      "x_raw": 625.8916015625,
+      "y_raw": 237.0008544921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 386.9580078125,
+      "y_raw": 237.0008544921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Backend Fundamentals",
+      "type": "skill",
+      "x_raw": 99.9775390625,
+      "y_raw": 252.75083923339844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "wordpress.com & wordpress.org",
+      "type": "skill",
+      "x_raw": 585.3798828125,
+      "y_raw": 272.0164489746094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "PHP SQL",
+      "type": "skill",
+      "x_raw": 100.7978515625,
+      "y_raw": 307.2781677246094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Start with local deployment",
+      "type": "skill",
+      "x_raw": 600.9658203125,
+      "y_raw": 325.7000427246094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Installation & Setup LocalWP",
+      "type": "skill",
+      "x_raw": 368.4541015625,
+      "y_raw": 361.7937927246094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "XAMPP Block",
+      "type": "section",
+      "x_raw": 98.6650390625,
+      "y_raw": 361.7937927246094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_16",
+      "label": "Classic",
+      "type": "skill",
+      "x_raw": 182.2783203125,
+      "y_raw": 375.9266052246094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "VVV",
+      "type": "skill",
+      "x_raw": 614.6884765625,
+      "y_raw": 396.8094177246094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Docker",
+      "type": "skill",
+      "x_raw": 694.4228515625,
+      "y_raw": 396.8094177246094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Universal",
+      "type": "skill",
+      "x_raw": 89.0673828125,
+      "y_raw": 410.4969177246094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Hybrid",
+      "type": "skill",
+      "x_raw": 183.8251953125,
+      "y_raw": 410.9305114746094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Third-Party",
+      "type": "skill",
+      "x_raw": 130.5751953125,
+      "y_raw": 445.5008239746094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "WordPress Concepts",
+      "type": "section",
+      "x_raw": 354.6611328125,
+      "y_raw": 487.9239501953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_23",
+      "label": "Themes Plugins",
+      "type": "section",
+      "x_raw": 139.4462890625,
+      "y_raw": 491.4266052246094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "File Structure",
+      "type": "skill",
+      "x_raw": 633.8017578125,
+      "y_raw": 526.4422607421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Page Editors",
+      "type": "skill",
+      "x_raw": 635.2080078125,
+      "y_raw": 561.4461669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Actions Filters Hooks",
+      "type": "skill",
+      "x_raw": 93.4853515625,
+      "y_raw": 561.4461669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "The Loop",
+      "type": "section",
+      "x_raw": 393.5439453125,
+      "y_raw": 596.4617919921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "Gutenberg",
+      "type": "skill",
+      "x_raw": 588.6376953125,
+      "y_raw": 617.8836669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Block Editor",
+      "type": "skill",
+      "x_raw": 679.6689453125,
+      "y_raw": 617.8836669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Shortcodes",
+      "type": "section",
+      "x_raw": 388.4697265625,
+      "y_raw": 631.4774169921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "Third-Party Page Builders",
+      "type": "skill",
+      "x_raw": 605.0908203125,
+      "y_raw": 652.8992919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Style & Script Enqueueing Custom Post Types",
+      "type": "skill",
+      "x_raw": 113.4423828125,
+      "y_raw": 666.1063232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Taxonomies",
+      "type": "skill",
+      "x_raw": 131.5009765625,
+      "y_raw": 701.1219482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "WordPress REST API",
+      "type": "skill",
+      "x_raw": 107.9697265625,
+      "y_raw": 736.1258544921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Themes & Plugins",
+      "type": "section",
+      "x_raw": 365.6416015625,
+      "y_raw": 768.4591064453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Coding Standards Classic vs Block Themes",
+      "type": "skill",
+      "x_raw": 116.2783203125,
+      "y_raw": 771.1414794921875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Classic Themes",
+      "type": "skill",
+      "x_raw": 625.1884765625,
+      "y_raw": 828.6805419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Block Themes",
+      "type": "section",
+      "x_raw": 382.0712890625,
+      "y_raw": 829.9930419921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "Plugin Basics",
+      "type": "skill",
+      "x_raw": 122.2080078125,
+      "y_raw": 833.2977294921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "style.css functions.php",
+      "type": "skill",
+      "x_raw": 599.1376953125,
+      "y_raw": 864.3055419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Theme Structure",
+      "type": "section",
+      "x_raw": 374.1142578125,
+      "y_raw": 867.6102294921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "Plugin Basics",
+      "type": "skill",
+      "x_raw": 126.1689453125,
+      "y_raw": 867.6102294921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Template Files",
+      "type": "skill",
+      "x_raw": 627.8369140625,
+      "y_raw": 899.3211669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Full Site Editing (FSE)",
+      "type": "skill",
+      "x_raw": 361.1416015625,
+      "y_raw": 902.6258544921875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_45",
+      "label": "File Structure",
+      "type": "skill",
+      "x_raw": 126.3095703125,
+      "y_raw": 902.6258544921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Child Themes",
+      "type": "skill",
+      "x_raw": 630.1455078125,
+      "y_raw": 934.3367919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Block Patterns",
+      "type": "section",
+      "x_raw": 379.7392578125,
+      "y_raw": 937.6414794921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Extending Functionality",
+      "type": "skill",
+      "x_raw": 97.4345703125,
+      "y_raw": 940.9578857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Template Hierarchy",
+      "type": "skill",
+      "x_raw": 615.4384765625,
+      "y_raw": 969.3406982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Template Parts",
+      "type": "section",
+      "x_raw": 378.4267578125,
+      "y_raw": 972.6453857421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_51",
+      "label": "Transients API",
+      "type": "skill",
+      "x_raw": 123.5322265625,
+      "y_raw": 972.7860107421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Theme Structure",
+      "type": "skill",
+      "x_raw": 623.7822265625,
+      "y_raw": 998.8367919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Sytles Overrides",
+      "type": "section",
+      "x_raw": 360.4853515625,
+      "y_raw": 1007.6610107421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_54",
+      "label": "Cron Jobs",
+      "type": "skill",
+      "x_raw": 134.7119140625,
+      "y_raw": 1007.8016357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Menus Customizer",
+      "type": "skill",
+      "x_raw": 606.5556640625,
+      "y_raw": 1041.4930419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "AJAX in WordPress",
+      "type": "skill",
+      "x_raw": 112.7275390625,
+      "y_raw": 1042.8172607421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Widgets",
+      "type": "skill",
+      "x_raw": 644.2666015625,
+      "y_raw": 1076.4969482421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Licensing & Updates",
+      "type": "section",
+      "x_raw": 363.6142578125,
+      "y_raw": 1076.4969482421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "REST API",
+      "type": "skill",
+      "x_raw": 135.6142578125,
+      "y_raw": 1077.8211669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Template Tags",
+      "type": "skill",
+      "x_raw": 628.0126953125,
+      "y_raw": 1111.5125732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Advanced Plugin",
+      "type": "skill",
+      "x_raw": 113.9462890625,
+      "y_raw": 1113.1180419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Working with Databases",
+      "type": "skill",
+      "x_raw": 99.5087890625,
+      "y_raw": 1144.9578857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Custom Fields",
+      "type": "skill",
+      "x_raw": 628.6220703125,
+      "y_raw": 1146.5281982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Custom Tables",
+      "type": "skill",
+      "x_raw": 123.0048828125,
+      "y_raw": 1179.9735107421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "ACF Metabox",
+      "type": "skill",
+      "x_raw": 614.1611328125,
+      "y_raw": 1198.4656982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "External API Integrations",
+      "type": "skill",
+      "x_raw": 97.1064453125,
+      "y_raw": 1214.9774169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Theme Customization",
+      "type": "skill",
+      "x_raw": 616.4814453125,
+      "y_raw": 1230.7156982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Plugin Administration",
+      "type": "skill",
+      "x_raw": 103.0478515625,
+      "y_raw": 1255.1492919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Performance",
+      "type": "section",
+      "x_raw": 377.1728515625,
+      "y_raw": 1277.5333251953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Optimizations",
+      "type": "skill",
+      "x_raw": 630.4736328125,
+      "y_raw": 1279.1610107421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Admin Menu",
+      "type": "skill",
+      "x_raw": 128.5830078125,
+      "y_raw": 1286.9891357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Assets",
+      "type": "skill",
+      "x_raw": 687.8486328125,
+      "y_raw": 1314.1414794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Images",
+      "type": "skill",
+      "x_raw": 603.6376953125,
+      "y_raw": 1314.1414794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Settings API",
+      "type": "skill",
+      "x_raw": 129.2978515625,
+      "y_raw": 1321.9930419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Database Tuning",
+      "type": "skill",
+      "x_raw": 620.7119140625,
+      "y_raw": 1349.1453857421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Security",
+      "type": "section",
+      "x_raw": 392.7119140625,
+      "y_raw": 1352.6739501953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_77",
+      "label": "Options API",
+      "type": "skill",
+      "x_raw": 130.3291015625,
+      "y_raw": 1357.0086669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Caching",
+      "type": "skill",
+      "x_raw": 642.5322265625,
+      "y_raw": 1384.1610107421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Settings Page",
+      "type": "skill",
+      "x_raw": 124.9384765625,
+      "y_raw": 1392.0242919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Core Web Vitals",
+      "type": "skill",
+      "x_raw": 623.5009765625,
+      "y_raw": 1419.1766357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "CDN Integration",
+      "type": "skill",
+      "x_raw": 622.0595703125,
+      "y_raw": 1454.1805419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Security & Hardening",
+      "type": "section",
+      "x_raw": 362.9697265625,
+      "y_raw": 1459.8289794921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Firewall & Malware Scanning",
+      "type": "skill",
+      "x_raw": 89.0087890625,
+      "y_raw": 1459.8289794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "User Roles",
+      "type": "section",
+      "x_raw": 388.1650390625,
+      "y_raw": 1494.8328857421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_85",
+      "label": "Activity Logging",
+      "type": "skill",
+      "x_raw": 122.4892578125,
+      "y_raw": 1494.8328857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Security Best Practices",
+      "type": "section",
+      "x_raw": 357.8955078125,
+      "y_raw": 1529.8485107421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_87",
+      "label": "Vulnerability Monitoring",
+      "type": "skill",
+      "x_raw": 102.7548828125,
+      "y_raw": 1529.8485107421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "PHPUnit",
+      "type": "skill",
+      "x_raw": 641.2080078125,
+      "y_raw": 1543.1492919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Virtual Patching",
+      "type": "skill",
+      "x_raw": 121.9736328125,
+      "y_raw": 1564.8641357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "WP_DEBUG",
+      "type": "skill",
+      "x_raw": 630.6142578125,
+      "y_raw": 1578.1649169921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "User & Login Security",
+      "type": "skill",
+      "x_raw": 106.7041015625,
+      "y_raw": 1599.8680419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Testing & Debugging",
+      "type": "section",
+      "x_raw": 354.5556640625,
+      "y_raw": 1610.4864501953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_93",
+      "label": "Query Editor",
+      "type": "skill",
+      "x_raw": 630.9189453125,
+      "y_raw": 1613.1805419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Log Fies",
+      "type": "skill",
+      "x_raw": 640.9150390625,
+      "y_raw": 1648.1844482421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "VPS Shared",
+      "type": "skill",
+      "x_raw": 97.1298828125,
+      "y_raw": 1708.8758544921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "Monitoring",
+      "type": "section",
+      "x_raw": 385.0595703125,
+      "y_raw": 1711.5606689453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "Backups & Recovery",
+      "type": "skill",
+      "x_raw": 610.4580078125,
+      "y_raw": 1715.0750732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Managed",
+      "type": "skill",
+      "x_raw": 130.7392578125,
+      "y_raw": 1745.4617919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Update Strategies",
+      "type": "skill",
+      "x_raw": 617.1728515625,
+      "y_raw": 1750.0789794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Hosting Options",
+      "type": "skill",
+      "x_raw": 114.6142578125,
+      "y_raw": 1778.3563232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Deployment",
+      "type": "section",
+      "x_raw": 377.9111328125,
+      "y_raw": 1782.0723876953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_102",
+      "label": "Performance monitoring",
+      "type": "skill",
+      "x_raw": 602.7236328125,
+      "y_raw": 1784.7664794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "WP-CLI",
+      "type": "skill",
+      "x_raw": 599.2314453125,
+      "y_raw": 1835.3680419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Bedrock",
+      "type": "skill",
+      "x_raw": 688.7041015625,
+      "y_raw": 1835.3680419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Sage",
+      "type": "skill",
+      "x_raw": 605.6298828125,
+      "y_raw": 1870.3836669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "Composer",
+      "type": "skill",
+      "x_raw": 683.5361328125,
+      "y_raw": 1870.3836669921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Migrations",
+      "type": "skill",
+      "x_raw": 127.2587890625,
+      "y_raw": 1887.0242919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Advanced WordPress",
+      "type": "section",
+      "x_raw": 328.2353515625,
+      "y_raw": 1918.5255126953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_109",
+      "label": "Workflows & Automation",
+      "type": "skill",
+      "x_raw": 602.2783203125,
+      "y_raw": 1922.0399169921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Automated Deployments",
+      "type": "skill",
+      "x_raw": 91.8447265625,
+      "y_raw": 1922.0399169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "Accessibility",
+      "type": "skill",
+      "x_raw": 632.2197265625,
+      "y_raw": 1957.0555419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Advanced PHP & Architecture",
+      "type": "skill",
+      "x_raw": 587.7939453125,
+      "y_raw": 1992.0594482421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "OOP in PHP",
+      "type": "section",
+      "x_raw": 368.8759765625,
+      "y_raw": 1993.3836669921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_114",
+      "label": "WordPress Credit Program",
+      "type": "skill",
+      "x_raw": 87.3212890625,
+      "y_raw": 2023.1141357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Localization",
+      "type": "skill",
+      "x_raw": 632.8525390625,
+      "y_raw": 2027.0750732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Design Patterns",
+      "type": "section",
+      "x_raw": 359.0439453125,
+      "y_raw": 2028.3992919921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Multisite",
+      "type": "skill",
+      "x_raw": 641.6650390625,
+      "y_raw": 2062.0908203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Composer & Autoloading",
+      "type": "section",
+      "x_raw": 336.5556640625,
+      "y_raw": 2063.4150390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "Headless WordPress",
+      "type": "skill",
+      "x_raw": 610.3408203125,
+      "y_raw": 2097.0947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Contribute to WordPress",
+      "type": "skill",
+      "x_raw": 93.0986328125,
+      "y_raw": 2097.0947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "Career Growth",
+      "type": "section",
+      "x_raw": 356.5009765625,
+      "y_raw": 2129.427978515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_122",
+      "label": "Basics of SEO",
+      "type": "skill",
+      "x_raw": 627.0048828125,
+      "y_raw": 2132.1103515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Boost your WordPress Career",
+      "type": "skill",
+      "x_raw": 80.1025390625,
+      "y_raw": 2132.1103515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Visit the following roadmaps to keep learning",
+      "type": "skill",
+      "x_raw": 287.1728515625,
+      "y_raw": 2234.2041015625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "Frontend HTML PHP",
+      "type": "section",
+      "x_raw": 277.6806640625,
+      "y_raw": 2271.0947265625,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_15",
+      "type": "trunk"
+    },
+    {
+      "source": "node_15",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_22",
+      "type": "trunk"
+    },
+    {
+      "source": "node_22",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "trunk"
+    },
+    {
+      "source": "node_41",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_50",
+      "type": "trunk"
+    },
+    {
+      "source": "node_50",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_50",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_50",
+      "target": "node_53",
+      "type": "trunk"
+    },
+    {
+      "source": "node_53",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_69",
+      "type": "trunk"
+    },
+    {
+      "source": "node_69",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_76",
+      "type": "trunk"
+    },
+    {
+      "source": "node_76",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "trunk"
+    },
+    {
+      "source": "node_84",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_86",
+      "type": "trunk"
+    },
+    {
+      "source": "node_86",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_92",
+      "type": "trunk"
+    },
+    {
+      "source": "node_92",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_96",
+      "type": "trunk"
+    },
+    {
+      "source": "node_96",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_101",
+      "type": "trunk"
+    },
+    {
+      "source": "node_101",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_108",
+      "type": "trunk"
+    },
+    {
+      "source": "node_108",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_108",
+      "target": "node_113",
+      "type": "trunk"
+    },
+    {
+      "source": "node_113",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "trunk"
+    },
+    {
+      "source": "node_118",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_121",
+      "type": "trunk"
+    },
+    {
+      "source": "node_121",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_125",
+      "type": "trunk"
+    }
+  ]
+}

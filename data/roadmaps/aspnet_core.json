@@ -1,0 +1,207 @@
+{
+ "domain": "Aspnet Core",
+ "stages": [
+  {
+   "name": "ASP.NET Core",
+   "skills": [
+    "C#",
+    "Moien Tajik"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "General Development Skills",
+   "skills": [
+    ".NET .NET CLI Learn the Basics of C#",
+    "Git - Version Control",
+    "StyleCop Rules",
+    "GitHub, GitLab, BitBucket",
+    "HTTP / HTTPs Protocol",
+    "SQL Basics"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Database Fundamentals",
+   "skills": [
+    "Data Structures and Algorithms",
+    "Database Design Basics",
+    "Stored Procedures",
+    "ASP.NET Core Basics"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Object Relational Mapping",
+   "skills": [
+    "Constraints",
+    "MVC REST",
+    "Triggers",
+    "Minimal APIs",
+    "Dapper RepoDB",
+    "Entity Framework Core",
+    "Razor Pages",
+    "NHibernate",
+    "Framework Basics",
+    "Razor Components",
+    "Code First + Migrations",
+    "Middlewares",
+    "Redis",
+    "Change Tracker API"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Databases",
+   "skills": [
+    "Scoped",
+    "Lazy, Eager, Explicit Loading",
+    "App Settings and Configs",
+    "Distributed Cache",
+    "Transient",
+    "Memory Cache",
+    "Scrutor",
+    "Singleton",
+    "Dependency Injection",
+    "Life Cycles",
+    "Caching",
+    "Entity Framework 2nd Level Cache",
+    "DI Containers",
+    "Search Engines"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Log Frameworks",
+   "skills": [
+    "Relational",
+    "NoSQL",
+    "NLog",
+    "SQL Server",
+    "MongoDB",
+    "PostgreSQL",
+    "Cassandra",
+    "Gridlify",
+    "GraphQL .NET",
+    "MariaDB",
+    "LiteDB",
+    "Odata",
+    "HotChocolate",
+    "MySQL"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "GitHub Actions",
+   "skills": [
+    "E2E Testing Integration Testing",
+    "Hangfire",
+    "WebApplicationFactory",
+    "Playwright",
+    "Task Scheduling",
+    "Quartz",
+    "Puppeteer",
+    "Test Containers",
+    "Coravel",
+    ".NET Aspire Respawn",
+    "Testing",
+    "Cypress",
+    "Unit Testing Frameworks",
+    "Behavior Testing"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Azure Pipelines",
+   "skills": [
+    "Message Bus",
+    "NSubstitute",
+    "AutoFixture"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "GitLab CI/CD",
+   "skills": [
+    "NServiceBus",
+    "Moq FakeItEasy",
+    "Bogus"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Circle CI",
+   "skills": [
+    "Mass Transit",
+    "EasyNetQ",
+    "API Gateway",
+    "CI / CD",
+    "Software Design and Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Razor",
+   "skills": [
+    "Ocelot YARP",
+    "Containerization",
+    "Client-Side .NET",
+    "Docker"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Scriban",
+   "skills": [
+    "Template Engines",
+    "Blazor",
+    "Kubernetes"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  },
+  {
+   "name": "Fluid Frameworks",
+   "skills": [
+    ".NET MAUI",
+    "Other",
+    ".NET Aspire",
+    "Scalar MediatR",
+    "Orleans SteelToe",
+    "Good-to-Know Libraries",
+    "FluentValidation",
+    "Dapr",
+    "Polly Marten",
+    "Nuke",
+    "Benchmark.NET",
+    "Distributed Lock"
+   ],
+   "resources": [
+    "roadmap.sh/aspnet-core"
+   ]
+  }
+ ]
+}

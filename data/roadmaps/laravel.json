@@ -1,0 +1,299 @@
+{
+ "domain": "Laravel",
+ "stages": [
+  {
+   "name": "What is Laravel?",
+   "skills": [
+    "Why Web Frameworks?",
+    "Laravel Herd",
+    "Laravel for Full Stack",
+    "Laravel for Frontend",
+    "Installing Laravel"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Request\u2013Response Flow",
+   "skills": [
+    "Yor First App",
+    "Starter Kits Create a new project",
+    "Livewire",
+    "Inertia",
+    "Project Structure",
+    "Breeze",
+    "Jetstream",
+    "App",
+    "Bootstrap"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Routing & Controllers",
+   "skills": [
+    "Config",
+    "Database",
+    "Resources",
+    "Public",
+    "Basic Routes"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Route model binding",
+   "skills": [
+    "Routes",
+    "Storage",
+    "View Routes",
+    "Tests",
+    "Vendor",
+    "Redirect Routes"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Rate limiting",
+   "skills": [
+    "Route parameters"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "CORS Caching",
+   "skills": [
+    "Named routes"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Advanced Routing",
+   "skills": [
+    "Route groups",
+    "Basic controllers",
+    "Resource controllers"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Middleware",
+   "skills": [
+    "Single-action controllers",
+    "Views & Blade",
+    "Dependency injection"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Global vs Route",
+   "skills": [
+    "CRUD Operations",
+    "Blade Templating",
+    "Relationships",
+    "Displaying data",
+    "Casts, Accessors"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Databases & Eloquent",
+   "skills": [
+    "Blade Directives",
+    "if, else loops",
+    "Query scopes",
+    "Components",
+    "Eloquent ORM",
+    "Layouts",
+    "Blade + Livewire Configuration",
+    "Query Builder"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Requests & Responses",
+   "skills": [
+    "Migrations, seeders",
+    "Retrieving data & files",
+    "Pagination"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Streamed Responses",
+   "skills": [
+    "JSON Redirects Creating Responses",
+    "Policies Gates"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Authentication",
+   "skills": [
+    "Forms",
+    "Authorization",
+    "Manual validation"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "With Starter Kits",
+   "skills": [
+    "Encryption & Hashing",
+    "Error messages"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Manual Authentication",
+   "skills": [
+    "Validation"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Sanctum Passport",
+   "skills": [
+    "Logging & Debugging",
+    "Error Handling"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Telescope Debugbar",
+   "skills": [
+    "Handling Exceptions",
+    "Message Customization",
+    "Logging Basics"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Debugging basics",
+   "skills": [
+    "HTTP Exceptions",
+    "Log Stacks & Messages"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Pest PHPUnit",
+   "skills": [
+    "Testing",
+    "Advanced Features",
+    "Unit & Feature tests"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Configuration",
+   "skills": [
+    "Queues & Jobs",
+    "CLIs",
+    "Events & Listeners",
+    "Artisan",
+    "Sail"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Optimization",
+   "skills": [
+    "Notifications",
+    "Code Style"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Health Route",
+   "skills": [
+    "Task Schedulling",
+    "Pint"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Deployment Options",
+   "skills": [
+    "Performance",
+    "File Storage",
+    "Octane"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Laravel Cloud",
+   "skills": [
+    "Localization",
+    "Monitoring"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Laravel Forge",
+   "skills": [
+    "Facades",
+    "Pulse",
+    "Package Management"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  },
+  {
+   "name": "Deployment",
+   "skills": [
+    "Tools and Packages",
+    "PHP Backend Full Stack"
+   ],
+   "resources": [
+    "roadmap.sh/laravel"
+   ]
+  }
+ ]
+}

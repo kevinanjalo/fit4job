@@ -1,0 +1,799 @@
+{
+  "topic": "Backend Beginner",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Backend Beginner",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Personal Recommendation / Opinion",
+      "type": "skill",
+      "x_raw": 58.880950927734375,
+      "y_raw": 41.42722702026367,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "Alternative Option / Pick this or purple",
+      "type": "skill",
+      "x_raw": 58.880950927734375,
+      "y_raw": 61.9350471496582,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 485.7598876953125,
+      "y_raw": 62.187225341796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "Order not strict / Learn anytime",
+      "type": "skill",
+      "x_raw": 58.880950927734375,
+      "y_raw": 82.45458221435547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Backend",
+      "type": "section",
+      "x_raw": 323.3380126953125,
+      "y_raw": 124.26334381103516,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "If you are a frontend developer jumping",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 170.03488159179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "into backend development, I would recommend picking JavaScript and",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 186.38253784179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "JavaScript",
+      "type": "skill",
+      "x_raw": 142.11923217773438,
+      "y_raw": 203.89035034179688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "learning Node.js. Alternatively, Go and",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 219.07785034179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Python are also good options.",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 235.42550659179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Pick a Language",
+      "type": "section",
+      "x_raw": 317.6309814453125,
+      "y_raw": 236.33956909179688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Go",
+      "type": "skill",
+      "x_raw": 160.65829467773438,
+      "y_raw": 237.86300659179688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Learn the language and build some CLI",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 267.488037109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Python",
+      "type": "skill",
+      "x_raw": 151.09579467773438,
+      "y_raw": 271.847412109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "apps to practice your knowledge.",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 283.835693359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "When you are following this roadmap",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 317.480224609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "make sure to develop as many projects as",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 333.827880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "possible for each node of the roadmap. Create your GitHub profile and start using",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 350.175537109375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "GitHub for your future projects.",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 374.855224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Git Version Control Systems",
+      "type": "skill",
+      "x_raw": 177.47470092773438,
+      "y_raw": 399.452880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "See if any of your past projects can be",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 401.503662109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "published on GitHub as OpenSource.",
+      "type": "skill",
+      "x_raw": 476.6427001953125,
+      "y_raw": 417.851318359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Github Repo hosting services",
+      "type": "skill",
+      "x_raw": 168.38095092773438,
+      "y_raw": 435.652099609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Learn about the relational databases,",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 493.1560363769531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "normalization, DB migrations, SQL, DB",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 509.5036926269531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "PostgreSQL Relational Databases",
+      "type": "skill",
+      "x_raw": 305.9942626953125,
+      "y_raw": 511.9411926269531,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Indexes and Query performance analysis.",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 525.851318359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "REST",
+      "type": "skill",
+      "x_raw": 520.4942626953125,
+      "y_raw": 574.695068359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Learn how to build RESTful APIs and add",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 576.054443359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "JWT authentication to secure your APIs.",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 592.402099609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Learn about APIs",
+      "type": "section",
+      "x_raw": 316.7403564453125,
+      "y_raw": 608.679443359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "JSON APIs",
+      "type": "skill",
+      "x_raw": 508.4591064453125,
+      "y_raw": 608.679443359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Develop some API and add JWT auth.",
+      "type": "skill",
+      "x_raw": 43.494232177734375,
+      "y_raw": 615.534912109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 500.2091064453125,
+      "y_raw": 643.238037109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Caching",
+      "type": "section",
+      "x_raw": 338.3380126953125,
+      "y_raw": 666.687255859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Redis",
+      "type": "skill",
+      "x_raw": 202.64657592773438,
+      "y_raw": 666.687255859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "JWT",
+      "type": "skill",
+      "x_raw": 524.6075439453125,
+      "y_raw": 681.511474609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Learn about different caching strategies,",
+      "type": "skill",
+      "x_raw": 48.697357177734375,
+      "y_raw": 711.769287109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "including HTTP caching as well.",
+      "type": "skill",
+      "x_raw": 48.697357177734375,
+      "y_raw": 728.116943359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Learn about additional database topics",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 731.538818359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "including performance analysis, ORMs,",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 747.886474609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Use Redis in some of your projects.",
+      "type": "skill",
+      "x_raw": 48.697357177734375,
+      "y_raw": 748.882568359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "limitations, common issues to keep in",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 764.234130859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "mind with ORMs and in general.",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 780.581787109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Get some experience with some ORM.",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 804.616943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "ORMs",
+      "type": "skill",
+      "x_raw": 128.11532592773438,
+      "y_raw": 815.386474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "More about Databases",
+      "type": "section",
+      "x_raw": 302.4669189453125,
+      "y_raw": 849.370849609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "ACID",
+      "type": "skill",
+      "x_raw": 130.83407592773438,
+      "y_raw": 850.003662109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Transactions",
+      "type": "skill",
+      "x_raw": 112.03720092773438,
+      "y_raw": 884.620849609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Learn about differeng testing techniques and",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 891.171630859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "learn learn how to write automated tests.",
+      "type": "skill",
+      "x_raw": 387.6505126953125,
+      "y_raw": 907.519287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "N+1 Problem",
+      "type": "skill",
+      "x_raw": 111.86141967773438,
+      "y_raw": 919.249755859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Integration Testing",
+      "type": "skill",
+      "x_raw": 526.0723876953125,
+      "y_raw": 962.234130859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Unit Testing Testing",
+      "type": "skill",
+      "x_raw": 340.9044189453125,
+      "y_raw": 996.851318359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Functional Testing",
+      "type": "skill",
+      "x_raw": 528.2403564453125,
+      "y_raw": 1031.468505859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Backend Developer Roadmap",
+      "type": "section",
+      "x_raw": 283.7286376953125,
+      "y_raw": 1137.253662109375,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_55",
+      "type": "trunk"
+    }
+  ]
+}

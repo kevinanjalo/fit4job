@@ -1,0 +1,2255 @@
+{
+  "topic": "Angular",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Angular",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "JavaScript Roadmap",
+      "type": "skill",
+      "x_raw": 56.523193359375,
+      "y_raw": 47.86928939819336,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "TypeScript Roadmap",
+      "type": "skill",
+      "x_raw": 56.523193359375,
+      "y_raw": 66.87692260742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "React Roadmap",
+      "type": "skill",
+      "x_raw": 56.523193359375,
+      "y_raw": 85.8845443725586,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Angular",
+      "type": "section",
+      "x_raw": 330.8330383300781,
+      "y_raw": 96.69599151611328,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Vue Roadmap",
+      "type": "skill",
+      "x_raw": 56.523193359375,
+      "y_raw": 104.89217376708984,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Component Anatomy",
+      "type": "skill",
+      "x_raw": 64.93719482421875,
+      "y_raw": 160.15838623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "JavaScript Roadmap",
+      "type": "section",
+      "x_raw": 310.923095703125,
+      "y_raw": 177.58399963378906,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_7",
+      "label": "Creating Components",
+      "type": "skill",
+      "x_raw": 62.230194091796875,
+      "y_raw": 193.73226928710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Angular and History",
+      "type": "skill",
+      "x_raw": 565.4166870117188,
+      "y_raw": 207.34933471679688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Metadata",
+      "type": "skill",
+      "x_raw": 92.17129516601562,
+      "y_raw": 230.95066833496094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Introduction to Angular Angular Architecture",
+      "type": "skill",
+      "x_raw": 306.0715637207031,
+      "y_raw": 240.9232177734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Template",
+      "type": "skill",
+      "x_raw": 135.71774291992188,
+      "y_raw": 267.0675048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Selector",
+      "type": "skill",
+      "x_raw": 52.17559814453125,
+      "y_raw": 267.0675048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Setting up a New Project",
+      "type": "skill",
+      "x_raw": 552.9246215820312,
+      "y_raw": 274.50885009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Standalone",
+      "type": "skill",
+      "x_raw": 130.63186645507812,
+      "y_raw": 300.3249816894531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Styles",
+      "type": "skill",
+      "x_raw": 58.081787109375,
+      "y_raw": 300.3249816894531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Learn TypeScript Basics",
+      "type": "section",
+      "x_raw": 302.76690673828125,
+      "y_raw": 323.92633056640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "Module Architecture",
+      "type": "skill",
+      "x_raw": 570.5260009765625,
+      "y_raw": 323.92633056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Provider",
+      "type": "skill",
+      "x_raw": 137.8505401611328,
+      "y_raw": 333.59417724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Imports",
+      "type": "skill",
+      "x_raw": 53.827911376953125,
+      "y_raw": 333.59417724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Creating Modules",
+      "type": "skill",
+      "x_raw": 576.3736572265625,
+      "y_raw": 357.5002136230469,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "viewProvider",
+      "type": "skill",
+      "x_raw": 84.55416870117188,
+      "y_raw": 367.8009033203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Feature Modules",
+      "type": "skill",
+      "x_raw": 578.4478149414062,
+      "y_raw": 391.0858154296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Encapsulation",
+      "type": "skill",
+      "x_raw": 81.33154296875,
+      "y_raw": 402.3357238769531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Components",
+      "type": "section",
+      "x_raw": 330.3291320800781,
+      "y_raw": 414.5348205566406,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "Lazy Loading Modules",
+      "type": "skill",
+      "x_raw": 565.7213745117188,
+      "y_raw": 424.65972900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "changeDetection",
+      "type": "skill",
+      "x_raw": 73.57382202148438,
+      "y_raw": 435.90960693359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Dependencies",
+      "type": "skill",
+      "x_raw": 583.90869140625,
+      "y_raw": 458.2453308105469,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Communication",
+      "type": "skill",
+      "x_raw": 78.08551025390625,
+      "y_raw": 476.6201477050781,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Interpolation",
+      "type": "section",
+      "x_raw": 333.5869140625,
+      "y_raw": 492.1473388671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Parent-Child Interaction",
+      "type": "skill",
+      "x_raw": 58.234130859375,
+      "y_raw": 511.47137451171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Modules",
+      "type": "skill",
+      "x_raw": 609.385009765625,
+      "y_raw": 523.1900024414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Template Statements",
+      "type": "section",
+      "x_raw": 312.9504089355469,
+      "y_raw": 525.7212524414062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "ViewChild ContentChild",
+      "type": "skill",
+      "x_raw": 45.8826904296875,
+      "y_raw": 544.7288818359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Understand Binding",
+      "type": "section",
+      "x_raw": 316.50115966796875,
+      "y_raw": 560.8888549804688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Templates",
+      "type": "skill",
+      "x_raw": 605.0842895507812,
+      "y_raw": 581.162109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Component Lifecycle",
+      "type": "skill",
+      "x_raw": 64.83172607421875,
+      "y_raw": 584.326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Data Binding",
+      "type": "section",
+      "x_raw": 333.5986328125,
+      "y_raw": 597.0057373046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "Dynamic Components",
+      "type": "skill",
+      "x_raw": 61.222381591796875,
+      "y_raw": 617.2789306640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Property Binding",
+      "type": "section",
+      "x_raw": 324.7979431152344,
+      "y_raw": 630.57958984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Structural Directives",
+      "type": "skill",
+      "x_raw": 493.28851318359375,
+      "y_raw": 635.65380859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Attribute Binding",
+      "type": "section",
+      "x_raw": 324.5166931152344,
+      "y_raw": 664.1535034179688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "Template Syntax",
+      "type": "skill",
+      "x_raw": 44.6990966796875,
+      "y_raw": 666.6964111328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Pipes",
+      "type": "skill",
+      "x_raw": 191.8383026123047,
+      "y_raw": 666.6964111328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Attribute Directives",
+      "type": "skill",
+      "x_raw": 496.0423583984375,
+      "y_raw": 669.2276611328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Event Binding",
+      "type": "section",
+      "x_raw": 331.1846008300781,
+      "y_raw": 697.7391357421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "@if @else",
+      "type": "skill",
+      "x_raw": 46.820159912109375,
+      "y_raw": 702.1687622070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Pipes Precedence",
+      "type": "skill",
+      "x_raw": 160.53782653808594,
+      "y_raw": 702.1687622070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Custom Directives",
+      "type": "skill",
+      "x_raw": 498.0697021484375,
+      "y_raw": 702.8015747070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Two-way Binding",
+      "type": "section",
+      "x_raw": 325.0674743652344,
+      "y_raw": 731.31298828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "@else if",
+      "type": "skill",
+      "x_raw": 63.94110107421875,
+      "y_raw": 735.7543334960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Change Detection",
+      "type": "skill",
+      "x_raw": 161.11203002929688,
+      "y_raw": 735.7543334960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Directives",
+      "type": "skill",
+      "x_raw": 606.0100708007812,
+      "y_raw": 758.558837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "@for @switch",
+      "type": "skill",
+      "x_raw": 42.648345947265625,
+      "y_raw": 768.6954345703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Common Pipes",
+      "type": "skill",
+      "x_raw": 168.49478149414062,
+      "y_raw": 769.3282470703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Control Flow",
+      "type": "section",
+      "x_raw": 334.9345703125,
+      "y_raw": 771.2266845703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "@case @default",
+      "type": "skill",
+      "x_raw": 37.33978271484375,
+      "y_raw": 801.6482543945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Custom Pipes",
+      "type": "skill",
+      "x_raw": 171.78770446777344,
+      "y_raw": 802.9138793945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Template Ref Vars",
+      "type": "section",
+      "x_raw": 320.6260986328125,
+      "y_raw": 804.8123168945312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Configuration",
+      "type": "skill",
+      "x_raw": 509.530517578125,
+      "y_raw": 807.659912109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "@let @defer",
+      "type": "skill",
+      "x_raw": 43.7264404296875,
+      "y_raw": 834.58935546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "@Input & @Output",
+      "type": "section",
+      "x_raw": 319.6417541503906,
+      "y_raw": 838.3861694335938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Lazy Loading",
+      "type": "skill",
+      "x_raw": 510.690673828125,
+      "y_raw": 841.2455444335938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Router Outlets",
+      "type": "skill",
+      "x_raw": 506.80010986328125,
+      "y_raw": 874.8193969726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Reactive Forms",
+      "type": "skill",
+      "x_raw": 61.351287841796875,
+      "y_raw": 892.5614624023438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Routing",
+      "type": "skill",
+      "x_raw": 611.248291015625,
+      "y_raw": 922.3385009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Services & Remote Data",
+      "type": "skill",
+      "x_raw": 290.47406005859375,
+      "y_raw": 922.3385009765625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "Typed Forms",
+      "type": "skill",
+      "x_raw": 68.10122680664062,
+      "y_raw": 926.1353149414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Template-driven Forms",
+      "type": "skill",
+      "x_raw": 43.456939697265625,
+      "y_raw": 959.720947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Router Links",
+      "type": "skill",
+      "x_raw": 512.167236328125,
+      "y_raw": 973.0216064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Dependency Injection",
+      "type": "section",
+      "x_raw": 297.0482177734375,
+      "y_raw": 973.0216064453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "Dynamic Forms",
+      "type": "skill",
+      "x_raw": 61.702850341796875,
+      "y_raw": 993.2948608398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Router Events",
+      "type": "skill",
+      "x_raw": 508.2414855957031,
+      "y_raw": 1006.595458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Guards",
+      "type": "skill",
+      "x_raw": 525.2686767578125,
+      "y_raw": 1040.18115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Forms",
+      "type": "skill",
+      "x_raw": 115.86637878417969,
+      "y_raw": 1052.216064453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "HTTP Client",
+      "type": "section",
+      "x_raw": 295.7357177734375,
+      "y_raw": 1052.216064453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_76",
+      "label": "Setting Up the Client",
+      "type": "skill",
+      "x_raw": 274.5718688964844,
+      "y_raw": 1108.606201171875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_77",
+      "label": "Custom Validators",
+      "type": "skill",
+      "x_raw": 55.632598876953125,
+      "y_raw": 1111.137451171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "RxJS Basics",
+      "type": "skill",
+      "x_raw": 483.6440734863281,
+      "y_raw": 1113.668701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Making Requests",
+      "type": "section",
+      "x_raw": 282.62255859375,
+      "y_raw": 1142.18017578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "Control Value Accessor",
+      "type": "skill",
+      "x_raw": 43.140533447265625,
+      "y_raw": 1144.72314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Observable Pattern",
+      "type": "skill",
+      "x_raw": 582.3150024414062,
+      "y_raw": 1173.3516845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Writing Interceptors",
+      "type": "section",
+      "x_raw": 276.81011962890625,
+      "y_raw": 1175.7657470703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Zoneless Applications",
+      "type": "skill",
+      "x_raw": 49.515472412109375,
+      "y_raw": 1190.77734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Observable Lifecycle",
+      "type": "skill",
+      "x_raw": 578.6235961914062,
+      "y_raw": 1206.937255859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "RxJS vs Promises",
+      "type": "skill",
+      "x_raw": 586.12353515625,
+      "y_raw": 1240.51123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Signals",
+      "type": "skill",
+      "x_raw": 486.09326171875,
+      "y_raw": 1240.51123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "State Management",
+      "type": "section",
+      "x_raw": 283.32568359375,
+      "y_raw": 1240.51123046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "Zones",
+      "type": "skill",
+      "x_raw": 125.59284973144531,
+      "y_raw": 1240.51123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Operators",
+      "type": "skill",
+      "x_raw": 604.7444458007812,
+      "y_raw": 1274.0968017578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "RxJS Interop",
+      "type": "skill",
+      "x_raw": 453.05841064453125,
+      "y_raw": 1295.3192138671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "NGXS NgRx Elf",
+      "type": "section",
+      "x_raw": 268.3727111816406,
+      "y_raw": 1295.3192138671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "Filtering",
+      "type": "skill",
+      "x_raw": 609.502197265625,
+      "y_raw": 1308.303466796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Inputs as Signals",
+      "type": "skill",
+      "x_raw": 443.30853271484375,
+      "y_raw": 1328.8931884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Rate Limiting",
+      "type": "skill",
+      "x_raw": 597.0687255859375,
+      "y_raw": 1341.88916015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Developer Tools",
+      "type": "skill",
+      "x_raw": 77.60504150390625,
+      "y_raw": 1365.010009765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "SSR",
+      "type": "section",
+      "x_raw": 349.5125427246094,
+      "y_raw": 1365.010009765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "Queries as Signals",
+      "type": "skill",
+      "x_raw": 439.0077819824219,
+      "y_raw": 1368.8067626953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Transformation",
+      "type": "skill",
+      "x_raw": 592.7914428710938,
+      "y_raw": 1375.4630126953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Model Inputs",
+      "type": "skill",
+      "x_raw": 452.75372314453125,
+      "y_raw": 1396.0526123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Combination",
+      "type": "skill",
+      "x_raw": 598.5452880859375,
+      "y_raw": 1409.036865234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Angular CLI",
+      "type": "skill",
+      "x_raw": 65.64028930664062,
+      "y_raw": 1427.0953369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "DevTools",
+      "type": "skill",
+      "x_raw": 208.174072265625,
+      "y_raw": 1427.6109619140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "SSG AnalogJS",
+      "type": "skill",
+      "x_raw": 349.3016052246094,
+      "y_raw": 1458.149658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Language Service",
+      "type": "skill",
+      "x_raw": 186.29537963867188,
+      "y_raw": 1461.184814453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Local Setup",
+      "type": "skill",
+      "x_raw": 65.67544555664062,
+      "y_raw": 1463.212158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Attributes",
+      "type": "skill",
+      "x_raw": 614.904541015625,
+      "y_raw": 1481.9033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "Libraries",
+      "type": "skill",
+      "x_raw": 209.088134765625,
+      "y_raw": 1495.8367919921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Deployment",
+      "type": "skill",
+      "x_raw": 65.13641357421875,
+      "y_raw": 1496.7860107421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "UI Components",
+      "type": "skill",
+      "x_raw": 600.0101318359375,
+      "y_raw": 1515.477294921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "End-to-End Testing",
+      "type": "skill",
+      "x_raw": 47.452972412109375,
+      "y_raw": 1530.3717041015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "Using Libraries",
+      "type": "skill",
+      "x_raw": 193.70156860351562,
+      "y_raw": 1531.95361328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Containers",
+      "type": "skill",
+      "x_raw": 611.517822265625,
+      "y_raw": 1549.0628662109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Security",
+      "type": "section",
+      "x_raw": 340.25482177734375,
+      "y_raw": 1549.3792724609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_114",
+      "label": "Accessibility",
+      "type": "skill",
+      "x_raw": 464.2028503417969,
+      "y_raw": 1549.3792724609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Schematics",
+      "type": "skill",
+      "x_raw": 66.03872680664062,
+      "y_raw": 1563.945556640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "Creating Libraries",
+      "type": "skill",
+      "x_raw": 186.74069213867188,
+      "y_raw": 1565.527587890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Routing",
+      "type": "skill",
+      "x_raw": 619.2404174804688,
+      "y_raw": 1582.63671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Build Environments",
+      "type": "skill",
+      "x_raw": 47.265472412109375,
+      "y_raw": 1597.5311279296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "Cross-site Scripting",
+      "type": "skill",
+      "x_raw": 193.73672485351562,
+      "y_raw": 1615.273193359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "HTTP Vulnerabilities",
+      "type": "section",
+      "x_raw": 352.85235595703125,
+      "y_raw": 1615.273193359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_121",
+      "label": "Link Identification",
+      "type": "skill",
+      "x_raw": 595.0765991210938,
+      "y_raw": 1616.222412109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "CLI Builders",
+      "type": "skill",
+      "x_raw": 64.23406982421875,
+      "y_raw": 1631.1051025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "Sanitization",
+      "type": "skill",
+      "x_raw": 213.1896514892578,
+      "y_raw": 1651.3782958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Cross-site Request Forgery",
+      "type": "section",
+      "x_raw": 335.7666015625,
+      "y_raw": 1651.3782958984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "AoT Compilation",
+      "type": "skill",
+      "x_raw": 54.976348876953125,
+      "y_raw": 1664.690673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Performance",
+      "type": "skill",
+      "x_raw": 532.2763671875,
+      "y_raw": 1677.3585205078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_127",
+      "label": "Trusting Safe Values",
+      "type": "skill",
+      "x_raw": 192.0258026123047,
+      "y_raw": 1684.9638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_128",
+      "label": "HttpClient CSRF",
+      "type": "section",
+      "x_raw": 362.7077331542969,
+      "y_raw": 1684.9638671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_129",
+      "label": "Enforce Trusted Types",
+      "type": "skill",
+      "x_raw": 186.97506713867188,
+      "y_raw": 1718.537841796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_130",
+      "label": "XSRF protection",
+      "type": "section",
+      "x_raw": 363.3991394042969,
+      "y_raw": 1718.537841796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_131",
+      "label": "Deferrable Views",
+      "type": "skill",
+      "x_raw": 590.27197265625,
+      "y_raw": 1738.81103515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Cross-site Script Inclusion",
+      "type": "section",
+      "x_raw": 339.45794677734375,
+      "y_raw": 1752.1234130859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_133",
+      "label": "Image Optimization",
+      "type": "skill",
+      "x_raw": 584.24853515625,
+      "y_raw": 1772.3966064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Zone Pollution",
+      "type": "skill",
+      "x_raw": 596.8460693359375,
+      "y_raw": 1805.9705810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "Testing Services",
+      "type": "section",
+      "x_raw": 358.805419921875,
+      "y_raw": 1806.1580810546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_136",
+      "label": "Localize Package",
+      "type": "skill",
+      "x_raw": 164.87371826171875,
+      "y_raw": 1833.4039306640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "Slow Computations",
+      "type": "skill",
+      "x_raw": 585.23291015625,
+      "y_raw": 1839.55615234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_138",
+      "label": "Testing Pipes",
+      "type": "section",
+      "x_raw": 366.03582763671875,
+      "y_raw": 1839.74365234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_139",
+      "label": "Locales by ID",
+      "type": "skill",
+      "x_raw": 174.84628295898438,
+      "y_raw": 1866.989501953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_140",
+      "label": "Hydration",
+      "type": "skill",
+      "x_raw": 608.330322265625,
+      "y_raw": 1873.1300048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_141",
+      "label": "Testing Requests",
+      "type": "section",
+      "x_raw": 356.3327941894531,
+      "y_raw": 1873.3175048828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_142",
+      "label": "Translation Files",
+      "type": "skill",
+      "x_raw": 167.66275024414062,
+      "y_raw": 1900.5633544921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_143",
+      "label": "Testing Directives",
+      "type": "section",
+      "x_raw": 355.4773254394531,
+      "y_raw": 1906.9031982421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_144",
+      "label": "Multiple Locales",
+      "type": "skill",
+      "x_raw": 167.75650024414062,
+      "y_raw": 1934.1373291015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_145",
+      "label": "Services with Dependencies",
+      "type": "section",
+      "x_raw": 329.63775634765625,
+      "y_raw": 1940.47705078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_146",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 448.8397216796875,
+      "y_raw": 1991.16015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_147",
+      "label": "Internationalization",
+      "type": "skill",
+      "x_raw": 160.76046752929688,
+      "y_raw": 1991.16015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_148",
+      "label": "Component Bindings",
+      "type": "section",
+      "x_raw": 347.6727294921875,
+      "y_raw": 2042.48779296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_149",
+      "label": "Transitions & Triggers",
+      "type": "skill",
+      "x_raw": 153.4128875732422,
+      "y_raw": 2047.55029296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_150",
+      "label": "Debugging Tests",
+      "type": "section",
+      "x_raw": 357.8562316894531,
+      "y_raw": 2076.0615234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_151",
+      "label": "Complex Sequences",
+      "type": "skill",
+      "x_raw": 156.26051330566406,
+      "y_raw": 2081.1240234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_152",
+      "label": "Component Templates",
+      "type": "section",
+      "x_raw": 343.8641662597656,
+      "y_raw": 2109.6357421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_153",
+      "label": "Reusable Animations",
+      "type": "skill",
+      "x_raw": 155.07693481445312,
+      "y_raw": 2114.709716796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_154",
+      "label": "Code Coverage",
+      "type": "section",
+      "x_raw": 360.317138671875,
+      "y_raw": 2143.22119140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_155",
+      "label": "Route Transitions",
+      "type": "skill",
+      "x_raw": 163.95965576171875,
+      "y_raw": 2148.28369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_156",
+      "label": "Animation",
+      "type": "skill",
+      "x_raw": 182.62745666503906,
+      "y_raw": 2208.599609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_157",
+      "label": "Have a look at the following related roadmaps",
+      "type": "skill",
+      "x_raw": 95.9798583984375,
+      "y_raw": 2300.6845703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_158",
+      "label": "TypeScript Frontend React Node.js",
+      "type": "skill",
+      "x_raw": 50.45294189453125,
+      "y_raw": 2335.87548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_159",
+      "label": "Vue.js",
+      "type": "skill",
+      "x_raw": 185.77976989746094,
+      "y_raw": 2335.87548828125,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "trunk"
+    },
+    {
+      "source": "node_6",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "trunk"
+    },
+    {
+      "source": "node_32",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_41",
+      "type": "trunk"
+    },
+    {
+      "source": "node_41",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_75",
+      "type": "trunk"
+    },
+    {
+      "source": "node_75",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_96",
+      "type": "trunk"
+    },
+    {
+      "source": "node_96",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_113",
+      "type": "trunk"
+    },
+    {
+      "source": "node_113",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_113",
+      "target": "node_120",
+      "type": "trunk"
+    },
+    {
+      "source": "node_120",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_124",
+      "type": "trunk"
+    },
+    {
+      "source": "node_124",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_128",
+      "type": "trunk"
+    },
+    {
+      "source": "node_128",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_130",
+      "type": "trunk"
+    },
+    {
+      "source": "node_130",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_130",
+      "target": "node_132",
+      "type": "trunk"
+    },
+    {
+      "source": "node_132",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_135",
+      "type": "trunk"
+    },
+    {
+      "source": "node_135",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_138",
+      "type": "trunk"
+    },
+    {
+      "source": "node_138",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_141",
+      "type": "trunk"
+    },
+    {
+      "source": "node_141",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_143",
+      "type": "trunk"
+    },
+    {
+      "source": "node_143",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_145",
+      "type": "trunk"
+    },
+    {
+      "source": "node_145",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_145",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_145",
+      "target": "node_148",
+      "type": "trunk"
+    },
+    {
+      "source": "node_148",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_148",
+      "target": "node_150",
+      "type": "trunk"
+    },
+    {
+      "source": "node_150",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_150",
+      "target": "node_152",
+      "type": "trunk"
+    },
+    {
+      "source": "node_152",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_152",
+      "target": "node_154",
+      "type": "trunk"
+    },
+    {
+      "source": "node_154",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_154",
+      "target": "node_156",
+      "type": "branch"
+    },
+    {
+      "source": "node_154",
+      "target": "node_157",
+      "type": "branch"
+    },
+    {
+      "source": "node_154",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_154",
+      "target": "node_159",
+      "type": "branch"
+    }
+  ]
+}

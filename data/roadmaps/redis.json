@@ -1,0 +1,334 @@
+{
+ "domain": "Redis",
+ "stages": [
+  {
+   "name": "Redis",
+   "skills": [
+    "Overview of Redis / What is it?",
+    "In-memory Data Structure Store",
+    "Key-value Database Cache"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "What is Redis?",
+   "skills": [
+    "Message Broker",
+    "Redis vs Other Databases",
+    "Core Use Cases",
+    "Caching Real-time Analytics",
+    "Redis vs SQL/NoSQL DBs",
+    "Session Management",
+    "When to choose Redis?",
+    "Getting Started with Redis"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Installing Redis Locally",
+   "skills": [
+    "Pub/Sub Messaging",
+    "Leaderboards and Counters",
+    "Running Redis",
+    "Key Features"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Using Package Managers",
+   "skills": [
+    "Starting the Server",
+    "Data Persistence Options"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Pre-compiled Binaries",
+   "skills": [
+    "Connecting using Redis CLI",
+    "Rich Data Structures"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Using Docker",
+   "skills": [
+    "Basic Commands / SET, GET",
+    "High Performance and Scalability"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "and Getting Keys",
+   "skills": [
+    "First Steps Basic Data Operations",
+    "Core Data Structures"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "DEL",
+   "skills": [
+    "HSET HGET",
+    "SET GET",
+    "HGETALL HDEL",
+    "INCR DECR",
+    "Overview of Data Types",
+    "HEXISTS",
+    "APPEND STRLEN",
+    "Strings",
+    "Strings, Lists, Sets, Hashes, Sorted Sets",
+    "More Commands",
+    "Common Commands",
+    "Hashes"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "SREM",
+   "skills": [
+    "Usecases",
+    "Sorted Sets ZADD ZRANGE",
+    "Sets",
+    "Lists",
+    "ZREM",
+    "ZRANK",
+    "SADD",
+    "LPUSH RPUSH",
+    "ZRANGEBYSCORE",
+    "SMEMBERS",
+    "LPOP RPOP",
+    "ZINCRBY",
+    "ZCOUNT",
+    "SISMEMBER"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "XADD XREAD",
+   "skills": [
+    "Atomicity in Redis",
+    "Usecases",
+    "Expiration",
+    "SETBIT GETBIT",
+    "Key Management",
+    "Pipelining",
+    "BITOP BITPOS",
+    "Advanced Data Structures Bitmaps",
+    "Batch Operations",
+    "BITCOUNT",
+    "MSET / MGET",
+    "Common Commands",
+    "GEOADD"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "XRANGE XLEN",
+   "skills": [
+    "GEOSEARCH",
+    "PFMERGE"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "More Commands",
+   "skills": [
+    "More Commands",
+    "PFADD"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Common Commands",
+   "skills": [
+    "Common Commands",
+    "HyperLogLog"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Usecases",
+   "skills": [
+    "PFCOUNT",
+    "Usecases",
+    "Common Commands"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Streams",
+   "skills": [
+    "Usecases",
+    "Geospatial Indexes"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Transactions",
+   "skills": [
+    "Pub/Sub",
+    "Lua Scripting"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "WATCH",
+   "skills": [
+    "SUBSCRIBE",
+    "EVAL"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "EXEC",
+   "skills": [
+    "UNSUBSCRIBE",
+    "EVALSHA"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "MULTI",
+   "skills": [
+    "Common Commands",
+    "PUBLISH"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Common Commands",
+   "skills": [
+    "Usecases",
+    "More Commands"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Optimistic Locking",
+   "skills": [
+    "Common Commands",
+    "Persistence Options",
+    "Usecases",
+    "No Persistence Option",
+    "Replication / HA",
+    "Authentication",
+    "How RDB Works?"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Clustering Security",
+   "skills": [
+    "Network Security",
+    "Configuring Save Interval",
+    "SSL/TLS Encryption",
+    "Usecases / Best Practices",
+    "Replication Basics",
+    "Snapshotting (RDB)",
+    "Monitoring / Optimization",
+    "Redis Sentinel",
+    "How AOF Works?",
+    "AOF rewrite & compaction",
+    "Max Memory Policy",
+    "Truncation / Corruption",
+    "Search",
+    "Memory Management"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "rd Party Tools Performance Optimization",
+   "skills": [
+    "Slow Log Analysis",
+    "Append-Only File (AOF)",
+    "RedisBloom",
+    "Built-in Tools",
+    "redis-benchmark",
+    "RedisJSON",
+    "RedisInsight",
+    "RDB vs AOF Tradeoffs",
+    "Monitoring",
+    "RedisCommander",
+    "Hybrid Persistence",
+    "Redis Modules",
+    "Choosing Right Strategy",
+    "Managing Redis in Production redis.conf"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Upgrading Redis",
+   "skills": [
+    "Important Configurations",
+    "Backup and Recovery",
+    "Disaster Recovery"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  },
+  {
+   "name": "Minimizing Downtimes",
+   "skills": [
+    "RDB and AOF Files",
+    "Redis Enterprise",
+    "Active-Active geo Distribution",
+    "Redis on Flash",
+    "Security and Compliance",
+    "MongoDB PostgreSQL SQL",
+    "Enterprise Features",
+    "When to consider enterprise?"
+   ],
+   "resources": [
+    "roadmap.sh/redis"
+   ]
+  }
+ ]
+}

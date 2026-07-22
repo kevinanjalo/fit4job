@@ -1,0 +1,142 @@
+{
+ "domain": "Devops Beginner",
+ "stages": [
+  {
+   "name": "DevOps",
+   "skills": [
+    "This is the beginner friendly version of"
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Programming Language",
+   "skills": [
+    "What is DevOps?",
+    "Python",
+    "Go",
+    "delivery. The key focus areas are automation,",
+    "infrastructure and monitoring."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Operating System Linux",
+   "skills": [
+    "Look at the FAQs below for more details",
+    "Pick any Programming Language",
+    "You can pick any programming language.",
+    "The goal is to learn the programming skills",
+    "that you can use to write automation",
+    "scripts.",
+    "Learn about the file system, package"
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Networking & Protocols",
+   "skills": [
+    "managers, managing services, checking logs,",
+    "Learn about DNS, TCP/IP Protocols, SSH,",
+    "bash scripting, permissions, pipes, output",
+    "Ports, Gateways, Routing, IP Addressing,",
+    "redirection, text manipulation tools, process",
+    "and subnetting.",
+    "Handy with deployments & troubleshooting"
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Docker",
+   "skills": [
+    "Learn about containerization. Be comfortable",
+    "familiar with Alpine Linux. Learn about",
+    "security, network and storage."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "GitHub Git",
+   "skills": [
+    "DevOps teams usually practice \"git ops\"",
+    "i.e. making changes to any operations",
+    "related activity require a pull request",
+    "against a git repository.",
+    "Learn about git, create your GitHub profile."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "AWS",
+   "skills": [
+    "Pick one of the cloud providers AWS, GCP or",
+    "Azure. Start with core services e.g. AWS VPC,",
+    "EC2, S3, IAM, and then RDS, Route53,",
+    "Cloudwatch and ECS.",
+    "Create and deploy some application to AWS."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Terraform",
+   "skills": [
+    "Learn what IaC means. Learn about terraform",
+    "and how to automate infrastructure creation.",
+    "If you deployed an application to AWS in",
+    "Learn what is configuration management.",
+    "previous step, destroy the infrastructure and",
+    "recreate it using terraform."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Ansible",
+   "skills": [
+    "management and automation.",
+    "Write some automation scripts e.g. db backup"
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "GitHub Actions",
+   "skills": [
+    "Learn about the concepts of CI/CD and how to",
+    "implement in your projects using some CI/CD",
+    "space, you can pick any one."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  },
+  {
+   "name": "Nginx",
+   "skills": [
+    "Integrate CI/CD into your app.",
+    "media streaming and more.",
+    "Learn the basic config options, TLS setup,",
+    "rate limiting, caching etc.",
+    "job will teach you a lot as well."
+   ],
+   "resources": [
+    "roadmap.sh/devops-beginner"
+   ]
+  }
+ ]
+}

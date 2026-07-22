@@ -1,0 +1,284 @@
+{
+ "domain": "Ai Engineer",
+ "stages": [
+  {
+   "name": "AI Engineer",
+   "skills": [
+    "Pre-requisites (One of these)",
+    "Impact on Product Development"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Roles and Responsiblities",
+    "Scrimba - AI Engineer Path",
+    "What is an AI Engineer?",
+    "AI Engineer vs ML Engineer",
+    "Prompt Engineering"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Using Pre-trained Models",
+   "skills": [
+    "Data Analyst Roadamp",
+    "LLMs",
+    "AI vs AGI",
+    "Inference"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Pre-trained Models",
+   "skills": [
+    "Training",
+    "Benefits of Pre-trained Models",
+    "Embeddings",
+    "Limitations and Considerations",
+    "Vector Databases",
+    "OpenAI Models",
+    "RAG",
+    "AI Agents"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Open AI Platform",
+   "skills": [
+    "Open AI Models",
+    "Prompt Engineering",
+    "Capabilities / Context Length",
+    "Common Terminology",
+    "Cut-off Dates / Knowledge",
+    "Popular AI Models",
+    "Chat Completions API",
+    "Anthropic's Claude",
+    "Writing Prompts"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "OpenAI API",
+   "skills": [
+    "Google's Gemini",
+    "Maximum Tokens",
+    "Azure AI AWS Sagemaker",
+    "Token Counting",
+    "Hugging Face Models",
+    "Pricing Considerations",
+    "Mistral AI Cohere",
+    "Managing Tokens",
+    "Replicate",
+    "Open AI Playground"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "OpenSource AI",
+   "skills": [
+    "Fine-tuning",
+    "Prompt Injection Attacks",
+    "AI Safety and Ethics",
+    "Security and Privacy Concerns",
+    "Bias and Fairness",
+    "Open vs Closed Source Models",
+    "Understanding AI Safety Issues",
+    "Popular Open Source Models",
+    "OpenAI Moderation API",
+    "Hugging Face",
+    "Adding end-user IDs in prompts",
+    "Finding Open Source Models",
+    "Conducting adversarial testing",
+    "Hugging Face Tasks"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "What are Embeddings",
+   "skills": [
+    "Know your Customers / Usecases",
+    "Using Open Source Models",
+    "Constraining outputs and inputs",
+    "Inference SDK",
+    "Safety Best Practices",
+    "Transformers.js",
+    "Ollama",
+    "Open AI Embedding Models"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Semantic Search",
+   "skills": [
+    "Ollama Models",
+    "Pricing Considerations",
+    "Ollama SDK"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Data Classification",
+   "skills": [
+    "Open AI Embeddings API"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Recommendation Systems",
+   "skills": [
+    "RAG Usecases"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Anomaly Detection",
+   "skills": [
+    "Sentence Transformers",
+    "RAG vs Fine-tuning",
+    "Models on Hugging Face",
+    "Use Cases for Embeddings",
+    "Implementing RAG"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "RAG & Implementation",
+   "skills": [
+    "Chunking",
+    "Open-Source Embeddings",
+    "Embedding",
+    "Vector Databases",
+    "Vector Database"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "RAG Alternative",
+   "skills": [
+    "Retrieval Process",
+    "Purpose and Functionality",
+    "Generation",
+    "Open AI Assistant API",
+    "Popular Vector DBs (pick one)"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Agents Usecases",
+   "skills": [
+    "Ways of Implementing RAG",
+    "Chroma Pinecone",
+    "Using SDKs Directly",
+    "Weaviate FAISS"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Prompt Engineering",
+   "skills": [
+    "Langchain Llama Index",
+    "LanceDB Qdrant"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "ReAct Prompting",
+   "skills": [
+    "Supabase",
+    "Building AI Agents",
+    "MongoDB Atlas"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "AI Agents",
+   "skills": [
+    "Manual Implementation",
+    "Implementing Vector Search",
+    "OpenAI Functions / Tools",
+    "Indexing Embeddings",
+    "OpenAI Assistant API",
+    "Performing Similarity Search",
+    "OpenAI Vision API"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "AI Code Editors",
+   "skills": [
+    "Multimodal AI Multimodal AI Usecases",
+    "DALL-E API",
+    "Image Understanding",
+    "Whisper API",
+    "Image Generation",
+    "Hugging Face Models",
+    "Video Understanding",
+    "LangChain for Multimodal Apps"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Code Completion Tools",
+   "skills": [
+    "Audio Processing",
+    "LlamaIndex for Multimodal Apps",
+    "Text-to-Speech"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  },
+  {
+   "name": "Development Tools",
+   "skills": [
+    "Implementing Multimodal AI",
+    "Speech-to-Text",
+    "Multimodal AI Tasks",
+    "AI & Data Scientist Prompt Engineering"
+   ],
+   "resources": [
+    "roadmap.sh/ai-engineer"
+   ]
+  }
+ ]
+}

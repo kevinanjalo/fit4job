@@ -1,0 +1,243 @@
+{
+ "domain": "Flutter",
+ "stages": [
+  {
+   "name": "Flutter",
+   "skills": [
+    "Find the interactive version of this",
+    "Dart Pad",
+    "Flutter CLI FVM"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Basics of Dart",
+   "skills": [
+    "Variables",
+    "IDEs",
+    "Built-in Types",
+    "VS Code"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Development Environment",
+   "skills": [
+    "Functions",
+    "Android Studio",
+    "Operators",
+    "IntelliJ Idea",
+    "Control Flow Statements"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Widgets",
+   "skills": [
+    "Responsive Widgets",
+    "Inherited Widgets",
+    "Working with Assets"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Git",
+   "skills": [
+    "Stateless Widgets",
+    "Fonts Images",
+    "Stateful Widgets"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Version Control Systems",
+   "skills": [
+    "Other File Types",
+    "Styled Widgets",
+    "Material Widgets",
+    "Repo Hosting Services GitHub",
+    "Cupertino Widgets"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Design Principles",
+   "skills": [
+    "Dependency Injection",
+    "pub.dev flutter pub / dart pub",
+    "Design Patterns",
+    "SOLID Principles",
+    "Package Managers",
+    "OOP",
+    "Working with APIs",
+    "Storage SQLite"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Core Libraries",
+   "skills": [
+    "Shared Preferences",
+    "Firebase",
+    "JSON Serialize / Deserialize",
+    "Web Sockets GraphQL",
+    "Authentication"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Streams",
+   "skills": [
+    "RESTful APIs",
+    "Storage Firestore"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Futures",
+   "skills": [
+    "Push Notifications",
+    "Lists",
+    "Collections Lambdas",
+    "Remote Config",
+    "Cloud Functions Advanced Dart",
+    "Functional Programming"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "State Management",
+   "skills": [
+    "Isolates Async / Await",
+    "RxDart",
+    "ChangeNotifier ValueNotifier",
+    "Redux Riverpod",
+    "Reactive Programming"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Animation Controller",
+   "skills": [
+    "BLoC Provider",
+    "GetX"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Animated Widget",
+   "skills": [
+    "Animations"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Curved Animation",
+   "skills": [
+    "Render Objects"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Dev Tools",
+   "skills": [
+    "Testing",
+    "Flutter Internals"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Flutter Inspector",
+   "skills": [
+    "Fast Lane",
+    "Integration Testing"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Flutter Outline",
+   "skills": [
+    "Codemagic",
+    "Unit Testing"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Memory Allocation",
+   "skills": [
+    "Bitrise",
+    "Widget Testing",
+    "GitHub Actions"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Segment Mix Panel",
+   "skills": [
+    "TDD BDD",
+    "Firebase App Dist"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Analytics",
+   "skills": [
+    "CI / CD"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  },
+  {
+   "name": "Google Analytics",
+   "skills": [
+    "Guidelines & Protocols",
+    "AppStore Playstore",
+    "Deployment",
+    "React Native Android",
+    "iOS"
+   ],
+   "resources": [
+    "roadmap.sh/flutter"
+   ]
+  }
+ ]
+}

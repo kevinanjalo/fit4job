@@ -1,0 +1,2395 @@
+{
+  "topic": "Git Github",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Git Github",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "If you are a beginner, we'd recommend",
+      "type": "skill",
+      "x_raw": 39.256248474121094,
+      "y_raw": 46.49087905883789,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 484.4398498535156,
+      "y_raw": 59.826812744140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "you to visit the beginner friendly version.",
+      "type": "skill",
+      "x_raw": 39.256248474121094,
+      "y_raw": 62.709625244140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Git and GitHub",
+      "type": "section",
+      "x_raw": 285.7015686035156,
+      "y_raw": 93.87873840332031,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Visit the Beginner Version",
+      "type": "skill",
+      "x_raw": 78.2796859741211,
+      "y_raw": 95.06509399414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "What is Version Control?",
+      "type": "skill",
+      "x_raw": 548.6351318359375,
+      "y_raw": 178.94790649414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "git init",
+      "type": "skill",
+      "x_raw": 87.2562484741211,
+      "y_raw": 181.49087524414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Why use Version Control?",
+      "type": "skill",
+      "x_raw": 546.3148193359375,
+      "y_raw": 212.63931274414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "git config",
+      "type": "skill",
+      "x_raw": 79.5101547241211,
+      "y_raw": 216.45962524414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Learn the Basics",
+      "type": "section",
+      "x_raw": 303.8890686035156,
+      "y_raw": 226.40884399414062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "Git vs Other VCS",
+      "type": "skill",
+      "x_raw": 567.1507568359375,
+      "y_raw": 246.34243774414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Local vs Global Config",
+      "type": "skill",
+      "x_raw": 47.646873474121094,
+      "y_raw": 250.79556274414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Repository Initialization",
+      "type": "skill",
+      "x_raw": 46.357810974121094,
+      "y_raw": 279.2721252441406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Installing Git Locally What is a Repository",
+      "type": "skill",
+      "x_raw": 294.9359436035156,
+      "y_raw": 280.0455627441406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Working Directory",
+      "type": "skill",
+      "x_raw": 58.510154724121094,
+      "y_raw": 310.5729064941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Cloning Repositories",
+      "type": "skill",
+      "x_raw": 233.41250610351562,
+      "y_raw": 341.7213439941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Staging Area",
+      "type": "skill",
+      "x_raw": 70.6390609741211,
+      "y_raw": 344.2643127441406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Branching Basics",
+      "type": "skill",
+      "x_raw": 587.4241943359375,
+      "y_raw": 353.1705627441406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Managing Remotes",
+      "type": "skill",
+      "x_raw": 236.54141235351562,
+      "y_raw": 375.4244689941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Committing Changes",
+      "type": "skill",
+      "x_raw": 50.717185974121094,
+      "y_raw": 377.9674377441406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Creating Branch",
+      "type": "skill",
+      "x_raw": 590.0609130859375,
+      "y_raw": 403.5260314941406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Intro and Git Commands",
+      "type": "skill",
+      "x_raw": 43.486717224121094,
+      "y_raw": 408.2604064941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Pushing / Pulling Changes",
+      "type": "skill",
+      "x_raw": 219.86563110351562,
+      "y_raw": 409.1275939941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Basic Collaboration",
+      "type": "skill",
+      "x_raw": 413.6351623535156,
+      "y_raw": 432.1884460449219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Renaming Branch",
+      "type": "skill",
+      "x_raw": 586.0531005859375,
+      "y_raw": 437.2291564941406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Fetch without Merge",
+      "type": "skill",
+      "x_raw": 234.42031860351562,
+      "y_raw": 442.8307189941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": ".gitignore",
+      "type": "skill",
+      "x_raw": 79.9789047241211,
+      "y_raw": 443.4635314941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Deleting Branch",
+      "type": "skill",
+      "x_raw": 590.5765380859375,
+      "y_raw": 470.9322814941406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Viewing Commit History",
+      "type": "skill",
+      "x_raw": 45.010154724121094,
+      "y_raw": 477.1666564941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "GitHub Essentials",
+      "type": "skill",
+      "x_raw": 425.9632873535156,
+      "y_raw": 496.3736877441406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Git Remotes",
+      "type": "skill",
+      "x_raw": 267.3031311035156,
+      "y_raw": 496.3736877441406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Checkout Branch",
+      "type": "skill",
+      "x_raw": 587.8929443359375,
+      "y_raw": 504.63543701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Fast-Forward vs Non-FF",
+      "type": "skill",
+      "x_raw": 43.111717224121094,
+      "y_raw": 530.0651245117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Merging Basics",
+      "type": "skill",
+      "x_raw": 592.1116943359375,
+      "y_raw": 538.3385620117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Creating Account",
+      "type": "skill",
+      "x_raw": 427.1937561035156,
+      "y_raw": 547.1159057617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Rebase Squash",
+      "type": "skill",
+      "x_raw": 44.810935974121094,
+      "y_raw": 563.7682495117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "GitHub Interface",
+      "type": "skill",
+      "x_raw": 428.9046936035156,
+      "y_raw": 580.8073120117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Merge Strategies",
+      "type": "skill",
+      "x_raw": 255.44375610351562,
+      "y_raw": 580.8073120117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Handling Conflicts",
+      "type": "skill",
+      "x_raw": 57.385154724121094,
+      "y_raw": 597.4713745117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Setting up Profile",
+      "type": "skill",
+      "x_raw": 427.6625061035156,
+      "y_raw": 614.5104370117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Profile Readme",
+      "type": "skill",
+      "x_raw": 597.6781005859375,
+      "y_raw": 614.5104370117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Cherry Picking Commits",
+      "type": "skill",
+      "x_raw": 43.873435974121094,
+      "y_raw": 631.1744995117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Creating Repositories",
+      "type": "skill",
+      "x_raw": 415.9671936035156,
+      "y_raw": 648.2135620117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Private vs Public",
+      "type": "skill",
+      "x_raw": 595.6741943359375,
+      "y_raw": 648.2135620117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Forking vs Cloning",
+      "type": "skill",
+      "x_raw": 52.322654724121094,
+      "y_raw": 684.9049682617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Commit Messages",
+      "type": "skill",
+      "x_raw": 422.9515686035156,
+      "y_raw": 692.0885620117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Markdown",
+      "type": "skill",
+      "x_raw": 610.7679443359375,
+      "y_raw": 693.3541870117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Issues",
+      "type": "skill",
+      "x_raw": 81.3031234741211,
+      "y_raw": 718.6080932617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Branch Naming",
+      "type": "skill",
+      "x_raw": 430.4750061035156,
+      "y_raw": 725.7916870117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Project Readme",
+      "type": "skill",
+      "x_raw": 596.2366943359375,
+      "y_raw": 726.4244995117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "PR from a Fork",
+      "type": "skill",
+      "x_raw": 228.53750610351562,
+      "y_raw": 731.9557495117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Pull Requests",
+      "type": "skill",
+      "x_raw": 63.514060974121094,
+      "y_raw": 752.2994995117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "PR Guidelines",
+      "type": "skill",
+      "x_raw": 433.7445373535156,
+      "y_raw": 759.4948120117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "GitHub Wikis",
+      "type": "skill",
+      "x_raw": 605.0609130859375,
+      "y_raw": 759.4948120117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Collaborators",
+      "type": "skill",
+      "x_raw": 232.65078735351562,
+      "y_raw": 765.6588745117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Creating PR Labelling Issues / PRs",
+      "type": "skill",
+      "x_raw": 42.478904724121094,
+      "y_raw": 786.0026245117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "CITATION files",
+      "type": "skill",
+      "x_raw": 600.4202880859375,
+      "y_raw": 792.5534057617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Code Reviews",
+      "type": "skill",
+      "x_raw": 433.4164123535156,
+      "y_raw": 793.1862182617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Saved Replies",
+      "type": "skill",
+      "x_raw": 62.060935974121094,
+      "y_raw": 824.6627807617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Best Practices",
+      "type": "skill",
+      "x_raw": 432.9125061035156,
+      "y_raw": 849.3776245117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Collaboration on GitHub",
+      "type": "skill",
+      "x_raw": 216.43203735351562,
+      "y_raw": 850.8659057617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Documentation",
+      "type": "skill",
+      "x_raw": 598.5570068359375,
+      "y_raw": 850.8659057617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Mentions",
+      "type": "skill",
+      "x_raw": 74.5882797241211,
+      "y_raw": 858.3659057617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Reactions",
+      "type": "skill",
+      "x_raw": 72.5257797241211,
+      "y_raw": 892.0690307617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Contribution Guidelines",
+      "type": "skill",
+      "x_raw": 411.0570373535156,
+      "y_raw": 908.6041870117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Commenting",
+      "type": "skill",
+      "x_raw": 54.303123474121094,
+      "y_raw": 925.5377807617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Clean Git History",
+      "type": "skill",
+      "x_raw": 427.1937561035156,
+      "y_raw": 942.3073120117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Git Stash Basics",
+      "type": "skill",
+      "x_raw": 244.11172485351562,
+      "y_raw": 954.1666870117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "GitHub Discussions",
+      "type": "skill",
+      "x_raw": 49.299217224121094,
+      "y_raw": 959.8854370117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Linear vs Non-Linear",
+      "type": "skill",
+      "x_raw": 45.291404724121094,
+      "y_raw": 1024.0103759765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Intermediate Git Topics",
+      "type": "skill",
+      "x_raw": 226.93203735351562,
+      "y_raw": 1024.1158447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "GitHub Projects",
+      "type": "skill",
+      "x_raw": 414.2328186035156,
+      "y_raw": 1025.6041259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Working in a Team",
+      "type": "skill",
+      "x_raw": 591.0804443359375,
+      "y_raw": 1025.9205322265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "HEAD",
+      "type": "skill",
+      "x_raw": 82.1468734741211,
+      "y_raw": 1057.7135009765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Collaborators / Members",
+      "type": "skill",
+      "x_raw": 560.8577880859375,
+      "y_raw": 1082.5103759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "History",
+      "type": "skill",
+      "x_raw": 266.6820373535156,
+      "y_raw": 1082.5103759765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Project Planning",
+      "type": "skill",
+      "x_raw": 412.7328186035156,
+      "y_raw": 1084.1041259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Detached HEAD",
+      "type": "skill",
+      "x_raw": 56.799217224121094,
+      "y_raw": 1091.4166259765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "GitHub Organizations",
+      "type": "skill",
+      "x_raw": 569.9398193359375,
+      "y_raw": 1116.2135009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Kanban Boards",
+      "type": "skill",
+      "x_raw": 414.9359436035156,
+      "y_raw": 1117.7955322265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "git log options",
+      "type": "skill",
+      "x_raw": 62.728904724121094,
+      "y_raw": 1125.1080322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Teams within Organization",
+      "type": "skill",
+      "x_raw": 558.1976318359375,
+      "y_raw": 1149.9166259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Roadmaps",
+      "type": "skill",
+      "x_raw": 426.1625061035156,
+      "y_raw": 1151.4986572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "git revert",
+      "type": "skill",
+      "x_raw": 210.63125610351562,
+      "y_raw": 1182.6588134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Automations",
+      "type": "skill",
+      "x_raw": 422.4007873535156,
+      "y_raw": 1185.2017822265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Between Commits",
+      "type": "skill",
+      "x_raw": 590.9632568359375,
+      "y_raw": 1194.9986572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "--soft",
+      "type": "skill",
+      "x_raw": 47.974998474121094,
+      "y_raw": 1213.8189697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Between Branches",
+      "type": "skill",
+      "x_raw": 589.0179443359375,
+      "y_raw": 1228.7017822265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Undoing Changes",
+      "type": "skill",
+      "x_raw": 239.42422485351562,
+      "y_raw": 1247.5220947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "git reset",
+      "type": "skill",
+      "x_raw": 147.30313110351562,
+      "y_raw": 1247.5220947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "--hard",
+      "type": "skill",
+      "x_raw": 46.041404724121094,
+      "y_raw": 1247.5220947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Viewing Diffs",
+      "type": "skill",
+      "x_raw": 423.5140686035156,
+      "y_raw": 1247.5220947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Staged Changes",
+      "type": "skill",
+      "x_raw": 594.7132568359375,
+      "y_raw": 1262.3931884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "--mixed",
+      "type": "skill",
+      "x_raw": 42.619529724121094,
+      "y_raw": 1281.2135009765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Unstaged Changes",
+      "type": "skill",
+      "x_raw": 588.3031005859375,
+      "y_raw": 1296.0963134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "commit-msg",
+      "type": "skill",
+      "x_raw": 265.5687561035156,
+      "y_raw": 1326.9400634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "What and Why use?",
+      "type": "skill",
+      "x_raw": 59.846092224121094,
+      "y_raw": 1346.0181884765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "git commit --amend",
+      "type": "skill",
+      "x_raw": 589.6859130859375,
+      "y_raw": 1348.2447509765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "post-checkout",
+      "type": "skill",
+      "x_raw": 260.8578186035156,
+      "y_raw": 1360.6431884765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Adding / Updating",
+      "type": "skill",
+      "x_raw": 62.564842224121094,
+      "y_raw": 1379.7095947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "git rebase",
+      "type": "skill",
+      "x_raw": 612.5374755859375,
+      "y_raw": 1381.9361572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "post-update",
+      "type": "skill",
+      "x_raw": 265.9906311035156,
+      "y_raw": 1394.3345947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Rewriting History",
+      "type": "skill",
+      "x_raw": 413.2953186035156,
+      "y_raw": 1398.4713134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "git filter-branch",
+      "type": "skill",
+      "x_raw": 600.1156005859375,
+      "y_raw": 1415.6392822265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "pre-commit",
+      "type": "skill",
+      "x_raw": 267.6429748535156,
+      "y_raw": 1428.0377197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Submodules",
+      "type": "skill",
+      "x_raw": 77.0609359741211,
+      "y_raw": 1446.7994384765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "git push --force",
+      "type": "skill",
+      "x_raw": 600.1038818359375,
+      "y_raw": 1449.3424072265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "pre-push",
+      "type": "skill",
+      "x_raw": 273.6429748535156,
+      "y_raw": 1461.7408447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Common Hooks",
+      "type": "skill",
+      "x_raw": 257.7757873535156,
+      "y_raw": 1491.3892822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Managing Tags",
+      "type": "skill",
+      "x_raw": 599.8695068359375,
+      "y_raw": 1504.0220947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Pushing Tags",
+      "type": "skill",
+      "x_raw": 604.7445068359375,
+      "y_raw": 1537.7252197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "Git Patch",
+      "type": "skill",
+      "x_raw": 163.46328735351562,
+      "y_raw": 1555.5377197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Tagging",
+      "type": "skill",
+      "x_raw": 434.7406311035156,
+      "y_raw": 1555.8541259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Git hooks",
+      "type": "skill",
+      "x_raw": 272.7289123535156,
+      "y_raw": 1555.8541259765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Checkout Tags",
+      "type": "skill",
+      "x_raw": 601.0413818359375,
+      "y_raw": 1571.4283447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "What and Why?",
+      "type": "skill",
+      "x_raw": 258.2914123535156,
+      "y_raw": 1603.8541259765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "GitHub Workflow",
+      "type": "skill",
+      "x_raw": 49.205467224121094,
+      "y_raw": 1604.9774169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "GitHub Releases",
+      "type": "skill",
+      "x_raw": 595.6038818359375,
+      "y_raw": 1605.1314697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "What are these?",
+      "type": "skill",
+      "x_raw": 406.2875061035156,
+      "y_raw": 1605.1314697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "Client vs Server Hooks",
+      "type": "skill",
+      "x_raw": 240.32656860351562,
+      "y_raw": 1637.5572509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 421.8968811035156,
+      "y_raw": 1638.8345947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "YAML Syntax",
+      "type": "skill",
+      "x_raw": 598.5804443359375,
+      "y_raw": 1660.8775634765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "GitHub Actions",
+      "type": "skill",
+      "x_raw": 409.9906311035156,
+      "y_raw": 1690.7603759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "GitHub CLI",
+      "type": "skill",
+      "x_raw": 71.4242172241211,
+      "y_raw": 1692.0025634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Workflow Triggers",
+      "type": "skill",
+      "x_raw": 585.0570068359375,
+      "y_raw": 1694.5806884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Scheduled Worfklows",
+      "type": "skill",
+      "x_raw": 576.6781005859375,
+      "y_raw": 1728.2838134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_126",
+      "label": "Git Reflog",
+      "type": "skill",
+      "x_raw": 223.96719360351562,
+      "y_raw": 1745.2408447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Installation and Setup",
+      "type": "skill",
+      "x_raw": 49.885154724121094,
+      "y_raw": 1746.9517822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_128",
+      "label": "Workflow Runners",
+      "type": "skill",
+      "x_raw": 584.3890380859375,
+      "y_raw": 1761.9752197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_129",
+      "label": "Git Bisect",
+      "type": "skill",
+      "x_raw": 224.65859985351562,
+      "y_raw": 1778.9439697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_130",
+      "label": "Repository management",
+      "type": "skill",
+      "x_raw": 42.807029724121094,
+      "y_raw": 1780.9713134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_131",
+      "label": "Workflow Context",
+      "type": "skill",
+      "x_raw": 586.2874755859375,
+      "y_raw": 1795.6783447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Advanced Git Topics",
+      "type": "skill",
+      "x_raw": 386.4476623535156,
+      "y_raw": 1808.0516357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_133",
+      "label": "Git Worktree",
+      "type": "skill",
+      "x_raw": 218.06094360351562,
+      "y_raw": 1812.6470947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_134",
+      "label": "Issue Management",
+      "type": "skill",
+      "x_raw": 55.381248474121094,
+      "y_raw": 1814.6627197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_135",
+      "label": "Secrets and Env Vars",
+      "type": "skill",
+      "x_raw": 576.4671630859375,
+      "y_raw": 1829.3814697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_136",
+      "label": "Git Attributes",
+      "type": "skill",
+      "x_raw": 216.66641235351562,
+      "y_raw": 1846.3502197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "Pull Requests",
+      "type": "skill",
+      "x_raw": 68.9164047241211,
+      "y_raw": 1848.3658447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_138",
+      "label": "Caching Dependencies",
+      "type": "skill",
+      "x_raw": 570.9476318359375,
+      "y_raw": 1863.0845947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_139",
+      "label": "Git LFS",
+      "type": "skill",
+      "x_raw": 230.76406860351562,
+      "y_raw": 1880.0533447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_140",
+      "label": "Use in Automation",
+      "type": "skill",
+      "x_raw": 58.064842224121094,
+      "y_raw": 1882.0689697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_141",
+      "label": "Storing Artifacts",
+      "type": "skill",
+      "x_raw": 589.6624755859375,
+      "y_raw": 1896.7877197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_142",
+      "label": "Workflow Status",
+      "type": "skill",
+      "x_raw": 590.0843505859375,
+      "y_raw": 1930.4908447265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_143",
+      "label": "REST API",
+      "type": "skill",
+      "x_raw": 225.13906860351562,
+      "y_raw": 1933.0220947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "GitHub Apps",
+      "type": "skill",
+      "x_raw": 50.002342224121094,
+      "y_raw": 1933.6549072265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_145",
+      "label": "Marketplace Actions",
+      "type": "skill",
+      "x_raw": 578.6468505859375,
+      "y_raw": 1964.1822509765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_146",
+      "label": "GraphQL API",
+      "type": "skill",
+      "x_raw": 216.57266235351562,
+      "y_raw": 1966.7252197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_147",
+      "label": "OAuth Apps",
+      "type": "skill",
+      "x_raw": 52.123435974121094,
+      "y_raw": 1967.3580322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_148",
+      "label": "GitHub Developer Tools GitHub API",
+      "type": "skill",
+      "x_raw": 221.97500610351562,
+      "y_raw": 2018.3211669921875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_149",
+      "label": "Creating Apps",
+      "type": "skill",
+      "x_raw": 45.947654724121094,
+      "y_raw": 2021.0181884765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_150",
+      "label": "Webhooks",
+      "type": "skill",
+      "x_raw": 604.7562255859375,
+      "y_raw": 2021.0181884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_151",
+      "label": "Deploying Static Websites",
+      "type": "skill",
+      "x_raw": 558.5843505859375,
+      "y_raw": 2070.40087890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_152",
+      "label": "GitHub Copilot",
+      "type": "skill",
+      "x_raw": 65.9984359741211,
+      "y_raw": 2085.29541015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_153",
+      "label": "GitHub Gists",
+      "type": "skill",
+      "x_raw": 213.53750610351562,
+      "y_raw": 2085.92822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_154",
+      "label": "GitHub Models",
+      "type": "skill",
+      "x_raw": 65.2249984741211,
+      "y_raw": 2118.75244140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_155",
+      "label": "GitHub Packages",
+      "type": "skill",
+      "x_raw": 202.12344360351562,
+      "y_raw": 2119.63134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_156",
+      "label": "More GitHub Features",
+      "type": "skill",
+      "x_raw": 382.3343811035156,
+      "y_raw": 2132.8369140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_157",
+      "label": "GitHub Pages",
+      "type": "skill",
+      "x_raw": 609.1038818359375,
+      "y_raw": 2135.52197265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_158",
+      "label": "GitHub Marketplace",
+      "type": "skill",
+      "x_raw": 52.603904724121094,
+      "y_raw": 2151.82275390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_159",
+      "label": "GitHub Codespaces",
+      "type": "skill",
+      "x_raw": 195.03359985351562,
+      "y_raw": 2153.33447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_160",
+      "label": "GitHub Education",
+      "type": "skill",
+      "x_raw": 58.498435974121094,
+      "y_raw": 2186.20556640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_161",
+      "label": "GitHub Security",
+      "type": "skill",
+      "x_raw": 206.29531860351562,
+      "y_raw": 2187.03759765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_162",
+      "label": "Custom Domains",
+      "type": "skill",
+      "x_raw": 580.2288818359375,
+      "y_raw": 2205.07275390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_163",
+      "label": "GitHub Sponsors",
+      "type": "skill",
+      "x_raw": 203.08438110351562,
+      "y_raw": 2220.72900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_164",
+      "label": "Static Site Generators",
+      "type": "skill",
+      "x_raw": 568.2171630859375,
+      "y_raw": 2238.76416015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_165",
+      "label": "Student Developer Pack",
+      "type": "skill",
+      "x_raw": 42.724998474121094,
+      "y_raw": 2261.12353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_166",
+      "label": "GitHub Classroom",
+      "type": "skill",
+      "x_raw": 57.267967224121094,
+      "y_raw": 2294.51025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_167",
+      "label": "Continue learning with following roadmaps",
+      "type": "skill",
+      "x_raw": 297.3265686035156,
+      "y_raw": 2300.83837890625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_168",
+      "label": "Campus Program",
+      "type": "skill",
+      "x_raw": 59.131248474121094,
+      "y_raw": 2327.88525390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_169",
+      "label": "Frontend Backend DevOps Full-stack",
+      "type": "skill",
+      "x_raw": 258.7835998535156,
+      "y_raw": 2336.29931640625,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_141",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_152",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_154",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_156",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_157",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_159",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_160",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_161",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_162",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_163",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_164",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_165",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_166",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_167",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_168",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_169",
+      "type": "branch"
+    }
+  ]
+}

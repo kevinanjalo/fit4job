@@ -1,0 +1,1709 @@
+{
+  "topic": "Frontend",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Frontend",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Personal Recommendation / Opinion",
+      "type": "skill",
+      "x_raw": 83.466064453125,
+      "y_raw": 67.59178924560547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 522.544189453125,
+      "y_raw": 85.74845123291016,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Alternative Option / Pick this or purple",
+      "type": "skill",
+      "x_raw": 83.466064453125,
+      "y_raw": 88.69725799560547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Order not strict / Learn anytime",
+      "type": "skill",
+      "x_raw": 83.466064453125,
+      "y_raw": 109.79100799560547,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Visit Beginner Friendly Version",
+      "type": "skill",
+      "x_raw": 87.684814453125,
+      "y_raw": 155.3695526123047,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Front-end",
+      "type": "section",
+      "x_raw": 339.180908203125,
+      "y_raw": 190.97845458984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "How does the internet work?",
+      "type": "skill",
+      "x_raw": 570.169189453125,
+      "y_raw": 194.2758026123047,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "What is HTTP?",
+      "type": "skill",
+      "x_raw": 604.856689453125,
+      "y_raw": 229.8773651123047,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Learn the basics",
+      "type": "skill",
+      "x_raw": 98.782470703125,
+      "y_raw": 232.0218963623047,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "What is Domain Name?",
+      "type": "skill",
+      "x_raw": 582.895751953125,
+      "y_raw": 265.4789123535156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Writing Semantic HTML",
+      "type": "skill",
+      "x_raw": 80.852783203125,
+      "y_raw": 267.6117248535156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "What is hosting?",
+      "type": "skill",
+      "x_raw": 600.731689453125,
+      "y_raw": 301.0804748535156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Internet",
+      "type": "section",
+      "x_raw": 360.344970703125,
+      "y_raw": 301.7484436035156,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Forms and Validations",
+      "type": "skill",
+      "x_raw": 85.376220703125,
+      "y_raw": 303.2250061035156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "DNS and how it works?",
+      "type": "skill",
+      "x_raw": 584.442626953125,
+      "y_raw": 336.6937561035156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Accessibility",
+      "type": "skill",
+      "x_raw": 110.102783203125,
+      "y_raw": 338.8265686035156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Browsers and how they work?",
+      "type": "skill",
+      "x_raw": 568.141845703125,
+      "y_raw": 372.2953186035156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "SEO Basics",
+      "type": "skill",
+      "x_raw": 111.192626953125,
+      "y_raw": 374.4398498535156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Learn the basics",
+      "type": "skill",
+      "x_raw": 429.262939453125,
+      "y_raw": 425.3460998535156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "HTML",
+      "type": "skill",
+      "x_raw": 125.313720703125,
+      "y_raw": 428.3460998535156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "GitHub",
+      "type": "skill",
+      "x_raw": 674.993408203125,
+      "y_raw": 428.4984436035156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "CSS",
+      "type": "skill",
+      "x_raw": 303.954345703125,
+      "y_raw": 460.9593811035156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Making Layouts",
+      "type": "skill",
+      "x_raw": 431.958251953125,
+      "y_raw": 460.9593811035156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "GitLab",
+      "type": "skill",
+      "x_raw": 675.977783203125,
+      "y_raw": 464.1000061035156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Responsive Design",
+      "type": "skill",
+      "x_raw": 422.501220703125,
+      "y_raw": 496.5609436035156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Bitbucket",
+      "type": "skill",
+      "x_raw": 668.782470703125,
+      "y_raw": 499.7132873535156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Learn the Basics",
+      "type": "skill",
+      "x_raw": 91.552001953125,
+      "y_raw": 526.2328491210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "JavaScript",
+      "type": "skill",
+      "x_raw": 287.606689453125,
+      "y_raw": 561.7055053710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "VCS Hosting Version Control Systems",
+      "type": "skill",
+      "x_raw": 442.165283203125,
+      "y_raw": 561.7055053710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Learn DOM Manipulation",
+      "type": "skill",
+      "x_raw": 70.798095703125,
+      "y_raw": 561.8461303710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Fetch API / Ajax (XHR)",
+      "type": "skill",
+      "x_raw": 76.891845703125,
+      "y_raw": 597.4476928710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Git",
+      "type": "skill",
+      "x_raw": 496.106689453125,
+      "y_raw": 621.8461303710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "npm",
+      "type": "section",
+      "x_raw": 355.552001953125,
+      "y_raw": 643.6078491210938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "We\u2019ve trimmed down the CSS part for the",
+      "type": "skill",
+      "x_raw": 66.895751953125,
+      "y_raw": 656.3578491210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "sake of brevity. You should read about",
+      "type": "skill",
+      "x_raw": 66.895751953125,
+      "y_raw": 673.1742553710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "pnpm",
+      "type": "section",
+      "x_raw": 352.305908203125,
+      "y_raw": 679.2211303710938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Package Managers",
+      "type": "skill",
+      "x_raw": 471.122314453125,
+      "y_raw": 680.2992553710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "CSS-in-JS, CSS Modules and Styled Components. Also worth looking at are",
+      "type": "skill",
+      "x_raw": 66.895751953125,
+      "y_raw": 689.9906616210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "React",
+      "type": "skill",
+      "x_raw": 685.528564453125,
+      "y_raw": 708.2367553710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "yarn",
+      "type": "section",
+      "x_raw": 355.868408203125,
+      "y_raw": 714.8226928710938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Panda CSS, Shadcn UI, Mantine and more.",
+      "type": "skill",
+      "x_raw": 66.895751953125,
+      "y_raw": 723.6117553710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Vue.js",
+      "type": "skill",
+      "x_raw": 686.055908203125,
+      "y_raw": 743.8383178710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Angular",
+      "type": "skill",
+      "x_raw": 681.368408203125,
+      "y_raw": 779.4515991210938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Pick a Framework",
+      "type": "skill",
+      "x_raw": 475.364501953125,
+      "y_raw": 795.2719116210938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Writing CSS Tailwind",
+      "type": "skill",
+      "x_raw": 81.110595703125,
+      "y_raw": 795.9281616210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Svelte",
+      "type": "skill",
+      "x_raw": 685.130126953125,
+      "y_raw": 815.0531616210938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Solid JS",
+      "type": "skill",
+      "x_raw": 680.735595703125,
+      "y_raw": 850.6664428710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "CSS Architecture CSS Preprocessors BEM",
+      "type": "skill",
+      "x_raw": 88.692626953125,
+      "y_raw": 876.1430053710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Qwik",
+      "type": "skill",
+      "x_raw": 688.528564453125,
+      "y_raw": 886.2680053710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Sass PostCSS",
+      "type": "section",
+      "x_raw": 369.860595703125,
+      "y_raw": 924.6586303710938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "Prettier ESLint",
+      "type": "skill",
+      "x_raw": 466.188720703125,
+      "y_raw": 980.0883178710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Vite",
+      "type": "skill",
+      "x_raw": 303.016845703125,
+      "y_raw": 1002.4476928710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "CORS HTTPS",
+      "type": "skill",
+      "x_raw": 78.028564453125,
+      "y_raw": 1002.6820678710938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Linters and Formatters",
+      "type": "skill",
+      "x_raw": 464.899658203125,
+      "y_raw": 1036.92431640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Content Security Policy",
+      "type": "skill",
+      "x_raw": 74.571533203125,
+      "y_raw": 1038.29541015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "esbuild",
+      "type": "section",
+      "x_raw": 331.329345703125,
+      "y_raw": 1038.42431640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "SWC",
+      "type": "skill",
+      "x_raw": 265.247314453125,
+      "y_raw": 1038.42431640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Build Tools",
+      "type": "skill",
+      "x_raw": 665.395751953125,
+      "y_raw": 1053.88134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Module Bundlers",
+      "type": "skill",
+      "x_raw": 479.571533203125,
+      "y_raw": 1073.66259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "Webpack",
+      "type": "skill",
+      "x_raw": 289.364501953125,
+      "y_raw": 1073.66259765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "OWASP Security Risks",
+      "type": "skill",
+      "x_raw": 76.223876953125,
+      "y_raw": 1073.89697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Rollup",
+      "type": "skill",
+      "x_raw": 296.735595703125,
+      "y_raw": 1109.26416015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Vitest Jest",
+      "type": "skill",
+      "x_raw": 454.973876953125,
+      "y_raw": 1143.02587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Parcel",
+      "type": "skill",
+      "x_raw": 296.841064453125,
+      "y_raw": 1144.87744140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Web Security Basics",
+      "type": "skill",
+      "x_raw": 79.844970703125,
+      "y_raw": 1169.48681640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 674.302001953125,
+      "y_raw": 1177.71337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Playwright",
+      "type": "skill",
+      "x_raw": 667.012939453125,
+      "y_raw": 1228.86572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Authentication Strategies",
+      "type": "section",
+      "x_raw": 349.540283203125,
+      "y_raw": 1235.43994140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "Cypress",
+      "type": "skill",
+      "x_raw": 672.052001953125,
+      "y_raw": 1264.47900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "JWT, OAuth, SSO, Basic Auth, Session Auth",
+      "type": "skill",
+      "x_raw": 307.927001953125,
+      "y_raw": 1268.77978515625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Next.js",
+      "type": "skill",
+      "x_raw": 684.555908203125,
+      "y_raw": 1321.01025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Web Components Type Checkers",
+      "type": "skill",
+      "x_raw": 85.762939453125,
+      "y_raw": 1330.65478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "React",
+      "type": "skill",
+      "x_raw": 577.411376953125,
+      "y_raw": 1355.95556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Astro",
+      "type": "skill",
+      "x_raw": 688.762939453125,
+      "y_raw": 1355.95556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "TypeScript",
+      "type": "section",
+      "x_raw": 314.067626953125,
+      "y_raw": 1381.36181640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "HTML Templates",
+      "type": "skill",
+      "x_raw": 87.919189453125,
+      "y_raw": 1388.01806640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Angular",
+      "type": "skill",
+      "x_raw": 574.903564453125,
+      "y_raw": 1392.63525390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "react-router",
+      "type": "skill",
+      "x_raw": 670.856689453125,
+      "y_raw": 1392.63525390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Custom Elements",
+      "type": "skill",
+      "x_raw": 86.196533203125,
+      "y_raw": 1423.63134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Vue.js",
+      "type": "skill",
+      "x_raw": 579.602783203125,
+      "y_raw": 1428.24853515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Nuxt.js",
+      "type": "skill",
+      "x_raw": 684.684814453125,
+      "y_raw": 1428.24853515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "SSR",
+      "type": "skill",
+      "x_raw": 456.403564453125,
+      "y_raw": 1429.56103515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Apollo",
+      "type": "skill",
+      "x_raw": 319.610595703125,
+      "y_raw": 1446.52978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Shadow DOM",
+      "type": "skill",
+      "x_raw": 96.485595703125,
+      "y_raw": 1459.23291015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Svelte",
+      "type": "skill",
+      "x_raw": 578.665283203125,
+      "y_raw": 1463.85009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Svelte Kit",
+      "type": "skill",
+      "x_raw": 677.829345703125,
+      "y_raw": 1463.85009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Relay Modern",
+      "type": "skill",
+      "x_raw": 300.005126953125,
+      "y_raw": 1482.13134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "PRPL Pattern",
+      "type": "skill",
+      "x_raw": 97.364501953125,
+      "y_raw": 1507.63134765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "GraphQL",
+      "type": "skill",
+      "x_raw": 311.899658203125,
+      "y_raw": 1533.47119140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "React Native",
+      "type": "skill",
+      "x_raw": 660.743408203125,
+      "y_raw": 1540.83056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Astro",
+      "type": "skill",
+      "x_raw": 542.055908203125,
+      "y_raw": 1541.76806640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Next.js",
+      "type": "skill",
+      "x_raw": 468.040283203125,
+      "y_raw": 1541.76806640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "RAIL Model",
+      "type": "skill",
+      "x_raw": 101.817626953125,
+      "y_raw": 1542.57666015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Flutter",
+      "type": "skill",
+      "x_raw": 677.161376953125,
+      "y_raw": 1575.77587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Performance Metrics",
+      "type": "skill",
+      "x_raw": 78.380126953125,
+      "y_raw": 1577.53369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Vuepress",
+      "type": "skill",
+      "x_raw": 495.298095703125,
+      "y_raw": 1578.41259765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Ionic",
+      "type": "skill",
+      "x_raw": 681.227783203125,
+      "y_raw": 1610.72119140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "Using Lighthouse",
+      "type": "skill",
+      "x_raw": 87.321533203125,
+      "y_raw": 1612.47900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Eleventy",
+      "type": "skill",
+      "x_raw": 497.430908203125,
+      "y_raw": 1614.01416015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Using DevTools",
+      "type": "skill",
+      "x_raw": 92.243408203125,
+      "y_raw": 1647.42431640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Static Site Generators",
+      "type": "skill",
+      "x_raw": 463.434814453125,
+      "y_raw": 1672.71337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "PWAs Mobile Apps",
+      "type": "skill",
+      "x_raw": 320.911376953125,
+      "y_raw": 1672.71337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Measure & Improve Perf.",
+      "type": "skill",
+      "x_raw": 69.509033203125,
+      "y_raw": 1690.37353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "Nuxt.js",
+      "type": "skill",
+      "x_raw": 502.118408203125,
+      "y_raw": 1738.39697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Performance Best Practices Storage",
+      "type": "skill",
+      "x_raw": 113.419189453125,
+      "y_raw": 1742.24072265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Web Sockets",
+      "type": "skill",
+      "x_raw": 100.610595703125,
+      "y_raw": 1778.07666015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Server Sent Events",
+      "type": "skill",
+      "x_raw": 84.790283203125,
+      "y_raw": 1812.35400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Electron",
+      "type": "skill",
+      "x_raw": 283.751220703125,
+      "y_raw": 1837.65478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Service Workers",
+      "type": "skill",
+      "x_raw": 92.208251953125,
+      "y_raw": 1846.64306640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Tauri",
+      "type": "skill",
+      "x_raw": 292.528564453125,
+      "y_raw": 1873.25634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "Desktop Apps",
+      "type": "section",
+      "x_raw": 406.856689453125,
+      "y_raw": 1874.72119140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Location",
+      "type": "skill",
+      "x_raw": 111.544189453125,
+      "y_raw": 1880.93212890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Flutter",
+      "type": "skill",
+      "x_raw": 288.485595703125,
+      "y_raw": 1908.86962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "Notifications",
+      "type": "skill",
+      "x_raw": 101.723876953125,
+      "y_raw": 1915.22119140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Device Orientation",
+      "type": "skill",
+      "x_raw": 85.891845703125,
+      "y_raw": 1949.51025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Payments",
+      "type": "skill",
+      "x_raw": 108.684814453125,
+      "y_raw": 1983.79931640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "Continue Learning with following relevant tracks",
+      "type": "skill",
+      "x_raw": 320.688720703125,
+      "y_raw": 1989.95166015625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Credentials",
+      "type": "skill",
+      "x_raw": 104.161376953125,
+      "y_raw": 2018.08837890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "TypeScript Nodejs",
+      "type": "section",
+      "x_raw": 332.290283203125,
+      "y_raw": 2023.45556640625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "Fullstack",
+      "type": "skill",
+      "x_raw": 504.954345703125,
+      "y_raw": 2023.45556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Browser APIs",
+      "type": "skill",
+      "x_raw": 98.266845703125,
+      "y_raw": 2064.10791015625,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_32",
+      "type": "trunk"
+    },
+    {
+      "source": "node_32",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_118",
+      "type": "trunk"
+    },
+    {
+      "source": "node_118",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_120",
+      "type": "branch"
+    }
+  ]
+}

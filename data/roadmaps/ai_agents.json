@@ -1,0 +1,260 @@
+{
+ "domain": "Ai Agents",
+ "stages": [
+  {
+   "name": "REST API Knowledge",
+   "skills": [
+    "Git and Terminal Usage",
+    "Streamed vs Unstreamed Responses",
+    "Reasoning vs Standard Models",
+    "Fine-tuning vs Prompt Engineering"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Open Weight Models",
+   "skills": [
+    "LLM Fundamentals Transformer Models and LLMs",
+    "Embeddings and Vector Search",
+    "Model Mechanis",
+    "Understand the Basics of RAG",
+    "Tokenization"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Closed Weight Models",
+   "skills": [
+    "Pricing of Common Models",
+    "Context Windows",
+    "Token Based Pricing",
+    "Model Families and Licences",
+    "Understand the Basics",
+    "Generation Controls"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Reason and Plan",
+   "skills": [
+    "Temperature",
+    "Top-p",
+    "Frequency Penalty",
+    "Perception / User Input",
+    "Presence Penalty",
+    "AI Agents 101",
+    "Stopping Criteria"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Observation & Reflection",
+   "skills": [
+    "Acting / Tool Invocation",
+    "Max Length",
+    "What are AI Agents?",
+    "What are Tools? Agent Loop",
+    "Example Usecases",
+    "Personal assistant"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Tools / Actions",
+   "skills": [
+    "Code generation",
+    "Prompt Engineering What is Prompt Engineering",
+    "Data analysis",
+    "Web Scraping / Crawling",
+    "Writing Good Prompts",
+    "NPC / Game AI",
+    "Be specific in what you want"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Tool Definition",
+   "skills": [
+    "Provide additional context",
+    "Examples of Tools",
+    "Use relevant technical terms",
+    "Web Search",
+    "Use Examples in your Prompt",
+    "Code Execution / REPL",
+    "Iterate and Test your Prompts",
+    "Database Queries",
+    "Specify Length, format etc",
+    "API Requests"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "MCP Servers",
+   "skills": [
+    "Model Context Protocol (MCP)",
+    "Email / Slack / SMS",
+    "File System Access",
+    "Core Components Creating MCP Servers",
+    "MCP Hosts MCP Client",
+    "Deployment Modes",
+    "What is Agent Memory?"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Agent Memory",
+   "skills": [
+    "Local Desktop",
+    "Remote / Cloud",
+    "Short Term Memory"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Agent Architectures",
+   "skills": [
+    "Within Prompt",
+    "RAG and Vector Databases",
+    "Long Term Memory",
+    "User Profile Storage",
+    "Vector DB / SQL / Custom",
+    "Summarization / Compression"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Common Architectures",
+   "skills": [
+    "Forgetting / Aging Strategies"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "RAG Agent",
+   "skills": [
+    "ReAct (Reason + Act)",
+    "Building Agents"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Other Architecture Patterns",
+   "skills": [
+    "Chain of Thought (CoT)",
+    "Evaluation and Testing",
+    "Manual (from scratch)"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Planner Executor",
+   "skills": [
+    "Metrics to Track"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "DAG Agents",
+   "skills": [
+    "Direct LLM API calls",
+    "Unit Testing for Individual Tools",
+    "Implementing the agent loop"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Tree-of-Thought",
+   "skills": [
+    "Parsing model output",
+    "Integration Testing for Flows",
+    "Error & Rate-limit handling",
+    "Human in the Loop Evaluation"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Building Using Frameworks",
+   "skills": [
+    "Frameworks",
+    "LLM Native \"Function Calling\"",
+    "LangSmith",
+    "DeepEval"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Langchain LlamaIndex",
+   "skills": [
+    "Ragas",
+    "OpenAI Functions Calling"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "Haystack AutoGen",
+   "skills": [
+    "Debugging and Monitoring",
+    "OpenAI Assistant API"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  },
+  {
+   "name": "CrewAI",
+   "skills": [
+    "Structured logging & tracing",
+    "Gemini Function Calling",
+    "Observability Tools",
+    "Smol Depot Anthropic Tool Use",
+    "LangSmith Helicone",
+    "LangFuse openllmetry Security & Ethics",
+    "Prompt Injection / Jailbreaks",
+    "Tool sandboxing / Permissioning",
+    "Data Privacy + PII Redaction",
+    "Bias & Toxicity Guardrails",
+    "AI Engineer",
+    "Safety + Red Team Testing AI & Data Scientist"
+   ],
+   "resources": [
+    "roadmap.sh/ai-agents"
+   ]
+  }
+ ]
+}

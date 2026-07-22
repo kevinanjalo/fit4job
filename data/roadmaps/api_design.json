@@ -1,0 +1,181 @@
+{
+ "domain": "Api Design",
+ "stages": [
+  {
+   "name": "Learn the Basics",
+   "skills": [
+    "URL, Query & Path Parameters",
+    "What are APIs",
+    "Content Negotiation",
+    "HTTP",
+    "Understand TCP / IP",
+    "HTTP Versions",
+    "Basics of DNS"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Different API Styles",
+   "skills": [
+    "HTTP Methods",
+    "HTTP Status Codes",
+    "REST Principles",
+    "HTTP Headers",
+    "URI Design"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "RESTful APIs",
+   "skills": [
+    "Cookies",
+    "Versioning Strategies",
+    "CORS",
+    "Handling CRUD Operations"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Simple JSON APIs",
+   "skills": [
+    "HTTP Caching"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "SOAP APIs",
+   "skills": [
+    "Building JSON / RESTful APIs"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "gRPC APIs",
+   "skills": [
+    "Pagination",
+    "Rate Limiting",
+    "API Authentication and Authorization",
+    "Idempotency",
+    "HATEOAS"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Authorization Methods",
+   "skills": [
+    "Authentication Methods",
+    "Basic Auth",
+    "Role Based Access Control (RBAC)",
+    "Token Based Auth",
+    "Attribute Based Access Control (ABAC)",
+    "JWT"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Common Vulnerabilities",
+   "skills": [
+    "OAuth 2.0",
+    "Session Based Auth",
+    "Swagger / Open API",
+    "Best Practices API Security Best Practices",
+    "Readme.com",
+    "API Performance Best Practices",
+    "Stoplight API Security"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "API Integration Patterns",
+   "skills": [
+    "Postman",
+    "API Performance",
+    "Unit Testing",
+    "Integration Testing",
+    "Performance Metrics",
+    "Functional Testing",
+    "Caching Strategies"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Event Driven Architecture",
+   "skills": [
+    "Synchronous vs Asynchronous APIs",
+    "Load Testing",
+    "Load Balancing",
+    "Rate Limiting / Throttling"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "API Gateways",
+   "skills": [
+    "API Testing",
+    "Profiling and Monitoring"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Microservices Architecture",
+   "skills": [
+    "Performance Testing"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Webhooks vs Polling",
+   "skills": [
+    "Mocking APIs",
+    "Error Handling / Retries",
+    "Contract Testing"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  },
+  {
+   "name": "Messaging Queues",
+   "skills": [
+    "Batch Processing Rabbit MQ",
+    "Kafka",
+    "Web Sockets",
+    "Real-time APIs",
+    "GDPR API Lifecycle Management",
+    "Server Sent Events",
+    "CCPA",
+    "Standards and Compliance",
+    "PCI DSS",
+    "HIPAA",
+    "PII"
+   ],
+   "resources": [
+    "roadmap.sh/api-design"
+   ]
+  }
+ ]
+}

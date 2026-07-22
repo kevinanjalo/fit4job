@@ -1,0 +1,220 @@
+{
+ "domain": "Android",
+ "stages": [
+  {
+   "name": "Pick a Language",
+   "skills": [
+    "Development IDE",
+    "Kotlin",
+    "Basics of Kotlin",
+    "Java",
+    "Git"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "The Fundamentals",
+   "skills": [
+    "Basics of OOP",
+    "Data Structures and Algorithms",
+    "Version Control",
+    "What is and how to use Gradle?",
+    "GitHub",
+    "Create a Basic Hello World App"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Activity LifeCycle",
+   "skills": [
+    "Bitbucket",
+    "GitLab",
+    "App Components Activity Services",
+    "Intent",
+    "VCS Hosting",
+    "Content Provider",
+    "Implicit Intents"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "State Changes",
+   "skills": [
+    "Broadcast Receiver",
+    "Explicit Intents"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Tasks & Backstack",
+   "skills": [
+    "Jetpack Compose",
+    "Intent Filters",
+    "Elements",
+    "Layouts",
+    "Interface & Navigation"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Bottom Sheet",
+   "skills": [
+    "TextView Fragments",
+    "Toast",
+    "Frame Linear",
+    "App Shortcuts",
+    "Dialogs Buttons",
+    "Relative"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "EditText",
+   "skills": [
+    "Navigation Components",
+    "Tabs",
+    "ImageView",
+    "Constraint"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Animations",
+   "skills": [
+    "ListView Drawer",
+    "RecycleView",
+    "Design & Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Shared Preferences",
+   "skills": [
+    "Authentication",
+    "Architectural Patterns"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "DataStore",
+   "skills": [
+    "Crashlytics",
+    "MVI MVVM",
+    "Storage"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Room Database",
+   "skills": [
+    "Remote Config",
+    "MVP MVC"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "File System",
+   "skills": [
+    "Cloud Messaging",
+    "Design Patterns"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Asynchronism",
+   "skills": [
+    "FireStore",
+    "Repository Pattern",
+    "Firebase",
+    "Network",
+    "Builder Pattern"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Coroutines Threads",
+   "skills": [
+    "Google Admob",
+    "Factory Pattern",
+    "Retro",
+    "Google Play Services"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "RxJava RxKotlin",
+   "skills": [
+    "Observer Pattern",
+    "OkHttp",
+    "Google Maps"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "WorkManager",
+   "skills": [
+    "Flow",
+    "Apollo-Android",
+    "Common Services",
+    "RxJava RxKotlin",
+    "Timber",
+    "LiveData",
+    "Espresso JUnit",
+    "Linting",
+    "Leak Canary",
+    "Dependency Injection",
+    "Chucker",
+    "Ktlint Detekt",
+    "Testing",
+    "Dagger"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  },
+  {
+   "name": "Distribution",
+   "skills": [
+    "Jetpack Benchmark",
+    "Koin Hilt",
+    "Kodein",
+    "Debugging",
+    "Firebase Distribution",
+    "iOS React Native Flutter"
+   ],
+   "resources": [
+    "roadmap.sh/android"
+   ]
+  }
+ ]
+}

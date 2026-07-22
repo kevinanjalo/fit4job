@@ -1,0 +1,193 @@
+{
+ "domain": "Python",
+ "stages": [
+  {
+   "name": "Python",
+   "skills": [
+    "AI & Data Scientist"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Learn the Basics",
+   "skills": [
+    "Type Casting",
+    "Basic Syntax",
+    "Exceptions",
+    "Variables and Data Types",
+    "Functions, Builtin Functions",
+    "Conditionals"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Dictionaries Loops",
+   "skills": [
+    "Lists Tuples Sets",
+    "Data Structures & Algorithms",
+    "PyPI Pip"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Hash Tables",
+   "skills": [
+    "Builtin Custom",
+    "Conda",
+    "uv",
+    "Arrays and Linked Lists",
+    "Poetry",
+    "Modules",
+    "Lambdas",
+    "Package Managers",
+    "Heaps, Stacks and Queues"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Binary Search Tree",
+   "skills": [
+    "Decorators",
+    "Common Packages"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Recursion",
+   "skills": [
+    "Iterators"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Sorting Algorithms",
+   "skills": [
+    "Regular Expressions",
+    "pyproject.toml",
+    "Configuration"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Object Oriented Programming",
+   "skills": [
+    "typing",
+    "List Comprehensions",
+    "mypy"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Classes",
+   "skills": [
+    "Generator Expressions",
+    "pyright"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Inheritance",
+   "skills": [
+    "Pipenv",
+    "Paradigms",
+    "pyre"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Methods, Dunder",
+   "skills": [
+    "virtualenv",
+    "Context Manager",
+    "Pydantic",
+    "pyenv"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Concurrency",
+   "skills": [
+    "Environments Static Typing",
+    "Learn a Framework"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Multiprocessing",
+   "skills": [
+    "yapf",
+    "gevent aiohttp",
+    "Plotly Dash"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Asynchrony",
+   "skills": [
+    "black",
+    "Code Formatting",
+    "Tornado Sanic",
+    "Pyramid"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "GIL",
+   "skills": [
+    "ruff",
+    "Synchronous",
+    "Asynchronous"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  },
+  {
+   "name": "Threading",
+   "skills": [
+    "Sphinx",
+    "Synchronous + Asynchronous",
+    "Fast API Django Flask",
+    "nose",
+    "tox",
+    "unittest / pyUnit",
+    "Testing",
+    "Backend AI / Data Science",
+    "DevOps",
+    "doctest",
+    "pytest"
+   ],
+   "resources": [
+    "roadmap.sh/python"
+   ]
+  }
+ ]
+}

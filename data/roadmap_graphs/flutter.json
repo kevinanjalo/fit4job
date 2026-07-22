@@ -1,0 +1,1415 @@
+{
+  "topic": "Flutter",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Flutter",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 487.05157470703125,
+      "y_raw": 52.66170120239258,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Personal Recommendation / Opinion",
+      "type": "skill",
+      "x_raw": 59.76263427734375,
+      "y_raw": 53.979759216308594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 490.7896423339844,
+      "y_raw": 68.96158599853516,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "Alternative Option - Pick this or purple",
+      "type": "skill",
+      "x_raw": 59.76263427734375,
+      "y_raw": 74.43956756591797,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Order in roadmap not strict (learn anytime)",
+      "type": "skill",
+      "x_raw": 59.76263427734375,
+      "y_raw": 94.89937591552734,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Flutter",
+      "type": "section",
+      "x_raw": 316.82269287109375,
+      "y_raw": 130.7967071533203,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Dart Pad",
+      "type": "skill",
+      "x_raw": 578.2418823242188,
+      "y_raw": 174.3776397705078,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Flutter CLI FVM",
+      "type": "skill",
+      "x_raw": 40.615264892578125,
+      "y_raw": 185.25204467773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Variables",
+      "type": "skill",
+      "x_raw": 577.281005859375,
+      "y_raw": 208.26638793945312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "IDEs",
+      "type": "skill",
+      "x_raw": 82.67153930664062,
+      "y_raw": 222.74996948242188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Basics of Dart",
+      "type": "section",
+      "x_raw": 308.4090881347656,
+      "y_raw": 242.1434326171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Built-in Types",
+      "type": "skill",
+      "x_raw": 566.8870239257812,
+      "y_raw": 242.1434326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "VS Code",
+      "type": "skill",
+      "x_raw": 76.94137573242188,
+      "y_raw": 253.65060424804688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Functions",
+      "type": "skill",
+      "x_raw": 575.8045043945312,
+      "y_raw": 276.03216552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Development Environment",
+      "type": "section",
+      "x_raw": 277.9185791015625,
+      "y_raw": 276.28997802734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_15",
+      "label": "Android Studio",
+      "type": "skill",
+      "x_raw": 62.785919189453125,
+      "y_raw": 287.53936767578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Operators",
+      "type": "skill",
+      "x_raw": 574.9490966796875,
+      "y_raw": 309.92095947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "IntelliJ Idea",
+      "type": "skill",
+      "x_raw": 69.55899047851562,
+      "y_raw": 321.4281005859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Control Flow Statements",
+      "type": "skill",
+      "x_raw": 540.0291137695312,
+      "y_raw": 343.7979736328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Responsive Widgets",
+      "type": "skill",
+      "x_raw": 53.56378173828125,
+      "y_raw": 385.994873046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Widgets",
+      "type": "section",
+      "x_raw": 323.26763916015625,
+      "y_raw": 419.8719177246094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Inherited Widgets",
+      "type": "skill",
+      "x_raw": 60.02044677734375,
+      "y_raw": 419.8719177246094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Working with Assets",
+      "type": "skill",
+      "x_raw": 552.6026611328125,
+      "y_raw": 419.8719177246094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Stateless Widgets",
+      "type": "skill",
+      "x_raw": 59.598602294921875,
+      "y_raw": 453.7606506347656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Fonts Images",
+      "type": "skill",
+      "x_raw": 543.3336181640625,
+      "y_raw": 478.69677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Git",
+      "type": "section",
+      "x_raw": 391.033447265625,
+      "y_raw": 478.69677734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_26",
+      "label": "Stateful Widgets",
+      "type": "skill",
+      "x_raw": 63.547607421875,
+      "y_raw": 487.6376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Other File Types",
+      "type": "skill",
+      "x_raw": 561.0162353515625,
+      "y_raw": 512.5737915039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Styled Widgets",
+      "type": "skill",
+      "x_raw": 67.26223754882812,
+      "y_raw": 521.5264282226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Version Control Systems",
+      "type": "section",
+      "x_raw": 283.73077392578125,
+      "y_raw": 531.1118774414062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Material Widgets",
+      "type": "skill",
+      "x_raw": 62.598419189453125,
+      "y_raw": 562.4461059570312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Repo Hosting Services GitHub",
+      "type": "skill",
+      "x_raw": 286.8829345703125,
+      "y_raw": 565.2467041015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Cupertino Widgets",
+      "type": "skill",
+      "x_raw": 58.344757080078125,
+      "y_raw": 596.3231201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Dependency Injection",
+      "type": "skill",
+      "x_raw": 547.4114990234375,
+      "y_raw": 640.0551147460938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "pub.dev flutter pub / dart pub",
+      "type": "skill",
+      "x_raw": 37.86151123046875,
+      "y_raw": 655.3941040039062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Design Patterns",
+      "type": "skill",
+      "x_raw": 561.8013916015625,
+      "y_raw": 673.9320678710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "SOLID Principles",
+      "type": "skill",
+      "x_raw": 559.246826171875,
+      "y_raw": 707.8208618164062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Design Principles",
+      "type": "section",
+      "x_raw": 300.2181396484375,
+      "y_raw": 709.7308959960938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "Package Managers",
+      "type": "skill",
+      "x_raw": 78.04287719726562,
+      "y_raw": 709.7308959960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "OOP",
+      "type": "skill",
+      "x_raw": 589.3858032226562,
+      "y_raw": 741.6979370117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Working with APIs",
+      "type": "skill",
+      "x_raw": 82.15594482421875,
+      "y_raw": 793.4801635742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Storage SQLite",
+      "type": "skill",
+      "x_raw": 325.70501708984375,
+      "y_raw": 793.4801635742188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Shared Preferences",
+      "type": "skill",
+      "x_raw": 551.8760986328125,
+      "y_raw": 827.3689575195312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Firebase",
+      "type": "skill",
+      "x_raw": 579.4019775390625,
+      "y_raw": 861.2460327148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "JSON Serialize / Deserialize",
+      "type": "skill",
+      "x_raw": 55.82537841796875,
+      "y_raw": 861.8904418945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Core Libraries",
+      "type": "section",
+      "x_raw": 385.7251281738281,
+      "y_raw": 893.0488891601562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Web Sockets GraphQL",
+      "type": "skill",
+      "x_raw": 44.048675537109375,
+      "y_raw": 895.7792358398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 568.6564331054688,
+      "y_raw": 902.8101196289062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Streams",
+      "type": "section",
+      "x_raw": 400.4548034667969,
+      "y_raw": 926.9259643554688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_49",
+      "label": "RESTful APIs",
+      "type": "skill",
+      "x_raw": 93.31158447265625,
+      "y_raw": 929.6563110351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Storage Firestore",
+      "type": "skill",
+      "x_raw": 546.26318359375,
+      "y_raw": 936.6871948242188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Futures",
+      "type": "section",
+      "x_raw": 402.1539306640625,
+      "y_raw": 960.8147583007812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Push Notifications",
+      "type": "skill",
+      "x_raw": 559.680419921875,
+      "y_raw": 970.5758666992188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Lists",
+      "type": "skill",
+      "x_raw": 40.00592041015625,
+      "y_raw": 990.1569213867188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Collections Lambdas",
+      "type": "skill",
+      "x_raw": 91.67105102539062,
+      "y_raw": 990.1569213867188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Remote Config",
+      "type": "skill",
+      "x_raw": 566.9690551757812,
+      "y_raw": 1004.4529418945312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Cloud Functions Advanced Dart",
+      "type": "skill",
+      "x_raw": 308.6317138671875,
+      "y_raw": 1024.033935546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Functional Programming",
+      "type": "skill",
+      "x_raw": 65.7271728515625,
+      "y_raw": 1024.033935546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Isolates Async / Await",
+      "type": "skill",
+      "x_raw": 53.52862548828125,
+      "y_raw": 1057.9227294921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "RxDart",
+      "type": "skill",
+      "x_raw": 632.8833618164062,
+      "y_raw": 1097.5181884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "ChangeNotifier ValueNotifier",
+      "type": "skill",
+      "x_raw": 35.107757568359375,
+      "y_raw": 1116.0562744140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "State Management",
+      "type": "section",
+      "x_raw": 297.99169921875,
+      "y_raw": 1149.9449462890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Redux Riverpod",
+      "type": "skill",
+      "x_raw": 56.7745361328125,
+      "y_raw": 1149.9449462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Reactive Programming",
+      "type": "skill",
+      "x_raw": 556.8914794921875,
+      "y_raw": 1149.9449462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "BLoC Provider",
+      "type": "skill",
+      "x_raw": 59.87982177734375,
+      "y_raw": 1183.822021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Animation Controller",
+      "type": "section",
+      "x_raw": 326.9822998046875,
+      "y_raw": 1206.03955078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_66",
+      "label": "GetX",
+      "type": "skill",
+      "x_raw": 114.2049560546875,
+      "y_raw": 1217.710693359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Animated Builder",
+      "type": "section",
+      "x_raw": 334.82171630859375,
+      "y_raw": 1239.92822265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "Animations",
+      "type": "skill",
+      "x_raw": 585.811767578125,
+      "y_raw": 1273.8052978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Animated Widget",
+      "type": "section",
+      "x_raw": 335.4193115234375,
+      "y_raw": 1273.8052978515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Curved Animation",
+      "type": "section",
+      "x_raw": 333.43896484375,
+      "y_raw": 1307.694091796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "Render Objects",
+      "type": "skill",
+      "x_raw": 87.4876708984375,
+      "y_raw": 1309.4283447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Hero Opacity",
+      "type": "section",
+      "x_raw": 331.5757751464844,
+      "y_raw": 1341.571044921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "Trees Immutability",
+      "type": "section",
+      "x_raw": 43.3807373046875,
+      "y_raw": 1343.317138671875,
+      "is_trunk": true,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 595.069091796875,
+      "y_raw": 1401.4154052734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Dev Tools",
+      "type": "section",
+      "x_raw": 354.47296142578125,
+      "y_raw": 1401.4154052734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_76",
+      "label": "Flutter Internals",
+      "type": "skill",
+      "x_raw": 87.25332641601562,
+      "y_raw": 1401.4154052734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Fast Lane",
+      "type": "skill",
+      "x_raw": 136.1881103515625,
+      "y_raw": 1458.8223876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Integration Testing",
+      "type": "skill",
+      "x_raw": 567.0276489257812,
+      "y_raw": 1462.068359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Flutter Inspector",
+      "type": "section",
+      "x_raw": 337.458251953125,
+      "y_raw": 1462.068359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "Codemagic",
+      "type": "skill",
+      "x_raw": 132.33285522460938,
+      "y_raw": 1492.711181640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Unit Testing",
+      "type": "skill",
+      "x_raw": 583.7845458984375,
+      "y_raw": 1495.9571533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Flutter Outline",
+      "type": "section",
+      "x_raw": 343.22357177734375,
+      "y_raw": 1495.9571533203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Bitrise",
+      "type": "skill",
+      "x_raw": 144.68374633789062,
+      "y_raw": 1526.5882568359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Widget Testing",
+      "type": "skill",
+      "x_raw": 576.648193359375,
+      "y_raw": 1529.8341064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Memory Allocation",
+      "type": "section",
+      "x_raw": 333.25146484375,
+      "y_raw": 1529.8341064453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "GitHub Actions",
+      "type": "skill",
+      "x_raw": 124.05987548828125,
+      "y_raw": 1560.47705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "TDD BDD",
+      "type": "skill",
+      "x_raw": 559.106201171875,
+      "y_raw": 1563.722900390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Segment Mix Panel",
+      "type": "section",
+      "x_raw": 316.98675537109375,
+      "y_raw": 1592.3619384765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_89",
+      "label": "Firebase App Dist",
+      "type": "skill",
+      "x_raw": 116.712646484375,
+      "y_raw": 1594.36572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "CI / CD",
+      "type": "skill",
+      "x_raw": 81.277099609375,
+      "y_raw": 1647.82373046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Analytics",
+      "type": "section",
+      "x_raw": 356.58221435546875,
+      "y_raw": 1647.82373046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "Firebase Analytics",
+      "type": "section",
+      "x_raw": 333.48583984375,
+      "y_raw": 1698.4693603515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_93",
+      "label": "Guidelines & Protocols",
+      "type": "skill",
+      "x_raw": 571.6563110351562,
+      "y_raw": 1727.8115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Google Analytics",
+      "type": "section",
+      "x_raw": 337.3410949707031,
+      "y_raw": 1732.346435546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "AppStore Playstore",
+      "type": "skill",
+      "x_raw": 570.0274658203125,
+      "y_raw": 1761.7003173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Continue learning with these following relevant tracks",
+      "type": "skill",
+      "x_raw": 70.68392944335938,
+      "y_raw": 1803.885498046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Deployment",
+      "type": "skill",
+      "x_raw": 574.5037841796875,
+      "y_raw": 1824.21630859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "React Native Android",
+      "type": "skill",
+      "x_raw": 70.35580444335938,
+      "y_raw": 1836.7781982421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "iOS",
+      "type": "skill",
+      "x_raw": 292.36700439453125,
+      "y_raw": 1836.7781982421875,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "trunk"
+    },
+    {
+      "source": "node_14",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_25",
+      "type": "trunk"
+    },
+    {
+      "source": "node_25",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_48",
+      "type": "trunk"
+    },
+    {
+      "source": "node_48",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_65",
+      "type": "trunk"
+    },
+    {
+      "source": "node_65",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_65",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "trunk"
+    },
+    {
+      "source": "node_69",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "trunk"
+    },
+    {
+      "source": "node_73",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_75",
+      "type": "trunk"
+    },
+    {
+      "source": "node_75",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_75",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_85",
+      "type": "trunk"
+    },
+    {
+      "source": "node_85",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_88",
+      "type": "trunk"
+    },
+    {
+      "source": "node_88",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_88",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_88",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "trunk"
+    },
+    {
+      "source": "node_92",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_94",
+      "type": "trunk"
+    },
+    {
+      "source": "node_94",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_99",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+ "domain": "Product Manager",
+ "stages": [
+  {
+   "name": "Product Manager",
+   "skills": [
+    "Data Analyst",
+    "Design System",
+    "Product Development Lifecycle",
+    "Development"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "What is Product Management?",
+    "Introduction",
+    "Product vs Project Management",
+    "Growth",
+    "Roles and Responsibilities",
+    "Maturity",
+    "Key Skills",
+    "Decline"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Idea Generation",
+   "skills": [
+    "Mind Mapping",
+    "Brainwriting",
+    "SCAMPER"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Product Identification",
+   "skills": [
+    "Brainstorming Techniques"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Blue Ocean Strategy",
+   "skills": [
+    "Iterative Process",
+    "Market and User Research",
+    "Discovery Selection",
+    "TRIZ (Theory of Inventive Problem Solving)"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Problem Framing",
+   "skills": [
+    "Validation",
+    "Execution"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Identifying Market Needs",
+   "skills": [
+    "Market Analysis"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Competitive Analysis",
+   "skills": [
+    "User Personas"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Emerging Market Trends",
+   "skills": [
+    "User Interviews",
+    "Surveys and Questionnaires"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "User Research",
+   "skills": [
+    "Ethnographic Research"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Positioning",
+   "skills": [
+    "Defining & Communicating",
+    "Product Strategy",
+    "USP (Unique Selling Point)"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Statement",
+   "skills": [
+    "Market Segmentation",
+    "Case Studies"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Capabilities",
+   "skills": [
+    "Feature Creep"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Solved Constraints",
+   "skills": [
+    "Vision & Mission",
+    "Finding Balance"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Reference Materials",
+   "skills": [
+    "Value vs Features"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Value Proposition",
+   "skills": [
+    "Strategic Thinking",
+    "Defining Goals"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Defining Value Proposition",
+   "skills": [
+    "Competitive Strategy",
+    "Goal Types",
+    "Five Forces Analysis"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Value Proposition Canvas",
+   "skills": [
+    "Target",
+    "Competetive Advantage",
+    "Baseline"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Product Planning",
+   "skills": [
+    "Strategic Partners",
+    "Trend",
+    "Identify Partners",
+    "Timeframe",
+    "Managing Partnerships"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Product Requirements",
+   "skills": [
+    "Writing PRDs",
+    "Prioritising Features",
+    "User Stories",
+    "Job Stories"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Grooming Sessions",
+   "skills": [
+    "Product Design"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Backlog Management",
+   "skills": [
+    "Release Strategies"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Wireframing and Prototyping",
+   "skills": [
+    "Principles of UX Design",
+    "Feature Toggles",
+    "UX / UI Design",
+    "Phased Rollouts"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Design Thinking",
+   "skills": [
+    "Dark Launches",
+    "Service Design"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Usability Testing",
+   "skills": [
+    "Interaction Design"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "A/B Testing",
+   "skills": [
+    "Go-to-Market Strategy"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Remote User Testing",
+   "skills": [
+    "Launch Planning",
+    "User Testing"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Scrum Basics",
+   "skills": [
+    "Marketing Strategies",
+    "Growth Hacking"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Product Metrics",
+   "skills": [
+    "Sprint Planning",
+    "Daily Standups",
+    "DAU (Daily Active Users)",
+    "Retrospectives",
+    "MAU (Monthly Active Users)"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Key Product Metrics",
+   "skills": [
+    "Minimum Viable Product (MVP)",
+    "Conversion Rate",
+    "Retention Rate",
+    "A/B Testing"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Data-Driven Decision Making",
+   "skills": [
+    "Churn Rate",
+    "Cohort Analysis",
+    "LTV (Lifetime Value)",
+    "Predictive Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Feedback Loops",
+   "skills": [
+    "CAC (Customer Acquisition Cost)",
+    "North Star Metric"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Stakeholder Management",
+   "skills": [
+    "Interpersonal"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Communication Skills",
+   "skills": [
+    "Difficult Conversations",
+    "Alignment & Buy-In",
+    "Active Listening",
+    "Showing Impact",
+    "Conflict Resolution"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Product Management Tools",
+   "skills": [
+    "Managing Stakeholders",
+    "Product Board",
+    "Identifying Stakeholders",
+    "Aha"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Project Management Tools",
+   "skills": [
+    "Stakeholder Mapping",
+    "Notion",
+    "Stakeholder Engagement",
+    "Jira",
+    "Remote Stakeholders",
+    "Linear"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Analytics Tools",
+   "skills": [
+    "Heap"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Discord Risk Management",
+   "skills": [
+    "Teams"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Risk Register",
+   "skills": [
+    "Identifying Risks",
+    "Mitigation Strategies",
+    "Contingency Planning",
+    "Risk Assessment",
+    "Risk Mitigation",
+    "Growth Strategies",
+    "Qualitative Risk Assessment",
+    "Monitoring and Controlling Risks",
+    "Internationalization",
+    "Quantitative Risk Assessment",
+    "Platform Thinking"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  },
+  {
+   "name": "Leadership and Influence",
+   "skills": [
+    "Risk Monitoring Tools",
+    "Risk Audits Advanced Topics Scaling Products",
+    "Predictive Analytics",
+    "Portfolio Management Advanced Analysis",
+    "ML in Product Mgmt.",
+    "AI in Product Mgmt.",
+    "Building and Leading Teams",
+    "Influencing without Authority",
+    "Emotional Intelligence"
+   ],
+   "resources": [
+    "roadmap.sh/product-manager"
+   ]
+  }
+ ]
+}

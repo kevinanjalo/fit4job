@@ -1,0 +1,281 @@
+{
+ "domain": "Aws",
+ "stages": [
+  {
+   "name": "AWS",
+   "skills": [
+    "Find the interactive version of this",
+    "AWS has lots of services. You don't",
+    "need to master all of them. This"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "list of services to help you get started.",
+    "What is Cloud Computing?",
+    "Step 1 - Essentials",
+    "IaaS vs PaaS vs SaaS",
+    "IAM - Access Control",
+    "VPC - Network Layer",
+    "Public vs Private vs Hybrid Cloud",
+    "EC2 - Compute",
+    "Introduction to AWS",
+    "Step 2 - Learn these next",
+    "AWS Global Infrastructure",
+    "Start with Essential Services",
+    "S3 - Storage"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "EC2",
+   "skills": [
+    "SES - Emails",
+    "Shared Responsibility Model",
+    "Route53 - DNS",
+    "Well Architected Framework",
+    "Cloudwatch - Monitoring",
+    "Cloudfront - CDN",
+    "Step 3 - Pick these after",
+    "VPC",
+    "RDS - Managed Database",
+    "DynamoDB - NoSQL Storage"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Instance Types",
+   "skills": [
+    "ElastiCache -",
+    "Redis/Memcached",
+    "CIDR Blocks",
+    "ECS - Containers"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "CPU Credits",
+   "skills": [
+    "EKS - Kubernetes",
+    "Subnets"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Storage / Volumes",
+   "skills": [
+    "Step 4 - Serverless",
+    "Private Subnet",
+    "Lambda"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Keypairs",
+   "skills": [
+    "ECS Fargate",
+    "Public Subnet"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Elastic IP",
+   "skills": [
+    "Route Tables"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "User Data Scripts",
+   "skills": [
+    "Best way to learn? Make a simple",
+    "app and use the services listed",
+    "Security Groups"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Purchasing Options",
+   "skills": [
+    "above for deployment.",
+    "Internet Gateway"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Identity-based",
+   "skills": [
+    "NAT Gateway",
+    "Sandbox / Sending Limits"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Resource-based",
+   "skills": [
+    "Identity Verification",
+    "IAM Policies",
+    "DKIM Setup",
+    "Users / User Groups"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Instance Profiles",
+   "skills": [
+    "Feedback Handling",
+    "Roles"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Assuming Roles",
+   "skills": [
+    "Configuration Sets",
+    "Sender Reputation",
+    "Dedicated IP"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Buckets / Objects",
+   "skills": [
+    "Auto-Scaling",
+    "SES",
+    "Hosted Zones",
+    "AMIs",
+    "Route53",
+    "Routing Policies",
+    "Launch Templates",
+    "Bucket / Object Lifecycle"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Storage Types",
+   "skills": [
+    "Health Checks",
+    "Auto-Scaling Groups"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Standard",
+   "skills": [
+    "Scaling Policies",
+    "Metrics"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "S3-IA Glacier",
+   "skills": [
+    "Elastic Load Balancers",
+    "Cloudwatch",
+    "Events",
+    "Logs",
+    "Tables / Items / Attributes"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "DynamoDB",
+   "skills": [
+    "Primary Keys / Secondary Indexes",
+    "Data Modeling Streams",
+    "RDS",
+    "Capacity Settings",
+    "General Purpose",
+    "DB Instances",
+    "Limits Backup / Restore",
+    "Provisioned IOPS",
+    "Storage Types",
+    "DynamoDB Local"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Cloudfront",
+   "skills": [
+    "Magnetic",
+    "Backup / Restore",
+    "Quotas",
+    "Distributions",
+    "ElastiCache",
+    "ECR",
+    "Policies",
+    "Invalidations"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "EKS",
+   "skills": [
+    "ECS",
+    "Creating / Invoking Functions"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  },
+  {
+   "name": "Lambda",
+   "skills": [
+    "Layers Custom Runtimes",
+    "Clusters / ECS Container Agents",
+    "Versioning / Aliases",
+    "Tasks Services",
+    "Event Bridge / Scheduled Execution",
+    "Launch Config / Autoscaling Groups",
+    "Cold Start and Limitations",
+    "Fargate",
+    "API Gateway Lambda@Edge"
+   ],
+   "resources": [
+    "roadmap.sh/aws"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "domain": "Mlops",
+ "stages": [
+  {
+   "name": "MLOps",
+   "skills": [
+    "Shout out to Maria Vechtomova who",
+    "LinkedIn Profile"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Programming Fundamentals",
+   "skills": [
+    "Python",
+    "Go",
+    "Bash"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Cloud Computing",
+   "skills": [
+    "Version Control Systems Git GitHub",
+    "AI & Data Scientist",
+    "AWS / Azure / GCP",
+    "Cloud-native ML Services"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Containerization",
+   "skills": [
+    "Docker",
+    "Kubernetes"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Machine Learning Fundamentals",
+   "skills": [
+    "Airflow"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Data Engineering Fundamentals",
+   "skills": [
+    "Data Pipelines",
+    "Spark",
+    "Data Lakes & Warehouses",
+    "Kafka",
+    "Data Ingestion Architecture",
+    "Flink",
+    "MLOps Principles MLOps Components"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Infrastructure as Code",
+   "skills": [
+    "Version Control",
+    "CI/CD Orchestration",
+    "Experiment Tracking & Model Registry",
+    "Data Lineage & Feature Stores"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  },
+  {
+   "name": "Keep learning",
+   "skills": [
+    "Model Training & Serving",
+    "Monitoring & Observability"
+   ],
+   "resources": [
+    "roadmap.sh/mlops"
+   ]
+  }
+ ]
+}

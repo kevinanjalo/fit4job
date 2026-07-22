@@ -1,0 +1,1989 @@
+{
+  "topic": "Ai Engineer",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Ai Engineer",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Pre-requisites (One of these)",
+      "type": "skill",
+      "x_raw": 75.61836242675781,
+      "y_raw": 56.20500946044922,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "AI Engineer",
+      "type": "section",
+      "x_raw": 323.27069091796875,
+      "y_raw": 109.91410064697266,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_2",
+      "label": "Scrimba is offering 20% off to roadmap users",
+      "type": "skill",
+      "x_raw": 37.34492492675781,
+      "y_raw": 142.47845458984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "on their AI Engineer course that covers this",
+      "type": "skill",
+      "x_raw": 41.85664367675781,
+      "y_raw": 158.13470458984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Impact on Product Development",
+      "type": "skill",
+      "x_raw": 520.4386596679688,
+      "y_raw": 164.61517333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_5",
+      "label": "roadmap in depth. Check them out!",
+      "type": "skill",
+      "x_raw": 61.77851867675781,
+      "y_raw": 173.79095458984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Roles and Responsiblities",
+      "type": "skill",
+      "x_raw": 535.4503784179688,
+      "y_raw": 197.16986083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Scrimba - AI Engineer Path",
+      "type": "skill",
+      "x_raw": 79.28633117675781,
+      "y_raw": 203.28704833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "What is an AI Engineer?",
+      "type": "skill",
+      "x_raw": 540.1613159179688,
+      "y_raw": 254.91986083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 340.81365966796875,
+      "y_raw": 271.49017333984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "AI and Data Scientist Roadmap",
+      "type": "skill",
+      "x_raw": 56.65742492675781,
+      "y_raw": 280.4219665527344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "AI Engineer vs ML Engineer",
+      "type": "skill",
+      "x_raw": 530.2824096679688,
+      "y_raw": 287.46282958984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Prompt Engineering",
+      "type": "skill",
+      "x_raw": 56.65742492675781,
+      "y_raw": 298.8438415527344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Data Analyst Roadamp",
+      "type": "skill",
+      "x_raw": 56.65742492675781,
+      "y_raw": 317.2774353027344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "LLMs",
+      "type": "skill",
+      "x_raw": 632.6339721679688,
+      "y_raw": 326.46282958984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "AI vs AGI",
+      "type": "skill",
+      "x_raw": 537.2316284179688,
+      "y_raw": 326.46282958984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Using Pre-trained Models",
+      "type": "section",
+      "x_raw": 298.14569091796875,
+      "y_raw": 350.3226318359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "Inference",
+      "type": "skill",
+      "x_raw": 573.7824096679688,
+      "y_raw": 359.32220458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Training",
+      "type": "skill",
+      "x_raw": 577.6495971679688,
+      "y_raw": 391.57220458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Benefits of Pre-trained Models",
+      "type": "skill",
+      "x_raw": 56.59883117675781,
+      "y_raw": 397.40814208984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Embeddings",
+      "type": "skill",
+      "x_raw": 567.0206909179688,
+      "y_raw": 423.81048583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Pre-trained Models",
+      "type": "section",
+      "x_raw": 323.76287841796875,
+      "y_raw": 429.34173583984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "Limitations and Considerations",
+      "type": "skill",
+      "x_raw": 56.10664367675781,
+      "y_raw": 429.95111083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Vector Databases",
+      "type": "skill",
+      "x_raw": 554.7511596679688,
+      "y_raw": 456.06048583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "OpenAI Models",
+      "type": "skill",
+      "x_raw": 92.39961242675781,
+      "y_raw": 463.73626708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "RAG",
+      "type": "skill",
+      "x_raw": 635.0597534179688,
+      "y_raw": 487.99407958984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "AI Agents",
+      "type": "skill",
+      "x_raw": 535.9660034179688,
+      "y_raw": 488.29876708984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Open AI Models",
+      "type": "skill",
+      "x_raw": 91.32148742675781,
+      "y_raw": 498.74017333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Prompt Engineering",
+      "type": "skill",
+      "x_raw": 549.4660034179688,
+      "y_raw": 520.5487670898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Capabilities / Context Length",
+      "type": "skill",
+      "x_raw": 60.38398742675781,
+      "y_raw": 531.2948608398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Common Terminology",
+      "type": "skill",
+      "x_raw": 553.2980346679688,
+      "y_raw": 551.8495483398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Open AI Platform",
+      "type": "section",
+      "x_raw": 321.82928466796875,
+      "y_raw": 552.6937255859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Cut-off Dates / Knowledge",
+      "type": "skill",
+      "x_raw": 66.52461242675781,
+      "y_raw": 563.8495483398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Popular AI Models",
+      "type": "skill",
+      "x_raw": 88.15742492675781,
+      "y_raw": 597.5995483398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Chat Completions API",
+      "type": "skill",
+      "x_raw": 544.9777221679688,
+      "y_raw": 604.6893920898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Anthropic's Claude",
+      "type": "skill",
+      "x_raw": 85.30976867675781,
+      "y_raw": 627.4120483398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Writing Prompts",
+      "type": "skill",
+      "x_raw": 559.0519409179688,
+      "y_raw": 637.2323608398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Google's Gemini",
+      "type": "skill",
+      "x_raw": 90.70039367675781,
+      "y_raw": 659.9667358398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Maximum Tokens",
+      "type": "skill",
+      "x_raw": 556.0636596679688,
+      "y_raw": 675.3182983398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Azure AI AWS Sagemaker",
+      "type": "skill",
+      "x_raw": 50.96211242675781,
+      "y_raw": 692.5097045898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Token Counting",
+      "type": "skill",
+      "x_raw": 559.8136596679688,
+      "y_raw": 707.8612670898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "OpenAI API",
+      "type": "section",
+      "x_raw": 341.77459716796875,
+      "y_raw": 721.9940795898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "Hugging Face Models",
+      "type": "skill",
+      "x_raw": 77.45820617675781,
+      "y_raw": 725.6620483398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Pricing Considerations",
+      "type": "skill",
+      "x_raw": 543.2785034179688,
+      "y_raw": 740.4159545898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Mistral AI Cohere",
+      "type": "skill",
+      "x_raw": 63.05586242675781,
+      "y_raw": 757.5956420898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Managing Tokens",
+      "type": "skill",
+      "x_raw": 558.6066284179688,
+      "y_raw": 768.9511108398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Replicate",
+      "type": "skill",
+      "x_raw": 106.70820617675781,
+      "y_raw": 790.7714233398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Open AI Playground",
+      "type": "skill",
+      "x_raw": 549.7472534179688,
+      "y_raw": 807.9745483398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Fine-tuning",
+      "type": "skill",
+      "x_raw": 569.7628784179688,
+      "y_raw": 840.5292358398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Prompt Injection Attacks",
+      "type": "skill",
+      "x_raw": 71.62226867675781,
+      "y_raw": 852.5643920898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "AI Safety and Ethics",
+      "type": "skill",
+      "x_raw": 322.55584716796875,
+      "y_raw": 857.5448608398438,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_51",
+      "label": "Prompt Engineering Roadmap",
+      "type": "skill",
+      "x_raw": 525.1261596679688,
+      "y_raw": 873.6932983398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Security and Privacy Concerns",
+      "type": "skill",
+      "x_raw": 57.91133117675781,
+      "y_raw": 885.1190795898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Bias and Fairness",
+      "type": "skill",
+      "x_raw": 86.70429992675781,
+      "y_raw": 917.6737670898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Open vs Closed Source Models",
+      "type": "skill",
+      "x_raw": 521.7277221679688,
+      "y_raw": 925.8300170898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Understanding AI Safety Issues",
+      "type": "skill",
+      "x_raw": 56.50508117675781,
+      "y_raw": 949.9589233398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "OpenSource AI",
+      "type": "section",
+      "x_raw": 333.18475341796875,
+      "y_raw": 958.9940795898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "Popular Open Source Models",
+      "type": "skill",
+      "x_raw": 526.7550659179688,
+      "y_raw": 958.9940795898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "OpenAI Moderation API",
+      "type": "skill",
+      "x_raw": 73.19258117675781,
+      "y_raw": 984.7518920898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Hugging Face",
+      "type": "skill",
+      "x_raw": 562.0870971679688,
+      "y_raw": 992.2518920898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Adding end-user IDs in prompts",
+      "type": "skill",
+      "x_raw": 54.26679992675781,
+      "y_raw": 1017.3065795898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Finding Open Source Models",
+      "type": "skill",
+      "x_raw": 527.6574096679688,
+      "y_raw": 1024.3026123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Conducting adversarial testing",
+      "type": "skill",
+      "x_raw": 56.92695617675781,
+      "y_raw": 1049.8494873046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Hugging Face Tasks",
+      "type": "skill",
+      "x_raw": 547.5675659179688,
+      "y_raw": 1054.2791748046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Robust prompt engineering",
+      "type": "skill",
+      "x_raw": 64.32148742675781,
+      "y_raw": 1082.4041748046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Embeddings & Vector Databases",
+      "type": "skill",
+      "x_raw": 277.54412841796875,
+      "y_raw": 1084.3031005859375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_66",
+      "label": "Hugging Face Hub",
+      "type": "skill",
+      "x_raw": 551.0128784179688,
+      "y_raw": 1086.8221435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Know your Customers / Usecases",
+      "type": "skill",
+      "x_raw": 49.34492492675781,
+      "y_raw": 1114.9588623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "Using Open Source Models",
+      "type": "skill",
+      "x_raw": 531.3488159179688,
+      "y_raw": 1119.5994873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Constraining outputs and inputs",
+      "type": "skill",
+      "x_raw": 54.09101867675781,
+      "y_raw": 1147.5018310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Inference SDK",
+      "type": "skill",
+      "x_raw": 560.7745971679688,
+      "y_raw": 1149.4119873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Safety Best Practices",
+      "type": "skill",
+      "x_raw": 79.84883117675781,
+      "y_raw": 1180.3260498046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Transformers.js",
+      "type": "skill",
+      "x_raw": 559.0870971679688,
+      "y_raw": 1181.9666748046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Ollama",
+      "type": "skill",
+      "x_raw": 578.7160034179688,
+      "y_raw": 1225.0447998046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "What are Embeddings",
+      "type": "section",
+      "x_raw": 316.50897216796875,
+      "y_raw": 1230.5643310546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "Open AI Embedding Models",
+      "type": "skill",
+      "x_raw": 40.94258117675781,
+      "y_raw": 1240.1971435546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Ollama Models",
+      "type": "skill",
+      "x_raw": 560.0128784179688,
+      "y_raw": 1260.0487060546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Pricing Considerations",
+      "type": "skill",
+      "x_raw": 54.00898742675781,
+      "y_raw": 1272.7401123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Semantic Search",
+      "type": "section",
+      "x_raw": 330.27850341796875,
+      "y_raw": 1286.5330810546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Ollama SDK",
+      "type": "skill",
+      "x_raw": 567.0910034179688,
+      "y_raw": 1293.2127685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Data Classification",
+      "type": "section",
+      "x_raw": 326.34100341796875,
+      "y_raw": 1319.0877685546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Open AI Embeddings API",
+      "type": "skill",
+      "x_raw": 47.57539367675781,
+      "y_raw": 1332.2127685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Recommendation Systems",
+      "type": "section",
+      "x_raw": 307.45037841796875,
+      "y_raw": 1351.6307373046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "RAG Usecases",
+      "type": "skill",
+      "x_raw": 558.4777221679688,
+      "y_raw": 1355.3690185546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "Sentence Transformers",
+      "type": "skill",
+      "x_raw": 96.47773742675781,
+      "y_raw": 1383.1307373046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Anomaly Detection",
+      "type": "section",
+      "x_raw": 326.35272216796875,
+      "y_raw": 1384.1854248046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "RAG vs Fine-tuning",
+      "type": "skill",
+      "x_raw": 548.6456909179688,
+      "y_raw": 1387.9119873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Models on Hugging Face",
+      "type": "skill",
+      "x_raw": 92.51679992675781,
+      "y_raw": 1415.6854248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Use Cases for Embeddings",
+      "type": "skill",
+      "x_raw": 306.73553466796875,
+      "y_raw": 1416.4119873046875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_89",
+      "label": "Implementing RAG",
+      "type": "skill",
+      "x_raw": 550.1456909179688,
+      "y_raw": 1423.7244873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Chunking",
+      "type": "skill",
+      "x_raw": 572.0128784179688,
+      "y_raw": 1453.3612060546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Open-Source Embeddings",
+      "type": "skill",
+      "x_raw": 48.86445617675781,
+      "y_raw": 1477.3143310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Embedding",
+      "type": "skill",
+      "x_raw": 567.1730346679688,
+      "y_raw": 1485.9041748046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Vector Databases",
+      "type": "skill",
+      "x_raw": 69.64179992675781,
+      "y_raw": 1508.9783935546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "RAG & Implementation",
+      "type": "section",
+      "x_raw": 320.93865966796875,
+      "y_raw": 1508.9783935546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "Vector Database",
+      "type": "skill",
+      "x_raw": 554.9035034179688,
+      "y_raw": 1518.4588623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Retrieval Process",
+      "type": "skill",
+      "x_raw": 552.5363159179688,
+      "y_raw": 1551.0135498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "RAG Alternative",
+      "type": "section",
+      "x_raw": 310.79022216796875,
+      "y_raw": 1557.4354248046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_98",
+      "label": "Purpose and Functionality",
+      "type": "skill",
+      "x_raw": 50.30586242675781,
+      "y_raw": 1564.5252685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Generation",
+      "type": "skill",
+      "x_raw": 567.6535034179688,
+      "y_raw": 1583.5565185546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Open AI Assistant API",
+      "type": "skill",
+      "x_raw": 323.46990966796875,
+      "y_raw": 1586.0174560546875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_101",
+      "label": "Popular Vector DBs (pick one)",
+      "type": "skill",
+      "x_raw": 42.25508117675781,
+      "y_raw": 1599.8924560546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Ways of Implementing RAG",
+      "type": "skill",
+      "x_raw": 530.5636596679688,
+      "y_raw": 1627.1619873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Chroma Pinecone",
+      "type": "skill",
+      "x_raw": 53.13008117675781,
+      "y_raw": 1629.6932373046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Using SDKs Directly",
+      "type": "skill",
+      "x_raw": 546.7941284179688,
+      "y_raw": 1660.1033935546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Weaviate FAISS",
+      "type": "skill",
+      "x_raw": 49.89570617675781,
+      "y_raw": 1662.2479248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Agents Usecases",
+      "type": "section",
+      "x_raw": 268.70819091796875,
+      "y_raw": 1668.0018310546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_107",
+      "label": "Langchain Llama Index",
+      "type": "skill",
+      "x_raw": 524.4347534179688,
+      "y_raw": 1692.6580810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "LanceDB Qdrant",
+      "type": "skill",
+      "x_raw": 49.74336242675781,
+      "y_raw": 1694.8026123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Prompt Engineering",
+      "type": "section",
+      "x_raw": 262.80194091796875,
+      "y_raw": 1700.5565185546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_110",
+      "label": "Supabase",
+      "type": "skill",
+      "x_raw": 89.27070617675781,
+      "y_raw": 1727.9666748046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "ReAct Prompting",
+      "type": "section",
+      "x_raw": 270.17303466796875,
+      "y_raw": 1733.0994873046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_112",
+      "label": "Building AI Agents",
+      "type": "skill",
+      "x_raw": 552.6652221679688,
+      "y_raw": 1748.9080810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "MongoDB Atlas",
+      "type": "skill",
+      "x_raw": 76.23945617675781,
+      "y_raw": 1760.5213623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Manual Implementation",
+      "type": "skill",
+      "x_raw": 539.1417846679688,
+      "y_raw": 1777.9119873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Implementing Vector Search",
+      "type": "skill",
+      "x_raw": 46.55586242675781,
+      "y_raw": 1796.3572998046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "AI Agents",
+      "type": "section",
+      "x_raw": 360.32537841796875,
+      "y_raw": 1798.2908935546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "OpenAI Functions / Tools",
+      "type": "skill",
+      "x_raw": 535.1691284179688,
+      "y_raw": 1810.4666748046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Indexing Embeddings",
+      "type": "skill",
+      "x_raw": 61.66133117675781,
+      "y_raw": 1827.6815185546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "OpenAI Assistant API",
+      "type": "skill",
+      "x_raw": 544.9425659179688,
+      "y_raw": 1843.0213623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Performing Similarity Search",
+      "type": "skill",
+      "x_raw": 47.04804992675781,
+      "y_raw": 1860.2362060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "OpenAI Vision API",
+      "type": "skill",
+      "x_raw": 553.6144409179688,
+      "y_raw": 1915.9354248046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "Multimodal AI Multimodal AI Usecases",
+      "type": "skill",
+      "x_raw": 56.38789367675781,
+      "y_raw": 1923.2010498046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "DALL-E API",
+      "type": "skill",
+      "x_raw": 568.6847534179688,
+      "y_raw": 1948.4901123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_124",
+      "label": "Image Understanding",
+      "type": "skill",
+      "x_raw": 61.35664367675781,
+      "y_raw": 1961.6971435546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_125",
+      "label": "Whisper API",
+      "type": "skill",
+      "x_raw": 567.6183471679688,
+      "y_raw": 1981.0447998046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_126",
+      "label": "Image Generation",
+      "type": "skill",
+      "x_raw": 69.78242492675781,
+      "y_raw": 1994.2518310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Hugging Face Models",
+      "type": "skill",
+      "x_raw": 544.5324096679688,
+      "y_raw": 2013.5877685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "Video Understanding",
+      "type": "skill",
+      "x_raw": 62.86836242675781,
+      "y_raw": 2026.7947998046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "AI Code Editors",
+      "type": "section",
+      "x_raw": 279.98162841796875,
+      "y_raw": 2041.6893310546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_130",
+      "label": "LangChain for Multimodal Apps",
+      "type": "skill",
+      "x_raw": 522.7941284179688,
+      "y_raw": 2046.1424560546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_131",
+      "label": "Audio Processing",
+      "type": "skill",
+      "x_raw": 71.83320617675781,
+      "y_raw": 2059.349609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_132",
+      "label": "Code Completion Tools",
+      "type": "section",
+      "x_raw": 262.34490966796875,
+      "y_raw": 2074.853515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_133",
+      "label": "LlamaIndex for Multimodal Apps",
+      "type": "skill",
+      "x_raw": 520.8839721679688,
+      "y_raw": 2078.697265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Text-to-Speech",
+      "type": "skill",
+      "x_raw": 76.67304992675781,
+      "y_raw": 2091.904296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_135",
+      "label": "Implementing Multimodal AI",
+      "type": "skill",
+      "x_raw": 531.5831909179688,
+      "y_raw": 2110.923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_136",
+      "label": "Speech-to-Text",
+      "type": "skill",
+      "x_raw": 77.09492492675781,
+      "y_raw": 2124.447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "Development Tools",
+      "type": "section",
+      "x_raw": 337.93084716796875,
+      "y_raw": 2131.208984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_138",
+      "label": "Multimodal AI Tasks",
+      "type": "skill",
+      "x_raw": 67.27461242675781,
+      "y_raw": 2156.673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_139",
+      "label": "Continue learning with following relevant tracks",
+      "type": "skill",
+      "x_raw": 296.01287841796875,
+      "y_raw": 2200.337890625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_140",
+      "label": "AI & Data Scientist Prompt Engineering",
+      "type": "skill",
+      "x_raw": 300.25506591796875,
+      "y_raw": 2231.755859375,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "trunk"
+    },
+    {
+      "source": "node_1",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_9",
+      "type": "trunk"
+    },
+    {
+      "source": "node_9",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_9",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_41",
+      "type": "trunk"
+    },
+    {
+      "source": "node_41",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_74",
+      "type": "trunk"
+    },
+    {
+      "source": "node_74",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_74",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_85",
+      "type": "trunk"
+    },
+    {
+      "source": "node_85",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_94",
+      "type": "trunk"
+    },
+    {
+      "source": "node_94",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_97",
+      "type": "trunk"
+    },
+    {
+      "source": "node_97",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_97",
+      "target": "node_106",
+      "type": "trunk"
+    },
+    {
+      "source": "node_106",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_106",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_106",
+      "target": "node_109",
+      "type": "trunk"
+    },
+    {
+      "source": "node_109",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_109",
+      "target": "node_111",
+      "type": "trunk"
+    },
+    {
+      "source": "node_111",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_111",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_129",
+      "type": "trunk"
+    },
+    {
+      "source": "node_129",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_129",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_129",
+      "target": "node_132",
+      "type": "trunk"
+    },
+    {
+      "source": "node_132",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_137",
+      "type": "trunk"
+    },
+    {
+      "source": "node_137",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_137",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_137",
+      "target": "node_140",
+      "type": "branch"
+    }
+  ]
+}

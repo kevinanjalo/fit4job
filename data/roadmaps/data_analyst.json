@@ -1,0 +1,183 @@
+{
+ "domain": "Data Analyst",
+ "stages": [
+  {
+   "name": "Introduction",
+   "skills": [
+    "What is Data Analytics",
+    "Building a Strong Foundation",
+    "Types of Data Analytics",
+    "Descriptive Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Collection Cleanup",
+   "skills": [
+    "Analysis / Reporting with Excel",
+    "Key Concepts of Data",
+    "Diagnostic Analytics",
+    "IF DATEDIF",
+    "Predictive Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Exploration Visualisation",
+   "skills": [
+    "VLOOKUP / HLOOKUP",
+    "Prescriptive Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Statistical Analysis",
+   "skills": [
+    "REPLACE / SUBSTITUTE"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Machine Learning",
+   "skills": [
+    "UPPER / LOWER / PROPER",
+    "Python"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Charting",
+   "skills": [
+    "CONCAT TRIM",
+    "AVERAGE COUNT",
+    "Learn a Programming Lang.",
+    "Pandas"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Pivot Tables",
+   "skills": [
+    "SUM MIN / MAX",
+    "Data Manipulation Libraries",
+    "Dplyr"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Learn SQL",
+   "skills": [
+    "Learn Common Functions",
+    "Data Visualisation Libraries Matplotlib",
+    "Ggplot2",
+    "Gain Programming Skills",
+    "Databases",
+    "Data Collection Mastering Data Handling",
+    "CSV Files",
+    "Dispersion",
+    "APIs",
+    "Range Variance",
+    "Handling Missing Data",
+    "Web Scraping"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Descriptive Analysis",
+   "skills": [
+    "Standard Deviation",
+    "Data Cleanup",
+    "Removing Duplicates",
+    "Finding Outliers",
+    "Distribution Space",
+    "Central Tendency",
+    "Data Transformation",
+    "Mean Median",
+    "Skewness",
+    "Data Analysis Techniques",
+    "Using Libraries for Cleanup",
+    "Mode Average",
+    "Kurtosis",
+    "Pandas Dplyr"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Statistical Analysis",
+   "skills": [
+    "Learn to analyze relationships",
+    "Matplotlib",
+    "ggplot2",
+    "Tableau",
+    "Correlation Analysis",
+    "Seaborn",
+    "Power BI"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": "Advanced Topics",
+   "skills": [
+    "Regression",
+    "Charting",
+    "Learn Different Techniques",
+    "Bar Charts",
+    "Histograms",
+    "Machine Learning Types",
+    "Line Chart",
+    "Stacked Charts",
+    "Machine Learning Reinforcement Learning",
+    "Scatter Plot",
+    "Heatmap",
+    "Unsupervised Learning",
+    "Funnel Charts",
+    "Pie Charts"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  },
+  {
+   "name": ") Predicting sales trends 2) Customer Segmentation.",
+   "skills": [
+    "Neural Networks",
+    "Data Processing Frameworks",
+    "Logistic Regression",
+    "Learn the Basics",
+    "Hadoop Spark",
+    "Frameworks",
+    "Deep Learning (Optional)",
+    "Data Processing Techniques",
+    "Tensorflow",
+    "Parallel Processing",
+    "Practice Training Models",
+    "Pytorch",
+    "MPI MapReduce",
+    "Image Recognition"
+   ],
+   "resources": [
+    "roadmap.sh/data-analyst"
+   ]
+  }
+ ]
+}

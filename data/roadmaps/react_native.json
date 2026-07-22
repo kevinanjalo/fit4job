@@ -1,0 +1,152 @@
+{
+ "domain": "React Native",
+ "stages": [
+  {
+   "name": "React Native",
+   "skills": [
+    "Find the interactive version of this"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "What is React Native?",
+    "Why use React Native?",
+    "JavaScript Basics",
+    "CSS Basics"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "Environment Setup",
+   "skills": [
+    "React Basics",
+    "React Native CLI",
+    "Components",
+    "JSX",
+    "Metro Bundler",
+    "State",
+    "Props",
+    "Expo",
+    "create-expo-app",
+    "Expo Snack",
+    "Development Workflow Running on Device"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "View",
+   "skills": [
+    "Expo Tradeoffs",
+    "Debugging",
+    "In-App Developer Menu",
+    "SafeAreaView",
+    "Enabling Fast Refresh",
+    "KeyboardAvoidingView",
+    "LogBox Sourcemaps",
+    "DevTools",
+    "Text Text Input"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "Core Components",
+   "skills": [
+    "Button Image",
+    "ImageBackground Switch",
+    "Listings",
+    "StatusBar ActivityIndicator",
+    "ScrollView",
+    "Modal Pressable"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "Platform Module",
+   "skills": [
+    "ListViews",
+    "FlatList SectionList",
+    "Writing Platform Specific Code",
+    "Styling",
+    "RefreshControl",
+    "Stylesheets"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "File Extensions",
+   "skills": [
+    "Layouts & Flexbox"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "react-native-web",
+   "skills": [
+    "Touchables",
+    "Accessibility",
+    "Gesture Handling"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "Push Notifications Interactions",
+   "skills": [
+    "Scrolling & Swiping",
+    "Networking",
+    "Screen Navigation",
+    "Animations DeepLinking",
+    "Connectivity Status",
+    "Authentication",
+    "WebSockets",
+    "Fetch",
+    "react-native-async-storage",
+    "Storage",
+    "Security",
+    "Expo Ecosystem",
+    "expo-secure-store",
+    "Jest"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  },
+  {
+   "name": "React Flutter",
+   "skills": [
+    "Understand Frame Rates",
+    "For iOS For Android",
+    "Common Problem Sources",
+    "Speeding up Builds",
+    "Performance",
+    "Using Native Modules",
+    "Optimizing Flatlist Config",
+    "RAM Bundles + Inline Requires",
+    "Profiling",
+    "Publishing Apps",
+    "Apple App store",
+    "Google Play Store"
+   ],
+   "resources": [
+    "roadmap.sh/react-native"
+   ]
+  }
+ ]
+}

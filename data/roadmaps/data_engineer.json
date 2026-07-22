@@ -1,0 +1,400 @@
+{
+ "domain": "Data Engineer",
+ "stages": [
+  {
+   "name": "Data Engineer",
+   "skills": [
+    "Pre-requisites",
+    "What is Data Engineering?",
+    "Data Engineering vs Data Science",
+    "Skills and Responsibilities",
+    "Data Engineering Lifecycle",
+    "Python is recommended"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Engineering Lifecycle",
+   "skills": [
+    "Choosing the Right Technologies",
+    "Python Java Scala Go",
+    "Learn the Basics Programming Skills",
+    "Understand Different Steps",
+    "Data Structures and Algorithms",
+    "Data Generation",
+    "Git and GitHub",
+    "Data Storage",
+    "Linux Basics",
+    "Data Ingestion"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Generation",
+   "skills": [
+    "Networking Fundamentals",
+    "Data Serving",
+    "Distributed Systems Basics"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Sources of Data",
+   "skills": [
+    "Database",
+    "Data Normalization",
+    "APIs Logs",
+    "Data Modelling Techniques",
+    "CAP Theorem",
+    "OLTP vs OLAP",
+    "Learn SQL Indexing"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Relational Databases",
+   "skills": [
+    "Transactions",
+    "Data Storage Database Fundamentals",
+    "Relational Databases",
+    "Slowly Changing Dimension - SCD",
+    "MySQL PostgreSQL",
+    "Horizontal vs Vertical Scaling",
+    "MariaDB Aurora DB",
+    "Star vs Snowflake Schema",
+    "Oracle MS SQL",
+    "NoSQL Databsases Document",
+    "Column",
+    "Graph",
+    "Key-Value",
+    "MongoDB"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Cloud Computing",
+   "skills": [
+    "CouchDB",
+    "What is Data Warehouse?",
+    "Data Warehousing Architectures Data Warehouse",
+    "Data Mart",
+    "Data Mesh",
+    "Other Data Architectures",
+    "Google BigQuery",
+    "Data Fabric Data Hub",
+    "Snowflake",
+    "Metadata-first Architecture",
+    "Amazon Redshift",
+    "Serverless Options",
+    "Data Lake",
+    "Databricks Delta Lake"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Ingestion",
+   "skills": [
+    "Amazon EC2 ( Compute)",
+    "Onehouse",
+    "S3 (Storage)",
+    "Amazon RDS (Database)",
+    "Batch",
+    "Glue (ETL)"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Pipelines",
+   "skills": [
+    "Types of Data Ingestion",
+    "Hybrid",
+    "AWS",
+    "Streaming",
+    "Azure Virtual Machines",
+    "Realtime",
+    "Azure Blob Storage"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "ETL Process",
+   "skills": [
+    "Azure SQL Database"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Extract Data",
+   "skills": [
+    "Cluster Computing Basics",
+    "Data Factory (ETL)"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Transform Data",
+   "skills": [
+    "Azure"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Load Data",
+   "skills": [
+    "What is Cluster Computing",
+    "Compute Engine (Compute)"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Pipeline Tools",
+   "skills": [
+    "Distributed File Systems",
+    "Google Cloud Storage"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Apache Airflow",
+   "skills": [
+    "HDFS",
+    "Cloud SQL (Database)"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "dbt Luigi",
+   "skills": [
+    "Job Scheduling",
+    "Dataflow"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Perfect",
+   "skills": [
+    "Cluster Management Tools",
+    "Google Cloud",
+    "Cloud Providers"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Big Data Tools",
+   "skills": [
+    "Kubernetes",
+    "Apache Hadoop YARN",
+    "Apache Spark",
+    "Hadoop Ecosystem"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Containers & Orchestration",
+   "skills": [
+    "Docker Kubernetes",
+    "HDFS",
+    "YARN",
+    "Google Cloud GKE",
+    "MapReduce",
+    "AWS EKS"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "CI/CD",
+   "skills": [
+    "Prometheus",
+    "Circle CI GitHub Actions",
+    "ArgoCD Monitoring",
+    "Datadog Sentry",
+    "GitLab CI",
+    "New Relic"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Testing",
+   "skills": [
+    "Unit Testing",
+    "Integration Testing",
+    "End-to-End Testing",
+    "What and why use them?",
+    "Functional Testing",
+    "Async vs Sync Communication"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Messaging Systems",
+   "skills": [
+    "A/B Testing",
+    "Messages vs Streams",
+    "Load Testing",
+    "Best Practices",
+    "Smoke Testing",
+    "Common Tools",
+    "Apache Kafka",
+    "RabbitMQ",
+    "AWS SQS",
+    "Idempotency",
+    "AWS SNS",
+    "Reusability"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Authentication vs Authorization",
+   "skills": [
+    "Environmental Management",
+    "Common Tools",
+    "Terraform",
+    "Data Serving Data Analytics",
+    "OpenTofu",
+    "Business Intelligence",
+    "AWS CDK",
+    "BI Tools",
+    "Google Deployment Mgr."
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Encryption",
+   "skills": [
+    "Microsoft Power BI"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Tokenization",
+   "skills": [
+    "Streamlit"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Masking",
+   "skills": [
+    "Tableu"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Obfuscation",
+   "skills": [
+    "Looker",
+    "Data Quality"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "Data Lineage",
+    "Reverse ETL",
+    "Metadata Management"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Data Governance",
+   "skills": [
+    "Data Interoperability",
+    "ETL vs Reverse ETL",
+    "Data Quality",
+    "Reverse ETL Usecases",
+    "Tools",
+    "Hightouch"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Privacy",
+   "skills": [
+    "Census",
+    "GDPR",
+    "Segment",
+    "ECPA",
+    "EU AI Act"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "Machine Learning",
+   "skills": [
+    "Data and AI Regulations"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  },
+  {
+   "name": "MLOps",
+   "skills": [
+    "Python AI & Data Scientist SQL",
+    "Data Analyst MLOps"
+   ],
+   "resources": [
+    "roadmap.sh/data-engineer"
+   ]
+  }
+ ]
+}

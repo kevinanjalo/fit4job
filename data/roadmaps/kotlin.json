@@ -1,0 +1,365 @@
+{
+ "domain": "Kotlin",
+ "stages": [
+  {
+   "name": "Kotlin",
+   "skills": [
+    "History of Kotlin",
+    "Language Basics",
+    "Introduction to Kotlin Why use Kotlin"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Type Inference",
+   "skills": [
+    "Java Interoperability",
+    "Setting up the Environment",
+    "Type Checks & Casts",
+    "Basic Types",
+    "Code Organization",
+    "Integers",
+    "Floats",
+    "main Function"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Data types",
+   "skills": [
+    "Unsigned Integers",
+    "Variables",
+    "Strings",
+    "Characters"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Comments",
+   "skills": [
+    "val vs var",
+    "Arrays",
+    "Booleans"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Ranges",
+   "skills": [
+    "Lists Maps Sets Collections",
+    "print & println",
+    "read-only vs mutable",
+    "String Templates"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Progressions",
+   "skills": [
+    "Iterators"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Sequences",
+   "skills": [
+    "Printing data",
+    "Label Loops"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "if when",
+   "skills": [
+    "break & continue",
+    "for",
+    "while"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Conditional Expressions",
+   "skills": [
+    "Control Flow",
+    "Loops",
+    "Exceptions Functions"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Local Functions",
+   "skills": [
+    "parameters",
+    "Throwing Exceptions",
+    "Standard functions return",
+    "Catching Exceptions",
+    "varargs"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Tail-recursive Functions",
+   "skills": [
+    "Higher-order Functions\ufeff"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Function Types",
+   "skills": [
+    "Lambda Functions",
+    "Transformations",
+    "Anonymous Functions Extension Functions",
+    "Filtering"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Collection Operations",
+   "skills": [
+    "plus & minus Operators",
+    "Grouping",
+    "Classes & Objects",
+    "Retrieving Collection Parts"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Collection-specific Operations",
+   "skills": [
+    "Retrieving single elements"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Lists Maps Sets",
+   "skills": [
+    "Ordering",
+    "Aggregate Operations"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Methods Properties",
+   "skills": [
+    "Defining Classess",
+    "Creating Instances"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Constructors",
+   "skills": [
+    "Class Members",
+    "What is Null Safety?",
+    "Inheritance",
+    "Nested & Inner Classes"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Object Declarations",
+   "skills": [
+    "Nullable vs Non-nullable",
+    "Extension Functions",
+    "Nullability Check Operators"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Null Safety",
+   "skills": [
+    "Visibility Modifiers",
+    "Safe Casts",
+    "Property Delegates",
+    "More on Classes & Objects"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Understanding Packages",
+   "skills": [
+    "Async Programming Coroutines",
+    "Abstract Class",
+    "Interfaces",
+    "Suspending Functions",
+    "Data Classes Sealed Class",
+    "Coroutines Builders",
+    "Enum Class Inline Class",
+    "Coroutines Behavior",
+    "Class Generics",
+    "Type Aliases",
+    "Asynchronous Flow",
+    "Importing Packages",
+    "Kotlin Libraries Test Library",
+    "Standard Library"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Maven",
+   "skills": [
+    "Serialization",
+    "Default Imports",
+    "Dokka",
+    "I/O Library",
+    "Opt-in Requirements",
+    "KDoc",
+    "Data & Time",
+    "TeamCity",
+    "JVM Metadata",
+    "Gradle Pluggins Build Tools",
+    "CI/CD Tools",
+    "Gradle"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Build Tool API",
+   "skills": [
+    "Creating Files",
+    "IDEs",
+    "I/O Writing & Reading Files"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin Platforms",
+   "skills": [
+    "Buffered Streams",
+    "IntelliJ IDEA",
+    "Android Studio"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin Multiplatform",
+   "skills": [
+    "Compose Multiplatform",
+    "Android Jetpack"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin/Java",
+   "skills": [
+    "Java from Kotlin",
+    "Android Studio",
+    "Kotlin from Java",
+    "Android SDK",
+    "Spring Boot"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin/Native",
+   "skills": [
+    "C Interoperability",
+    "Android"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin/WASM",
+   "skills": [
+    "Swift/Objective-C Interop."
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin Scripting",
+   "skills": [
+    "Kotlin Applications"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Data Analysis",
+   "skills": [
+    "Server-side Apps",
+    "Competitive Programming"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kotlin DataFrame",
+   "skills": [
+    "Popular Frameworks",
+    "Ktor Spring"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  },
+  {
+   "name": "Kandy",
+   "skills": [
+    "Quarkus Vert.x",
+    "AI Development",
+    "Android Java Full Stack",
+    "Koog"
+   ],
+   "resources": [
+    "roadmap.sh/kotlin"
+   ]
+  }
+ ]
+}

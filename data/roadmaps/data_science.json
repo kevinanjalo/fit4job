@@ -1,0 +1,51 @@
+{
+  "domain": "Data Science",
+  "stages": [
+    {
+      "name": "Foundations",
+      "skills": [
+        "Python",
+        "Statistics",
+        "SQL"
+      ],
+      "resources": [
+        "Statistics course",
+        "SQL practice"
+      ]
+    },
+    {
+      "name": "Modelling",
+      "skills": [
+        "Pandas",
+        "Scikit-learn",
+        "Machine Learning"
+      ],
+      "resources": [
+        "Kaggle micro-courses"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "NLP"
+      ],
+      "resources": [
+        "Deep learning specialisation"
+      ]
+    },
+    {
+      "name": "Production",
+      "skills": [
+        "MLOps",
+        "Docker",
+        "FAISS"
+      ],
+      "resources": [
+        "MLOps guides",
+        "Vector search tutorials"
+      ]
+    }
+  ]
+}

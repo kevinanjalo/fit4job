@@ -1,0 +1,1877 @@
+{
+  "topic": "Game Developer",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Game Developer",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Shout out to Chris Ohk who helped",
+      "type": "skill",
+      "x_raw": 39.098602294921875,
+      "y_raw": 46.86213302612305,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "make the initial version of this roadmap.",
+      "type": "skill",
+      "x_raw": 39.098602294921875,
+      "y_raw": 63.05744552612305,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 484.2353210449219,
+      "y_raw": 63.26838302612305,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "Game Developer",
+      "type": "section",
+      "x_raw": 289.4111022949219,
+      "y_raw": 75.40625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Visit his GitHub",
+      "type": "skill",
+      "x_raw": 100.90328979492188,
+      "y_raw": 96.32698059082031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Server Side Client Side Development",
+      "type": "skill",
+      "x_raw": 297.4618835449219,
+      "y_raw": 157.8035430908203,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "Linear Algebra",
+      "type": "skill",
+      "x_raw": 84.48532104492188,
+      "y_raw": 204.3855743408203,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Center of Mass",
+      "type": "skill",
+      "x_raw": 590.9697265625,
+      "y_raw": 233.9285430908203,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_8",
+      "label": "Vector Matrix",
+      "type": "skill",
+      "x_raw": 57.661102294921875,
+      "y_raw": 238.0535430908203,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Moment of Inertia",
+      "type": "skill",
+      "x_raw": 584.8642578125,
+      "y_raw": 266.96368408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Linear Transformation",
+      "type": "skill",
+      "x_raw": 66.13375854492188,
+      "y_raw": 271.72149658203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Acceleration Joints",
+      "type": "skill",
+      "x_raw": 565.0244140625,
+      "y_raw": 299.99884033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Game Mathematics",
+      "type": "section",
+      "x_raw": 310.0243835449219,
+      "y_raw": 303.59649658203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "Geometry",
+      "type": "skill",
+      "x_raw": 49.457977294921875,
+      "y_raw": 305.38946533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Affine Space",
+      "type": "skill",
+      "x_raw": 135.87203979492188,
+      "y_raw": 305.38946533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Force Restitution",
+      "type": "skill",
+      "x_raw": 569.5244140625,
+      "y_raw": 333.03399658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Affine Transformation",
+      "type": "skill",
+      "x_raw": 68.14938354492188,
+      "y_raw": 339.05743408203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Angular Velocity",
+      "type": "skill",
+      "x_raw": 590.2900390625,
+      "y_raw": 366.06915283203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Projection",
+      "type": "skill",
+      "x_raw": 48.368133544921875,
+      "y_raw": 374.31915283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Orientation",
+      "type": "skill",
+      "x_raw": 136.86813354492188,
+      "y_raw": 374.95196533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Curve",
+      "type": "section",
+      "x_raw": 343.2470397949219,
+      "y_raw": 378.23321533203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Buoyancy",
+      "type": "skill",
+      "x_raw": 572.0205078125,
+      "y_raw": 399.10430908203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Friction",
+      "type": "skill",
+      "x_raw": 649.2236328125,
+      "y_raw": 399.10430908203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Perspective",
+      "type": "skill",
+      "x_raw": 44.290008544921875,
+      "y_raw": 407.98712158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Quaternion",
+      "type": "skill",
+      "x_raw": 136.69235229492188,
+      "y_raw": 408.63165283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Spline Hermite",
+      "type": "section",
+      "x_raw": 294.0751647949219,
+      "y_raw": 412.62774658203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_26",
+      "label": "Linear Velocity",
+      "type": "skill",
+      "x_raw": 593.3134765625,
+      "y_raw": 432.13946533203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Orthogonal",
+      "type": "skill",
+      "x_raw": 45.637664794921875,
+      "y_raw": 441.66680908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Euler Angle",
+      "type": "skill",
+      "x_raw": 136.11813354492188,
+      "y_raw": 442.29962158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Bezier Catmull-Rom",
+      "type": "section",
+      "x_raw": 293.2900085449219,
+      "y_raw": 446.29571533203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Dynamics",
+      "type": "skill",
+      "x_raw": 605.0556640625,
+      "y_raw": 465.81915283203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Unity 3D",
+      "type": "skill",
+      "x_raw": 57.766571044921875,
+      "y_raw": 488.22540283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "Game Physics",
+      "type": "skill",
+      "x_raw": 594.2744140625,
+      "y_raw": 521.0379028320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Game Engine",
+      "type": "skill",
+      "x_raw": 213.36813354492188,
+      "y_raw": 521.0379028320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Unreal Engine",
+      "type": "skill",
+      "x_raw": 43.504852294921875,
+      "y_raw": 521.8933715820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Native",
+      "type": "skill",
+      "x_raw": 62.899383544921875,
+      "y_raw": 553.3347778320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Godot",
+      "type": "skill",
+      "x_raw": 63.614227294921875,
+      "y_raw": 584.7879028320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Collision Detection",
+      "type": "skill",
+      "x_raw": 582.0751953125,
+      "y_raw": 585.5379028320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "SAT",
+      "type": "section",
+      "x_raw": 359.7704772949219,
+      "y_raw": 585.9597778320312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "CCD",
+      "type": "skill",
+      "x_raw": 616.2939453125,
+      "y_raw": 619.2058715820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Intersection",
+      "type": "skill",
+      "x_raw": 457.6806335449219,
+      "y_raw": 619.5808715820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "GJK",
+      "type": "section",
+      "x_raw": 358.5751647949219,
+      "y_raw": 619.6277465820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "Programming Languages C/C++ C#",
+      "type": "skill",
+      "x_raw": 49.586883544921875,
+      "y_raw": 649.6394653320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Narrow Phase",
+      "type": "skill",
+      "x_raw": 593.5830078125,
+      "y_raw": 653.2488403320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Convexity",
+      "type": "skill",
+      "x_raw": 463.4228210449219,
+      "y_raw": 653.3074340820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "EPA",
+      "type": "section",
+      "x_raw": 359.1259460449219,
+      "y_raw": 653.3074340820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Rust Python",
+      "type": "skill",
+      "x_raw": 45.719696044921875,
+      "y_raw": 683.3074340820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Broad Phase",
+      "type": "skill",
+      "x_raw": 596.3955078125,
+      "y_raw": 686.9168090820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Convex",
+      "type": "skill",
+      "x_raw": 468.7782897949219,
+      "y_raw": 700.6746215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Convex Hull",
+      "type": "section",
+      "x_raw": 327.2275085449219,
+      "y_raw": 700.6746215820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "GDScript",
+      "type": "skill",
+      "x_raw": 65.66500854492188,
+      "y_raw": 716.9754028320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Concave",
+      "type": "skill",
+      "x_raw": 465.3095397949219,
+      "y_raw": 735.0574340820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Convex Decomposition",
+      "type": "section",
+      "x_raw": 299.9696960449219,
+      "y_raw": 735.0574340820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Getting deeper",
+      "type": "skill",
+      "x_raw": 76.55172729492188,
+      "y_raw": 765.7521362304688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Bounding Volume AABB OBB",
+      "type": "skill",
+      "x_raw": 436.3642272949219,
+      "y_raw": 776.2839965820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Spatial Partitioning Sort & Sweep",
+      "type": "skill",
+      "x_raw": 445.7157897949219,
+      "y_raw": 812.1433715820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Computer Animation",
+      "type": "section",
+      "x_raw": 291.5321960449219,
+      "y_raw": 827.4011840820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "BVH DBVT",
+      "type": "skill",
+      "x_raw": 434.5361022949219,
+      "y_raw": 845.8113403320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Color",
+      "type": "section",
+      "x_raw": 328.3056335449219,
+      "y_raw": 861.0691528320312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Stencil Shadow",
+      "type": "skill",
+      "x_raw": 611.9580078125,
+      "y_raw": 873.2918090820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Ray Tracing",
+      "type": "skill",
+      "x_raw": 66.19235229492188,
+      "y_raw": 878.3777465820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Visual Perception",
+      "type": "section",
+      "x_raw": 299.0204772949219,
+      "y_raw": 894.7488403320312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Rasterization",
+      "type": "skill",
+      "x_raw": 62.454071044921875,
+      "y_raw": 912.0457153320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Lighting and Shadow",
+      "type": "skill",
+      "x_raw": 547.3994140625,
+      "y_raw": 920.6941528320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Tone Reproduction",
+      "type": "section",
+      "x_raw": 294.8837585449219,
+      "y_raw": 928.4168090820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_65",
+      "label": "Graphics Pipeline",
+      "type": "skill",
+      "x_raw": 51.614227294921875,
+      "y_raw": 945.7136840820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Shadow Map",
+      "type": "skill",
+      "x_raw": 510.2509460449219,
+      "y_raw": 954.3621215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Light Source",
+      "type": "skill",
+      "x_raw": 614.5009765625,
+      "y_raw": 954.3621215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Sampling",
+      "type": "skill",
+      "x_raw": 72.08688354492188,
+      "y_raw": 979.3933715820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Computer Graphics",
+      "type": "skill",
+      "x_raw": 247.30563354492188,
+      "y_raw": 980.2488403320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "D Cube",
+      "type": "section",
+      "x_raw": 504.6142272949219,
+      "y_raw": 988.0300903320312,
+      "is_trunk": true,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Directional",
+      "type": "skill",
+      "x_raw": 599.1376953125,
+      "y_raw": 988.0300903320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Spot",
+      "type": "skill",
+      "x_raw": 670.7041015625,
+      "y_raw": 988.0300903320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Shader",
+      "type": "skill",
+      "x_raw": 77.07907104492188,
+      "y_raw": 1014.8777465820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Cascaded",
+      "type": "skill",
+      "x_raw": 516.7197265625,
+      "y_raw": 1021.7097778320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Point",
+      "type": "skill",
+      "x_raw": 669.5439453125,
+      "y_raw": 1021.7097778320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Infinite",
+      "type": "skill",
+      "x_raw": 608.8408203125,
+      "y_raw": 1021.7097778320312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "HLSL GLSL",
+      "type": "skill",
+      "x_raw": 260.2782897949219,
+      "y_raw": 1043.776123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "SPIR-V",
+      "type": "section",
+      "x_raw": 372.6142272949219,
+      "y_raw": 1043.905029296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Rendering Equation",
+      "type": "skill",
+      "x_raw": 45.625946044921875,
+      "y_raw": 1049.178466796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Visibility and Occlusion",
+      "type": "skill",
+      "x_raw": 544.0830078125,
+      "y_raw": 1065.502685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "DirectX OpenGL",
+      "type": "skill",
+      "x_raw": 255.87203979492188,
+      "y_raw": 1077.444091796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Vulkan",
+      "type": "section",
+      "x_raw": 373.8446960449219,
+      "y_raw": 1077.572998046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Reflection",
+      "type": "skill",
+      "x_raw": 100.45797729492188,
+      "y_raw": 1084.123779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Mapping",
+      "type": "skill",
+      "x_raw": 37.938446044921875,
+      "y_raw": 1084.123779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Occluder Culling Clipping",
+      "type": "skill",
+      "x_raw": 509.5595397949219,
+      "y_raw": 1099.170654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Graphics API",
+      "type": "section",
+      "x_raw": 284.1611022949219,
+      "y_raw": 1126.791748046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_87",
+      "label": "Diffuse",
+      "type": "skill",
+      "x_raw": 108.22750854492188,
+      "y_raw": 1130.600341796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Texture",
+      "type": "skill",
+      "x_raw": 41.372039794921875,
+      "y_raw": 1130.600341796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Fog Frustum",
+      "type": "skill",
+      "x_raw": 522.5556640625,
+      "y_raw": 1132.838623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Polygon",
+      "type": "skill",
+      "x_raw": 645.5791015625,
+      "y_raw": 1132.838623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Specular",
+      "type": "skill",
+      "x_raw": 103.78610229492188,
+      "y_raw": 1164.139404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Bump",
+      "type": "skill",
+      "x_raw": 45.028289794921875,
+      "y_raw": 1164.268310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Light",
+      "type": "skill",
+      "x_raw": 585.2041015625,
+      "y_raw": 1166.506591796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Polyhedron",
+      "type": "skill",
+      "x_raw": 637.4462890625,
+      "y_raw": 1166.506591796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "OpenGL ES",
+      "type": "section",
+      "x_raw": 302.3837585449219,
+      "y_raw": 1172.178466796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_96",
+      "label": "Parallax",
+      "type": "skill",
+      "x_raw": 40.247039794921875,
+      "y_raw": 1197.936279296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Shadow",
+      "type": "skill",
+      "x_raw": 578.2783203125,
+      "y_raw": 1200.186279296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "WebGL",
+      "type": "section",
+      "x_raw": 340.2939147949219,
+      "y_raw": 1205.858154296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_99",
+      "label": "Metal",
+      "type": "section",
+      "x_raw": 291.2040710449219,
+      "y_raw": 1205.858154296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_100",
+      "label": "Horizon",
+      "type": "skill",
+      "x_raw": 40.481414794921875,
+      "y_raw": 1231.615966796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Game AI Decision Making",
+      "type": "skill",
+      "x_raw": 340.5048522949219,
+      "y_raw": 1274.342529296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "Movement",
+      "type": "skill",
+      "x_raw": 624.6142578125,
+      "y_raw": 1274.658935546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Naive Bayes Classifier",
+      "type": "skill",
+      "x_raw": 49.282196044921875,
+      "y_raw": 1296.795654296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Decision Tree",
+      "type": "skill",
+      "x_raw": 490.8915710449219,
+      "y_raw": 1308.010498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Maximise your skills Decision Learning",
+      "type": "skill",
+      "x_raw": 59.161102294921875,
+      "y_raw": 1329.772216796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Board Game",
+      "type": "skill",
+      "x_raw": 619.4228515625,
+      "y_raw": 1339.147216796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "State Machine",
+      "type": "skill",
+      "x_raw": 489.3798522949219,
+      "y_raw": 1341.678466796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Reinforcements Learning",
+      "type": "skill",
+      "x_raw": 41.536102294921875,
+      "y_raw": 1364.131591796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Minimax",
+      "type": "skill",
+      "x_raw": 630.1220703125,
+      "y_raw": 1374.022216796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Behavior Tree",
+      "type": "skill",
+      "x_raw": 490.3173522949219,
+      "y_raw": 1375.358154296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "Decision Tree Learning",
+      "type": "skill",
+      "x_raw": 46.657196044921875,
+      "y_raw": 1397.811279296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Game AI",
+      "type": "section",
+      "x_raw": 340.5048522949219,
+      "y_raw": 1403.295654296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "Learning",
+      "type": "skill",
+      "x_raw": 227.52438354492188,
+      "y_raw": 1403.295654296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "AB Pruning",
+      "type": "skill",
+      "x_raw": 623.1376953125,
+      "y_raw": 1407.701904296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Fuzzy Logic",
+      "type": "skill",
+      "x_raw": 496.5048522949219,
+      "y_raw": 1409.026123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Deep Learning",
+      "type": "skill",
+      "x_raw": 67.01266479492188,
+      "y_raw": 1431.479248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "MCTS",
+      "type": "skill",
+      "x_raw": 635.3955078125,
+      "y_raw": 1441.369873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Markov System",
+      "type": "skill",
+      "x_raw": 487.8095397949219,
+      "y_raw": 1442.694091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "Artificial Neural Network",
+      "type": "skill",
+      "x_raw": 44.606414794921875,
+      "y_raw": 1465.147216796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "Goal Oriented Behavior",
+      "type": "skill",
+      "x_raw": 467.0790710449219,
+      "y_raw": 1476.362060546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Advanced Rendering Real-time Ray Tracing",
+      "type": "skill",
+      "x_raw": 309.9423522949219,
+      "y_raw": 1530.373779296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "Physically-Based Rendering",
+      "type": "skill",
+      "x_raw": 48.180633544921875,
+      "y_raw": 1530.373779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "Microsurface Scattering",
+      "type": "skill",
+      "x_raw": 58.305633544921875,
+      "y_raw": 1587.069091796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "DirectX Ray Tracing",
+      "type": "skill",
+      "x_raw": 571.4462890625,
+      "y_raw": 1590.162841796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Translucency & Transparency",
+      "type": "skill",
+      "x_raw": 45.309539794921875,
+      "y_raw": 1620.737060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Visit the following relevant roadmaps",
+      "type": "skill",
+      "x_raw": 272.3603210449219,
+      "y_raw": 1622.869873046875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_127",
+      "label": "Vulkan Ray Tracing",
+      "type": "skill",
+      "x_raw": 573.3095703125,
+      "y_raw": 1623.830810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "Conservation of Energy",
+      "type": "skill",
+      "x_raw": 59.383758544921875,
+      "y_raw": 1654.405029296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "Backend",
+      "type": "section",
+      "x_raw": 289.2587585449219,
+      "y_raw": 1656.256591796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_130",
+      "label": "API Design",
+      "type": "section",
+      "x_raw": 387.0165710449219,
+      "y_raw": 1656.256591796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_131",
+      "label": "OptiX",
+      "type": "skill",
+      "x_raw": 606.0048828125,
+      "y_raw": 1657.498779296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Metallicity",
+      "type": "skill",
+      "x_raw": 92.17282104492188,
+      "y_raw": 1688.084716796875,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_25",
+      "type": "trunk"
+    },
+    {
+      "source": "node_25",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "trunk"
+    },
+    {
+      "source": "node_41",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_41",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "trunk"
+    },
+    {
+      "source": "node_64",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_64",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_78",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_86",
+      "type": "trunk"
+    },
+    {
+      "source": "node_86",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_86",
+      "target": "node_95",
+      "type": "trunk"
+    },
+    {
+      "source": "node_95",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_95",
+      "target": "node_98",
+      "type": "trunk"
+    },
+    {
+      "source": "node_98",
+      "target": "node_99",
+      "type": "trunk"
+    },
+    {
+      "source": "node_99",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_129",
+      "type": "trunk"
+    },
+    {
+      "source": "node_129",
+      "target": "node_130",
+      "type": "trunk"
+    },
+    {
+      "source": "node_130",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_130",
+      "target": "node_132",
+      "type": "branch"
+    }
+  ]
+}

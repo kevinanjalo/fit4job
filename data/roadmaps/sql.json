@@ -1,0 +1,132 @@
+{
+ "domain": "Sql",
+ "stages": [
+  {
+   "name": "SQL",
+   "skills": [
+    "We just launched our premium SQL"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "Learn the Basics",
+   "skills": [
+    "What are Relational Databases?",
+    "RDBMS Benefits and Limitations",
+    "SQL Keywords",
+    "SQL vs NoSQL Databases"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "Basic SQL Syntax",
+   "skills": [
+    "Data Types",
+    "Data Definition Language (DDL)",
+    "Operators",
+    "SELECT INSERT",
+    "Truncate Table",
+    "UPDATE DELETE",
+    "Data Manipulation Language (DML)"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "FROM WHERE",
+   "skills": [
+    "Alter Table",
+    "Statements",
+    "Create Table",
+    "Select",
+    "Drop Table",
+    "SUM COUNT",
+    "JOINs",
+    "AVG MIN",
+    "Primary Key",
+    "ORDER BY GROUP BY HAVING",
+    "Aggregate Queries",
+    "MAX",
+    "Foreign Key",
+    "INSERT UPDATE DELETE"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "Data Integrity Constraints",
+   "skills": [
+    "RIGHT JOIN",
+    "FLOOR ABS MOD",
+    "CONCAT LENGTH",
+    "FULL OUTER JOIN",
+    "Advanced Functions",
+    "ROUND CEILING",
+    "SUBSTRING REPLACE",
+    "Self Join",
+    "Numeric Functions",
+    "UPPER LOWER",
+    "Cross Join",
+    "CASE NULLIF",
+    "String Functions",
+    "Views"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "GRANT and Revoke",
+   "skills": [
+    "BEGIN",
+    "ACID",
+    "rank",
+    "COMMIT",
+    "DB Security Best Practices",
+    "dense_rank",
+    "ROLLBACK",
+    "Performance Optimization",
+    "lead lag",
+    "SAVEPOINT",
+    "Row_number"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "Advanced SQL",
+   "skills": [
+    "Query Analysis Techniques",
+    "Window Functions",
+    "Using Indexes",
+    "Recursive Queries",
+    "Optimizing Joins",
+    "Pivot / Unpivot Operations",
+    "Reducing Subqueries",
+    "Common Table Expressions",
+    "Selective Projection",
+    "Dynamic SQL",
+    "Query Optimization Techniques"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  },
+  {
+   "name": "Backend MongoDB",
+   "skills": [
+    "PostgreSQL"
+   ],
+   "resources": [
+    "roadmap.sh/sql"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "domain": "Linux",
+ "stages": [
+  {
+   "name": "Linux",
+   "skills": [
+    "Find the interactive version of this"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Navigation Basics",
+   "skills": [
+    "Basic Commands",
+    "Moving Files / Directories"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Editing Files",
+   "skills": [
+    "Creating & Deleting Files / Dirs",
+    "Vim Nano",
+    "Directory Hierarchy Overview",
+    "Command Path",
+    "stdout / stdin / stderr cut",
+    "Environment Variables",
+    "paste sort head tr",
+    "Shell and Other Basics",
+    "Command Help",
+    "tail join split pipe"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Working with Files",
+   "skills": [
+    "Redirects",
+    "tee nl wc expand",
+    "Super User",
+    "unexpand uniq grep awk",
+    "File Permissions",
+    "Archiving and Compressing",
+    "Text Processing",
+    "Copying and Renaming",
+    "Soft Links / Hard Links"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Process Management",
+   "skills": [
+    "Server Review",
+    "Background / Foreground Processes",
+    "Uptime and Load",
+    "User Management",
+    "Listing / Finding Processes",
+    "Authentication Logs",
+    "Create / Delete / Update"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Creating New Services",
+   "skills": [
+    "Process Signals Killing Processes",
+    "Services Running",
+    "Users and Groups",
+    "Process Priorities Process Forking",
+    "Available Memory / Disk",
+    "Managing Permissions",
+    "Inodes Filesystems"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Checking Service Logs",
+   "skills": [
+    "Service Management (systemd)",
+    "Mounts",
+    "LVM",
+    "Starting / Stopping Services"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Checking Service Status",
+   "skills": [
+    "Swap",
+    "Adding Disks",
+    "Package Management",
+    "Disks and Filesystems"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Logs",
+   "skills": [
+    "Package Repositories",
+    "Snap"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Boot Loaders",
+   "skills": [
+    "Finding & Installing Packages",
+    "Booting Linux"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "TCP/IP Stack",
+   "skills": [
+    "Listing Installed Packages",
+    "Install / Remove / Upgrade Packages"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Ethernet & arp/rarp",
+   "skills": [
+    "Networking"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "DHCP IP Routing",
+   "skills": [
+    "Literals Variables"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "DNS Resolution",
+   "skills": [
+    "Loops Conditionals"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Netfilter SSH",
+   "skills": [
+    "Debugging"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "File Transfer",
+   "skills": [
+    "Shell Programming"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "traceroute",
+   "skills": [
+    "ulimits cgroups"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "netstat",
+   "skills": [
+    "Troubleshooting",
+    "Container Runtime"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  },
+  {
+   "name": "Packet Analysis",
+   "skills": [
+    "Docker",
+    "Containerization",
+    "DevOps Backend Docker"
+   ],
+   "resources": [
+    "roadmap.sh/linux"
+   ]
+  }
+ ]
+}

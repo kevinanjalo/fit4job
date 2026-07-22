@@ -1,0 +1,385 @@
+{
+ "domain": "Devrel",
+ "stages": [
+  {
+   "name": "DevRel",
+   "skills": [
+    "Shout-out to Arindam who helped",
+    "Advocacy",
+    "History and Evolution"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "What is DevRel?",
+   "skills": [
+    "Education",
+    "Importance of DevRel",
+    "Community Support",
+    "Developer Experience",
+    "Content Creation",
+    "Developer Journey",
+    "Feedback Loop",
+    "Developer Marketing",
+    "Key Concepts Key Responsibilities"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Writing Skills",
+   "skills": [
+    "Communication Skills Public Speaking",
+    "JavaScript",
+    "Node.js",
+    "Go Rust",
+    "Presentation Techniques",
+    "Python"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Social Media",
+   "skills": [
+    "Rules of Three",
+    "Basic Programming Skills",
+    "PechaKucha"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Blog Posts",
+   "skills": [
+    "Storytelling",
+    "Mind Mapping",
+    "Technical Skills"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Community Engagement",
+   "skills": [
+    "Visualization"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Networking",
+   "skills": [
+    "IDEs",
+    "Engaging Audience"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Online Communities",
+   "skills": [
+    "The Hook",
+    "JetBrains IDEs"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Event Participation",
+   "skills": [
+    "Contrast Principle",
+    "VS Code"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "APIs & SDKs",
+   "skills": [
+    "Handouts",
+    "Managing Discussions",
+    "Repetition & Reinforcement",
+    "Issues & Pull Requests"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Understanding APIs",
+   "skills": [
+    "Handling Q&A",
+    "Labelling and Cleanup"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Building SDKs",
+   "skills": [
+    "Active Listening",
+    "Milestones & Releases",
+    "Anticipate Questions",
+    "Public Backlog"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "API Design",
+   "skills": [
+    "Be Concise",
+    "Git GitHub",
+    "Managing Difficult Questions"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Community Building",
+   "skills": [
+    "Version Control"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Building a Community",
+   "skills": [
+    "Identifying Audience",
+    "Recognition Programs",
+    "Platform Selection",
+    "Encouraging Participation",
+    "Initial Outreach"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Feedback Collection",
+   "skills": [
+    "Conflict Resolution",
+    "Community Guidelines",
+    "Moderation"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Surveys",
+   "skills": [
+    "Code of Conduct"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Post Event Followup",
+   "skills": [
+    "Rules and Policies Community Management"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Promotion",
+   "skills": [
+    "Collaborations"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Planning",
+   "skills": [
+    "Cross-Promotion",
+    "Technical Setup"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Event Management",
+   "skills": [
+    "Guest Blogging",
+    "Video",
+    "SEO Basics",
+    "Audio"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Animations & Graphics",
+   "skills": [
+    "Writing Process",
+    "Animations & Graphics"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Editing",
+   "skills": [
+    "Topic Selection",
+    "Twitch Streamyard"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Recording",
+   "skills": [
+    "X YouTube"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Scripting",
+   "skills": [
+    "Blogging",
+    "Platform Selection"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Video Production",
+   "skills": [
+    "Content Creation",
+    "Video Production Live Streaming",
+    "Social Media",
+    "API References"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Consistent Posting",
+   "skills": [
+    "User Guides",
+    "Code Samples",
+    "X LinkedIn",
+    "Example Apps",
+    "Sample Projects",
+    "Platform Selection"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Engaging Content",
+   "skills": [
+    "Use Case Based",
+    "Content Strategy"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Creating Brand Voice",
+   "skills": [
+    "Analytics and Optimization",
+    "Forums"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Community Growth",
+   "skills": [
+    "Tracking Engagement",
+    "Support",
+    "Issue Tracking",
+    "Data-Driven Strategy Shift",
+    "FAQs"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Engagement Rates",
+   "skills": [
+    "Office Hours",
+    "Platform Specific Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Content Performance",
+   "skills": [
+    "Webinars",
+    "Social Media Analytics"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Developer Satisfaction",
+   "skills": [
+    "Live Support",
+    "Google Analytics",
+    "Metrics & Analytics Key Metrics",
+    "Tools",
+    "Reporting",
+    "Regular Reports"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  },
+  {
+   "name": "Networking Strategies",
+   "skills": [
+    "Data Visualization",
+    "Career Development Thought Leadership",
+    "Insights & Recommendations",
+    "Publishing",
+    "Media Appearances",
+    "Building a Personal Brand",
+    "Meetups",
+    "Conference Speaking",
+    "Online Communities",
+    "Open-Source Continuous Learning"
+   ],
+   "resources": [
+    "roadmap.sh/devrel"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "domain": "Css",
+ "stages": [
+  {
+   "name": "CSS",
+   "skills": [
+    "HTML JavaScript CSS"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Frontend development Inline CSS"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "CSS Basics",
+   "skills": [
+    "Internal CSS",
+    "Properties & Values",
+    "External CSS",
+    "Selector Declaration"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Syntax Basics",
+   "skills": [
+    "Cascading order",
+    "Rules"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Combinator selectors",
+   "skills": [
+    "Comments",
+    "Simple selectors",
+    "Attribute selectors"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "descendant",
+   "skills": [
+    "Fonts",
+    "element",
+    "Font families"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Next Sibling",
+   "skills": [
+    "class",
+    "id",
+    "Font style"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Subsequent Sibling",
+   "skills": [
+    "universal",
+    "grouping",
+    "Font Size"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Text Styling",
+   "skills": [
+    "Font Shorthand",
+    "Color Direction",
+    "Google Fonts",
+    "Text Alignment",
+    "Font Variant",
+    "Text Decoration"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Opacity",
+   "skills": [
+    "Text Transform",
+    "Background Color",
+    "Text Spacing",
+    "Background Image",
+    "Line Height Background"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "rgb",
+   "skills": [
+    "Background Gradient",
+    "Colors Text Shadows",
+    "Background Position"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Named Colors",
+   "skills": [
+    "Box Model",
+    "Background Attachment"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "rgba, hsla",
+   "skills": [
+    "Padding",
+    "Margin",
+    "Relative Absolute",
+    "Width / Height"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "inline block",
+   "skills": [
+    "Sticky Fixed Static",
+    "Border",
+    "Outline"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Display",
+   "skills": [
+    "Box Shadows",
+    "Position",
+    "CSS Units"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "inline-block",
+   "skills": [
+    "Z-Index / Stacking Context"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "none visibility",
+   "skills": [
+    "Absolute vs Relative",
+    "CSS Specificity",
+    "Units with functions",
+    "Tables",
+    "Lists"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Floating Elements",
+   "skills": [
+    "Pseudo Classes Pseudo Elements",
+    "Images and Filters"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Multicolumn layout",
+   "skills": [
+    "Layouts",
+    "Transforms"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Flexbox",
+   "skills": [
+    "Keyframe Animations"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Grid",
+   "skills": [
+    "Transitions",
+    "Layouting Techniques Flow Layout",
+    "Animations"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Performance",
+   "skills": [
+    "Reponsiveness",
+    "CSS Functions CSS Variables",
+    "Best Practices",
+    "Media Queries"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  },
+  {
+   "name": "Accessibility",
+   "skills": [
+    "Container Queries",
+    "Responsive typography",
+    "Methodologies",
+    "Sass",
+    "PostCSS BEM",
+    "Frontend HTML JavaScript",
+    "CSS Modules",
+    "CSS-in-JS"
+   ],
+   "resources": [
+    "roadmap.sh/css"
+   ]
+  }
+ ]
+}

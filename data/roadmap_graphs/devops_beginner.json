@@ -1,0 +1,1079 @@
+{
+  "topic": "Devops Beginner",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Devops Beginner",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "This is the beginner friendly version of",
+      "type": "skill",
+      "x_raw": 80.56198120117188,
+      "y_raw": 64.4693603515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "the DevOps roadmap. Make sure to",
+      "type": "skill",
+      "x_raw": 80.56198120117188,
+      "y_raw": 81.13236236572266,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 531.974609375,
+      "y_raw": 81.89403533935547,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "DevOps",
+      "type": "section",
+      "x_raw": 375.57440185546875,
+      "y_raw": 120.12759399414062,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "What is DevOps?",
+      "type": "skill",
+      "x_raw": 190.64089965820312,
+      "y_raw": 185.4088897705078,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Python",
+      "type": "skill",
+      "x_raw": 574.499267578125,
+      "y_raw": 204.26515197753906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "DevOps is all about bringing developers and operations teams together to improve software",
+      "type": "skill",
+      "x_raw": 56.774444580078125,
+      "y_raw": 211.64749145507812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Programming Language",
+      "type": "section",
+      "x_raw": 348.330078125,
+      "y_raw": 226.2715606689453,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "Go",
+      "type": "skill",
+      "x_raw": 584.2485961914062,
+      "y_raw": 238.891845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "delivery. The key focus areas are automation,",
+      "type": "skill",
+      "x_raw": 68.304931640625,
+      "y_raw": 244.96177673339844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "infrastructure and monitoring.",
+      "type": "skill",
+      "x_raw": 143.58139038085938,
+      "y_raw": 261.624755859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Look at the FAQs below for more details",
+      "type": "skill",
+      "x_raw": 92.30340576171875,
+      "y_raw": 289.5956115722656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Pick any Programming Language",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 305.4246826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "You can pick any programming language.",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 328.0658264160156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Operating System Linux",
+      "type": "section",
+      "x_raw": 245.87957763671875,
+      "y_raw": 342.5141296386719,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_15",
+      "label": "The goal is to learn the programming skills",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 344.7288513183594,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "that you can use to write automation",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 361.3918151855469,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "scripts.",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 378.0548400878906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Learn about the file system, package",
+      "type": "skill",
+      "x_raw": 118.3525390625,
+      "y_raw": 388.03857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "managers, managing services, checking logs,",
+      "type": "skill",
+      "x_raw": 76.46066284179688,
+      "y_raw": 404.7015686035156,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Learn about DNS, TCP/IP Protocols, SSH,",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 412.5526428222656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "bash scripting, permissions, pipes, output",
+      "type": "skill",
+      "x_raw": 97.2952880859375,
+      "y_raw": 421.3645935058594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Ports, Gateways, Routing, IP Addressing,",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 429.2156066894531,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "redirection, text manipulation tools, process",
+      "type": "skill",
+      "x_raw": 85.6827392578125,
+      "y_raw": 438.0275573730469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "and subnetting.",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 445.8786315917969,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Networking & Protocols",
+      "type": "section",
+      "x_raw": 350.2518310546875,
+      "y_raw": 451.2337341308594,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_26",
+      "label": "monitoring, networking tools, CLI editors etc.",
+      "type": "skill",
+      "x_raw": 81.22988891601562,
+      "y_raw": 454.6905822753906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Handy with deployments & troubleshooting",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 474.9510192871094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Pick Ubuntu if you have little to no experience.",
+      "type": "skill",
+      "x_raw": 75.87478637695312,
+      "y_raw": 483.4348449707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Learn about containerization. Be comfortable",
+      "type": "skill",
+      "x_raw": 76.355224609375,
+      "y_raw": 525.8657836914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "writing dockerfiles. Learn to troubleshoot. Get",
+      "type": "skill",
+      "x_raw": 75.93338012695312,
+      "y_raw": 542.5287475585938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Docker",
+      "type": "section",
+      "x_raw": 391.13592529296875,
+      "y_raw": 553.449951171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "familiar with Alpine Linux. Learn about",
+      "type": "skill",
+      "x_raw": 113.70050048828125,
+      "y_raw": 559.1917724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "security, network and storage.",
+      "type": "skill",
+      "x_raw": 154.7486572265625,
+      "y_raw": 575.854736328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Learn docker, networking, storage, and security.",
+      "type": "skill",
+      "x_raw": 69.26580810546875,
+      "y_raw": 604.6107177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "DevOps teams usually practice \"git ops\"",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 622.246337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "i.e. making changes to any operations",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 638.9093017578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "related activity require a pull request",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 655.5723266601562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "GitHub Git",
+      "type": "section",
+      "x_raw": 358.71221923828125,
+      "y_raw": 669.1066284179688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "against a git repository.",
+      "type": "skill",
+      "x_raw": 511.78448486328125,
+      "y_raw": 672.2353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Learn about git, create your GitHub profile.",
+      "type": "skill",
+      "x_raw": 515.1241455078125,
+      "y_raw": 699.7257690429688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Pick one of the cloud providers AWS, GCP or",
+      "type": "skill",
+      "x_raw": 80.73773193359375,
+      "y_raw": 735.2430419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Azure. Start with core services e.g. AWS VPC,",
+      "type": "skill",
+      "x_raw": 80.65573120117188,
+      "y_raw": 751.9060668945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "EC2, S3, IAM, and then RDS, Route53,",
+      "type": "skill",
+      "x_raw": 112.84506225585938,
+      "y_raw": 768.5690307617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "AWS",
+      "type": "section",
+      "x_raw": 395.9285888671875,
+      "y_raw": 781.0018310546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_45",
+      "label": "Cloudwatch and ECS.",
+      "type": "skill",
+      "x_raw": 196.53506469726562,
+      "y_raw": 785.2320556640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Create and deploy some application to AWS.",
+      "type": "skill",
+      "x_raw": 82.1204833984375,
+      "y_raw": 816.6831665039062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Learn what IaC means. Learn about terraform",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 835.0921630859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "and how to automate infrastructure creation.",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 851.755126953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Terraform",
+      "type": "section",
+      "x_raw": 383.0505065917969,
+      "y_raw": 876.7261962890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_50",
+      "label": "If you deployed an application to AWS in",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 880.1830444335938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Learn what is configuration management.",
+      "type": "skill",
+      "x_raw": 95.11572265625,
+      "y_raw": 889.7683715820312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "previous step, destroy the infrastructure and",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 896.8460083007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "Understand roles, playbooks, inventory",
+      "type": "skill",
+      "x_raw": 109.78668212890625,
+      "y_raw": 906.4313354492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "recreate it using terraform.",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 913.509033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "management and automation.",
+      "type": "skill",
+      "x_raw": 152.27615356445312,
+      "y_raw": 923.0943603515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Write some automation scripts e.g. db backup",
+      "type": "skill",
+      "x_raw": 70.6368408203125,
+      "y_raw": 951.627685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Ansible",
+      "type": "section",
+      "x_raw": 389.20245361328125,
+      "y_raw": 951.651123046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_58",
+      "label": "Learn about the concepts of CI/CD and how to",
+      "type": "skill",
+      "x_raw": 68.89083862304688,
+      "y_raw": 1010.8153076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "implement in your projects using some CI/CD",
+      "type": "skill",
+      "x_raw": 75.66384887695312,
+      "y_raw": 1027.478271484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "tool. There are several options available in this",
+      "type": "skill",
+      "x_raw": 71.90237426757812,
+      "y_raw": 1044.141357421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "GitHub Actions",
+      "type": "section",
+      "x_raw": 370.17242431640625,
+      "y_raw": 1047.91455078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "space, you can pick any one.",
+      "type": "skill",
+      "x_raw": 162.2130126953125,
+      "y_raw": 1060.8043212890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Nginx is commonly used for web servings, reverse proxying, caching, load balancing,",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 1068.7608642578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Integrate CI/CD into your app.",
+      "type": "skill",
+      "x_raw": 148.8779296875,
+      "y_raw": 1095.5482177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "media streaming and more.",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 1102.0750732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Learn the basic config options, TLS setup,",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 1128.8741455078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Nginx",
+      "type": "section",
+      "x_raw": 392.98736572265625,
+      "y_raw": 1137.2291259765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "rate limiting, caching etc.",
+      "type": "skill",
+      "x_raw": 493.9379577636719,
+      "y_raw": 1145.5372314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "At this point, you should have enough knowledge to find a",
+      "type": "skill",
+      "x_raw": 265.00335693359375,
+      "y_raw": 1224.0594482421875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "junior to mid-level (maybe even senior) DevOps position at",
+      "type": "skill",
+      "x_raw": 260.5739440917969,
+      "y_raw": 1240.7225341796875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "any company depending on the depth of your knowledge.",
+      "type": "skill",
+      "x_raw": 265.9173583984375,
+      "y_raw": 1257.385498046875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "Keep learning and building projects till you find a job. Your",
+      "type": "skill",
+      "x_raw": 264.08935546875,
+      "y_raw": 1274.0484619140625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "job will teach you a lot as well.",
+      "type": "skill",
+      "x_raw": 333.70599365234375,
+      "y_raw": 1290.7115478515625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_74",
+      "label": "Continue learning with following roadmap",
+      "type": "skill",
+      "x_raw": 304.5516052246094,
+      "y_raw": 1371.401611328125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "Visit Detailed DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 326.8978271484375,
+      "y_raw": 1404.6221923828125,
+      "is_trunk": false,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_14",
+      "type": "trunk"
+    },
+    {
+      "source": "node_14",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_25",
+      "type": "trunk"
+    },
+    {
+      "source": "node_25",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_44",
+      "type": "trunk"
+    },
+    {
+      "source": "node_44",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_49",
+      "type": "trunk"
+    },
+    {
+      "source": "node_49",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_49",
+      "target": "node_57",
+      "type": "trunk"
+    },
+    {
+      "source": "node_57",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_57",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_75",
+      "type": "branch"
+    }
+  ]
+}

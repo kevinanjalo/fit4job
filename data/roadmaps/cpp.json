@@ -1,0 +1,286 @@
+{
+ "domain": "Cpp",
+ "stages": [
+  {
+   "name": "C++",
+   "skills": [
+    "Beginner Topics / Start here",
+    "Intermediate Topics / Pick Next",
+    "Advanced Topics / Pick Later",
+    "Optional / Learn if you want",
+    "References"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Introduction to Language",
+   "skills": [
+    "What is C++?",
+    "Why use C++",
+    "C vs C++"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Basic Operations",
+   "skills": [
+    "Setting up your Environment",
+    "if else / switch / goto"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Arithmetic Operators",
+   "skills": [
+    "for / while / do while loops",
+    "Installing C++"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Logical Operators",
+   "skills": [
+    "Code Editors / IDEs",
+    "Bitwise Operators Control Flow & Statements",
+    "Running your First Program"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Data Types",
+   "skills": [
+    "Functions",
+    "Pointers and References"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Static Typing",
+   "skills": [
+    "Operator Overloading",
+    "References"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Dynamic Typing",
+   "skills": [
+    "Lambdas",
+    "Memory Model"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "RTTI",
+   "skills": [
+    "Static Polymorphism",
+    "Lifetime of Objects",
+    "Function Overloading"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Forward Declaration",
+   "skills": [
+    "Smart Pointers",
+    "weak_ptr",
+    "Headers / CPP Files",
+    "Virtual Methods Virtual Tables"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Namespaces",
+   "skills": [
+    "shared_ptr",
+    "Dynamic Polymorphism",
+    "unique_ptr"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Scope",
+   "skills": [
+    "Object Oriented Programming",
+    "Raw Pointers"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Structuring Codebase",
+   "skills": [
+    "New/Delete Operators",
+    "Structures and Classes",
+    "Memory Leakage"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Exception Handling",
+   "skills": [
+    "Multiple Inheritance",
+    "Diamond Inheritance",
+    "Language Concepts",
+    "Rule of Zero, Five, Three"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Exit Codes",
+   "skills": [
+    "auto (Automatic Type Deduction)"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Exceptions",
+   "skills": [
+    "Type Traits SFINAE",
+    "Type Casting"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Access Violations",
+   "skills": [
+    "Template Specialization",
+    "static_cast const_cast",
+    "Full Template Specialization",
+    "dynamic_cast reinterpret_cast",
+    "Partial Template Specialization",
+    "Undefined Behavior (UB)"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Iterators iostream",
+   "skills": [
+    "Variadic Templates",
+    "Standard Library + STL",
+    "Argument Dependent Lookup (ADL)",
+    "Name Mangling Macros",
+    "Templates",
+    "Algorithms Date / Time"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Multithreading Containers",
+   "skills": [
+    "WinDBg GDB",
+    "Debugging Symbols"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "C++ 11 / 14",
+   "skills": [
+    "Understanding Debugger Messages"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Standards",
+   "skills": [
+    "Debuggers Language Tools",
+    "Idioms"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "C++ 17",
+   "skills": [
+    "Non-Copyable / Non-Moveable",
+    "Compiler Stages"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "C++ 20",
+   "skills": [
+    "Compilers",
+    "Erase-Remove",
+    "Compilers and Features"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "Newest",
+   "skills": [
+    "C/lang++ / LLVM",
+    "Copy and Swap Copy on Write"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  },
+  {
+   "name": "C++ 0x",
+   "skills": [
+    "Intel C++",
+    "RAII Pimpl CRTP",
+    "MSVS C++",
+    "GCC",
+    "Licensing",
+    "Libraries",
+    "MinGW",
+    "Library Inclusion",
+    "Boost OpenCV",
+    "POCO",
+    "Tensorflow",
+    "Build Systems",
+    "Package Managers",
+    "Working with Libraries"
+   ],
+   "resources": [
+    "roadmap.sh/cpp"
+   ]
+  }
+ ]
+}

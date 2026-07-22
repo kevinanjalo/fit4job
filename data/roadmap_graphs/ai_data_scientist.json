@@ -1,0 +1,1065 @@
+{
+  "topic": "Ai Data Scientist",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Ai Data Scientist",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 489.60443115234375,
+      "y_raw": 81.637451171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Data Analyst Roadmap",
+      "type": "section",
+      "x_raw": 305.1527099609375,
+      "y_raw": 93.24777221679688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_2",
+      "label": "AI and Data Scientist",
+      "type": "skill",
+      "x_raw": 47.0374755859375,
+      "y_raw": 94.84259033203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Prompt Engineering Roadmap",
+      "type": "section",
+      "x_raw": 305.1527099609375,
+      "y_raw": 111.88044738769531,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "> >",
+      "type": "section",
+      "x_raw": 237.43057250976562,
+      "y_raw": 177.42422485351562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "2",
+      "type": "section",
+      "x_raw": 64.36936950683594,
+      "y_raw": 181.58592224121094,
+      "is_trunk": true,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Mathematics Statistics",
+      "type": "skill",
+      "x_raw": 95.08399200439453,
+      "y_raw": 182.18357849121094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Linear Algebra, Calculus, Mathematical Analysis",
+      "type": "skill",
+      "x_raw": 80.89269256591797,
+      "y_raw": 223.99575805664062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Statistics, CLT",
+      "type": "skill",
+      "x_raw": 395.22235107421875,
+      "y_raw": 223.99575805664062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Mathematics for Machine Learning Courses",
+      "type": "skill",
+      "x_raw": 88.34575653076172,
+      "y_raw": 255.0853729248047,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Coursera: Introduction to Statistics Course",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 255.0853729248047,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Differential Calculus",
+      "type": "skill",
+      "x_raw": 80.89269256591797,
+      "y_raw": 290.4639892578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Hypothesis Testing",
+      "type": "skill",
+      "x_raw": 395.22235107421875,
+      "y_raw": 290.4639892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Coursera: Hypothesis Testing Course",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 320.9442443847656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Coursera: Algebra and Differential Calculus Course",
+      "type": "skill",
+      "x_raw": 88.34575653076172,
+      "y_raw": 324.0496826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Probability and Sampling",
+      "type": "skill",
+      "x_raw": 395.22235107421875,
+      "y_raw": 353.2174377441406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Coursera: Probability and Statistics Course",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 379.95941162109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Econometrics",
+      "type": "section",
+      "x_raw": 84.61922454833984,
+      "y_raw": 380.61566162109375,
+      "is_trunk": true,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "AB Testing",
+      "type": "section",
+      "x_raw": 395.22235107421875,
+      "y_raw": 417.2013244628906,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_19",
+      "label": "Pre-requisites of Econometrics",
+      "type": "skill",
+      "x_raw": 80.89269256591797,
+      "y_raw": 421.0567626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Fundamentals of Econometrics Book",
+      "type": "skill",
+      "x_raw": 88.34575653076172,
+      "y_raw": 447.7987365722656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Practitioner's Guide to Statistical Tests Article",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 448.2909240722656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Experiment Design Article Article",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 481.8414611816406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Regression, Timeseries, Fitting Distributions",
+      "type": "skill",
+      "x_raw": 80.89269256591797,
+      "y_raw": 485.3453369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Increasing Test Sensitivity",
+      "type": "skill",
+      "x_raw": 397.08563232421875,
+      "y_raw": 515.3568725585938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Intro to Econometrics Book",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 516.1303100585938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Minimum Detectable Effect Article",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 542.0988159179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Coursera: Econometrics Course",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 549.0597534179688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Paper: Improving Test Sensitivity Paper",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 575.0282592773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Kaggle: Learn Time Series Course",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 594.4109497070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Paper: Improving Sensitivity (CUPED) Paper",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 607.9459838867188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Kaggle: Time Series Basics Tutorial",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 627.3286743164062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "CUPED at Booking.com Article",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 640.8754272460938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "ARIMA model for Time Series Tutorial",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 660.2581176757812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Doordash: CUPAC Article",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 673.8048706054688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Time Series Models Tutorial",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 693.1875610351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Netflix: Stratification Paper",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 706.7225952148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Forecasting Task with Solution OpenSource",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 726.1052856445312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "Ratio Metrics",
+      "type": "skill",
+      "x_raw": 397.08563232421875,
+      "y_raw": 743.3434448242188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Coursera: Linear Regression Course",
+      "type": "skill",
+      "x_raw": 91.46292114257812,
+      "y_raw": 767.7299194335938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Microsoft: Delta Method in Metric Analytics Paper",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 773.1908569335938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Paper: Ratio Metrics Paper",
+      "type": "skill",
+      "x_raw": 399.5816955566406,
+      "y_raw": 806.1203002929688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Coding 4",
+      "type": "skill",
+      "x_raw": 91.67385864257812,
+      "y_raw": 828.2803344726562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "< <",
+      "type": "skill",
+      "x_raw": 415.1089172363281,
+      "y_raw": 840.841064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Learn Python Programming Language",
+      "type": "skill",
+      "x_raw": 63.724853515625,
+      "y_raw": 866.0377807617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Exploratory Data Analysis 5",
+      "type": "skill",
+      "x_raw": 379.07403564453125,
+      "y_raw": 885.6431274414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Learn Python: Kaggle Course",
+      "type": "skill",
+      "x_raw": 68.57637023925781,
+      "y_raw": 898.4047241210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Data understanding, Data Analysis and Visualization",
+      "type": "skill",
+      "x_raw": 373.5545349121094,
+      "y_raw": 924.4553833007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Google's Python Class Course",
+      "type": "skill",
+      "x_raw": 68.57637023925781,
+      "y_raw": 931.9435424804688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Exploratory Data Analysis with Python and Pandas Course",
+      "type": "skill",
+      "x_raw": 382.8708801269531,
+      "y_raw": 955.7324829101562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Data Structures and Algorithms (Python)",
+      "type": "skill",
+      "x_raw": 64.42796325683594,
+      "y_raw": 972.4784545898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Exploratory Data Analysis for Machine Learning Course",
+      "type": "skill",
+      "x_raw": 382.8708801269531,
+      "y_raw": 988.6619262695312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Algorithmic Excercises Tutorial + Challenges",
+      "type": "skill",
+      "x_raw": 68.57637023925781,
+      "y_raw": 1003.3805541992188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Exploratory Data Analysis with Seaborn Course",
+      "type": "skill",
+      "x_raw": 382.8708801269531,
+      "y_raw": 1021.5796508789062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Study Plans - Leetcode Challenges",
+      "type": "skill",
+      "x_raw": 68.57637023925781,
+      "y_raw": 1037.4232177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Machine Learning 6",
+      "type": "skill",
+      "x_raw": 395.22235107421875,
+      "y_raw": 1062.6885986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Algorithms Specialization Course",
+      "type": "skill",
+      "x_raw": 68.57637023925781,
+      "y_raw": 1070.9737548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Classic ML (Sup., Unsup.), Advanced ML (Ensembles, NNs)",
+      "type": "skill",
+      "x_raw": 373.5545349121094,
+      "y_raw": 1105.356201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Learn SQL",
+      "type": "skill",
+      "x_raw": 64.42796325683594,
+      "y_raw": 1109.387451171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Open Machine Learning Course - Open Data Science Course",
+      "type": "skill",
+      "x_raw": 379.14434814453125,
+      "y_raw": 1136.44580078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "SQL Tutorial Course",
+      "type": "skill",
+      "x_raw": 68.57637023925781,
+      "y_raw": 1142.86767578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Machine Learning Specialization Course",
+      "type": "skill",
+      "x_raw": 379.14434814453125,
+      "y_raw": 1168.672119140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Deep Learning 7",
+      "type": "skill",
+      "x_raw": 91.67385864257812,
+      "y_raw": 1188.4298095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Pattern Recognition & ML by Christopher m. Bishop eBook",
+      "type": "skill",
+      "x_raw": 379.14434814453125,
+      "y_raw": 1212.32421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Fully Connected, CNN, RNN, LSTM, Transformers, TL",
+      "type": "skill",
+      "x_raw": 63.502197265625,
+      "y_raw": 1232.163818359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "GitHub repository with notes & code from the eBook above",
+      "type": "skill",
+      "x_raw": 379.14434814453125,
+      "y_raw": 1245.1480712890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Deep Learning Specialization Courses",
+      "type": "skill",
+      "x_raw": 66.60763549804688,
+      "y_raw": 1263.76904296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "MLOps",
+      "type": "section",
+      "x_raw": 420.07763671875,
+      "y_raw": 1295.245361328125,
+      "is_trunk": true,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Deep Learning Book eBook",
+      "type": "skill",
+      "x_raw": 66.60763549804688,
+      "y_raw": 1296.698486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Deployment Models, CI/CD",
+      "type": "skill",
+      "x_raw": 382.8005676269531,
+      "y_raw": 1328.9716796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Attention is all you need Paper",
+      "type": "skill",
+      "x_raw": 66.60763549804688,
+      "y_raw": 1329.6279296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "MLOps Specialization Courses",
+      "type": "skill",
+      "x_raw": 388.460693359375,
+      "y_raw": 1360.061279296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "The Illustrated Transformer Article",
+      "type": "skill",
+      "x_raw": 66.60763549804688,
+      "y_raw": 1362.545654296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "> >",
+      "type": "skill",
+      "x_raw": 106.59171295166016,
+      "y_raw": 1406.8406982421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Keep Learning",
+      "type": "section",
+      "x_raw": 336.5235595703125,
+      "y_raw": 1491.26708984375,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "trunk"
+    },
+    {
+      "source": "node_1",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "node_1",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "trunk"
+    },
+    {
+      "source": "node_18",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_18",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_74",
+      "type": "trunk"
+    }
+  ]
+}

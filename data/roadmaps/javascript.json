@@ -1,0 +1,115 @@
+{
+ "domain": "Javascript",
+ "stages": [
+  {
+   "name": "JavaScript",
+   "skills": [
+    "Beginner Topics / start with these",
+    "Intermediate Topics / pick these next",
+    "Advanced Topics / pick these at last"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  },
+  {
+   "name": "Introduction to JavaScript",
+   "skills": [
+    "var let const",
+    "What is JavaScript",
+    "Variable Declarations",
+    "History of JavaScript",
+    "Hoisting"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  },
+  {
+   "name": "All about Variables",
+   "skills": [
+    "JavaScript Versions",
+    "Variable Naming Rules",
+    "How to run JavaScript",
+    "Variable Scopes",
+    "Object Prototype"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  },
+  {
+   "name": "Object",
+   "skills": [
+    "Block Function Global",
+    "Prototypal Inheritance",
+    "string undefined",
+    "number bigint",
+    "Built-in Objects",
+    "Data Types"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  },
+  {
+   "name": "typeof operator",
+   "skills": [
+    "boolean null",
+    "JSON",
+    "Map",
+    "Symbol",
+    "Weak Map",
+    "Structured Data",
+    "Primitive Types"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  },
+  {
+   "name": "Type Casting",
+   "skills": [
+    "Set",
+    "Keyed Collections",
+    "Type Conversion vs Coercion",
+    "Weak Set",
+    "Implicit Type Casting Data Structures",
+    "Explicit Type Casting",
+    "Typed Arrays",
+    "Indexed Collections",
+    "Arrays",
+    "Equality Comparisons == === Object.is",
+    "Value Comparison Operators",
+    "for",
+    "break / continue",
+    "do...while"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  },
+  {
+   "name": "React Node.js",
+   "skills": [
+    "Lexical Scoping",
+    "Scope & Function Stack",
+    "DOM APIs",
+    "Closures",
+    "Built-in Functions",
+    "Strict Mode",
+    "in a method",
+    "Callback Hell",
+    "Event Loop",
+    "in a function",
+    "Callbacks",
+    "Using (this) keyword",
+    "using it alone",
+    "Asynchronous JavaScript"
+   ],
+   "resources": [
+    "roadmap.sh/javascript"
+   ]
+  }
+ ]
+}

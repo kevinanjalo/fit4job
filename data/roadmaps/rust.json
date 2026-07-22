@@ -1,0 +1,242 @@
+{
+ "domain": "Rust",
+ "stages": [
+  {
+   "name": "Rust",
+   "skills": [
+    "Find the interactive version of this"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Syntax and Semantics",
+    "What is Rust?",
+    "Why use Rust?",
+    "Variables, DataTypes and Constants",
+    "Environment Setup",
+    "Installing Rust and Cargo",
+    "Control Flow and Constructs",
+    "IDEs and Rust Toolchains",
+    "Functions and Method Syntax"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Error Handling",
+   "skills": [
+    "Rust REPL (Rust Playground) Language Basics",
+    "Pattern Matching & Destructuring",
+    "Constructs",
+    "Option and Result Enumerations",
+    "Enums Structs Traits",
+    "Propagating Errors and `?` Operator",
+    "Impl Blocks",
+    "Custom Error Types and Traits",
+    "Data Structures"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Modules & Crates",
+   "skills": [
+    "Integers Boolean Floats",
+    "Code Organization & Namespacing",
+    "Character Tuple String",
+    "Dependency Management with Cargo",
+    "Array Hashmap Vector",
+    "Publishing on Crates.io",
+    "Hashset LinkedList Stack"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Testing",
+   "skills": [
+    "Queue Binary Heap",
+    "Ownsership System",
+    "Ownsership Rules & Memory Safety",
+    "Unit & Integration Testing",
+    "Borrowing, References and Slices",
+    "Mocking & Property Based Testing",
+    "Deep Dive: Stack vs Heap",
+    "Advanced Topics",
+    "Concurrency & Parallelism",
+    "BTreeMap BTreeSet RC"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Traits & Generics",
+   "skills": [
+    "Arc Mutex RwLock",
+    "Threads, Channels and Message Passing",
+    "Atomic Operations & Memory Barriers",
+    "Channels",
+    "Futures and Async/Await Paradigm",
+    "Trait Definitions & Implementations",
+    "Declarative Macros with macro_rules!",
+    "Trait Bounds and Associated Types",
+    "Procedural Macros & Custom Derive",
+    "Generics & Type-Level Programming",
+    "Domain Specific Languages (DSLs)",
+    "Lifetimes & Borrow Checker",
+    "Macros & Metaprogramming"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Axum Actix",
+   "skills": [
+    "Explicit Lifetime Annotations",
+    "Ecosystem and Libraries",
+    "Lifetime Elision Rules",
+    "Covariant & Contravariant Lifetimes"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Leptos Loco",
+   "skills": [
+    "Web Development"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Rocket",
+   "skills": [
+    "Serde json-rust toml-rust"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Networking",
+   "skills": [
+    "Asynchronous Programming",
+    "Serialization / Deserialization"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "reqwest hyper quinn",
+   "skills": [
+    "Tokio async-std smol"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Cryptography",
+   "skills": [
+    "Database and ORM"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "rust-crypto",
+   "skills": [
+    "termion",
+    "Diesel sqlx rusqlite"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "sodiumoxide",
+   "skills": [
+    "clap structopt"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "tauri gtk-rs relm",
+   "skills": [
+    "CLI Utilities",
+    "embedded-hal",
+    "rppal nrf-hal"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "GUI Development",
+   "skills": [
+    "Game Development",
+    "Embedded and Systems"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "wasm-pack",
+   "skills": [
+    "bevy fyrox ggez"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "wasmer",
+   "skills": [
+    "macroquad wgpu-rs",
+    "WebAssembly (WASM)"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "wasm-bindgen",
+   "skills": [
+    "Criterion.rs",
+    "Debugging",
+    "rust-gdb rust-lldb"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  },
+  {
+   "name": "Backend DevOps",
+   "skills": [
+    "Join ScaleUp:AI '25",
+    "Learn from the world's top",
+    "builders, leaders, and innovators in AI.",
+    "PARTNER CONTENT"
+   ],
+   "resources": [
+    "roadmap.sh/rust"
+   ]
+  }
+ ]
+}

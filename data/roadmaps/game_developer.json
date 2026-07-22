@@ -1,0 +1,284 @@
+{
+ "domain": "Game Developer",
+ "stages": [
+  {
+   "name": "Game Developer",
+   "skills": [
+    "Shout out to Chris Ohk who helped",
+    "Server Side Client Side Development"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Game Mathematics",
+   "skills": [
+    "Linear Algebra",
+    "Center of Mass",
+    "Vector Matrix",
+    "Moment of Inertia",
+    "Linear Transformation",
+    "Acceleration Joints",
+    "Geometry",
+    "Affine Space",
+    "Force Restitution",
+    "Affine Transformation"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Curve",
+   "skills": [
+    "Angular Velocity",
+    "Projection",
+    "Orientation"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Spline Hermite",
+   "skills": [
+    "Buoyancy",
+    "Friction",
+    "Perspective",
+    "Quaternion"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Bezier Catmull-Rom",
+   "skills": [
+    "Linear Velocity",
+    "Orthogonal",
+    "Euler Angle",
+    "Dynamics",
+    "Unity 3D"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "SAT",
+   "skills": [
+    "Game Physics",
+    "Game Engine",
+    "Unreal Engine",
+    "Native",
+    "Godot",
+    "Collision Detection"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "GJK",
+   "skills": [
+    "CCD",
+    "Intersection"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "EPA",
+   "skills": [
+    "Programming Languages C/C++ C#",
+    "Narrow Phase",
+    "Convexity"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Convex Hull",
+   "skills": [
+    "Rust Python",
+    "Broad Phase",
+    "Convex",
+    "GDScript"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Convex Decomposition",
+   "skills": [
+    "Concave",
+    "Getting deeper",
+    "Bounding Volume AABB OBB"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Computer Animation",
+   "skills": [
+    "Spatial Partitioning Sort & Sweep"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Color",
+   "skills": [
+    "BVH DBVT",
+    "Stencil Shadow"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Visual Perception",
+   "skills": [
+    "Ray Tracing"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Tone Reproduction",
+   "skills": [
+    "Rasterization",
+    "Lighting and Shadow",
+    "Graphics Pipeline",
+    "Shadow Map",
+    "Light Source"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "D Cube",
+   "skills": [
+    "Sampling",
+    "Computer Graphics",
+    "Directional",
+    "Spot",
+    "Shader"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "SPIR-V",
+   "skills": [
+    "Cascaded",
+    "Point",
+    "Infinite",
+    "HLSL GLSL",
+    "Rendering Equation"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Vulkan",
+   "skills": [
+    "Visibility and Occlusion",
+    "DirectX OpenGL",
+    "Reflection",
+    "Mapping",
+    "Occluder Culling Clipping"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Graphics API",
+   "skills": [
+    "Diffuse",
+    "Texture",
+    "Fog Frustum",
+    "Polygon"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "OpenGL ES",
+   "skills": [
+    "Specular",
+    "Bump",
+    "Light",
+    "Polyhedron"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "WebGL",
+   "skills": [
+    "Parallax",
+    "Shadow",
+    "Horizon",
+    "Game AI Decision Making",
+    "Movement",
+    "Naive Bayes Classifier"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Game AI",
+   "skills": [
+    "Decision Tree",
+    "Maximise your skills Decision Learning",
+    "Board Game",
+    "State Machine",
+    "Reinforcements Learning",
+    "Minimax",
+    "Behavior Tree",
+    "Decision Tree Learning",
+    "Learning",
+    "AB Pruning",
+    "Fuzzy Logic",
+    "Deep Learning",
+    "MCTS",
+    "Markov System"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  },
+  {
+   "name": "Backend",
+   "skills": [
+    "Advanced Rendering Real-time Ray Tracing",
+    "Physically-Based Rendering",
+    "Microsurface Scattering",
+    "DirectX Ray Tracing",
+    "Translucency & Transparency",
+    "Vulkan Ray Tracing",
+    "Conservation of Energy",
+    "OptiX",
+    "Metallicity"
+   ],
+   "resources": [
+    "roadmap.sh/game-developer"
+   ]
+  }
+ ]
+}

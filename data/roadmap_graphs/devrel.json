@@ -1,0 +1,2157 @@
+{
+  "topic": "Devrel",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Devrel",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Shout-out to Arindam who helped",
+      "type": "skill",
+      "x_raw": 38.200286865234375,
+      "y_raw": 47.46409606933594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 485.2539978027344,
+      "y_raw": 56.04167175292969,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 485.2539978027344,
+      "y_raw": 56.04167175292969,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "review and publish this roadmap.",
+      "type": "skill",
+      "x_raw": 39.887664794921875,
+      "y_raw": 63.65837860107422,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Visit his Blog",
+      "type": "skill",
+      "x_raw": 88.36508178710938,
+      "y_raw": 95.78915405273438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "DevRel",
+      "type": "section",
+      "x_raw": 330.0724182128906,
+      "y_raw": 134.11599731445312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_6",
+      "label": "Advocacy",
+      "type": "skill",
+      "x_raw": 596.8680419921875,
+      "y_raw": 161.02330017089844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "History and Evolution",
+      "type": "skill",
+      "x_raw": 56.8201904296875,
+      "y_raw": 165.55816650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Education",
+      "type": "skill",
+      "x_raw": 595.3329467773438,
+      "y_raw": 194.68914794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Importance of DevRel",
+      "type": "skill",
+      "x_raw": 54.406280517578125,
+      "y_raw": 199.84506225585938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Community Support",
+      "type": "skill",
+      "x_raw": 572.4828491210938,
+      "y_raw": 228.34326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "What is DevRel?",
+      "type": "section",
+      "x_raw": 319.64337158203125,
+      "y_raw": 229.70254516601562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Developer Experience",
+      "type": "skill",
+      "x_raw": 53.339935302734375,
+      "y_raw": 235.40921020507812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Content Creation",
+      "type": "skill",
+      "x_raw": 578.0840454101562,
+      "y_raw": 262.00909423828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Developer Journey",
+      "type": "skill",
+      "x_raw": 62.151885986328125,
+      "y_raw": 269.63751220703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Feedback Loop",
+      "type": "skill",
+      "x_raw": 582.1267700195312,
+      "y_raw": 295.6749267578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Developer Marketing",
+      "type": "skill",
+      "x_raw": 56.7850341796875,
+      "y_raw": 303.9361267089844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Key Concepts Key Responsibilities",
+      "type": "skill",
+      "x_raw": 69.56939697265625,
+      "y_raw": 326.0245666503906,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Communication Skills Public Speaking",
+      "type": "skill",
+      "x_raw": 298.2814636230469,
+      "y_raw": 369.5837097167969,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "JavaScript",
+      "type": "skill",
+      "x_raw": 40.28607177734375,
+      "y_raw": 375.74407958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Node.js",
+      "type": "skill",
+      "x_raw": 125.25335693359375,
+      "y_raw": 375.74407958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Go Rust",
+      "type": "skill",
+      "x_raw": 58.636474609375,
+      "y_raw": 409.409912109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Presentation Techniques",
+      "type": "skill",
+      "x_raw": 554.8472290039062,
+      "y_raw": 424.526123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Writing Skills",
+      "type": "section",
+      "x_raw": 328.291259765625,
+      "y_raw": 434.7208251953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Python",
+      "type": "skill",
+      "x_raw": 89.829833984375,
+      "y_raw": 443.7085266113281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Rules of Three",
+      "type": "skill",
+      "x_raw": 579.583984375,
+      "y_raw": 458.19195556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Social Media",
+      "type": "section",
+      "x_raw": 327.64678955078125,
+      "y_raw": 481.61627197265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "Basic Programming Skills",
+      "type": "skill",
+      "x_raw": 44.727203369140625,
+      "y_raw": 481.61627197265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "PechaKucha",
+      "type": "skill",
+      "x_raw": 584.6695556640625,
+      "y_raw": 491.8577880859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Technical Documentation",
+      "type": "section",
+      "x_raw": 297.2854309082031,
+      "y_raw": 514.6493530273438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Storytelling",
+      "type": "skill",
+      "x_raw": 588.1849365234375,
+      "y_raw": 525.535400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Blog Posts",
+      "type": "section",
+      "x_raw": 333.35345458984375,
+      "y_raw": 547.6824340820312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Mind Mapping",
+      "type": "skill",
+      "x_raw": 580.3456420898438,
+      "y_raw": 559.2012329101562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Technical Skills",
+      "type": "skill",
+      "x_raw": 60.5699462890625,
+      "y_raw": 562.380126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Visualization",
+      "type": "skill",
+      "x_raw": 584.8570556640625,
+      "y_raw": 592.8670654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Community Engagement",
+      "type": "section",
+      "x_raw": 299.3126220703125,
+      "y_raw": 602.7101440429688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "IDEs",
+      "type": "skill",
+      "x_raw": 94.15377807617188,
+      "y_raw": 635.9072875976562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Engaging Audience",
+      "type": "skill",
+      "x_raw": 567.561279296875,
+      "y_raw": 646.2308349609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Networking",
+      "type": "section",
+      "x_raw": 331.51373291015625,
+      "y_raw": 649.8751220703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "The Hook",
+      "type": "skill",
+      "x_raw": 591.7824096679688,
+      "y_raw": 679.8966674804688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Online Communities",
+      "type": "section",
+      "x_raw": 309.8705749511719,
+      "y_raw": 682.908203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "JetBrains IDEs",
+      "type": "skill",
+      "x_raw": 69.51080322265625,
+      "y_raw": 686.986083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Contrast Principle",
+      "type": "skill",
+      "x_raw": 571.68603515625,
+      "y_raw": 713.87890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Event Participation",
+      "type": "section",
+      "x_raw": 313.151611328125,
+      "y_raw": 715.9412841796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "VS Code",
+      "type": "skill",
+      "x_raw": 84.74420166015625,
+      "y_raw": 720.0191040039062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Handouts",
+      "type": "skill",
+      "x_raw": 591.7120971679688,
+      "y_raw": 747.2400512695312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Managing Discussions",
+      "type": "skill",
+      "x_raw": 45.3482666015625,
+      "y_raw": 770.9573364257812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "APIs & SDKs",
+      "type": "section",
+      "x_raw": 324.51806640625,
+      "y_raw": 778.3630981445312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Repetition & Reinforcement",
+      "type": "skill",
+      "x_raw": 547.2422485351562,
+      "y_raw": 780.9058837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Issues & Pull Requests",
+      "type": "skill",
+      "x_raw": 44.23504638671875,
+      "y_raw": 804.6231689453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Handling Q&A",
+      "type": "skill",
+      "x_raw": 581.1190185546875,
+      "y_raw": 833.8478393554688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Labelling and Cleanup",
+      "type": "skill",
+      "x_raw": 45.699798583984375,
+      "y_raw": 838.2890014648438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Understanding APIs",
+      "type": "section",
+      "x_raw": 306.68328857421875,
+      "y_raw": 845.9994506835938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Active Listening",
+      "type": "skill",
+      "x_raw": 577.1231689453125,
+      "y_raw": 867.513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Milestones & Releases",
+      "type": "skill",
+      "x_raw": 44.24676513671875,
+      "y_raw": 871.966552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Building SDKs",
+      "type": "section",
+      "x_raw": 320.944091796875,
+      "y_raw": 879.032470703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Anticipate Questions",
+      "type": "skill",
+      "x_raw": 564.7958374023438,
+      "y_raw": 901.1795043945312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Public Backlog",
+      "type": "skill",
+      "x_raw": 64.4251708984375,
+      "y_raw": 905.6323852539062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Writing Documentation",
+      "type": "section",
+      "x_raw": 299.4415283203125,
+      "y_raw": 912.0655517578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Be Concise",
+      "type": "skill",
+      "x_raw": 587.09521484375,
+      "y_raw": 934.8570556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "API Design",
+      "type": "section",
+      "x_raw": 327.68194580078125,
+      "y_raw": 946.3759155273438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_61",
+      "label": "Git GitHub",
+      "type": "skill",
+      "x_raw": 53.632904052734375,
+      "y_raw": 953.7465209960938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Managing Difficult Questions",
+      "type": "skill",
+      "x_raw": 545.0744018554688,
+      "y_raw": 968.52294921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Community Building",
+      "type": "section",
+      "x_raw": 282.544189453125,
+      "y_raw": 995.6065673828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Version Control",
+      "type": "skill",
+      "x_raw": 62.63232421875,
+      "y_raw": 998.46240234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Identifying Audience",
+      "type": "skill",
+      "x_raw": 52.543121337890625,
+      "y_raw": 1043.471435546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Recognition Programs",
+      "type": "skill",
+      "x_raw": 564.0927734375,
+      "y_raw": 1055.201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Building a Community",
+      "type": "section",
+      "x_raw": 302.46478271484375,
+      "y_raw": 1077.11376953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "Platform Selection",
+      "type": "skill",
+      "x_raw": 58.085723876953125,
+      "y_raw": 1077.14892578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Encouraging Participation",
+      "type": "skill",
+      "x_raw": 555.47998046875,
+      "y_raw": 1088.866943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Initial Outreach",
+      "type": "skill",
+      "x_raw": 65.03451538085938,
+      "y_raw": 1110.814697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Conflict Resolution",
+      "type": "skill",
+      "x_raw": 572.2836303710938,
+      "y_raw": 1122.53271484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Community Guidelines",
+      "type": "skill",
+      "x_raw": 47.527801513671875,
+      "y_raw": 1144.48046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Feedback Collection",
+      "type": "section",
+      "x_raw": 306.35516357421875,
+      "y_raw": 1154.61669921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_74",
+      "label": "Moderation",
+      "type": "skill",
+      "x_raw": 590.469970703125,
+      "y_raw": 1156.210205078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Code of Conduct",
+      "type": "skill",
+      "x_raw": 60.230133056640625,
+      "y_raw": 1182.95068359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Surveys",
+      "type": "section",
+      "x_raw": 336.599365234375,
+      "y_raw": 1189.618408203125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_77",
+      "label": "Rules and Policies Community Management",
+      "type": "skill",
+      "x_raw": 56.9256591796875,
+      "y_raw": 1217.940673828125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_78",
+      "label": "Post Event Followup",
+      "type": "section",
+      "x_raw": 307.1051025390625,
+      "y_raw": 1227.104248046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_79",
+      "label": "Execution",
+      "type": "section",
+      "x_raw": 331.8183898925781,
+      "y_raw": 1260.77001953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "Promotion",
+      "type": "section",
+      "x_raw": 331.0567321777344,
+      "y_raw": 1294.43603515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Collaborations",
+      "type": "skill",
+      "x_raw": 64.3900146484375,
+      "y_raw": 1302.521240234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Planning",
+      "type": "section",
+      "x_raw": 334.7244567871094,
+      "y_raw": 1328.113525390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_83",
+      "label": "Cross-Promotion",
+      "type": "skill",
+      "x_raw": 57.83966064453125,
+      "y_raw": 1337.52294921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Technical Setup",
+      "type": "skill",
+      "x_raw": 577.8145141601562,
+      "y_raw": 1338.00341796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Guest Blogging",
+      "type": "skill",
+      "x_raw": 61.319915771484375,
+      "y_raw": 1374.997314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Video",
+      "type": "skill",
+      "x_raw": 601.4732055664062,
+      "y_raw": 1376.4853515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Event Management",
+      "type": "section",
+      "x_raw": 307.6676025390625,
+      "y_raw": 1383.86767578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "SEO Basics",
+      "type": "skill",
+      "x_raw": 69.19439697265625,
+      "y_raw": 1410.842529296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Audio",
+      "type": "skill",
+      "x_raw": 601.76611328125,
+      "y_raw": 1411.463623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Writing Process",
+      "type": "skill",
+      "x_raw": 59.363006591796875,
+      "y_raw": 1444.508544921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Animations & Graphics",
+      "type": "section",
+      "x_raw": 299.4766845703125,
+      "y_raw": 1447.73095703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "Animations & Graphics",
+      "type": "skill",
+      "x_raw": 561.3389892578125,
+      "y_raw": 1448.18798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Topic Selection",
+      "type": "skill",
+      "x_raw": 60.6519775390625,
+      "y_raw": 1478.17431640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Editing",
+      "type": "section",
+      "x_raw": 337.6539611816406,
+      "y_raw": 1481.396728515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "Twitch Streamyard",
+      "type": "skill",
+      "x_raw": 561.3741455078125,
+      "y_raw": 1486.306640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Recording",
+      "type": "section",
+      "x_raw": 329.32244873046875,
+      "y_raw": 1515.0625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "X YouTube",
+      "type": "skill",
+      "x_raw": 573.4671630859375,
+      "y_raw": 1520.616943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Blogging",
+      "type": "skill",
+      "x_raw": 76.1549072265625,
+      "y_raw": 1538.99072265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Scripting",
+      "type": "section",
+      "x_raw": 333.15423583984375,
+      "y_raw": 1548.740234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_100",
+      "label": "Platform Selection",
+      "type": "skill",
+      "x_raw": 572.6820678710938,
+      "y_raw": 1552.947021484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Content Creation",
+      "type": "skill",
+      "x_raw": 43.426513671875,
+      "y_raw": 1595.0296630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Video Production",
+      "type": "section",
+      "x_raw": 312.940673828125,
+      "y_raw": 1603.287353515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_103",
+      "label": "Video Production Live Streaming",
+      "type": "skill",
+      "x_raw": 312.940673828125,
+      "y_raw": 1603.287353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "Tutorials",
+      "type": "skill",
+      "x_raw": 64.06192016601562,
+      "y_raw": 1657.987060546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Developer Onboarding Documentation",
+      "type": "section",
+      "x_raw": 217.43893432617188,
+      "y_raw": 1683.0552978515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_106",
+      "label": "Social Media",
+      "type": "skill",
+      "x_raw": 584.7515869140625,
+      "y_raw": 1689.731201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "API References",
+      "type": "skill",
+      "x_raw": 46.36773681640625,
+      "y_raw": 1691.98095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "User Guides",
+      "type": "skill",
+      "x_raw": 54.207061767578125,
+      "y_raw": 1725.33056640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Facebook Instagram",
+      "type": "skill",
+      "x_raw": 553.3473510742188,
+      "y_raw": 1749.4228515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Code Samples",
+      "type": "skill",
+      "x_raw": 49.2152099609375,
+      "y_raw": 1772.764892578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "X LinkedIn",
+      "type": "skill",
+      "x_raw": 574.3225708007812,
+      "y_raw": 1783.733154296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Example Apps",
+      "type": "skill",
+      "x_raw": 50.10577392578125,
+      "y_raw": 1806.430908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "Sample Projects",
+      "type": "skill",
+      "x_raw": 215.0250244140625,
+      "y_raw": 1807.3916015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Consistent Posting",
+      "type": "section",
+      "x_raw": 369.6441345214844,
+      "y_raw": 1811.610107421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_115",
+      "label": "Platform Selection",
+      "type": "skill",
+      "x_raw": 573.5374755859375,
+      "y_raw": 1816.06298828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Use Case Based",
+      "type": "skill",
+      "x_raw": 43.496826171875,
+      "y_raw": 1840.1083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Content Strategy",
+      "type": "skill",
+      "x_raw": 575.541259765625,
+      "y_raw": 1844.537841796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "Engaging Content",
+      "type": "section",
+      "x_raw": 370.93310546875,
+      "y_raw": 1845.276123046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "Analytics and Optimization",
+      "type": "skill",
+      "x_raw": 552.491943359375,
+      "y_raw": 1872.4970703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Creating Brand Voice",
+      "type": "section",
+      "x_raw": 363.3515625,
+      "y_raw": 1878.94189453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_121",
+      "label": "Forums",
+      "type": "skill",
+      "x_raw": 66.405517578125,
+      "y_raw": 1895.20654296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_122",
+      "label": "Tracking Engagement",
+      "type": "skill",
+      "x_raw": 562.7803344726562,
+      "y_raw": 1928.028564453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Support",
+      "type": "skill",
+      "x_raw": 235.3674774169922,
+      "y_raw": 1928.028564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Issue Tracking",
+      "type": "skill",
+      "x_raw": 49.2972412109375,
+      "y_raw": 1928.872314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_125",
+      "label": "Data-Driven Strategy Shift",
+      "type": "skill",
+      "x_raw": 553.8863525390625,
+      "y_raw": 1962.3271484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_126",
+      "label": "FAQs",
+      "type": "skill",
+      "x_raw": 71.64346313476562,
+      "y_raw": 1962.5380859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Community Growth",
+      "type": "section",
+      "x_raw": 375.81951904296875,
+      "y_raw": 1974.220947265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_128",
+      "label": "Office Hours",
+      "type": "skill",
+      "x_raw": 54.06646728515625,
+      "y_raw": 2002.25048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "Engagement Rates",
+      "type": "section",
+      "x_raw": 374.06182861328125,
+      "y_raw": 2007.88671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_130",
+      "label": "Platform Specific Analytics",
+      "type": "skill",
+      "x_raw": 557.9525146484375,
+      "y_raw": 2008.56640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_131",
+      "label": "Webinars",
+      "type": "skill",
+      "x_raw": 61.88238525390625,
+      "y_raw": 2037.193603515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_132",
+      "label": "Content Performance",
+      "type": "section",
+      "x_raw": 369.0113525390625,
+      "y_raw": 2041.552490234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_133",
+      "label": "Social Media Analytics",
+      "type": "skill",
+      "x_raw": 567.467529296875,
+      "y_raw": 2042.232177734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Live Support",
+      "type": "skill",
+      "x_raw": 54.14849853515625,
+      "y_raw": 2067.953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_135",
+      "label": "Developer Satisfaction",
+      "type": "section",
+      "x_raw": 366.39825439453125,
+      "y_raw": 2075.21826171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_136",
+      "label": "Google Analytics",
+      "type": "skill",
+      "x_raw": 581.2596435546875,
+      "y_raw": 2075.90966796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_137",
+      "label": "Metrics & Analytics Key Metrics",
+      "type": "skill",
+      "x_raw": 193.7568359375,
+      "y_raw": 2124.214599609375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_138",
+      "label": "Tools",
+      "type": "skill",
+      "x_raw": 609.1836547851562,
+      "y_raw": 2129.9296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_139",
+      "label": "Reporting",
+      "type": "skill",
+      "x_raw": 44.762359619140625,
+      "y_raw": 2129.9296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_140",
+      "label": "Regular Reports",
+      "type": "skill",
+      "x_raw": 72.63949584960938,
+      "y_raw": 2191.4375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_141",
+      "label": "Data Visualization",
+      "type": "skill",
+      "x_raw": 69.73342895507812,
+      "y_raw": 2225.736083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_142",
+      "label": "Career Development Thought Leadership",
+      "type": "skill",
+      "x_raw": 324.1548156738281,
+      "y_raw": 2230.5673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_143",
+      "label": "Insights & Recommendations",
+      "type": "skill",
+      "x_raw": 41.4344482421875,
+      "y_raw": 2260.046630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "Publishing",
+      "type": "skill",
+      "x_raw": 599.7037963867188,
+      "y_raw": 2292.16552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "Media Appearances",
+      "type": "skill",
+      "x_raw": 575.470947265625,
+      "y_raw": 2325.83154296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_146",
+      "label": "Building a Personal Brand",
+      "type": "skill",
+      "x_raw": 321.061279296875,
+      "y_raw": 2338.73291015625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_147",
+      "label": "Meetups",
+      "type": "skill",
+      "x_raw": 123.76516723632812,
+      "y_raw": 2338.75634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_148",
+      "label": "Conference Speaking",
+      "type": "skill",
+      "x_raw": 571.81494140625,
+      "y_raw": 2359.509033203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_149",
+      "label": "Online Communities",
+      "type": "skill",
+      "x_raw": 95.98178100585938,
+      "y_raw": 2372.43408203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_150",
+      "label": "Networking Strategies",
+      "type": "section",
+      "x_raw": 330.4239501953125,
+      "y_raw": 2372.59814453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_151",
+      "label": "Open-Source Continuous Learning",
+      "type": "skill",
+      "x_raw": 112.504150390625,
+      "y_raw": 2406.099853515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_152",
+      "label": "Keep Learning",
+      "type": "section",
+      "x_raw": 333.36517333984375,
+      "y_raw": 2502.806396484375,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_5",
+      "type": "trunk"
+    },
+    {
+      "source": "node_5",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_5",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "trunk"
+    },
+    {
+      "source": "node_60",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_60",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_60",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_73",
+      "type": "trunk"
+    },
+    {
+      "source": "node_73",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_73",
+      "target": "node_76",
+      "type": "trunk"
+    },
+    {
+      "source": "node_76",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_76",
+      "target": "node_78",
+      "type": "trunk"
+    },
+    {
+      "source": "node_78",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "trunk"
+    },
+    {
+      "source": "node_82",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_82",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_94",
+      "type": "trunk"
+    },
+    {
+      "source": "node_94",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_96",
+      "type": "trunk"
+    },
+    {
+      "source": "node_96",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_99",
+      "type": "trunk"
+    },
+    {
+      "source": "node_99",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_102",
+      "type": "trunk"
+    },
+    {
+      "source": "node_102",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_105",
+      "type": "trunk"
+    },
+    {
+      "source": "node_105",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_114",
+      "type": "trunk"
+    },
+    {
+      "source": "node_114",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_118",
+      "type": "trunk"
+    },
+    {
+      "source": "node_118",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_120",
+      "type": "trunk"
+    },
+    {
+      "source": "node_120",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_127",
+      "type": "trunk"
+    },
+    {
+      "source": "node_127",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_127",
+      "target": "node_129",
+      "type": "trunk"
+    },
+    {
+      "source": "node_129",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_129",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_129",
+      "target": "node_132",
+      "type": "trunk"
+    },
+    {
+      "source": "node_132",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_135",
+      "type": "trunk"
+    },
+    {
+      "source": "node_135",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_141",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_150",
+      "type": "trunk"
+    },
+    {
+      "source": "node_150",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_150",
+      "target": "node_152",
+      "type": "trunk"
+    }
+  ]
+}

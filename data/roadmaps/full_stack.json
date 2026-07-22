@@ -1,0 +1,80 @@
+{
+ "domain": "Full Stack",
+ "stages": [
+  {
+   "name": "Frontend Backend DevOps",
+   "skills": [
+    "If you are already a full-stack developer",
+    "Full Stack",
+    "Key topics to learn",
+    "absolute beginners wanting to get into",
+    "full-stack development.",
+    "Project ideas and suggestions"
+   ],
+   "resources": [
+    "roadmap.sh/full-stack"
+   ]
+  },
+  {
+   "name": "HTML CSS JavaScript",
+   "skills": [
+    "Checkpoint - External Packages",
+    "Checkpoint - Collaborative Work",
+    "Tailwind CSS React",
+    "Git GitHub",
+    "Feel free to skip these and"
+   ],
+   "resources": [
+    "roadmap.sh/full-stack"
+   ]
+  },
+  {
+   "name": "RESTful APIs",
+   "skills": [
+    "Checkpoint - Frontend Apps",
+    "Start Backend Development",
+    "Node.js",
+    "Backend Starts here",
+    "Checkpoint \u2014 CLI Apps",
+    "PostgreSQL",
+    "Checkpoint \u2014 Simple CRUD Apps",
+    "JWT Auth Redis",
+    "Use the checkpoints and do not forget"
+   ],
+   "resources": [
+    "roadmap.sh/full-stack"
+   ]
+  },
+  {
+   "name": "Route53 SES",
+   "skills": [
+    "to practice what you learn. There are",
+    "Checkpoint \u2014 Complete App",
+    "DevOps starts here"
+   ],
+   "resources": [
+    "roadmap.sh/full-stack"
+   ]
+  },
+  {
+   "name": "Basic AWS Services",
+   "skills": [
+    "Linux Basics",
+    "Checkpoint \u2014 Deployment",
+    "Monit",
+    "Checkpoint \u2014 Automation",
+    "Checkpoint \u2014 Monitoring",
+    "Checkpoint \u2014 CI / CD",
+    "GitHub Actions",
+    "Ansible",
+    "Terraform",
+    "Checkpoint \u2014 Infrastructure",
+    "Frontend",
+    "Backend DevOps AWS"
+   ],
+   "resources": [
+    "roadmap.sh/full-stack"
+   ]
+  }
+ ]
+}

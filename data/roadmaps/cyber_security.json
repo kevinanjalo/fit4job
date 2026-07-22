@@ -1,0 +1,500 @@
+{
+ "domain": "Cyber Security",
+ "stages": [
+  {
+   "name": "Cyber Security",
+   "skills": [
+    "CTFs (Capture the Flag)",
+    "HackTheBox",
+    "TryHackMe",
+    "VulnHub"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Fundamental IT Skills",
+   "skills": [
+    "picoCTF",
+    "SANS Holiday Hack Challenge"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Computer Hardware Components",
+   "skills": [
+    "Certifications",
+    "NFC",
+    "Bluetooth"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "OS-Independent Troubleshooting",
+   "skills": [
+    "Connection Types and their function",
+    "Beginner Certifications",
+    "WiFi",
+    "Infrared",
+    "CompTIA A+ CompTIA Linux+",
+    "Understand Basics of Popular Suites",
+    "MS Office Suite",
+    "CompTIA Network+ CCNA",
+    "Basics of Computer Networking",
+    "iCloud",
+    "CompTIA Security+"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Basics of Subnetting",
+   "skills": [
+    "Google Suite",
+    "Advanced Certifications",
+    "CEH CISA CISM",
+    "Windows Linux MacOS",
+    "GSEC GPEN GWAPT",
+    "Operating Systems",
+    "GIAC OSCP CREST",
+    "Public vs Private IP Addresses"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "IP Terminology",
+   "skills": [
+    "CISSP",
+    "Learn following for each"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "localhost loopback CIDR",
+   "skills": [
+    "Installation and Configuration",
+    "VMWare VirtualBox"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "subnet mask",
+   "skills": [
+    "Different Versions and Differences",
+    "esxi proxmox"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "default gateway",
+   "skills": [
+    "Navigating using GUI and CLI",
+    "Common Virtualization Technologies"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Understand the Terminology",
+   "skills": [
+    "Understand Permissions",
+    "Hypervisor",
+    "GuestOS"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "VLAN DMZ ARP VM",
+   "skills": [
+    "Installing Software and Applications",
+    "VM",
+    "HostOS"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "DHCP DNS NAT IP",
+   "skills": [
+    "Performing CRUD on Files",
+    "Basics of Virtualization"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Router Switch VPN",
+   "skills": [
+    "Troubleshooting",
+    "ipconfig netstat",
+    "ping dig",
+    "Common Commands"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "MAN LAN WAN WLAN",
+   "skills": [
+    "nmap route tcpdump",
+    "arp"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Understand these",
+   "skills": [
+    "nslookup iptables",
+    "tracert"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "DHCP DNS NTP IPAM",
+   "skills": [
+    "Packet Sniffers",
+    "Networking Knowledge"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Functions of each",
+   "skills": [
+    "Port Scanners",
+    "Protocol Analyzers"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Network Topologies",
+   "skills": [
+    "Star Ring Mesh Bus",
+    "Understand the OSI Model",
+    "Troubleshooting Tools",
+    "Common Protocols and their Uses"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "SSH RDP FTP SFTP",
+   "skills": [
+    "Kerberos LDAP SSO RADIUS",
+    "Common Ports and their Uses"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "HTTP / HTTPS SSL / TLS",
+   "skills": [
+    "Certificates Local Auth",
+    "SSL and TLS Basics"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Network Protocols",
+   "skills": [
+    "Authentication Methodologies",
+    "Basics of NAS and SAN",
+    "Security Skills and Knowledge",
+    "Core Concepts of Zero Trust",
+    "Understand Common Hacking Tools"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Cyber Kill Chain",
+   "skills": [
+    "Roles of Compliance and Auditors",
+    "Blue / Red / Purple Teams",
+    "Understand Common Exploit Frameworks",
+    "Understand the Definition of Risk",
+    "False Negative / False Positive",
+    "Understand Concept of Defense in Depth",
+    "Understand Backups and Resiliency",
+    "True Negative / True Positive",
+    "Basics of Threat Intel, OSINT",
+    "Understand Basics of Forensics"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "MFA & 2FA",
+   "skills": [
+    "Understand Handshakes",
+    "Basics and Concepts of Threat Hunting"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Operating System Hardening",
+   "skills": [
+    "Understand CIA Triad",
+    "Basics of Vulnerability Management",
+    "Understand Concept of Isolation",
+    "Privilege Escalation",
+    "Basics of Reverse Engineering"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Authentication vs Authorization",
+   "skills": [
+    "Basics of IDS and IPS",
+    "Web Based Attacks and OWASP10",
+    "Penetration Testing Rules of Engagement",
+    "Learn how Malware works and Types",
+    "Perimiter vs DMZ vs Segmentation"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Basics of Cryptography",
+   "skills": [
+    "Attack Types and Differences",
+    "Tools for Incident Response and Discovery",
+    "Phishing Whishing Whaling",
+    "Salting Hashing Key Exchange",
+    "nmap",
+    "ping arp cat dd",
+    "dig"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Obfuscation",
+   "skills": [
+    "Smishing Spam vs Spim",
+    "Private vs Public Keys",
+    "nslookup",
+    "hping",
+    "head grep",
+    "tail",
+    "Shoulder Surfing",
+    "Tailgating",
+    "PKI",
+    "tracert",
+    "winhex",
+    "autopsy",
+    "ipconfig"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Understand Frameworks",
+   "skills": [
+    "Dumpster Diving",
+    "curl",
+    "wireshark",
+    "memdump",
+    "Kill Chain Diamond Model"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "ATT&CK",
+   "skills": [
+    "Zero day",
+    "FTK Imager",
+    "Social Engineering",
+    "Understand Common Standards"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "ParrotOS Kali Linux",
+   "skills": [
+    "ISO",
+    "RMF",
+    "Common Distros for hacking",
+    "Reconnaissance Impersonation",
+    "NIST",
+    "CIS CSF",
+    "Watering Hole Attack"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Understand the following",
+   "skills": [
+    "Using tools for Unintended Purposes",
+    "Drive by Attack"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "SIEM SOAR",
+   "skills": [
+    "LOLBAS",
+    "GTFOBINS WADCOMS",
+    "Typo Squatting",
+    "Secure vs Unsecure Protocols",
+    "Learn how to find and use these logs"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "DNSSEC LDAPS SRTP S/MIME",
+   "skills": [
+    "Brute Force vs Password Spray",
+    "FTP vs SFTP SSL vs TLS IPSEC",
+    "Event Logs syslogs netflow",
+    "Common Attacks",
+    "Packet Captures Firewall Logs",
+    "DoS vs DDoS MITM",
+    "CSRF",
+    "Understand the following Terms",
+    "Understand Hardening Concepts",
+    "Spoofing",
+    "XSS SQL Injection",
+    "Antivirus Antimalware EDR DLP",
+    "MAC-based NAC-based",
+    "Evil Twin"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Preparation Identification Containment",
+   "skills": [
+    "ACLs Sinkholes Patching",
+    "Deauth Attack",
+    "ACL",
+    "EAP vs PEAP WPS",
+    "Jump Server Endpoint Security",
+    "Replay Attack",
+    "WPA vs WPA2 vs WPA3 vs WEP",
+    "Understand Common Tools",
+    "Rogue Access Point",
+    "VirusTotal",
+    "any.run",
+    "urlscan",
+    "Understand the Incident Response Process",
+    "Buffer Overflow"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Understand Threat Classification",
+   "skills": [
+    "Understand Audience",
+    "Pass the Hash",
+    "Stakeholders HR Legal",
+    "Zero Day Known vs Unknown APT",
+    "Compliance Management",
+    "Directory Traversal",
+    "Cloud Skills and Knowledge",
+    "Understand Cloud Services",
+    "SaaS PaaS IaaS"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Python",
+   "skills": [
+    "Cloud Models",
+    "Private Public Hybrid",
+    "Understand the Concept of Serverless",
+    "Common Cloud Environments",
+    "AWS GCP Azure",
+    "Common Cloud Storage",
+    "S3 Dropbox",
+    "iCloud"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "JavaScript",
+   "skills": [
+    "Box OneDrive",
+    "Programming Skills"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "C++",
+   "skills": [
+    "Google Drive"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  },
+  {
+   "name": "Bash",
+   "skills": [
+    "Power Shell Keep Learning"
+   ],
+   "resources": [
+    "roadmap.sh/cyber-security"
+   ]
+  }
+ ]
+}

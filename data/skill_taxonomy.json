@@ -1,0 +1,7233 @@
+{
+ "Python": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "python"
+  ]
+ },
+ "Java": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "java",
+   "java android",
+   "java ee",
+   "java se"
+  ]
+ },
+ "C++": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "c++",
+   "cplusplus",
+   "cpp"
+  ]
+ },
+ "C#": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   ".net",
+   "c sharp",
+   "c#",
+   "csharp",
+   "dotnet"
+  ]
+ },
+ "C": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "c language",
+   "c programming"
+  ]
+ },
+ "JavaScript": {
+  "parents": [
+   "Programming Languages",
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ecmascript",
+   "es2015",
+   "es6",
+   "javascript",
+   "vanilla js"
+  ]
+ },
+ "TypeScript": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript"
+  ],
+  "aliases": [
+   "typescript"
+  ]
+ },
+ "Go": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "go programming",
+   "golang"
+  ]
+ },
+ "Rust": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rust",
+   "rust lang"
+  ]
+ },
+ "Kotlin": {
+  "parents": [
+   "Programming Languages",
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "kotlin"
+  ]
+ },
+ "Swift": {
+  "parents": [
+   "Programming Languages",
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "swift"
+  ]
+ },
+ "Scala": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "scala"
+  ]
+ },
+ "R": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "r language",
+   "r programming",
+   "rlang"
+  ]
+ },
+ "PHP": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "php",
+   "php7",
+   "php8"
+  ]
+ },
+ "Ruby": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ruby"
+  ]
+ },
+ "Perl": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "perl"
+  ]
+ },
+ "Lua": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lua"
+  ]
+ },
+ "Dart": {
+  "parents": [
+   "Programming Languages",
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dart"
+  ]
+ },
+ "Haskell": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "haskell"
+  ]
+ },
+ "Groovy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "groovy"
+  ]
+ },
+ "Objective-C": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "obj-c",
+   "objective c",
+   "objective-c"
+  ]
+ },
+ "VBA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vba",
+   "visual basic",
+   "visual basic for applications"
+  ]
+ },
+ "Assembly": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "arm assembly",
+   "asm",
+   "assembly",
+   "x64",
+   "x86"
+  ]
+ },
+ "COBOL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cobol"
+  ]
+ },
+ "Fortran": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fortran"
+  ]
+ },
+ "Bash": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bash",
+   "ksh",
+   "shell scripting",
+   "zsh"
+  ]
+ },
+ "PowerShell": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "powershell",
+   "ps1"
+  ]
+ },
+ "TCL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tcl",
+   "tcl/tk"
+  ]
+ },
+ "Elixir": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "elixir"
+  ]
+ },
+ "Erlang": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "erlang"
+  ]
+ },
+ "Clojure": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "clojure"
+  ]
+ },
+ "F#": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "f#",
+   "fsharp"
+  ]
+ },
+ "OCaml": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ocaml"
+  ]
+ },
+ "Zig": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zig"
+  ]
+ },
+ "Ada": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ada"
+  ]
+ },
+ "Crystal": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "crystal"
+  ]
+ },
+ "Nim": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nim"
+  ]
+ },
+ "Solidity": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "solidity"
+  ]
+ },
+ "MATLAB": {
+  "parents": [
+   "Programming Languages"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "matlab"
+  ]
+ },
+ "Julia": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "julia"
+  ]
+ },
+ "Prolog": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "prolog"
+  ]
+ },
+ "Lisp": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "common lisp",
+   "lisp",
+   "scheme"
+  ]
+ },
+ "Racket": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "racket"
+  ]
+ },
+ "CoffeeScript": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "coffeescript"
+  ]
+ },
+ "Elm": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "elm"
+  ]
+ },
+ "PureScript": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "purescript"
+  ]
+ },
+ "Reason": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "reason",
+   "reasonml"
+  ]
+ },
+ "Mojo": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mojo"
+  ]
+ },
+ "Carbon": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "carbon",
+   "carbon language"
+  ]
+ },
+ "React": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript",
+   "HTML",
+   "CSS"
+  ],
+  "aliases": [
+   "react",
+   "react.js",
+   "reactjs"
+  ]
+ },
+ "Angular": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "TypeScript",
+   "JavaScript",
+   "HTML",
+   "CSS"
+  ],
+  "aliases": [
+   "angular",
+   "angular.js",
+   "angularjs"
+  ]
+ },
+ "Vue.js": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript",
+   "HTML",
+   "CSS"
+  ],
+  "aliases": [
+   "vue",
+   "vue.js",
+   "vuejs"
+  ]
+ },
+ "Svelte": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript",
+   "HTML",
+   "CSS"
+  ],
+  "aliases": [
+   "svelte",
+   "sveltekit"
+  ]
+ },
+ "Next.js": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "React",
+   "JavaScript"
+  ],
+  "aliases": [
+   "next",
+   "next.js",
+   "nextjs"
+  ]
+ },
+ "Nuxt.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nuxt",
+   "nuxt.js",
+   "nuxtjs"
+  ]
+ },
+ "Gatsby": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gatsby",
+   "gatsby.js"
+  ]
+ },
+ "Remix": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "remix",
+   "remix.run"
+  ]
+ },
+ "Astro": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "astro"
+  ]
+ },
+ "Solid.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "solid",
+   "solid.js",
+   "solidjs"
+  ]
+ },
+ "Qwik": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "qwik"
+  ]
+ },
+ "Alpine.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "alpine.js",
+   "alpinejs"
+  ]
+ },
+ "Preact": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "preact"
+  ]
+ },
+ "Ember.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ember",
+   "ember.js",
+   "emberjs"
+  ]
+ },
+ "Backbone.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "backbone",
+   "backbone.js",
+   "backbonejs"
+  ]
+ },
+ "HTML": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "html",
+   "html/css",
+   "html5"
+  ]
+ },
+ "CSS": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "css",
+   "css3"
+  ]
+ },
+ "SASS": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "CSS"
+  ],
+  "aliases": [
+   "sass",
+   "scss"
+  ]
+ },
+ "LESS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "less"
+  ]
+ },
+ "Bootstrap": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "CSS",
+   "HTML"
+  ],
+  "aliases": [
+   "bootstrap"
+  ]
+ },
+ "Tailwind CSS": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "CSS"
+  ],
+  "aliases": [
+   "tailwind",
+   "tailwind css",
+   "tailwindcss"
+  ]
+ },
+ "Material UI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "material ui",
+   "material-ui",
+   "mui"
+  ]
+ },
+ "Ant Design": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ant design",
+   "antd"
+  ]
+ },
+ "Chakra UI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chakra",
+   "chakra ui"
+  ]
+ },
+ "Shadcn": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "shadcn",
+   "shadcn/ui"
+  ]
+ },
+ "Radix UI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "radix",
+   "radix ui"
+  ]
+ },
+ "jQuery": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript"
+  ],
+  "aliases": [
+   "jquery"
+  ]
+ },
+ "Webpack": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "webpack"
+  ]
+ },
+ "Vite": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vite"
+  ]
+ },
+ "Rollup": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rollup"
+  ]
+ },
+ "Parcel": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "parcel"
+  ]
+ },
+ "Babel": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "babel"
+  ]
+ },
+ "Redux": {
+  "parents": [
+   "Web Frontend"
+  ],
+  "children": [],
+  "implies": [
+   "React",
+   "JavaScript"
+  ],
+  "aliases": [
+   "redux",
+   "redux toolkit",
+   "rtk"
+  ]
+ },
+ "Zustand": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zustand"
+  ]
+ },
+ "MobX": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mobx"
+  ]
+ },
+ "Recoil": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "recoil"
+  ]
+ },
+ "Pinia": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pinia"
+  ]
+ },
+ "Jotai": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "jotai"
+  ]
+ },
+ "Apollo Client": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apollo",
+   "apollo client",
+   "apollo graphql"
+  ]
+ },
+ "WebSocket": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "websocket",
+   "websockets"
+  ]
+ },
+ "PWA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "progressive web app",
+   "pwa"
+  ]
+ },
+ "Web Components": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "custom elements",
+   "shadow dom",
+   "web components"
+  ]
+ },
+ "Storybook": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "storybook"
+  ]
+ },
+ "Microfrontend": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "micro frontend",
+   "micro-frontend",
+   "microfrontend"
+  ]
+ },
+ "Three.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "three.js",
+   "threejs",
+   "webgl"
+  ]
+ },
+ "D3.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "d3.js",
+   "d3js"
+  ]
+ },
+ "Chart.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chart.js",
+   "chartjs"
+  ]
+ },
+ "Electron": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "electron",
+   "electronjs"
+  ]
+ },
+ "Tauri": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tauri"
+  ]
+ },
+ "Node.js": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript"
+  ],
+  "aliases": [
+   "node",
+   "node.js",
+   "nodejs"
+  ]
+ },
+ "Django": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "SQL"
+  ],
+  "aliases": [
+   "django"
+  ]
+ },
+ "Flask": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "Python"
+  ],
+  "aliases": [
+   "flask"
+  ]
+ },
+ "FastAPI": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "REST APIs"
+  ],
+  "aliases": [
+   "fastapi"
+  ]
+ },
+ "Spring": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "spring",
+   "spring framework"
+  ]
+ },
+ "Spring Boot": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "Java"
+  ],
+  "aliases": [
+   "spring boot",
+   "springboot"
+  ]
+ },
+ "ASP.NET Core": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   ".net core",
+   "asp.net core",
+   "aspnet core"
+  ]
+ },
+ "ASP.NET": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "asp.net",
+   "aspnet"
+  ]
+ },
+ "Laravel": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "PHP"
+  ],
+  "aliases": [
+   "laravel"
+  ]
+ },
+ "Express.js": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "Node.js",
+   "JavaScript"
+  ],
+  "aliases": [
+   "express",
+   "express.js",
+   "expressjs"
+  ]
+ },
+ "Ruby on Rails": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "Ruby"
+  ],
+  "aliases": [
+   "rails",
+   "ror",
+   "ruby on rails"
+  ]
+ },
+ "NestJS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nest",
+   "nest.js",
+   "nestjs"
+  ]
+ },
+ "Gin": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gin",
+   "gin-gonic"
+  ]
+ },
+ "Fiber": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fiber"
+  ]
+ },
+ "Actix": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "actix",
+   "actix-web"
+  ]
+ },
+ "Phoenix": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "phoenix",
+   "phoenix framework"
+  ]
+ },
+ "Hapi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hapi",
+   "hapi.js",
+   "hapijs"
+  ]
+ },
+ "Koa": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "koa",
+   "koa.js"
+  ]
+ },
+ "Strapi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "strapi"
+  ]
+ },
+ "Symfony": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "symfony"
+  ]
+ },
+ "CodeIgniter": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "codeigniter"
+  ]
+ },
+ "Quarkus": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "quarkus"
+  ]
+ },
+ "Micronaut": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "micronaut"
+  ]
+ },
+ "Ktor": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ktor"
+  ]
+ },
+ "Play Framework": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "play",
+   "play framework"
+  ]
+ },
+ "REST API": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rest",
+   "rest api",
+   "restful",
+   "restful api"
+  ]
+ },
+ "SOAP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "soap",
+   "soap api"
+  ]
+ },
+ "OpenAPI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "open api",
+   "openapi"
+  ]
+ },
+ "Swagger": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "swagger"
+  ]
+ },
+ "gRPC": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "g-rpc",
+   "google rpc",
+   "grpc"
+  ]
+ },
+ "GraphQL": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "graphql"
+  ]
+ },
+ "Tornado": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tornado"
+  ]
+ },
+ "Falcon": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "falcon",
+   "falcon framework"
+  ]
+ },
+ "Sanic": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sanic"
+  ]
+ },
+ "Celery": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "celery",
+   "celery worker"
+  ]
+ },
+ "RabbitMQ": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rabbitmq"
+  ]
+ },
+ "ActiveMQ": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "activemq"
+  ]
+ },
+ "ZeroMQ": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zeromq",
+   "zmq"
+  ]
+ },
+ "Android": {
+  "parents": [
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [
+   "Kotlin"
+  ],
+  "aliases": [
+   "android",
+   "android development",
+   "android sdk"
+  ]
+ },
+ "iOS": {
+  "parents": [
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [
+   "Swift"
+  ],
+  "aliases": [
+   "ios",
+   "ios development"
+  ]
+ },
+ "Flutter": {
+  "parents": [
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [
+   "Dart"
+  ],
+  "aliases": [
+   "flutter"
+  ]
+ },
+ "React Native": {
+  "parents": [
+   "Mobile Development"
+  ],
+  "children": [],
+  "implies": [
+   "React",
+   "JavaScript"
+  ],
+  "aliases": [
+   "react native",
+   "react-native"
+  ]
+ },
+ "Xamarin": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "xamarin"
+  ]
+ },
+ "Ionic": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ionic"
+  ]
+ },
+ "Cordova": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache cordova",
+   "cordova"
+  ]
+ },
+ "Capacitor": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "capacitor"
+  ]
+ },
+ "SwiftUI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "swiftui"
+  ]
+ },
+ "Jetpack Compose": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "compose",
+   "jetpack compose"
+  ]
+ },
+ "Expo": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "expo"
+  ]
+ },
+ "NativeScript": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nativescript"
+  ]
+ },
+ "MAUI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   ".net maui",
+   "maui"
+  ]
+ },
+ "Kotlin Multiplatform": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "kmp",
+   "kotlin multiplatform"
+  ]
+ },
+ "Xcode": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "xcode"
+  ]
+ },
+ "Android Studio": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "android studio"
+  ]
+ },
+ "Machine Learning": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "machine learning",
+   "ml"
+  ]
+ },
+ "Deep Learning": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Machine Learning"
+  ],
+  "aliases": [
+   "deep learning"
+  ]
+ },
+ "Natural Language Processing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "natural language processing",
+   "nlp"
+  ]
+ },
+ "Computer Vision": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Machine Learning"
+  ],
+  "aliases": [
+   "computer vision",
+   "image processing"
+  ]
+ },
+ "TensorFlow": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "Deep Learning"
+  ],
+  "aliases": [
+   "tensorflow"
+  ]
+ },
+ "PyTorch": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "Deep Learning"
+  ],
+  "aliases": [
+   "pytorch",
+   "torch"
+  ]
+ },
+ "Keras": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "keras"
+  ]
+ },
+ "Scikit-learn": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "Machine Learning"
+  ],
+  "aliases": [
+   "scikit learn",
+   "scikit-learn",
+   "sklearn"
+  ]
+ },
+ "Pandas": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Python"
+  ],
+  "aliases": [
+   "pandas"
+  ]
+ },
+ "NumPy": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Python"
+  ],
+  "aliases": [
+   "numpy"
+  ]
+ },
+ "SciPy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "scipy"
+  ]
+ },
+ "Matplotlib": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "matplotlib"
+  ]
+ },
+ "Seaborn": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "seaborn"
+  ]
+ },
+ "Plotly": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "plotly"
+  ]
+ },
+ "Bokeh": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bokeh"
+  ]
+ },
+ "Hugging Face": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hugging face",
+   "huggingface"
+  ]
+ },
+ "Transformers": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hugging face transformers",
+   "transformers"
+  ]
+ },
+ "BERT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bert",
+   "distilbert",
+   "roberta",
+   "xlnet"
+  ]
+ },
+ "GPT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chatgpt",
+   "gpt",
+   "gpt-3",
+   "gpt-4"
+  ]
+ },
+ "LLM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "large language model",
+   "large language models",
+   "llm"
+  ]
+ },
+ "Generative AI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gen ai",
+   "genai",
+   "generative ai"
+  ]
+ },
+ "Diffusion Models": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dall-e",
+   "diffusion models",
+   "midjourney",
+   "stable diffusion"
+  ]
+ },
+ "LangChain": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lang chain",
+   "langchain"
+  ]
+ },
+ "LlamaIndex": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gpt index",
+   "llama index",
+   "llamaindex"
+  ]
+ },
+ "RAG": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rag",
+   "retrieval augmented generation",
+   "retrieval-augmented generation"
+  ]
+ },
+ "CNN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cnn",
+   "convolutional neural network"
+  ]
+ },
+ "RNN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "recurrent neural network",
+   "rnn"
+  ]
+ },
+ "LSTM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "long short-term memory",
+   "lstm"
+  ]
+ },
+ "Transformer": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "attention mechanism",
+   "self-attention",
+   "transformer"
+  ]
+ },
+ "Feature Engineering": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "feature engineering",
+   "feature extraction",
+   "feature selection"
+  ]
+ },
+ "MLOps": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Machine Learning",
+   "DevOps"
+  ],
+  "aliases": [
+   "ml ops",
+   "mlops"
+  ]
+ },
+ "MLflow": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mlflow"
+  ]
+ },
+ "DVC": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data version control",
+   "dvc"
+  ]
+ },
+ "Weights & Biases": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "w&b",
+   "wandb",
+   "weights & biases",
+   "weights and biases"
+  ]
+ },
+ "XGBoost": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "xgboost"
+  ]
+ },
+ "LightGBM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lightgbm"
+  ]
+ },
+ "CatBoost": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "catboost"
+  ]
+ },
+ "Random Forest": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "random forest"
+  ]
+ },
+ "Gradient Boosting": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gbm",
+   "gradient boosting"
+  ]
+ },
+ "Time Series": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "forecasting",
+   "time series",
+   "time series forecasting"
+  ]
+ },
+ "Anomaly Detection": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "anomaly detection",
+   "outlier detection"
+  ]
+ },
+ "Recommendation Systems": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "collaborative filtering",
+   "recommendation systems",
+   "recommender systems"
+  ]
+ },
+ "A/B Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "a/b testing",
+   "ab testing",
+   "split testing"
+  ]
+ },
+ "Statistical Analysis": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "statistical analysis",
+   "statistical modeling",
+   "statistics"
+  ]
+ },
+ "Bayesian Inference": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bayesian",
+   "bayesian inference",
+   "bayesian statistics"
+  ]
+ },
+ "OpenCV": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cv2",
+   "open cv",
+   "opencv"
+  ]
+ },
+ "spaCy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "spacy",
+   "spacy nlp"
+  ]
+ },
+ "NLTK": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "natural language toolkit",
+   "nltk"
+  ]
+ },
+ "Gensim": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gensim"
+  ]
+ },
+ "Word2Vec": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "word embeddings",
+   "word2vec"
+  ]
+ },
+ "FastText": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fasttext"
+  ]
+ },
+ "Sentence Transformers": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sbert",
+   "sentence transformers"
+  ]
+ },
+ "FAISS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "facebook ai similarity search",
+   "faiss"
+  ]
+ },
+ "Vector Embeddings": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "embeddings",
+   "vector embeddings",
+   "vector search"
+  ]
+ },
+ "Reinforcement Learning": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "deep rl",
+   "reinforcement learning"
+  ]
+ },
+ "Multi-Agent AI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "agent",
+   "multi-agent",
+   "multi-agent ai"
+  ]
+ },
+ "OpenAI API": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "openai",
+   "openai api"
+  ]
+ },
+ "LangGraph": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lang graph",
+   "langgraph"
+  ]
+ },
+ "AutoGen": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "auto gen",
+   "autogen"
+  ]
+ },
+ "CrewAI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "crew ai",
+   "crewai"
+  ]
+ },
+ "Ollama": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ollama"
+  ]
+ },
+ "Claude API": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "anthropic api",
+   "claude",
+   "claude api"
+  ]
+ },
+ "Gemini API": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gemini",
+   "gemini api",
+   "google gemini"
+  ]
+ },
+ "Vertex AI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "google vertex",
+   "vertex ai"
+  ]
+ },
+ "Azure ML": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure machine learning",
+   "azure ml"
+  ]
+ },
+ "SageMaker": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon sagemaker",
+   "sagemaker"
+  ]
+ },
+ "AutoML": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "auto ml",
+   "automated machine learning",
+   "automl"
+  ]
+ },
+ "Explainable AI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "explainable ai",
+   "lime",
+   "shap",
+   "xai"
+  ]
+ },
+ "Prompt Engineering": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "prompt engineering"
+  ]
+ },
+ "Fine-tuning": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fine-tuning",
+   "finetuning",
+   "lora",
+   "peft",
+   "qlora",
+   "rlhf"
+  ]
+ },
+ "Vector Database": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vector database",
+   "vector db"
+  ]
+ },
+ "Apache Spark": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [
+   "Big Data"
+  ],
+  "aliases": [
+   "apache spark",
+   "pyspark",
+   "spark"
+  ]
+ },
+ "Hadoop": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [
+   "Big Data"
+  ],
+  "aliases": [
+   "apache hadoop",
+   "hadoop",
+   "hdfs",
+   "mapreduce"
+  ]
+ },
+ "Apache Kafka": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [
+   "Big Data"
+  ],
+  "aliases": [
+   "apache kafka",
+   "kafka"
+  ]
+ },
+ "Apache Flink": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache flink",
+   "flink"
+  ]
+ },
+ "Apache Airflow": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "airflow",
+   "apache airflow"
+  ]
+ },
+ "dbt": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data build tool",
+   "dbt"
+  ]
+ },
+ "Databricks": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "databricks"
+  ]
+ },
+ "Snowflake": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "snowflake"
+  ]
+ },
+ "Elasticsearch": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "elastic search",
+   "elasticsearch"
+  ]
+ },
+ "Logstash": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "logstash"
+  ]
+ },
+ "Kibana": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "kibana"
+  ]
+ },
+ "ELK Stack": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "elastic stack",
+   "elk",
+   "elk stack"
+  ]
+ },
+ "Hive": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache hive",
+   "hive"
+  ]
+ },
+ "HBase": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache hbase",
+   "hbase"
+  ]
+ },
+ "Presto": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "facebook presto",
+   "presto"
+  ]
+ },
+ "Trino": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "trino"
+  ]
+ },
+ "Druid": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache druid",
+   "druid"
+  ]
+ },
+ "Apache Beam": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache beam",
+   "beam"
+  ]
+ },
+ "Apache NiFi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache nifi",
+   "nifi"
+  ]
+ },
+ "Delta Lake": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "delta lake"
+  ]
+ },
+ "Apache Hudi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache hudi",
+   "hudi"
+  ]
+ },
+ "Apache Iceberg": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache iceberg",
+   "iceberg"
+  ]
+ },
+ "Confluent": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "confluent",
+   "confluent kafka"
+  ]
+ },
+ "Schema Registry": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "schema registry"
+  ]
+ },
+ "ZooKeeper": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache zookeeper",
+   "zookeeper"
+  ]
+ },
+ "Flink": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache flink",
+   "flink"
+  ]
+ },
+ "Storm": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache storm",
+   "storm"
+  ]
+ },
+ "Samza": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache samza",
+   "samza"
+  ]
+ },
+ "Pulsar": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache pulsar",
+   "pulsar"
+  ]
+ },
+ "MySQL": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [
+   "SQL"
+  ],
+  "aliases": [
+   "mysql"
+  ]
+ },
+ "PostgreSQL": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [
+   "SQL"
+  ],
+  "aliases": [
+   "postgres",
+   "postgresql"
+  ]
+ },
+ "MongoDB": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mongo",
+   "mongodb"
+  ]
+ },
+ "Redis": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "redis"
+  ]
+ },
+ "Oracle DB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "oracle",
+   "oracle database",
+   "oracle db"
+  ]
+ },
+ "SQL Server": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [
+   "SQL"
+  ],
+  "aliases": [
+   "microsoft sql server",
+   "mssql",
+   "sql server"
+  ]
+ },
+ "SQLite": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [
+   "SQL"
+  ],
+  "aliases": [
+   "sqlite"
+  ]
+ },
+ "Cassandra": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache cassandra",
+   "cassandra"
+  ]
+ },
+ "DynamoDB": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon dynamodb",
+   "dynamodb"
+  ]
+ },
+ "Neo4j": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "neo4j"
+  ]
+ },
+ "InfluxDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "influxdb"
+  ]
+ },
+ "CouchDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "couchdb"
+  ]
+ },
+ "MariaDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mariadb"
+  ]
+ },
+ "Aurora": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon aurora",
+   "aurora"
+  ]
+ },
+ "CosmosDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure cosmos db",
+   "cosmos db",
+   "cosmosdb"
+  ]
+ },
+ "Firebase": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "firebase",
+   "firestore",
+   "google firebase"
+  ]
+ },
+ "Supabase": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "supabase"
+  ]
+ },
+ "Pinecone": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pinecone"
+  ]
+ },
+ "Weaviate": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "weaviate"
+  ]
+ },
+ "Chroma": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chroma",
+   "chromadb"
+  ]
+ },
+ "Milvus": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "milvus"
+  ]
+ },
+ "Qdrant": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "qdrant"
+  ]
+ },
+ "ClickHouse": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "clickhouse"
+  ]
+ },
+ "TimescaleDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "timescaledb"
+  ]
+ },
+ "CockroachDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cockroachdb"
+  ]
+ },
+ "YugabyteDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "yugabytedb"
+  ]
+ },
+ "PlanetScale": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "planetscale"
+  ]
+ },
+ "Neon": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "neon",
+   "neon db"
+  ]
+ },
+ "DuckDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "duckdb"
+  ]
+ },
+ "BigQuery": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bigquery",
+   "google bigquery"
+  ]
+ },
+ "Redshift": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon redshift",
+   "redshift"
+  ]
+ },
+ "Synapse Analytics": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure synapse",
+   "synapse analytics"
+  ]
+ },
+ "Azure SQL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure sql",
+   "azure sql database"
+  ]
+ },
+ "Memcached": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "memcached"
+  ]
+ },
+ "Couchbase": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "couchbase"
+  ]
+ },
+ "Vitess": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vitess"
+  ]
+ },
+ "TiDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tidb"
+  ]
+ },
+ "ArangoDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "arangodb"
+  ]
+ },
+ "RethinkDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rethinkdb"
+  ]
+ },
+ "RavenDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ravendb"
+  ]
+ },
+ "Realm": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "realm",
+   "realm db"
+  ]
+ },
+ "LiteDB": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "litedb"
+  ]
+ },
+ "Dgraph": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dgraph"
+  ]
+ },
+ "JanusGraph": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "janusgraph"
+  ]
+ },
+ "Amazon S3": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon s3",
+   "object storage",
+   "s3"
+  ]
+ },
+ "AWS": {
+  "parents": [
+   "Cloud"
+  ],
+  "children": [],
+  "implies": [
+   "Cloud Computing"
+  ],
+  "aliases": [
+   "amazon web services",
+   "aws"
+  ]
+ },
+ "Azure": {
+  "parents": [
+   "Cloud"
+  ],
+  "children": [],
+  "implies": [
+   "Cloud Computing"
+  ],
+  "aliases": [
+   "azure",
+   "microsoft azure"
+  ]
+ },
+ "GCP": {
+  "parents": [
+   "Cloud"
+  ],
+  "children": [],
+  "implies": [
+   "Cloud Computing"
+  ],
+  "aliases": [
+   "gcp",
+   "google cloud",
+   "google cloud platform"
+  ]
+ },
+ "Amazon EC2": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon ec2",
+   "ec2"
+  ]
+ },
+ "Amazon RDS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon rds",
+   "rds"
+  ]
+ },
+ "Amazon Lambda": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon lambda",
+   "aws lambda",
+   "lambda"
+  ]
+ },
+ "Amazon EKS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon eks",
+   "eks"
+  ]
+ },
+ "Amazon ECS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon ecs",
+   "ecs"
+  ]
+ },
+ "Amazon SQS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon sqs",
+   "sqs"
+  ]
+ },
+ "Amazon SNS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon sns",
+   "sns"
+  ]
+ },
+ "Amazon CloudWatch": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon cloudwatch",
+   "cloudwatch"
+  ]
+ },
+ "Amazon CloudFront": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon cloudfront",
+   "cloudfront"
+  ]
+ },
+ "Amazon VPC": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amazon vpc",
+   "vpc"
+  ]
+ },
+ "Azure Functions": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure functions"
+  ]
+ },
+ "Azure DevOps": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure devops"
+  ]
+ },
+ "Azure Kubernetes Service": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "aks",
+   "azure kubernetes service"
+  ]
+ },
+ "Azure Container Apps": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure container apps"
+  ]
+ },
+ "Google Kubernetes Engine": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gke",
+   "google kubernetes engine"
+  ]
+ },
+ "Cloud Run": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cloud run",
+   "google cloud run"
+  ]
+ },
+ "Cloud Functions": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cloud functions",
+   "google cloud functions"
+  ]
+ },
+ "CloudFormation": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "aws cloudformation",
+   "cloudformation"
+  ]
+ },
+ "Bicep": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "azure bicep",
+   "bicep"
+  ]
+ },
+ "Pulumi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pulumi"
+  ]
+ },
+ "Terraform": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [
+   "Cloud Computing"
+  ],
+  "aliases": [
+   "terraform"
+  ]
+ },
+ "Ansible": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ansible"
+  ]
+ },
+ "Puppet": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "puppet"
+  ]
+ },
+ "Chef": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chef"
+  ]
+ },
+ "Vagrant": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vagrant"
+  ]
+ },
+ "OpenStack": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "openstack"
+  ]
+ },
+ "VMware": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "esxi",
+   "vmware",
+   "vsphere"
+  ]
+ },
+ "VirtualBox": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "virtualbox"
+  ]
+ },
+ "Proxmox": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "proxmox"
+  ]
+ },
+ "Heroku": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "heroku"
+  ]
+ },
+ "DigitalOcean": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "digital ocean",
+   "digitalocean"
+  ]
+ },
+ "Linode": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "akamai cloud",
+   "linode"
+  ]
+ },
+ "Vercel": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vercel"
+  ]
+ },
+ "Netlify": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "netlify"
+  ]
+ },
+ "Cloudflare": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cloudflare",
+   "cloudflare workers"
+  ]
+ },
+ "IBM Cloud": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ibm cloud"
+  ]
+ },
+ "Oracle Cloud": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "oci",
+   "oracle cloud"
+  ]
+ },
+ "Alibaba Cloud": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "alibaba cloud",
+   "aliyun"
+  ]
+ },
+ "Fly.io": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fly.io",
+   "flyio"
+  ]
+ },
+ "Railway": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "railway"
+  ]
+ },
+ "Docker": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [
+   "Linux"
+  ],
+  "aliases": [
+   "containerization",
+   "docker",
+   "dockerfile"
+  ]
+ },
+ "Kubernetes": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [
+   "Docker"
+  ],
+  "aliases": [
+   "k8s",
+   "kubernetes"
+  ]
+ },
+ "Helm": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "helm",
+   "helm charts"
+  ]
+ },
+ "Istio": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "istio",
+   "service mesh"
+  ]
+ },
+ "Jenkins": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "jenkins"
+  ]
+ },
+ "GitHub Actions": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gh actions",
+   "github actions"
+  ]
+ },
+ "GitLab CI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gitlab ci",
+   "gitlab ci/cd"
+  ]
+ },
+ "CircleCI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "circle ci",
+   "circleci"
+  ]
+ },
+ "Travis CI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "travis ci"
+  ]
+ },
+ "Bitbucket Pipelines": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bitbucket pipelines"
+  ]
+ },
+ "ArgoCD": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "argo cd",
+   "argocd"
+  ]
+ },
+ "Flux": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "flux",
+   "fluxcd"
+  ]
+ },
+ "Tekton": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tekton"
+  ]
+ },
+ "Spinnaker": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "spinnaker"
+  ]
+ },
+ "Prometheus": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "prometheus"
+  ]
+ },
+ "Grafana": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "grafana"
+  ]
+ },
+ "Datadog": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "datadog"
+  ]
+ },
+ "New Relic": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "new relic",
+   "newrelic"
+  ]
+ },
+ "Splunk": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "splunk"
+  ]
+ },
+ "Dynatrace": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dynatrace"
+  ]
+ },
+ "Jaeger": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "jaeger"
+  ]
+ },
+ "OpenTelemetry": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "opentelemetry",
+   "otel"
+  ]
+ },
+ "Nginx": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nginx"
+  ]
+ },
+ "Apache HTTPD": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache",
+   "apache http server",
+   "apache httpd"
+  ]
+ },
+ "HAProxy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "haproxy"
+  ]
+ },
+ "Traefik": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "traefik"
+  ]
+ },
+ "Envoy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "envoy",
+   "envoy proxy"
+  ]
+ },
+ "Linux": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "centos",
+   "debian",
+   "fedora",
+   "linux",
+   "red hat",
+   "rhel",
+   "ubuntu"
+  ]
+ },
+ "Git": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "git",
+   "git flow",
+   "version control"
+  ]
+ },
+ "DevOps": {
+  "parents": [],
+  "children": [
+   "Docker",
+   "Kubernetes",
+   "CI/CD",
+   "Terraform",
+   "Ansible",
+   "Jenkins",
+   "Git",
+   "Linux",
+   "Nginx",
+   "Monitoring"
+  ],
+  "implies": [],
+  "aliases": [
+   "dev ops",
+   "devops"
+  ]
+ },
+ "SRE": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "site reliability engineering",
+   "sre"
+  ]
+ },
+ "Platform Engineering": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "platform engineering"
+  ]
+ },
+ "GitOps": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "git ops",
+   "gitops"
+  ]
+ },
+ "Vault": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hashicorp vault",
+   "vault"
+  ]
+ },
+ "Consul": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "consul",
+   "hashicorp consul"
+  ]
+ },
+ "Nomad": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hashicorp nomad",
+   "nomad"
+  ]
+ },
+ "Packer": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hashicorp packer",
+   "packer"
+  ]
+ },
+ "Skaffold": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "skaffold"
+  ]
+ },
+ "Kustomize": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "kustomize"
+  ]
+ },
+ "Linkerd": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "linkerd"
+  ]
+ },
+ "Containerd": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "containerd"
+  ]
+ },
+ "Podman": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "podman"
+  ]
+ },
+ "CI/CD": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ci/cd",
+   "cicd",
+   "continuous delivery",
+   "continuous deployment",
+   "continuous integration"
+  ]
+ },
+ "Infrastructure as Code": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "iac",
+   "infrastructure as code"
+  ]
+ },
+ "Site Reliability": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "reliability engineering",
+   "site reliability"
+  ]
+ },
+ "Cybersecurity": {
+  "parents": [
+   "Security"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cyber security",
+   "cybersecurity",
+   "information security",
+   "infosec"
+  ]
+ },
+ "Penetration Testing": {
+  "parents": [
+   "Security"
+  ],
+  "children": [],
+  "implies": [
+   "Cybersecurity"
+  ],
+  "aliases": [
+   "pen testing",
+   "penetration testing",
+   "pentesting"
+  ]
+ },
+ "Ethical Hacking": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ethical hacker",
+   "ethical hacking"
+  ]
+ },
+ "SIEM": {
+  "parents": [
+   "Security"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "security information and event management",
+   "siem"
+  ]
+ },
+ "Firewall": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "firewall",
+   "waf",
+   "web application firewall"
+  ]
+ },
+ "SSL/TLS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "https",
+   "ssl",
+   "ssl/tls",
+   "tls"
+  ]
+ },
+ "OAuth": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "oauth",
+   "oauth 2.0",
+   "oauth2"
+  ]
+ },
+ "JWT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "json web token",
+   "jwt"
+  ]
+ },
+ "LDAP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "active directory",
+   "ldap"
+  ]
+ },
+ "SOC": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "security operations center",
+   "soc"
+  ]
+ },
+ "Vulnerability Assessment": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vulnerability assessment",
+   "vulnerability management"
+  ]
+ },
+ "Network Security": {
+  "parents": [
+   "Security"
+  ],
+  "children": [],
+  "implies": [
+   "Cybersecurity",
+   "Networking"
+  ],
+  "aliases": [
+   "network security"
+  ]
+ },
+ "Cryptography": {
+  "parents": [
+   "Security"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cryptography",
+   "decryption",
+   "encryption"
+  ]
+ },
+ "Zero Trust": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zero trust",
+   "zero trust network",
+   "zero trust security"
+  ]
+ },
+ "Identity Management": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "iam",
+   "identity and access management",
+   "identity management"
+  ]
+ },
+ "Cloud Security": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cloud security"
+  ]
+ },
+ "DevSecOps": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dev sec ops",
+   "devsecops"
+  ]
+ },
+ "OWASP": {
+  "parents": [
+   "Security"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "owasp",
+   "owasp top 10"
+  ]
+ },
+ "Burp Suite": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "burp",
+   "burp suite"
+  ]
+ },
+ "Metasploit": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "metasploit"
+  ]
+ },
+ "Wireshark": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "wireshark"
+  ]
+ },
+ "Nmap": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nmap"
+  ]
+ },
+ "Kali Linux": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "kali",
+   "kali linux"
+  ]
+ },
+ "Threat Modeling": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "threat model",
+   "threat modeling"
+  ]
+ },
+ "SAST": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sast",
+   "static application security testing"
+  ]
+ },
+ "DAST": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dast",
+   "dynamic application security testing"
+  ]
+ },
+ "SOC2": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "soc 2",
+   "soc2"
+  ]
+ },
+ "ISO 27001": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "iso 27001",
+   "iso27001"
+  ]
+ },
+ "NIST": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nist",
+   "nist framework"
+  ]
+ },
+ "IDS/IPS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ids",
+   "ids/ips",
+   "intrusion detection",
+   "intrusion prevention",
+   "ips"
+  ]
+ },
+ "SOAR": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "security orchestration",
+   "soar"
+  ]
+ },
+ "Threat Intelligence": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "threat intelligence"
+  ]
+ },
+ "Red Team": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "red team",
+   "red teaming"
+  ]
+ },
+ "Blue Team": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "blue team",
+   "blue teaming"
+  ]
+ },
+ "Incident Response": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "incident response"
+  ]
+ },
+ "Digital Forensics": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "digital forensics",
+   "forensics"
+  ]
+ },
+ "PAM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pam",
+   "privileged access management"
+  ]
+ },
+ "MFA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "2fa",
+   "mfa",
+   "multi-factor authentication",
+   "two-factor authentication"
+  ]
+ },
+ "SAML": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "saml",
+   "single sign-on",
+   "sso"
+  ]
+ },
+ "Keycloak": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "keycloak"
+  ]
+ },
+ "Okta": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "okta"
+  ]
+ },
+ "Snyk": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "snyk"
+  ]
+ },
+ "CrowdStrike": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "crowdstrike",
+   "falcon"
+  ]
+ },
+ "Nessus": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nessus"
+  ]
+ },
+ "OpenVAS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "openvas"
+  ]
+ },
+ "Qualys": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "qualys"
+  ]
+ },
+ "Carbon Black": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "carbon black"
+  ]
+ },
+ "SentinelOne": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sentinelone"
+  ]
+ },
+ "Palo Alto": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "palo alto",
+   "palo alto networks"
+  ]
+ },
+ "Fortinet": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fortigate",
+   "fortinet"
+  ]
+ },
+ "Power BI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "microsoft power bi",
+   "power bi",
+   "powerbi"
+  ]
+ },
+ "Tableau": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tableau"
+  ]
+ },
+ "Looker": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "google looker",
+   "looker",
+   "looker studio"
+  ]
+ },
+ "Qlik": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "qlik",
+   "qlik sense",
+   "qliksense",
+   "qlikview"
+  ]
+ },
+ "Excel": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "excel",
+   "microsoft excel",
+   "ms excel"
+  ]
+ },
+ "Metabase": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "metabase"
+  ]
+ },
+ "Apache Superset": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache superset",
+   "superset"
+  ]
+ },
+ "Google Analytics": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ga4",
+   "google analytics"
+  ]
+ },
+ "Adobe Analytics": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe analytics"
+  ]
+ },
+ "Mixpanel": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mixpanel"
+  ]
+ },
+ "Amplitude": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "amplitude"
+  ]
+ },
+ "Data Visualization": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data visualization",
+   "data viz"
+  ]
+ },
+ "Business Intelligence": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bi",
+   "business intelligence"
+  ]
+ },
+ "Reporting": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "reporting",
+   "reports"
+  ]
+ },
+ "Cognos": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cognos",
+   "ibm cognos"
+  ]
+ },
+ "SAS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sas",
+   "sas analytics"
+  ]
+ },
+ "MicroStrategy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "microstrategy"
+  ]
+ },
+ "PowerQuery": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "power query",
+   "powerquery"
+  ]
+ },
+ "DAX": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data analysis expressions",
+   "dax"
+  ]
+ },
+ "Spotfire": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "spotfire",
+   "tibco spotfire"
+  ]
+ },
+ "Redash": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "redash"
+  ]
+ },
+ "Mode Analytics": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mode",
+   "mode analytics"
+  ]
+ },
+ "Segment": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "segment",
+   "twilio segment"
+  ]
+ },
+ "Heap": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "heap",
+   "heap analytics"
+  ]
+ },
+ "Hotjar": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hotjar"
+  ]
+ },
+ "FullStory": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fullstory"
+  ]
+ },
+ "Matomo": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "matomo",
+   "piwik"
+  ]
+ },
+ "Domo": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "domo"
+  ]
+ },
+ "Sisense": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sisense"
+  ]
+ },
+ "ThoughtSpot": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "thoughtspot"
+  ]
+ },
+ "ETL": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "elt",
+   "etl",
+   "extract transform load"
+  ]
+ },
+ "Data Pipeline": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data pipeline",
+   "pipeline"
+  ]
+ },
+ "Data Warehouse": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data warehouse",
+   "data warehousing",
+   "dwh"
+  ]
+ },
+ "Data Lake": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data lake"
+  ]
+ },
+ "Data Lakehouse": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data lakehouse",
+   "lakehouse"
+  ]
+ },
+ "Azure Data Factory": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adf",
+   "azure data factory"
+  ]
+ },
+ "AWS Glue": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "aws glue",
+   "glue"
+  ]
+ },
+ "Informatica": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "informatica",
+   "informatica powercenter"
+  ]
+ },
+ "Talend": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "talend"
+  ]
+ },
+ "Pentaho": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pentaho"
+  ]
+ },
+ "Great Expectations": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "great expectations"
+  ]
+ },
+ "Data Quality": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data cleaning",
+   "data cleansing",
+   "data quality"
+  ]
+ },
+ "Data Governance": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data governance"
+  ]
+ },
+ "Data Modeling": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data modeling",
+   "data modelling"
+  ]
+ },
+ "Dimensional Modeling": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dimensional modeling",
+   "snowflake schema",
+   "star schema"
+  ]
+ },
+ "Data Mesh": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data mesh"
+  ]
+ },
+ "Data Vault": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data vault"
+  ]
+ },
+ "Medallion Architecture": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bronze silver gold",
+   "medallion architecture"
+  ]
+ },
+ "Airbyte": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "airbyte"
+  ]
+ },
+ "Meltano": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "meltano"
+  ]
+ },
+ "Fivetran": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fivetran"
+  ]
+ },
+ "Stitch": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "stitch",
+   "stitch data"
+  ]
+ },
+ "Apache Camel": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache camel",
+   "camel"
+  ]
+ },
+ "StreamSets": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "streamsets"
+  ]
+ },
+ "Matillion": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "matillion"
+  ]
+ },
+ "Boomi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "boomi",
+   "dell boomi"
+  ]
+ },
+ "MuleSoft": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mule soft",
+   "mulesoft"
+  ]
+ },
+ "SAP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sap"
+  ]
+ },
+ "Salesforce": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "salesforce",
+   "salesforce crm",
+   "sfdc"
+  ]
+ },
+ "Oracle ERP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "oracle erp",
+   "oracle fusion"
+  ]
+ },
+ "ServiceNow": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "servicenow"
+  ]
+ },
+ "Workday": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "workday"
+  ]
+ },
+ "Microsoft Dynamics": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dynamics 365",
+   "dynamics crm",
+   "microsoft dynamics"
+  ]
+ },
+ "PeopleSoft": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "peoplesoft"
+  ]
+ },
+ "SAP ABAP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "abap",
+   "sap abap"
+  ]
+ },
+ "SAP HANA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hana",
+   "sap hana"
+  ]
+ },
+ "SAP S/4HANA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "s/4hana",
+   "s4hana",
+   "sap s/4hana"
+  ]
+ },
+ "SAP BW": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bw/4hana",
+   "sap bw"
+  ]
+ },
+ "SAP Fiori": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fiori",
+   "sap fiori"
+  ]
+ },
+ "SAP FICO": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "fico",
+   "sap fico"
+  ]
+ },
+ "SAP MM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sap materials management",
+   "sap mm"
+  ]
+ },
+ "SAP SD": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sap sales distribution",
+   "sap sd"
+  ]
+ },
+ "SAP Basis": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sap basis"
+  ]
+ },
+ "ERP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "enterprise resource planning",
+   "erp"
+  ]
+ },
+ "CRM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "crm",
+   "customer relationship management"
+  ]
+ },
+ "HRMS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hris",
+   "hrms",
+   "human resource management"
+  ]
+ },
+ "HubSpot": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hubspot"
+  ]
+ },
+ "Zendesk": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zendesk"
+  ]
+ },
+ "Freshworks": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "freshdesk",
+   "freshworks"
+  ]
+ },
+ "NetSuite": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "netsuite",
+   "oracle netsuite"
+  ]
+ },
+ "Odoo": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "odoo"
+  ]
+ },
+ "Blockchain": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "blockchain"
+  ]
+ },
+ "Ethereum": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "eth",
+   "ethereum"
+  ]
+ },
+ "Web3": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "web 3.0",
+   "web3",
+   "web3.js"
+  ]
+ },
+ "Smart Contracts": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "smart contract",
+   "smart contracts"
+  ]
+ },
+ "NFT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "nft",
+   "non-fungible token"
+  ]
+ },
+ "DeFi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "decentralized finance",
+   "defi"
+  ]
+ },
+ "Hyperledger": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hyperledger",
+   "hyperledger fabric"
+  ]
+ },
+ "Truffle": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "truffle",
+   "truffle suite"
+  ]
+ },
+ "Hardhat": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hardhat"
+  ]
+ },
+ "Foundry": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "foundry"
+  ]
+ },
+ "Polkadot": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "polkadot"
+  ]
+ },
+ "Cosmos": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cosmos",
+   "cosmos sdk"
+  ]
+ },
+ "Chainlink": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chainlink"
+  ]
+ },
+ "IPFS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "interplanetary file system",
+   "ipfs"
+  ]
+ },
+ "Ethers.js": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ethers",
+   "ethers.js"
+  ]
+ },
+ "Wagmi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "wagmi"
+  ]
+ },
+ "Moralis": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "moralis"
+  ]
+ },
+ "Alchemy": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "alchemy"
+  ]
+ },
+ "Solana": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sol",
+   "solana"
+  ]
+ },
+ "Rust for Blockchain": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "anchor",
+   "rust for blockchain",
+   "solana program library"
+  ]
+ },
+ "Selenium": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [
+   "Test Automation"
+  ],
+  "aliases": [
+   "selenium",
+   "selenium webdriver"
+  ]
+ },
+ "Cypress": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [
+   "Test Automation",
+   "JavaScript"
+  ],
+  "aliases": [
+   "cypress"
+  ]
+ },
+ "Jest": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [
+   "JavaScript",
+   "Unit Testing"
+  ],
+  "aliases": [
+   "jest"
+  ]
+ },
+ "JUnit": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [
+   "Java",
+   "Unit Testing"
+  ],
+  "aliases": [
+   "junit",
+   "junit5"
+  ]
+ },
+ "Pytest": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "Unit Testing"
+  ],
+  "aliases": [
+   "pytest"
+  ]
+ },
+ "Mocha": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mocha"
+  ]
+ },
+ "Chai": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "chai"
+  ]
+ },
+ "Jasmine": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "jasmine"
+  ]
+ },
+ "Playwright": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "playwright"
+  ]
+ },
+ "Puppeteer": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "puppeteer"
+  ]
+ },
+ "Postman": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "postman"
+  ]
+ },
+ "SoapUI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "soap ui",
+   "soapui"
+  ]
+ },
+ "JMeter": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "apache jmeter",
+   "jmeter"
+  ]
+ },
+ "K6": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "k6"
+  ]
+ },
+ "Locust": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "locust"
+  ]
+ },
+ "Gatling": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gatling"
+  ]
+ },
+ "Unit Testing": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "unit test",
+   "unit testing"
+  ]
+ },
+ "Integration Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "integration test",
+   "integration testing"
+  ]
+ },
+ "End-to-End Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "e2e",
+   "e2e testing",
+   "end to end testing",
+   "end-to-end testing"
+  ]
+ },
+ "TDD": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tdd",
+   "test driven development"
+  ]
+ },
+ "BDD": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bdd",
+   "behavior driven development",
+   "cucumber"
+  ]
+ },
+ "Test Automation": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "automated testing",
+   "automation testing",
+   "test automation"
+  ]
+ },
+ "Manual Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "manual testing"
+  ]
+ },
+ "QA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "qa",
+   "quality assurance",
+   "quality engineering"
+  ]
+ },
+ "Load Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "load testing"
+  ]
+ },
+ "Performance Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "performance testing"
+  ]
+ },
+ "API Testing": {
+  "parents": [
+   "Testing"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "api testing"
+  ]
+ },
+ "Mobile Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mobile testing"
+  ]
+ },
+ "Appium": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "appium"
+  ]
+ },
+ "TestNG": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "testng"
+  ]
+ },
+ "Mockito": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mockito"
+  ]
+ },
+ "WireMock": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "wiremock"
+  ]
+ },
+ "Regression Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "regression test",
+   "regression testing"
+  ]
+ },
+ "Accessibility Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "a11y testing",
+   "accessibility testing"
+  ]
+ },
+ "Robot Framework": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "robot framework"
+  ]
+ },
+ "TestRail": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "testrail"
+  ]
+ },
+ "Xray": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "xray",
+   "xray test management"
+  ]
+ },
+ "Allure": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "allure",
+   "allure report"
+  ]
+ },
+ "Vitest": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vitest"
+  ]
+ },
+ "Testing Library": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "react testing library",
+   "testing library"
+  ]
+ },
+ "Artillery": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "artillery"
+  ]
+ },
+ "WebdriverIO": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "wdio",
+   "webdriverio"
+  ]
+ },
+ "Figma": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "figma"
+  ]
+ },
+ "Adobe XD": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe xd"
+  ]
+ },
+ "Sketch": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sketch"
+  ]
+ },
+ "Photoshop": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe photoshop",
+   "photoshop"
+  ]
+ },
+ "Illustrator": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe illustrator",
+   "illustrator"
+  ]
+ },
+ "UX": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "user experience",
+   "ux"
+  ]
+ },
+ "UI": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ui",
+   "user interface"
+  ]
+ },
+ "Wireframing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "wireframe",
+   "wireframing"
+  ]
+ },
+ "Prototyping": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "prototype",
+   "prototyping"
+  ]
+ },
+ "Adobe Creative Suite": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe cc",
+   "adobe creative suite"
+  ]
+ },
+ "Canva": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "canva"
+  ]
+ },
+ "InDesign": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe indesign",
+   "indesign"
+  ]
+ },
+ "After Effects": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe after effects",
+   "after effects"
+  ]
+ },
+ "Premiere Pro": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "adobe premiere",
+   "premiere pro"
+  ]
+ },
+ "User Research": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "user research",
+   "ux research"
+  ]
+ },
+ "Design Thinking": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "design thinking"
+  ]
+ },
+ "Design System": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "design system"
+  ]
+ },
+ "Accessibility": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "accessibility",
+   "aria",
+   "wcag"
+  ]
+ },
+ "Interaction Design": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "interaction design",
+   "ixd"
+  ]
+ },
+ "Motion Design": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "motion design",
+   "motion graphics"
+  ]
+ },
+ "Zeplin": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zeplin"
+  ]
+ },
+ "InVision": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "invision"
+  ]
+ },
+ "Miro": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "miro"
+  ]
+ },
+ "Framer": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "framer"
+  ]
+ },
+ "Spline": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "spline"
+  ]
+ },
+ "Lottie": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lottie",
+   "lottiefiles"
+  ]
+ },
+ "Principle": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "principle"
+  ]
+ },
+ "ProtoPie": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "protopie"
+  ]
+ },
+ "Maze": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "maze"
+  ]
+ },
+ "Hotspot": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hotspot",
+   "user testing",
+   "usertesting"
+  ]
+ },
+ "Agile": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "agile",
+   "agile methodology"
+  ]
+ },
+ "Scrum": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "scrum",
+   "scrum master"
+  ]
+ },
+ "Kanban": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "kanban"
+  ]
+ },
+ "Waterfall": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "waterfall"
+  ]
+ },
+ "PMP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pmp",
+   "project management professional"
+  ]
+ },
+ "PRINCE2": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "prince2"
+  ]
+ },
+ "JIRA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "atlassian jira",
+   "jira"
+  ]
+ },
+ "Confluence": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "atlassian confluence",
+   "confluence"
+  ]
+ },
+ "Trello": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "trello"
+  ]
+ },
+ "Asana": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "asana"
+  ]
+ },
+ "Monday.com": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "monday",
+   "monday.com"
+  ]
+ },
+ "Notion": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "notion"
+  ]
+ },
+ "Linear": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "linear",
+   "linear app"
+  ]
+ },
+ "Project Management": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "project management"
+  ]
+ },
+ "Product Management": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "product management"
+  ]
+ },
+ "Requirements Analysis": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "requirements analysis",
+   "requirements gathering"
+  ]
+ },
+ "SDLC": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sdlc",
+   "software development lifecycle"
+  ]
+ },
+ "Change Management": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "change management"
+  ]
+ },
+ "SAFe": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "safe",
+   "scaled agile",
+   "scaled agile framework"
+  ]
+ },
+ "Lean": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lean",
+   "lean methodology"
+  ]
+ },
+ "Six Sigma": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "six sigma"
+  ]
+ },
+ "ITIL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "itil"
+  ]
+ },
+ "COBIT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cobit"
+  ]
+ },
+ "OKR": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "objectives and key results",
+   "okr"
+  ]
+ },
+ "Sprint Planning": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sprint",
+   "sprint planning",
+   "sprint retrospective"
+  ]
+ },
+ "Roadmap Planning": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "product roadmap",
+   "roadmap planning"
+  ]
+ },
+ "Stakeholder Management": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "stakeholder management"
+  ]
+ },
+ "ClickUp": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "click up",
+   "clickup"
+  ]
+ },
+ "Basecamp": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "basecamp"
+  ]
+ },
+ "Smartsheet": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "smartsheet"
+  ]
+ },
+ "MS Project": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "microsoft project",
+   "ms project"
+  ]
+ },
+ "GitHub": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "github"
+  ]
+ },
+ "GitLab": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "gitlab"
+  ]
+ },
+ "Bitbucket": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bitbucket"
+  ]
+ },
+ "TCP/IP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "networking protocols",
+   "tcp",
+   "tcp/ip"
+  ]
+ },
+ "DNS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dns",
+   "domain name system"
+  ]
+ },
+ "DHCP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "dhcp"
+  ]
+ },
+ "VPN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "virtual private network",
+   "vpn"
+  ]
+ },
+ "SD-WAN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sd-wan",
+   "sdwan"
+  ]
+ },
+ "Cisco": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ccie",
+   "ccna",
+   "ccnp",
+   "cisco",
+   "cisco networking"
+  ]
+ },
+ "Networking": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "network administration",
+   "network engineering",
+   "networking"
+  ]
+ },
+ "Routing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "router",
+   "routing"
+  ]
+ },
+ "Switching": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "switch",
+   "switching"
+  ]
+ },
+ "BGP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bgp",
+   "border gateway protocol"
+  ]
+ },
+ "OSPF": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ospf"
+  ]
+ },
+ "VLAN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vlan"
+  ]
+ },
+ "CDN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cdn",
+   "content delivery network"
+  ]
+ },
+ "Load Balancing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "load balancer",
+   "load balancing"
+  ]
+ },
+ "Network Monitoring": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "network monitoring"
+  ]
+ },
+ "Windows Server": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "windows server"
+  ]
+ },
+ "Linux Administration": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "linux admin",
+   "linux administration",
+   "linux sysadmin"
+  ]
+ },
+ "Shell Scripting": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "bash scripting",
+   "shell scripting"
+  ]
+ },
+ "System Administration": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sysadmin",
+   "system administration"
+  ]
+ },
+ "Virtualization": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "hypervisor",
+   "virtualization"
+  ]
+ },
+ "Storage": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "block storage",
+   "nas",
+   "san",
+   "storage"
+  ]
+ },
+ "Backup": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "backup",
+   "bcdr",
+   "disaster recovery"
+  ]
+ },
+ "Juniper": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "juniper",
+   "juniper networks"
+  ]
+ },
+ "Palo Alto Firewall": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pa-series",
+   "palo alto firewall"
+  ]
+ },
+ "Packet Analysis": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "packet analysis",
+   "packet capture",
+   "pcap"
+  ]
+ },
+ "Arduino": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "arduino"
+  ]
+ },
+ "Raspberry Pi": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "raspberry pi",
+   "rpi"
+  ]
+ },
+ "Embedded Systems": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "embedded programming",
+   "embedded systems"
+  ]
+ },
+ "RTOS": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "freertos",
+   "real-time operating system",
+   "rtos",
+   "vxworks"
+  ]
+ },
+ "STM32": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "stm32",
+   "stmicroelectronics"
+  ]
+ },
+ "ARM": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "arm",
+   "arm cortex"
+  ]
+ },
+ "FPGA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "field programmable gate array",
+   "fpga"
+  ]
+ },
+ "Verilog": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "verilog"
+  ]
+ },
+ "VHDL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vhdl"
+  ]
+ },
+ "PLC": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "plc",
+   "programmable logic controller"
+  ]
+ },
+ "SCADA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "scada",
+   "supervisory control"
+  ]
+ },
+ "IoT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "internet of things",
+   "iot"
+  ]
+ },
+ "MQTT": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "mqtt"
+  ]
+ },
+ "Modbus": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "modbus"
+  ]
+ },
+ "CAN Bus": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "can bus",
+   "canbus"
+  ]
+ },
+ "Zigbee": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "zigbee"
+  ]
+ },
+ "LoRaWAN": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "lora",
+   "lorawan"
+  ]
+ },
+ "ESP32": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "esp32",
+   "esp8266"
+  ]
+ },
+ "MicroPython": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "micropython"
+  ]
+ },
+ "Embedded C": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "c for embedded",
+   "embedded c"
+  ]
+ },
+ "Firmware": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "firmware",
+   "firmware development"
+  ]
+ },
+ "Yocto": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "yocto",
+   "yocto project"
+  ]
+ },
+ "BSP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "board support package",
+   "bsp"
+  ]
+ },
+ "JTAG": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "jtag"
+  ]
+ },
+ "OPC-UA": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "opc ua",
+   "opc-ua"
+  ]
+ },
+ "Unity": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "unity",
+   "unity3d"
+  ]
+ },
+ "Unreal Engine": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "ue4",
+   "ue5",
+   "unreal",
+   "unreal engine"
+  ]
+ },
+ "OpenGL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "opengl"
+  ]
+ },
+ "DirectX": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "directx"
+  ]
+ },
+ "Vulkan": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "vulkan"
+  ]
+ },
+ "Game Development": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "game dev",
+   "game development"
+  ]
+ },
+ "Shader Programming": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "glsl",
+   "hlsl",
+   "shader",
+   "shader programming"
+  ]
+ },
+ "Blender": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "blender"
+  ]
+ },
+ "Godot": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "godot",
+   "godot engine"
+  ]
+ },
+ "Phaser": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "phaser",
+   "phaser.js"
+  ]
+ },
+ "Cocos2D": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cocos2d"
+  ]
+ },
+ "Procedural Generation": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "procedural generation"
+  ]
+ },
+ "Game Design": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "game design"
+  ]
+ },
+ "Multiplayer Networking": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "game networking",
+   "multiplayer networking"
+  ]
+ },
+ "Photon": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "photon",
+   "photon engine"
+  ]
+ },
+ "Spine": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "spine",
+   "spine animation"
+  ]
+ },
+ "Microservices": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "microservice",
+   "microservice architecture",
+   "microservices"
+  ]
+ },
+ "API Design": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "api design",
+   "api development"
+  ]
+ },
+ "System Design": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "system design",
+   "systems design"
+  ]
+ },
+ "Software Architecture": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "software architecture",
+   "solution architecture"
+  ]
+ },
+ "Design Patterns": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "design patterns"
+  ]
+ },
+ "SOLID Principles": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "solid",
+   "solid principles"
+  ]
+ },
+ "Code Review": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "code review",
+   "peer review"
+  ]
+ },
+ "Technical Documentation": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "technical documentation",
+   "technical writing"
+  ]
+ },
+ "SQL": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "sql",
+   "structured query language"
+  ]
+ },
+ "NoSQL": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "non-relational database",
+   "nosql"
+  ]
+ },
+ "Algorithms": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "algorithm",
+   "algorithms",
+   "data structures",
+   "dsa"
+  ]
+ },
+ "Operating Systems": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "operating systems"
+  ]
+ },
+ "OOP": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "object oriented programming",
+   "object-oriented",
+   "oop"
+  ]
+ },
+ "Functional Programming": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "functional programming"
+  ]
+ },
+ "Distributed Systems": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "distributed computing",
+   "distributed systems"
+  ]
+ },
+ "Event-Driven Architecture": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "eda",
+   "event driven architecture",
+   "event-driven",
+   "event-driven architecture"
+  ]
+ },
+ "Message Queue": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "message broker",
+   "message queue",
+   "messaging"
+  ]
+ },
+ "Caching": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cache",
+   "caching"
+  ]
+ },
+ "Observability": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "observability"
+  ]
+ },
+ "Monitoring": {
+  "parents": [
+   "DevOps"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "log management",
+   "logging",
+   "monitoring"
+  ]
+ },
+ "Computer Science": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "computer science",
+   "cs fundamentals"
+  ]
+ },
+ "Full Stack": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "full stack",
+   "full-stack",
+   "fullstack"
+  ]
+ },
+ "Backend": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "back end",
+   "back-end",
+   "backend",
+   "server side"
+  ]
+ },
+ "Frontend": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "client side",
+   "front end",
+   "front-end",
+   "frontend"
+  ]
+ },
+ "Open Source": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "open source",
+   "opensource"
+  ]
+ },
+ "Agile Development": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "agile development",
+   "agile software development"
+  ]
+ },
+ "Clean Code": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "clean code"
+  ]
+ },
+ "Refactoring": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "refactoring"
+  ]
+ },
+ "Pair Programming": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "pair programming"
+  ]
+ },
+ "Technical Leadership": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "tech lead",
+   "technical leadership"
+  ]
+ },
+ "Mentoring": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "coaching",
+   "mentoring"
+  ]
+ },
+ "Communication": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "communication",
+   "presentation skills"
+  ]
+ },
+ "Problem Solving": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "analytical thinking",
+   "problem solving"
+  ]
+ },
+ "Cross-functional Teams": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cross functional teams",
+   "cross-functional",
+   "cross-functional teams"
+  ]
+ },
+ "Remote Work": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "distributed team",
+   "remote work",
+   "work from home"
+  ]
+ },
+ "Agile Coaching": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "agile coach",
+   "agile coaching"
+  ]
+ },
+ "Software Testing": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "software testing",
+   "testing"
+  ]
+ },
+ "Continuous Learning": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "continuous learning",
+   "upskilling"
+  ]
+ },
+ "Research": {
+  "parents": [],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "r&d",
+   "research"
+  ]
+ },
+ "Programming Languages": {
+  "parents": [],
+  "children": [
+   "Python",
+   "Java",
+   "C++",
+   "C#",
+   "C",
+   "JavaScript",
+   "TypeScript",
+   "Go",
+   "Rust",
+   "PHP",
+   "Ruby",
+   "Kotlin",
+   "Swift",
+   "Dart",
+   "Scala",
+   "R",
+   "Perl",
+   "MATLAB"
+  ],
+  "implies": [],
+  "aliases": [
+   "programming languages"
+  ]
+ },
+ "Web Frontend": {
+  "parents": [],
+  "children": [
+   "HTML",
+   "CSS",
+   "JavaScript",
+   "React",
+   "Angular",
+   "Vue.js",
+   "Next.js",
+   "Svelte",
+   "jQuery",
+   "Tailwind CSS",
+   "Bootstrap",
+   "SASS",
+   "Redux"
+  ],
+  "implies": [],
+  "aliases": [
+   "web frontend"
+  ]
+ },
+ "Web Backend": {
+  "parents": [],
+  "children": [
+   "Node.js",
+   "Django",
+   "Flask",
+   "FastAPI",
+   "Spring Boot",
+   "Laravel",
+   "Express.js",
+   ".NET",
+   "Ruby on Rails",
+   "REST APIs",
+   "GraphQL"
+  ],
+  "implies": [],
+  "aliases": [
+   "web backend"
+  ]
+ },
+ ".NET": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [
+   "C#"
+  ],
+  "aliases": [
+   ".net"
+  ]
+ },
+ "REST APIs": {
+  "parents": [
+   "Web Backend"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "rest apis"
+  ]
+ },
+ "Mobile Development": {
+  "parents": [],
+  "children": [
+   "Flutter",
+   "React Native",
+   "Android",
+   "iOS",
+   "Kotlin",
+   "Swift",
+   "Dart"
+  ],
+  "implies": [],
+  "aliases": [
+   "mobile development"
+  ]
+ },
+ "Databases": {
+  "parents": [],
+  "children": [
+   "SQL",
+   "MySQL",
+   "PostgreSQL",
+   "MongoDB",
+   "Redis",
+   "SQLite",
+   "Oracle",
+   "SQL Server",
+   "Cassandra",
+   "Elasticsearch",
+   "DynamoDB",
+   "Firebase"
+  ],
+  "implies": [],
+  "aliases": [
+   "databases"
+  ]
+ },
+ "Oracle": {
+  "parents": [
+   "Databases"
+  ],
+  "children": [],
+  "implies": [
+   "SQL"
+  ],
+  "aliases": [
+   "oracle"
+  ]
+ },
+ "Cloud": {
+  "parents": [],
+  "children": [
+   "AWS",
+   "Azure",
+   "GCP",
+   "Serverless",
+   "Cloud Computing"
+  ],
+  "implies": [],
+  "aliases": [
+   "cloud"
+  ]
+ },
+ "Serverless": {
+  "parents": [
+   "Cloud"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "serverless"
+  ]
+ },
+ "Cloud Computing": {
+  "parents": [
+   "Cloud"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "cloud computing"
+  ]
+ },
+ "Data Science": {
+  "parents": [],
+  "children": [
+   "Machine Learning",
+   "Deep Learning",
+   "NLP",
+   "Computer Vision",
+   "Pandas",
+   "NumPy",
+   "Scikit-learn",
+   "TensorFlow",
+   "PyTorch",
+   "Statistics",
+   "Data Analysis",
+   "Data Visualization",
+   "MLOps"
+  ],
+  "implies": [],
+  "aliases": [
+   "data science"
+  ]
+ },
+ "NLP": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [
+   "Machine Learning"
+  ],
+  "aliases": [
+   "nlp"
+  ]
+ },
+ "Statistics": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "statistics"
+  ]
+ },
+ "Data Analysis": {
+  "parents": [
+   "Data Science"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data analysis"
+  ]
+ },
+ "Data Engineering": {
+  "parents": [],
+  "children": [
+   "ETL",
+   "Apache Spark",
+   "Apache Kafka",
+   "Airflow",
+   "Hadoop",
+   "Data Warehousing",
+   "Big Data"
+  ],
+  "implies": [],
+  "aliases": [
+   "data engineering"
+  ]
+ },
+ "Airflow": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [
+   "Python",
+   "ETL"
+  ],
+  "aliases": [
+   "airflow"
+  ]
+ },
+ "Data Warehousing": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "data warehousing"
+  ]
+ },
+ "Big Data": {
+  "parents": [
+   "Data Engineering"
+  ],
+  "children": [],
+  "implies": [],
+  "aliases": [
+   "big data"
+  ]
+ },
+ "Security": {
+  "parents": [],
+  "children": [
+   "Cybersecurity",
+   "Penetration Testing",
+   "Network Security",
+   "OWASP",
+   "Cryptography",
+   "SIEM"
+  ],
+  "implies": [],
+  "aliases": [
+   "security"
+  ]
+ },
+ "Testing": {
+  "parents": [],
+  "children": [
+   "Unit Testing",
+   "Selenium",
+   "Cypress",
+   "Jest",
+   "Test Automation",
+   "JUnit",
+   "Pytest",
+   "API Testing"
+  ],
+  "implies": [],
+  "aliases": [
+   "testing"
+  ]
+ }
+}

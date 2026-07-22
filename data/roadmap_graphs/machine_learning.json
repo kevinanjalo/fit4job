@@ -1,0 +1,2129 @@
+{
+  "topic": "Machine Learning",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Machine Learning",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of this",
+      "type": "skill",
+      "x_raw": 561.0811157226562,
+      "y_raw": 85.28907775878906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Pre-requisites",
+      "type": "skill",
+      "x_raw": 120.09945678710938,
+      "y_raw": 88.62887573242188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "roadmap and more roadmaps at",
+      "type": "skill",
+      "x_raw": 564.8779296875,
+      "y_raw": 101.823974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "Python Roadmap",
+      "type": "skill",
+      "x_raw": 110.86520385742188,
+      "y_raw": 120.59713745117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Machine Learning",
+      "type": "section",
+      "x_raw": 329.9674072265625,
+      "y_raw": 159.37692260742188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "AI Engineer Roadmap",
+      "type": "skill",
+      "x_raw": 88.63507080078125,
+      "y_raw": 194.30088806152344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "MLOps Roadmap",
+      "type": "skill",
+      "x_raw": 88.63507080078125,
+      "y_raw": 213.76544189453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "AI and Data Scientist Roadmap",
+      "type": "skill",
+      "x_raw": 88.63507080078125,
+      "y_raw": 233.21827697753906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "What is an ML Engineer?",
+      "type": "skill",
+      "x_raw": 584.635498046875,
+      "y_raw": 238.2516326904297,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Introduction ML Engineer vs AI Engineer",
+      "type": "skill",
+      "x_raw": 374.35736083984375,
+      "y_raw": 271.9894104003906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Skills and Responsibilities",
+      "type": "skill",
+      "x_raw": 582.947998046875,
+      "y_raw": 305.7272033691406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Derivatives, Partial Derivatives",
+      "type": "skill",
+      "x_raw": 72.92047119140625,
+      "y_raw": 310.23883056640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "Chain rule of derivation",
+      "type": "skill",
+      "x_raw": 89.60772705078125,
+      "y_raw": 343.97662353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Mathematical Foundations",
+      "type": "section",
+      "x_raw": 326.60418701171875,
+      "y_raw": 356.2156066894531,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "Gradient, Jacobian, Hessian",
+      "type": "skill",
+      "x_raw": 78.08834838867188,
+      "y_raw": 377.71441650390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Matrix & Matrix Operations",
+      "type": "skill",
+      "x_raw": 580.4988403320312,
+      "y_raw": 381.46435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Scalars, Vectors, Tensors",
+      "type": "skill",
+      "x_raw": 585.7838745117188,
+      "y_raw": 415.1903991699219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Singular Value Decomposition",
+      "type": "skill",
+      "x_raw": 572.9285888671875,
+      "y_raw": 448.9281921386719,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Linear Algebra Calculus",
+      "type": "skill",
+      "x_raw": 126.075927734375,
+      "y_raw": 449.1274108886719,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Determinants, inverse of Matrix",
+      "type": "skill",
+      "x_raw": 569.4833374023438,
+      "y_raw": 482.66595458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Eigenvalues, Diagonalization",
+      "type": "skill",
+      "x_raw": 575.7528076171875,
+      "y_raw": 516.4037475585938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Basics of Probability",
+      "type": "section",
+      "x_raw": 354.095947265625,
+      "y_raw": 521.0676879882812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "Bayes Theorem",
+      "type": "section",
+      "x_raw": 365.56842041015625,
+      "y_raw": 554.8054809570312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_23",
+      "label": "Discrete Mathematics",
+      "type": "skill",
+      "x_raw": 92.619384765625,
+      "y_raw": 574.6450805664062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Random Variances, PDFs",
+      "type": "section",
+      "x_raw": 341.47503662109375,
+      "y_raw": 588.5432739257812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "Python",
+      "type": "skill",
+      "x_raw": 639.5018310546875,
+      "y_raw": 606.4258422851562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Types of Distribution",
+      "type": "section",
+      "x_raw": 353.521728515625,
+      "y_raw": 622.2810668945312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "Programming Fundamentals",
+      "type": "skill",
+      "x_raw": 569.5184936523438,
+      "y_raw": 674.2459716796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Probability",
+      "type": "section",
+      "x_raw": 378.4588623046875,
+      "y_raw": 679.6903686523438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "Statistics",
+      "type": "skill",
+      "x_raw": 124.892333984375,
+      "y_raw": 680.3466186523438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Basic concepts",
+      "type": "skill",
+      "x_raw": 109.072265625,
+      "y_raw": 737.6621704101562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Basic Syntax",
+      "type": "skill",
+      "x_raw": 624.9473876953125,
+      "y_raw": 754.7127075195312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Object Oriented Programming",
+      "type": "section",
+      "x_raw": 329.6041259765625,
+      "y_raw": 754.7127075195312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Descriptive Statistics",
+      "type": "skill",
+      "x_raw": 95.58419799804688,
+      "y_raw": 771.39990234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Graphs & Charts",
+      "type": "skill",
+      "x_raw": 106.03713989257812,
+      "y_raw": 805.1376953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Matplotlib",
+      "type": "section",
+      "x_raw": 434.7431640625,
+      "y_raw": 818.6140747070312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Numpy",
+      "type": "section",
+      "x_raw": 331.3384704589844,
+      "y_raw": 820.559326171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "Variables and Data Types",
+      "type": "skill",
+      "x_raw": 593.6118774414062,
+      "y_raw": 830.6138916015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Inferential Statistics",
+      "type": "skill",
+      "x_raw": 98.29116821289062,
+      "y_raw": 838.87548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Seaborn",
+      "type": "section",
+      "x_raw": 438.0243835449219,
+      "y_raw": 853.652587890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Pandas",
+      "type": "section",
+      "x_raw": 330.3072509765625,
+      "y_raw": 855.597900390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "Data Structures",
+      "type": "skill",
+      "x_raw": 617.670166015625,
+      "y_raw": 865.0079345703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Databases (SQL, No-SQL)",
+      "type": "skill",
+      "x_raw": 78.02975463867188,
+      "y_raw": 895.5933837890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Loops",
+      "type": "skill",
+      "x_raw": 641.2596435546875,
+      "y_raw": 899.3901977539062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Essential libraries",
+      "type": "section",
+      "x_raw": 360.0724182128906,
+      "y_raw": 912.2337646484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_45",
+      "label": "Internet APIs",
+      "type": "skill",
+      "x_raw": 83.13906860351562,
+      "y_raw": 929.3311767578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Conditionals",
+      "type": "skill",
+      "x_raw": 625.5333251953125,
+      "y_raw": 933.7725219726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Mobile Apps IoT",
+      "type": "skill",
+      "x_raw": 72.19390869140625,
+      "y_raw": 963.7134399414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Exceptions",
+      "type": "skill",
+      "x_raw": 629.1309204101562,
+      "y_raw": 968.15478515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Functions, Builtin Functions",
+      "type": "skill",
+      "x_raw": 588.4791870117188,
+      "y_raw": 1002.548828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Data Collection Data Sources",
+      "type": "skill",
+      "x_raw": 110.39645385742188,
+      "y_raw": 1010.076904296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Data Cleaning",
+      "type": "section",
+      "x_raw": 362.4864501953125,
+      "y_raw": 1079.486083984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Data Formats",
+      "type": "skill",
+      "x_raw": 110.29098510742188,
+      "y_raw": 1082.340576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Preprocessing Techniques",
+      "type": "skill",
+      "x_raw": 580.756591796875,
+      "y_raw": 1095.21923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Data Cleaning",
+      "type": "skill",
+      "x_raw": 611.3186645507812,
+      "y_raw": 1129.6015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "CSV Excel",
+      "type": "skill",
+      "x_raw": 89.59600830078125,
+      "y_raw": 1137.1717529296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Feature Engineering",
+      "type": "skill",
+      "x_raw": 595.5571899414062,
+      "y_raw": 1163.99560546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "JSON Parquet",
+      "type": "skill",
+      "x_raw": 85.59994506835938,
+      "y_raw": 1170.7689208984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Machine Learning",
+      "type": "section",
+      "x_raw": 351.20147705078125,
+      "y_raw": 1175.543212890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Feature Scaling & Normalization",
+      "type": "skill",
+      "x_raw": 566.8935546875,
+      "y_raw": 1198.3779296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Other Data Formats",
+      "type": "skill",
+      "x_raw": 91.03738403320312,
+      "y_raw": 1205.936279296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "Dimensionality Reduction",
+      "type": "skill",
+      "x_raw": 583.780029296875,
+      "y_raw": 1232.76025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Supervised Learning",
+      "type": "skill",
+      "x_raw": 88.85772705078125,
+      "y_raw": 1263.603515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "What is Machine Learning?",
+      "type": "skill",
+      "x_raw": 336.70556640625,
+      "y_raw": 1263.603515625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Feature Selection",
+      "type": "skill",
+      "x_raw": 602.8695678710938,
+      "y_raw": 1267.142578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Types of Machine Learning Unsupervised Learning",
+      "type": "skill",
+      "x_raw": 82.31875610351562,
+      "y_raw": 1297.98583984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Semi-supervised Learning",
+      "type": "skill",
+      "x_raw": 74.99465942382812,
+      "y_raw": 1332.3798828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Data Loading",
+      "type": "skill",
+      "x_raw": 631.029296875,
+      "y_raw": 1336.176513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Self-supervised Learning",
+      "type": "skill",
+      "x_raw": 77.91256713867188,
+      "y_raw": 1366.761962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Train - Test Data",
+      "type": "skill",
+      "x_raw": 623.7755126953125,
+      "y_raw": 1370.570556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Reinforcement Learning",
+      "type": "skill",
+      "x_raw": 79.84613037109375,
+      "y_raw": 1401.144287109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Scikit-learn",
+      "type": "section",
+      "x_raw": 376.6542053222656,
+      "y_raw": 1404.952880859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "Data Preparation",
+      "type": "skill",
+      "x_raw": 621.8653564453125,
+      "y_raw": 1404.952880859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Model Selection",
+      "type": "skill",
+      "x_raw": 624.1856689453125,
+      "y_raw": 1439.335205078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Tuning",
+      "type": "skill",
+      "x_raw": 647.669677734375,
+      "y_raw": 1473.729248046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "What is Supervised Learning? Supervised Learning",
+      "type": "skill",
+      "x_raw": 79.08444213867188,
+      "y_raw": 1494.39404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Prediction",
+      "type": "skill",
+      "x_raw": 639.1033935546875,
+      "y_raw": 1508.111572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Unsupervised Learning",
+      "type": "skill",
+      "x_raw": 593.6470336914062,
+      "y_raw": 1567.529541015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Classification",
+      "type": "skill",
+      "x_raw": 119.82992553710938,
+      "y_raw": 1572.985595703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Regression",
+      "type": "section",
+      "x_raw": 371.873046875,
+      "y_raw": 1572.985595703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "K-Nearest Neighbors (KNN)",
+      "type": "skill",
+      "x_raw": 82.58828735351562,
+      "y_raw": 1640.203369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "Linear Regression",
+      "type": "section",
+      "x_raw": 354.435791015625,
+      "y_raw": 1642.875244140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_82",
+      "label": "Logistic Regression",
+      "type": "skill",
+      "x_raw": 103.71688842773438,
+      "y_raw": 1674.597412109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Polynomial Regression",
+      "type": "section",
+      "x_raw": 343.8539123535156,
+      "y_raw": 1677.25732421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_84",
+      "label": "Support Vector Machines",
+      "type": "skill",
+      "x_raw": 90.28738403320312,
+      "y_raw": 1708.9794921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Ridge Lasso",
+      "type": "section",
+      "x_raw": 347.0648193359375,
+      "y_raw": 1711.6396484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "What is Unsupervised Learning?",
+      "type": "skill",
+      "x_raw": 568.2412109375,
+      "y_raw": 1714.2412109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Decision Trees, Random Forest",
+      "type": "skill",
+      "x_raw": 75.01809692382812,
+      "y_raw": 1743.36181640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "ElasticNet Regularization",
+      "type": "section",
+      "x_raw": 337.25634765625,
+      "y_raw": 1746.35009765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_89",
+      "label": "Gradient Boosting Machines",
+      "type": "skill",
+      "x_raw": 82.03750610351562,
+      "y_raw": 1777.744140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "Clustering Dimensionality Reduction",
+      "type": "skill",
+      "x_raw": 345.7640380859375,
+      "y_raw": 1850.0595703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Exclusive",
+      "type": "skill",
+      "x_raw": 645.876708984375,
+      "y_raw": 1908.62890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Principal Component Analysis",
+      "type": "section",
+      "x_raw": 335.01812744140625,
+      "y_raw": 1908.67578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_93",
+      "label": "Overlapping",
+      "type": "skill",
+      "x_raw": 638.4940185546875,
+      "y_raw": 1943.01123046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Autoencoders",
+      "type": "section",
+      "x_raw": 374.06439208984375,
+      "y_raw": 1943.05810546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "Reinforcement Learning",
+      "type": "skill",
+      "x_raw": 74.32669067382812,
+      "y_raw": 1949.13330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "Hierarchical",
+      "type": "skill",
+      "x_raw": 638.7987060546875,
+      "y_raw": 1977.4052734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "Probabilistic",
+      "type": "skill",
+      "x_raw": 638.5643310546875,
+      "y_raw": 2011.78759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Model Evaluation",
+      "type": "section",
+      "x_raw": 358.17401123046875,
+      "y_raw": 2027.671142578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_99",
+      "label": "What is Reinforcement Learning?",
+      "type": "skill",
+      "x_raw": 75.54541015625,
+      "y_raw": 2031.814697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Deep-Q Networks",
+      "type": "skill",
+      "x_raw": 113.75970458984375,
+      "y_raw": 2100.333251953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Accuracy Precision",
+      "type": "skill",
+      "x_raw": 592.2642822265625,
+      "y_raw": 2100.649658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "What is Model Evaluation?",
+      "type": "skill",
+      "x_raw": 343.33831787109375,
+      "y_raw": 2102.1025390625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_103",
+      "label": "Policy Gradient",
+      "type": "skill",
+      "x_raw": 121.48223876953125,
+      "y_raw": 2134.71533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Recall F1-Score",
+      "type": "skill",
+      "x_raw": 592.8619384765625,
+      "y_raw": 2135.04345703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Why is it important?",
+      "type": "skill",
+      "x_raw": 360.7521057128906,
+      "y_raw": 2136.48486328125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_106",
+      "label": "Actor-Critic Methods",
+      "type": "skill",
+      "x_raw": 107.34963989257812,
+      "y_raw": 2169.09765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "ROC-AUC Log Loss",
+      "type": "skill",
+      "x_raw": 589.6978759765625,
+      "y_raw": 2169.42578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Q-Learning",
+      "type": "skill",
+      "x_raw": 130.16571044921875,
+      "y_raw": 2203.49169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Confusion Matrix",
+      "type": "skill",
+      "x_raw": 616.252197265625,
+      "y_raw": 2203.80810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Metrics to Evaluate",
+      "type": "section",
+      "x_raw": 360.7286682128906,
+      "y_raw": 2204.45263671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Deep Learning",
+      "type": "skill",
+      "x_raw": 105.31060791015625,
+      "y_raw": 2278.284423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Validation Techniques",
+      "type": "section",
+      "x_raw": 354.693603515625,
+      "y_raw": 2280.646728515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "K-Fold Cross Validation",
+      "type": "skill",
+      "x_raw": 598.18212890625,
+      "y_raw": 2280.646728515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "LOOCV",
+      "type": "skill",
+      "x_raw": 636.9354858398438,
+      "y_raw": 2315.040771484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Neural Network (NN) Basics",
+      "type": "skill",
+      "x_raw": 92.150634765625,
+      "y_raw": 2375.602294921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "Deep Learning Architectures",
+      "type": "skill",
+      "x_raw": 583.932373046875,
+      "y_raw": 2375.602294921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_117",
+      "label": "Deep Learning Libraries",
+      "type": "section",
+      "x_raw": 339.8110046386719,
+      "y_raw": 2375.602294921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_118",
+      "label": "Perceptron, Multi-layer Perceptrons",
+      "type": "skill",
+      "x_raw": 75.24075317382812,
+      "y_raw": 2438.53125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "TensorFlow Keras",
+      "type": "section",
+      "x_raw": 332.1822204589844,
+      "y_raw": 2439.515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_120",
+      "label": "Forward propagation",
+      "type": "skill",
+      "x_raw": 111.20504760742188,
+      "y_raw": 2472.913330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "PyTorch Scikit-learn",
+      "type": "section",
+      "x_raw": 332.47515869140625,
+      "y_raw": 2473.897705078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_122",
+      "label": "Back Propagation",
+      "type": "skill",
+      "x_raw": 118.47055053710938,
+      "y_raw": 2507.295654296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "Convolutional Neural Network Pooling",
+      "type": "skill",
+      "x_raw": 424.9112854003906,
+      "y_raw": 2529.87744140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_124",
+      "label": "Convolution",
+      "type": "section",
+      "x_raw": 331.0103759765625,
+      "y_raw": 2529.87744140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "Activation Functions",
+      "type": "skill",
+      "x_raw": 113.12689208984375,
+      "y_raw": 2541.689697265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Padding",
+      "type": "section",
+      "x_raw": 340.1508483886719,
+      "y_raw": 2564.259765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_127",
+      "label": "Strides",
+      "type": "section",
+      "x_raw": 425.7667541503906,
+      "y_raw": 2564.259765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_128",
+      "label": "Loss Functions",
+      "type": "skill",
+      "x_raw": 125.443115234375,
+      "y_raw": 2576.072021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "Applications of CNNs",
+      "type": "skill",
+      "x_raw": 593.4712524414062,
+      "y_raw": 2626.7548828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_130",
+      "label": "Recurrent Neural Networks",
+      "type": "section",
+      "x_raw": 332.88531494140625,
+      "y_raw": 2626.7548828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_131",
+      "label": "RNN GRU LSMT",
+      "type": "section",
+      "x_raw": 327.7525939941406,
+      "y_raw": 2690.15234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_132",
+      "label": "Image & Video Recognition",
+      "type": "skill",
+      "x_raw": 578.3777465820312,
+      "y_raw": 2694.9921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_133",
+      "label": "Image Classification",
+      "type": "skill",
+      "x_raw": 596.0259399414062,
+      "y_raw": 2729.37451171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_134",
+      "label": "Attention Mechanisms",
+      "type": "skill",
+      "x_raw": 78.55709838867188,
+      "y_raw": 2757.4287109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_135",
+      "label": "Self-Attention",
+      "type": "section",
+      "x_raw": 367.53717041015625,
+      "y_raw": 2757.4287109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_136",
+      "label": "Image Segmentation",
+      "type": "skill",
+      "x_raw": 594.5610961914062,
+      "y_raw": 2763.7685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_137",
+      "label": "Transformers",
+      "type": "section",
+      "x_raw": 368.2988586425781,
+      "y_raw": 2791.82275390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_138",
+      "label": "Recommendation Systems",
+      "type": "skill",
+      "x_raw": 580.1121215820312,
+      "y_raw": 2798.15087890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_139",
+      "label": "Multi-head Attention",
+      "type": "section",
+      "x_raw": 350.89678955078125,
+      "y_raw": 2826.205078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_140",
+      "label": "Generative Adversarial Networks Advanced Concepts in ML",
+      "type": "skill",
+      "x_raw": 319.8777160644531,
+      "y_raw": 2886.255859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_141",
+      "label": "Autoencoders",
+      "type": "skill",
+      "x_raw": 99.80288696289062,
+      "y_raw": 2888.9462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_142",
+      "label": "Natural Language Processing",
+      "type": "skill",
+      "x_raw": 577.8855590820312,
+      "y_raw": 2971.445068359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_143",
+      "label": "Explainable AI",
+      "type": "section",
+      "x_raw": 365.65045166015625,
+      "y_raw": 2971.445068359375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_144",
+      "label": "Tokenization",
+      "type": "skill",
+      "x_raw": 641.3533935546875,
+      "y_raw": 3031.819091796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "Also visit the following related roadmaps",
+      "type": "skill",
+      "x_raw": 251.67559814453125,
+      "y_raw": 3058.83056640625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_146",
+      "label": "Lemmatization",
+      "type": "skill",
+      "x_raw": 635.9979858398438,
+      "y_raw": 3066.201416015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_147",
+      "label": "AI & Data Scientist MLOps AI Engineer AI Agents",
+      "type": "skill",
+      "x_raw": 178.08294677734375,
+      "y_raw": 3091.654296875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_148",
+      "label": "Embeddings",
+      "type": "skill",
+      "x_raw": 641.1658935546875,
+      "y_raw": 3100.583740234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_149",
+      "label": "Attention Models",
+      "type": "skill",
+      "x_raw": 630.349609375,
+      "y_raw": 3134.966064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_150",
+      "label": "Stemming",
+      "type": "skill",
+      "x_raw": 647.470458984375,
+      "y_raw": 3169.360107421875,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_13",
+      "type": "trunk"
+    },
+    {
+      "source": "node_13",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "trunk"
+    },
+    {
+      "source": "node_22",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_32",
+      "type": "trunk"
+    },
+    {
+      "source": "node_32",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_44",
+      "type": "trunk"
+    },
+    {
+      "source": "node_44",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_44",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_81",
+      "type": "trunk"
+    },
+    {
+      "source": "node_81",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_81",
+      "target": "node_83",
+      "type": "trunk"
+    },
+    {
+      "source": "node_83",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_85",
+      "type": "trunk"
+    },
+    {
+      "source": "node_85",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_88",
+      "type": "trunk"
+    },
+    {
+      "source": "node_88",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_88",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_88",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_88",
+      "target": "node_92",
+      "type": "trunk"
+    },
+    {
+      "source": "node_92",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_94",
+      "type": "trunk"
+    },
+    {
+      "source": "node_94",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_98",
+      "type": "trunk"
+    },
+    {
+      "source": "node_98",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_117",
+      "type": "trunk"
+    },
+    {
+      "source": "node_117",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_117",
+      "target": "node_119",
+      "type": "trunk"
+    },
+    {
+      "source": "node_119",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_121",
+      "type": "trunk"
+    },
+    {
+      "source": "node_121",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_121",
+      "target": "node_124",
+      "type": "trunk"
+    },
+    {
+      "source": "node_124",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_126",
+      "type": "trunk"
+    },
+    {
+      "source": "node_126",
+      "target": "node_127",
+      "type": "trunk"
+    },
+    {
+      "source": "node_127",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_127",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_127",
+      "target": "node_130",
+      "type": "trunk"
+    },
+    {
+      "source": "node_130",
+      "target": "node_131",
+      "type": "trunk"
+    },
+    {
+      "source": "node_131",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_131",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_131",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_131",
+      "target": "node_135",
+      "type": "trunk"
+    },
+    {
+      "source": "node_135",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_137",
+      "type": "trunk"
+    },
+    {
+      "source": "node_137",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_137",
+      "target": "node_139",
+      "type": "trunk"
+    },
+    {
+      "source": "node_139",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_139",
+      "target": "node_141",
+      "type": "branch"
+    },
+    {
+      "source": "node_139",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_139",
+      "target": "node_143",
+      "type": "trunk"
+    },
+    {
+      "source": "node_143",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_143",
+      "target": "node_150",
+      "type": "branch"
+    }
+  ]
+}

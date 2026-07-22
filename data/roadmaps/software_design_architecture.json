@@ -1,0 +1,199 @@
+{
+ "domain": "Software Design Architecture",
+ "stages": [
+  {
+   "name": "Clean Code Principles",
+   "skills": [
+    "Minimap of Topics",
+    "Find the interactive version of this",
+    "Clean Code",
+    "Software Design & Architecture",
+    "Programming Paradigms",
+    "Object Oriented Programming",
+    "learn Software Design & Architecture",
+    "Design Principles",
+    "Software Design and Architecture",
+    "Design Patterns",
+    "Architectural Principles",
+    "Be consistent",
+    "Architectural Styles",
+    "Meaningful names over comments"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Object Oriented Programming",
+   "skills": [
+    "Functional Programming",
+    "Avoid passing nulls, booleans",
+    "Object Oriented Programming",
+    "Keep framework code distant",
+    "Use correct constructs",
+    "Primary Principles",
+    "Tests should be fast and independent",
+    "Inheritance Polymorphism"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Law of Demeter",
+   "skills": [
+    "Organize code by actor it belongs to",
+    "Abstraction Encapsulation",
+    "Command query separation",
+    "Paradigm Features",
+    "SOLID"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Tell, don't ask",
+   "skills": [
+    "Keep it simple and refactor often",
+    "Abstract Classes",
+    "DRY"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Hollywood Principle",
+   "skills": [
+    "Concrete Classes",
+    "YAGNI",
+    "Scope / Visibility"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Design Principles",
+   "skills": [
+    "Design Patterns",
+    "Interfaces"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Composition over Inheritance",
+   "skills": [
+    "Model-Driven Design",
+    "GoF Design Patterns",
+    "Domain Models"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Encapsulate what varies",
+   "skills": [
+    "PoSA Patterns",
+    "Anemic Models"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Program against abstractions",
+   "skills": [
+    "Domain Language"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Client-Server",
+   "skills": [
+    "Component Principles",
+    "Class Variants",
+    "Event-Driven",
+    "Policy vs Detail"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Peer-to-Peer",
+   "skills": [
+    "Layered Architectures",
+    "Publish-Subscribe",
+    "Coupling and Cohesion"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Distributed",
+   "skills": [
+    "Messaging",
+    "Boundaries",
+    "Component-Based"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Architectural Styles",
+   "skills": [
+    "Monolithic Layered",
+    "Architectural Principles",
+    "Structural",
+    "Domain-Driven Design"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Architectural Patterns",
+   "skills": [
+    "DTOs",
+    "Model-View Controller",
+    "Identity Maps",
+    "Microservices",
+    "Usecases",
+    "Blackboard Pattern",
+    "Repositories",
+    "Microkernel"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  },
+  {
+   "name": "Enterprise Patterns",
+   "skills": [
+    "Mappers",
+    "Serverless Architecture",
+    "Transaction Script",
+    "Message Queues / Streams",
+    "Commands / Queries",
+    "Event Sourcing",
+    "Value Objects",
+    "SOA CQRS",
+    "Domain Models",
+    "Entities",
+    "Backend System Design"
+   ],
+   "resources": [
+    "roadmap.sh/software-design-architecture"
+   ]
+  }
+ ]
+}

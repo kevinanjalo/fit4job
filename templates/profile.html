@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block title %}My profile{% endblock %}
+{% block content %}
+<section class="section"><div class="container">
+  <h2>My profile</h2>
+  <p class="sub" id="who">Sign in to manage your CVs and applications.</p>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Saved CVs</h3>
+      <p class="meta">Upload PDF resumes here, then attach one when applying for any job.</p>
+      <div class="field"><input type="file" id="cv-file" accept=".pdf" aria-label="Upload CV PDF"></div>
+      <button class="btn btn-primary btn-sm" onclick="uploadCv()">Save CV</button>
+      <div id="cv-msg"></div>
+      <div style="overflow:auto;margin-top:14px">
+        <table><thead><tr><th>File</th><th>Size</th><th>Uploaded</th><th></th></tr></thead>
+        <tbody id="cv-rows"></tbody></table>
+      </div>
+    </div>
+    <div class="card">
+      <h3>My applications</h3>
+      <p class="meta">Every job you have applied for and its current status.</p>
+      <div style="overflow:auto;margin-top:14px">
+        <table><thead><tr><th>Job</th><th>Company</th><th>Applied</th><th>Status</th></tr></thead>
+        <tbody id="app-rows"></tbody></table>
+      </div>
+    </div>
+  </div>
+</div></section>
+{% endblock %}
+{% block scripts %}
+<script>
+async function guard() {
+  try { const me = await API.get("/auth/me");
+    document.getElementById("who").textContent = "Signed in as " + me.email + ".";
+    return true;
+  } catch (e) { window.location.href = "/login"; return false; }
+}
+async function loadCvs() {
+  const rows = document.getElementById("cv-rows"); rows.innerHTML = "";
+  const cvs = await API.get("/profile/cvs");
+  if (!cvs.length) rows.append(el("tr", {}, [el("td", { colspan: "4", class: "meta" }, "No CVs saved yet.")]));
+  cvs.forEach((c) => rows.append(el("tr", {}, [
+    el("td", {}, c.filename), el("td", {}, c.size_kb + " KB"), el("td", {}, c.uploaded_at),
+    el("td", {}, [
+      el("a", { class: "btn btn-ghost btn-sm", href: "/api/v1/profile/cvs/" + c.cv_id + "/download" }, "Download"), " ",
+      el("button", { class: "btn btn-danger btn-sm", onclick: () => delCv(c.cv_id) }, "Delete"),
+    ]),
+  ])));
+}
+async function delCv(id) {
+  if (!confirm("Delete this CV?")) return;
+  await API.del("/profile/cvs/" + id); loadCvs();
+}
+async function uploadCv() {
+  const f = document.getElementById("cv-file").files[0];
+  const msg = document.getElementById("cv-msg");
+  if (!f) return notify(msg, "Choose a PDF first.", false);
+  const fd = new FormData(); fd.append("file", f);
+  try {
+    const res = await fetch("/api/v1/profile/cvs", { method: "POST", body: fd, credentials: "same-origin" });
+    if (!res.ok) throw new Error((await res.json()).detail);
+    notify(msg, "CV saved."); document.getElementById("cv-file").value = ""; loadCvs();
+  } catch (e) { notify(msg, e.message, false); }
+}
+async function loadApps() {
+  const rows = document.getElementById("app-rows"); rows.innerHTML = "";
+  const apps = await API.get("/profile/applications");
+  if (!apps.length) rows.append(el("tr", {}, [el("td", { colspan: "4", class: "meta" }, "No applications yet. Browse jobs to get started.")]));
+  apps.forEach((a) => rows.append(el("tr", {}, [
+    el("td", {}, [el("a", { href: "/jobs/" + a.job_id }, a.job_title)]),
+    el("td", {}, a.company), el("td", {}, a.applied_at),
+    el("td", {}, [el("span", { class: "badge " + a.status }, a.status)]),
+  ])));
+}
+guard().then((ok) => { if (ok) { loadCvs(); loadApps(); } });
+</script>
+{% endblock %}

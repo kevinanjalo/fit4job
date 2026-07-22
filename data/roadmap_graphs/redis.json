@@ -1,0 +1,2535 @@
+{
+  "topic": "Redis",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Redis",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Overview of Redis / What is it?",
+      "type": "skill",
+      "x_raw": 56.945465087890625,
+      "y_raw": 40.95468521118164,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "roadmap and other similar roadmaps",
+      "type": "skill",
+      "x_raw": 504.37994384765625,
+      "y_raw": 61.60207748413086,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "In-memory Data Structure Store",
+      "type": "skill",
+      "x_raw": 56.07830810546875,
+      "y_raw": 70.87114715576172,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Redis",
+      "type": "section",
+      "x_raw": 353.7547302246094,
+      "y_raw": 93.63805389404297,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Key-value Database Cache",
+      "type": "skill",
+      "x_raw": 50.711395263671875,
+      "y_raw": 103.56481170654297,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Message Broker",
+      "type": "skill",
+      "x_raw": 91.78353881835938,
+      "y_raw": 136.87954711914062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Redis vs Other Databases",
+      "type": "skill",
+      "x_raw": 529.527099609375,
+      "y_raw": 171.78793334960938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "What is Redis?",
+      "type": "section",
+      "x_raw": 341.21630859375,
+      "y_raw": 173.32301330566406,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "Core Use Cases",
+      "type": "skill",
+      "x_raw": 93.03738403320312,
+      "y_raw": 173.557373046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Caching Real-time Analytics",
+      "type": "skill",
+      "x_raw": 47.5357666015625,
+      "y_raw": 202.25515747070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Redis vs SQL/NoSQL DBs",
+      "type": "skill",
+      "x_raw": 532.3863525390625,
+      "y_raw": 204.71597290039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Session Management",
+      "type": "skill",
+      "x_raw": 76.57339477539062,
+      "y_raw": 234.94882202148438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "When to choose Redis?",
+      "type": "skill",
+      "x_raw": 539.135986328125,
+      "y_raw": 237.40963745117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Getting Started with Redis",
+      "type": "skill",
+      "x_raw": 303.43695068359375,
+      "y_raw": 249.4261474609375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "Pub/Sub Messaging",
+      "type": "skill",
+      "x_raw": 80.17086791992188,
+      "y_raw": 267.6424865722656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Leaderboards and Counters",
+      "type": "skill",
+      "x_raw": 61.480377197265625,
+      "y_raw": 300.3244323730469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Running Redis",
+      "type": "skill",
+      "x_raw": 563.1113891601562,
+      "y_raw": 328.0730285644531,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Installing Redis Locally",
+      "type": "section",
+      "x_raw": 323.20550537109375,
+      "y_raw": 329.3737487792969,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Key Features",
+      "type": "skill",
+      "x_raw": 100.12689208984375,
+      "y_raw": 340.1075744628906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Starting the Server",
+      "type": "skill",
+      "x_raw": 552.6001586914062,
+      "y_raw": 356.50128173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Using Package Managers",
+      "type": "section",
+      "x_raw": 315.29571533203125,
+      "y_raw": 358.059814453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Data Persistence Options",
+      "type": "skill",
+      "x_raw": 69.61279296875,
+      "y_raw": 369.4147033691406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Connecting using Redis CLI",
+      "type": "skill",
+      "x_raw": 530.7106323242188,
+      "y_raw": 389.1949462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Pre-compiled Binaries",
+      "type": "section",
+      "x_raw": 323.5453186035156,
+      "y_raw": 390.75347900390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Rich Data Structures",
+      "type": "skill",
+      "x_raw": 81.10830688476562,
+      "y_raw": 402.10833740234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Basic Commands / SET, GET",
+      "type": "skill",
+      "x_raw": 528.2498168945312,
+      "y_raw": 421.88861083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Using Docker",
+      "type": "section",
+      "x_raw": 344.19268798828125,
+      "y_raw": 423.4471435546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "High Performance and Scalability",
+      "type": "skill",
+      "x_raw": 51.871490478515625,
+      "y_raw": 434.802001953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "First Steps Basic Data Operations",
+      "type": "skill",
+      "x_raw": 337.70086669921875,
+      "y_raw": 496.1636962890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Core Data Structures",
+      "type": "skill",
+      "x_raw": 38.0675048828125,
+      "y_raw": 496.1636962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "and Getting Keys",
+      "type": "section",
+      "x_raw": 349.86431884765625,
+      "y_raw": 528.1605834960938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_31",
+      "label": "HSET HGET",
+      "type": "skill",
+      "x_raw": 563.0176391601562,
+      "y_raw": 546.30029296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "SET GET",
+      "type": "skill",
+      "x_raw": 150.84307861328125,
+      "y_raw": 552.5812377929688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "DEL",
+      "type": "section",
+      "x_raw": 317.2292175292969,
+      "y_raw": 560.854248046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "expire TTL",
+      "type": "section",
+      "x_raw": 372.2342529296875,
+      "y_raw": 560.854248046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "HGETALL HDEL",
+      "type": "skill",
+      "x_raw": 553.56103515625,
+      "y_raw": 579.2986450195312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "INCR DECR",
+      "type": "skill",
+      "x_raw": 147.59713745117188,
+      "y_raw": 584.97021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Overview of Data Types",
+      "type": "skill",
+      "x_raw": 334.87677001953125,
+      "y_raw": 601.4694213867188,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "HEXISTS",
+      "type": "skill",
+      "x_raw": 587.731201171875,
+      "y_raw": 611.3829956054688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "APPEND STRLEN",
+      "type": "skill",
+      "x_raw": 139.6053466796875,
+      "y_raw": 617.3475341796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Strings",
+      "type": "skill",
+      "x_raw": 42.321197509765625,
+      "y_raw": 628.4563598632812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Strings, Lists, Sets, Hashes, Sorted Sets",
+      "type": "skill",
+      "x_raw": 298.83172607421875,
+      "y_raw": 630.1437377929688,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_42",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 568.302490234375,
+      "y_raw": 644.27587890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 149.5189208984375,
+      "y_raw": 649.7365112304688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 560.2872924804688,
+      "y_raw": 673.9813842773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Hashes",
+      "type": "skill",
+      "x_raw": 417.50152587890625,
+      "y_raw": 676.0906372070312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 141.50369262695312,
+      "y_raw": 676.8640747070312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 166.62744140625,
+      "y_raw": 703.7103881835938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 586.3367309570312,
+      "y_raw": 703.8978881835938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Sorted Sets ZADD ZRANGE",
+      "type": "skill",
+      "x_raw": 407.93951416015625,
+      "y_raw": 762.1253662109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Sets",
+      "type": "skill",
+      "x_raw": 267.32159423828125,
+      "y_raw": 769.0977172851562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Lists",
+      "type": "skill",
+      "x_raw": 45.953826904296875,
+      "y_raw": 769.0977172851562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "ZREM",
+      "type": "skill",
+      "x_raw": 625.8621215820312,
+      "y_raw": 800.5844116210938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "ZRANK",
+      "type": "skill",
+      "x_raw": 559.162353515625,
+      "y_raw": 800.5844116210938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "SADD",
+      "type": "skill",
+      "x_raw": 234.2529296875,
+      "y_raw": 823.469970703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "SREM",
+      "type": "section",
+      "x_raw": 291.9531555175781,
+      "y_raw": 823.469970703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "LPUSH RPUSH",
+      "type": "skill",
+      "x_raw": 43.844573974609375,
+      "y_raw": 825.8487548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "ZRANGEBYSCORE",
+      "type": "skill",
+      "x_raw": 562.5020141601562,
+      "y_raw": 832.668701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "SMEMBERS",
+      "type": "skill",
+      "x_raw": 248.26785278320312,
+      "y_raw": 856.0112915039062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "LPOP RPOP",
+      "type": "skill",
+      "x_raw": 47.395172119140625,
+      "y_raw": 858.2260131835938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "ZINCRBY",
+      "type": "skill",
+      "x_raw": 553.73681640625,
+      "y_raw": 865.0459594726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "ZCOUNT",
+      "type": "skill",
+      "x_raw": 619.1475830078125,
+      "y_raw": 865.0459594726562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "SISMEMBER",
+      "type": "skill",
+      "x_raw": 246.6390380859375,
+      "y_raw": 888.5526123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "LRANGE LINDEX",
+      "type": "skill",
+      "x_raw": 39.731475830078125,
+      "y_raw": 890.614990234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "More Commands Working with Redis",
+      "type": "skill",
+      "x_raw": 383.42510986328125,
+      "y_raw": 895.4717407226562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "SINTER SCARD",
+      "type": "skill",
+      "x_raw": 231.62808227539062,
+      "y_raw": 921.0822143554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "LLEN LMOVE",
+      "type": "skill",
+      "x_raw": 47.5709228515625,
+      "y_raw": 922.9923095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 562.9942016601562,
+      "y_raw": 927.8787841796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "SUNION SDIFF",
+      "type": "skill",
+      "x_raw": 230.18673706054688,
+      "y_raw": 953.62353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 51.133270263671875,
+      "y_raw": 955.3812866210938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 585.6571044921875,
+      "y_raw": 955.3930053710938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Naming Conventions",
+      "type": "skill",
+      "x_raw": 386.7764892578125,
+      "y_raw": 982.0986938476562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 43.1180419921875,
+      "y_raw": 984.0556030273438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 236.8192138671875,
+      "y_raw": 986.5632934570312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 236.8192138671875,
+      "y_raw": 986.5632934570312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 68.59332275390625,
+      "y_raw": 1010.9019165039062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Retrieval by Pattern",
+      "type": "skill",
+      "x_raw": 389.9755554199219,
+      "y_raw": 1014.7923583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 228.85086059570312,
+      "y_raw": 1015.635986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Atomicity in Redis",
+      "type": "skill",
+      "x_raw": 567.0838012695312,
+      "y_raw": 1028.9713134765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 253.974609375,
+      "y_raw": 1044.943115234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Expiration",
+      "type": "skill",
+      "x_raw": 412.48614501953125,
+      "y_raw": 1047.4859619140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "SETBIT GETBIT",
+      "type": "skill",
+      "x_raw": 44.05548095703125,
+      "y_raw": 1072.5745849609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Key Management",
+      "type": "skill",
+      "x_raw": 395.78778076171875,
+      "y_raw": 1079.453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Pipelining",
+      "type": "skill",
+      "x_raw": 585.4696044921875,
+      "y_raw": 1080.9998779296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "BITOP BITPOS",
+      "type": "skill",
+      "x_raw": 46.86785888671875,
+      "y_raw": 1105.0455322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Advanced Data Structures Bitmaps",
+      "type": "skill",
+      "x_raw": 222.0191650390625,
+      "y_raw": 1130.1043701171875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "Batch Operations",
+      "type": "skill",
+      "x_raw": 567.2244262695312,
+      "y_raw": 1132.805908203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "BITCOUNT",
+      "type": "skill",
+      "x_raw": 65.98016357421875,
+      "y_raw": 1138.3486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "MSET / MGET",
+      "type": "skill",
+      "x_raw": 575.6380615234375,
+      "y_raw": 1163.4019775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 44.547637939453125,
+      "y_raw": 1167.55029296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 69.68310546875,
+      "y_raw": 1194.396484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "XADD XREAD",
+      "type": "section",
+      "x_raw": 371.63665771484375,
+      "y_raw": 1208.1068115234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "GEOADD",
+      "type": "skill",
+      "x_raw": 580.4190673828125,
+      "y_raw": 1208.4232177734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "XRANGE XLEN",
+      "type": "section",
+      "x_raw": 364.21905517578125,
+      "y_raw": 1240.4840087890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_94",
+      "label": "GEOSEARCH",
+      "type": "skill",
+      "x_raw": 570.0133666992188,
+      "y_raw": 1241.7379150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "PFMERGE",
+      "type": "skill",
+      "x_raw": 66.60122680664062,
+      "y_raw": 1254.6043701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "More Commands",
+      "type": "section",
+      "x_raw": 371.35540771484375,
+      "y_raw": 1273.9510498046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 562.6074829101562,
+      "y_raw": 1274.6424560546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "PFADD",
+      "type": "skill",
+      "x_raw": 75.09689331054688,
+      "y_raw": 1287.298095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Common Commands",
+      "type": "section",
+      "x_raw": 363.3870544433594,
+      "y_raw": 1303.0238037109375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_100",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 554.62744140625,
+      "y_raw": 1303.7269287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "HyperLogLog",
+      "type": "skill",
+      "x_raw": 209.42214965820312,
+      "y_raw": 1315.175537109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "PFCOUNT",
+      "type": "skill",
+      "x_raw": 67.0347900390625,
+      "y_raw": 1319.99169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "Usecases",
+      "type": "section",
+      "x_raw": 388.51080322265625,
+      "y_raw": 1332.3309326171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_104",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 579.7628784179688,
+      "y_raw": 1333.0340576171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 43.387542724609375,
+      "y_raw": 1347.4708251953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 68.51129150390625,
+      "y_raw": 1374.305419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Streams",
+      "type": "section",
+      "x_raw": 392.5652770996094,
+      "y_raw": 1395.9019775390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_108",
+      "label": "Geospatial Indexes",
+      "type": "skill",
+      "x_raw": 557.1468505859375,
+      "y_raw": 1395.9019775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "Pub/Sub",
+      "type": "skill",
+      "x_raw": 582.2119750976562,
+      "y_raw": 1454.8912353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_110",
+      "label": "Transactions",
+      "type": "section",
+      "x_raw": 385.60467529296875,
+      "y_raw": 1454.8912353515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Lua Scripting",
+      "type": "skill",
+      "x_raw": 216.16009521484375,
+      "y_raw": 1454.8912353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "WATCH",
+      "type": "section",
+      "x_raw": 398.5063781738281,
+      "y_raw": 1515.74365234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "SUBSCRIBE",
+      "type": "skill",
+      "x_raw": 572.89599609375,
+      "y_raw": 1515.89599609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "EVAL",
+      "type": "skill",
+      "x_raw": 234.75680541992188,
+      "y_raw": 1516.10693359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "EXEC",
+      "type": "section",
+      "x_raw": 402.38507080078125,
+      "y_raw": 1548.437255859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_116",
+      "label": "UNSUBSCRIBE",
+      "type": "skill",
+      "x_raw": 565.1151733398438,
+      "y_raw": 1548.577880859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_117",
+      "label": "EVALSHA",
+      "type": "skill",
+      "x_raw": 224.55029296875,
+      "y_raw": 1548.800537109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 198.51254272460938,
+      "y_raw": 1577.615478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_119",
+      "label": "MULTI",
+      "type": "section",
+      "x_raw": 400.21722412109375,
+      "y_raw": 1581.1192626953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_120",
+      "label": "PUBLISH",
+      "type": "skill",
+      "x_raw": 580.4190673828125,
+      "y_raw": 1581.2716064453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_121",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 223.64801025390625,
+      "y_raw": 1607.543701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_122",
+      "label": "Common Commands",
+      "type": "section",
+      "x_raw": 367.1954345703125,
+      "y_raw": 1612.88720703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_123",
+      "label": "More Commands",
+      "type": "skill",
+      "x_raw": 562.0801391601562,
+      "y_raw": 1613.9652099609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_124",
+      "label": "Optimistic Locking",
+      "type": "section",
+      "x_raw": 372.5155029296875,
+      "y_raw": 1640.0380859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "Common Commands",
+      "type": "skill",
+      "x_raw": 554.06494140625,
+      "y_raw": 1642.6395263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_126",
+      "label": "Persistence Options",
+      "type": "skill",
+      "x_raw": 63.179534912109375,
+      "y_raw": 1662.3963623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 579.1886596679688,
+      "y_raw": 1672.5677490234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "No Persistence Option",
+      "type": "skill",
+      "x_raw": 56.617340087890625,
+      "y_raw": 1721.1043701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_129",
+      "label": "Replication / HA",
+      "type": "skill",
+      "x_raw": 232.83505249023438,
+      "y_raw": 1748.9404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_130",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 403.592041015625,
+      "y_raw": 1751.337158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_131",
+      "label": "How RDB Works?",
+      "type": "skill",
+      "x_raw": 68.90969848632812,
+      "y_raw": 1756.2705078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_132",
+      "label": "Network Security",
+      "type": "skill",
+      "x_raw": 397.62750244140625,
+      "y_raw": 1784.0308837890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_133",
+      "label": "Configuring Save Interval",
+      "type": "skill",
+      "x_raw": 50.48876953125,
+      "y_raw": 1788.9642333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_134",
+      "label": "SSL/TLS Encryption",
+      "type": "skill",
+      "x_raw": 389.8114929199219,
+      "y_raw": 1816.7244873046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "Usecases / Best Practices",
+      "type": "skill",
+      "x_raw": 46.85614013671875,
+      "y_raw": 1821.6578369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_136",
+      "label": "Usecases / Best Practices",
+      "type": "skill",
+      "x_raw": 46.85614013671875,
+      "y_raw": 1821.6578369140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "Replication Basics",
+      "type": "skill",
+      "x_raw": 234.79196166992188,
+      "y_raw": 1823.2867431640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_138",
+      "label": "Snapshotting (RDB)",
+      "type": "skill",
+      "x_raw": 63.56622314453125,
+      "y_raw": 1854.03515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_139",
+      "label": "Monitoring / Optimization",
+      "type": "skill",
+      "x_raw": 547.9363403320312,
+      "y_raw": 1855.73974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_140",
+      "label": "Redis Sentinel",
+      "type": "skill",
+      "x_raw": 244.49459838867188,
+      "y_raw": 1856.2850341796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_141",
+      "label": "Clustering Security",
+      "type": "section",
+      "x_raw": 254.59567260742188,
+      "y_raw": 1885.9608154296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_142",
+      "label": "How AOF Works?",
+      "type": "skill",
+      "x_raw": 69.81201171875,
+      "y_raw": 1887.361572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_143",
+      "label": "AOF rewrite & compaction",
+      "type": "skill",
+      "x_raw": 48.320892333984375,
+      "y_raw": 1920.0552978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "Max Memory Policy",
+      "type": "skill",
+      "x_raw": 410.16595458984375,
+      "y_raw": 1950.7919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "Truncation / Corruption",
+      "type": "skill",
+      "x_raw": 54.543243408203125,
+      "y_raw": 1952.7371826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_146",
+      "label": "Search",
+      "type": "skill",
+      "x_raw": 266.79425048828125,
+      "y_raw": 1954.998779296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_147",
+      "label": "Memory Management",
+      "type": "skill",
+      "x_raw": 403.5334777832031,
+      "y_raw": 1983.4739990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_148",
+      "label": "Usecases",
+      "type": "skill",
+      "x_raw": 86.4869384765625,
+      "y_raw": 1985.747314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_149",
+      "label": "RedisTimeSeries",
+      "type": "skill",
+      "x_raw": 243.13531494140625,
+      "y_raw": 1987.6925048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_150",
+      "label": "INFO MONITOR",
+      "type": "skill",
+      "x_raw": 575.1576538085938,
+      "y_raw": 1996.5513916015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_151",
+      "label": "Slow Log Analysis",
+      "type": "skill",
+      "x_raw": 413.950927734375,
+      "y_raw": 2016.1676025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_152",
+      "label": "Append-Only File (AOF)",
+      "type": "skill",
+      "x_raw": 54.508087158203125,
+      "y_raw": 2016.9410400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_153",
+      "label": "RedisBloom",
+      "type": "skill",
+      "x_raw": 254.84173583984375,
+      "y_raw": 2020.3861083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_154",
+      "label": "Built-in Tools",
+      "type": "skill",
+      "x_raw": 587.719482421875,
+      "y_raw": 2025.4600830078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_155",
+      "label": "redis-benchmark",
+      "type": "skill",
+      "x_raw": 415.3805236816406,
+      "y_raw": 2048.861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_156",
+      "label": "RedisJSON",
+      "type": "skill",
+      "x_raw": 255.9197998046875,
+      "y_raw": 2053.079833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_157",
+      "label": "RedisInsight",
+      "type": "skill",
+      "x_raw": 589.0905151367188,
+      "y_raw": 2054.767333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_158",
+      "label": "RDB vs AOF Tradeoffs",
+      "type": "skill",
+      "x_raw": 57.3204345703125,
+      "y_raw": 2056.279052734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_159",
+      "label": "Monitoring",
+      "type": "skill",
+      "x_raw": 430.1688537597656,
+      "y_raw": 2081.554931640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_160",
+      "label": "RedisCommander",
+      "type": "skill",
+      "x_raw": 575.7200927734375,
+      "y_raw": 2088.0703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_161",
+      "label": "Hybrid Persistence",
+      "type": "skill",
+      "x_raw": 66.51919555664062,
+      "y_raw": 2088.66796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_162",
+      "label": "Redis Modules",
+      "type": "skill",
+      "x_raw": 248.18582153320312,
+      "y_raw": 2102.237548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_163",
+      "label": "rd Party Tools Performance Optimization",
+      "type": "section",
+      "x_raw": 395.0378112792969,
+      "y_raw": 2113.932373046875,
+      "is_trunk": true,
+      "side": "right"
+    },
+    {
+      "id": "node_164",
+      "label": "Choosing Right Strategy",
+      "type": "skill",
+      "x_raw": 53.84014892578125,
+      "y_raw": 2118.57275390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_165",
+      "label": "Managing Redis in Production redis.conf",
+      "type": "skill",
+      "x_raw": 199.69607543945312,
+      "y_raw": 2192.56640625,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_166",
+      "label": "Important Configurations",
+      "type": "skill",
+      "x_raw": 552.3306884765625,
+      "y_raw": 2223.8955078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_167",
+      "label": "Upgrading Redis",
+      "type": "section",
+      "x_raw": 290.1134033203125,
+      "y_raw": 2281.841796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_168",
+      "label": "Backup and Recovery",
+      "type": "skill",
+      "x_raw": 557.8850708007812,
+      "y_raw": 2282.158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_169",
+      "label": "Disaster Recovery",
+      "type": "skill",
+      "x_raw": 85.23309326171875,
+      "y_raw": 2282.462890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_170",
+      "label": "Minimizing Downtimes",
+      "type": "section",
+      "x_raw": 278.242919921875,
+      "y_raw": 2310.07080078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_171",
+      "label": "RDB and AOF Files",
+      "type": "skill",
+      "x_raw": 564.294921875,
+      "y_raw": 2310.83251953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_172",
+      "label": "Redis Enterprise",
+      "type": "skill",
+      "x_raw": 89.00634765625,
+      "y_raw": 2354.927978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_173",
+      "label": "Active-Active geo Distribution",
+      "type": "skill",
+      "x_raw": 59.875,
+      "y_raw": 2413.132080078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_174",
+      "label": "Redis on Flash",
+      "type": "skill",
+      "x_raw": 93.775634765625,
+      "y_raw": 2445.82568359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_175",
+      "label": "Continue Learning with following relevant tracks",
+      "type": "skill",
+      "x_raw": 320.70953369140625,
+      "y_raw": 2453.3955078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_176",
+      "label": "Security and Compliance",
+      "type": "skill",
+      "x_raw": 70.11666870117188,
+      "y_raw": 2478.519287109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_177",
+      "label": "MongoDB PostgreSQL SQL",
+      "type": "skill",
+      "x_raw": 332.60345458984375,
+      "y_raw": 2484.92919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_178",
+      "label": "Enterprise Features",
+      "type": "skill",
+      "x_raw": 82.65509033203125,
+      "y_raw": 2510.884765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_179",
+      "label": "When to consider enterprise?",
+      "type": "skill",
+      "x_raw": 58.90240478515625,
+      "y_raw": 2538.961669921875,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_30",
+      "type": "trunk"
+    },
+    {
+      "source": "node_30",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_30",
+      "target": "node_33",
+      "type": "trunk"
+    },
+    {
+      "source": "node_33",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_34",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_93",
+      "type": "trunk"
+    },
+    {
+      "source": "node_93",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_96",
+      "type": "trunk"
+    },
+    {
+      "source": "node_96",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_99",
+      "type": "trunk"
+    },
+    {
+      "source": "node_99",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_103",
+      "type": "trunk"
+    },
+    {
+      "source": "node_103",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_107",
+      "type": "trunk"
+    },
+    {
+      "source": "node_107",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_107",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_115",
+      "type": "trunk"
+    },
+    {
+      "source": "node_115",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_115",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_115",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_115",
+      "target": "node_119",
+      "type": "trunk"
+    },
+    {
+      "source": "node_119",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_122",
+      "type": "trunk"
+    },
+    {
+      "source": "node_122",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_122",
+      "target": "node_124",
+      "type": "trunk"
+    },
+    {
+      "source": "node_124",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_138",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_141",
+      "type": "trunk"
+    },
+    {
+      "source": "node_141",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_152",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_153",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_154",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_155",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_156",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_157",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_158",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_159",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_160",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_161",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_162",
+      "type": "branch"
+    },
+    {
+      "source": "node_141",
+      "target": "node_163",
+      "type": "trunk"
+    },
+    {
+      "source": "node_163",
+      "target": "node_164",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_165",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_166",
+      "type": "branch"
+    },
+    {
+      "source": "node_163",
+      "target": "node_167",
+      "type": "trunk"
+    },
+    {
+      "source": "node_167",
+      "target": "node_168",
+      "type": "branch"
+    },
+    {
+      "source": "node_167",
+      "target": "node_169",
+      "type": "branch"
+    },
+    {
+      "source": "node_167",
+      "target": "node_170",
+      "type": "trunk"
+    },
+    {
+      "source": "node_170",
+      "target": "node_171",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_172",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_173",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_174",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_175",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_176",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_177",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_178",
+      "type": "branch"
+    },
+    {
+      "source": "node_170",
+      "target": "node_179",
+      "type": "branch"
+    }
+  ]
+}

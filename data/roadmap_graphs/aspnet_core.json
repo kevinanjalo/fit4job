@@ -1,0 +1,2157 @@
+{
+  "topic": "Aspnet Core",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Aspnet Core",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Personal Recommendation / Opinion",
+      "type": "skill",
+      "x_raw": 65.0528564453125,
+      "y_raw": 41.951499938964844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "Alternative Options",
+      "type": "skill",
+      "x_raw": 65.0528564453125,
+      "y_raw": 61.96590805053711,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 481.6055908203125,
+      "y_raw": 65.05559539794922,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "Optional / Learn anytime",
+      "type": "skill",
+      "x_raw": 65.0528564453125,
+      "y_raw": 81.99202728271484,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "ASP.NET Core",
+      "type": "section",
+      "x_raw": 317.5999755859375,
+      "y_raw": 92.35153198242188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "Special thanks for the roadmap contribution",
+      "type": "skill",
+      "x_raw": 37.0701904296875,
+      "y_raw": 124.3605728149414,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "C#",
+      "type": "skill",
+      "x_raw": 608.3595581054688,
+      "y_raw": 152.20262145996094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Moien Tajik",
+      "type": "skill",
+      "x_raw": 115.45213317871094,
+      "y_raw": 154.6985626220703,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": ".NET .NET CLI Learn the Basics of C#",
+      "type": "skill",
+      "x_raw": 318.57257080078125,
+      "y_raw": 185.3529510498047,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Git - Version Control",
+      "type": "skill",
+      "x_raw": 76.74746704101562,
+      "y_raw": 207.3008270263672,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "StyleCop Rules",
+      "type": "skill",
+      "x_raw": 579.0059204101562,
+      "y_raw": 220.24925231933594,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "GitHub, GitLab, BitBucket",
+      "type": "skill",
+      "x_raw": 64.46696472167969,
+      "y_raw": 240.46287536621094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "General Development Skills",
+      "type": "section",
+      "x_raw": 307.7099609375,
+      "y_raw": 255.2861785888672,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_13",
+      "label": "HTTP / HTTPs Protocol",
+      "type": "skill",
+      "x_raw": 68.22845458984375,
+      "y_raw": 273.61322021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "SQL Basics",
+      "type": "skill",
+      "x_raw": 587.45458984375,
+      "y_raw": 286.3389892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Data Structures and Algorithms",
+      "type": "skill",
+      "x_raw": 49.98347473144531,
+      "y_raw": 306.7752380371094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Database Design Basics",
+      "type": "skill",
+      "x_raw": 556.3432006835938,
+      "y_raw": 319.50103759765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Database Fundamentals",
+      "type": "section",
+      "x_raw": 315.1391906738281,
+      "y_raw": 352.6630859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Stored Procedures",
+      "type": "skill",
+      "x_raw": 570.2642822265625,
+      "y_raw": 352.6630859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "ASP.NET Core Basics",
+      "type": "skill",
+      "x_raw": 53.42857360839844,
+      "y_raw": 352.6630859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Constraints",
+      "type": "skill",
+      "x_raw": 587.89990234375,
+      "y_raw": 385.8133850097656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Object Relational Mapping",
+      "type": "section",
+      "x_raw": 309.9012145996094,
+      "y_raw": 406.4605712890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "MVC REST",
+      "type": "skill",
+      "x_raw": 50.96778869628906,
+      "y_raw": 407.9604797363281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Triggers",
+      "type": "skill",
+      "x_raw": 595.3408203125,
+      "y_raw": 418.9754333496094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Minimal APIs",
+      "type": "skill",
+      "x_raw": 74.02888488769531,
+      "y_raw": 441.1225280761719,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Dapper RepoDB",
+      "type": "skill",
+      "x_raw": 227.89840698242188,
+      "y_raw": 459.7893371582031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Entity Framework Core",
+      "type": "skill",
+      "x_raw": 450.0137634277344,
+      "y_raw": 467.66387939453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Razor Pages",
+      "type": "skill",
+      "x_raw": 74.36869812011719,
+      "y_raw": 474.2845458984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "NHibernate",
+      "type": "skill",
+      "x_raw": 254.0413360595703,
+      "y_raw": 494.1935119628906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Framework Basics",
+      "type": "skill",
+      "x_raw": 458.42730712890625,
+      "y_raw": 505.8294982910156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Razor Components",
+      "type": "skill",
+      "x_raw": 58.654815673828125,
+      "y_raw": 507.4349060058594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Code First + Migrations",
+      "type": "skill",
+      "x_raw": 445.7484130859375,
+      "y_raw": 538.9915161132812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Middlewares",
+      "type": "skill",
+      "x_raw": 74.64993286132812,
+      "y_raw": 541.0656127929688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Redis",
+      "type": "skill",
+      "x_raw": 270.8801574707031,
+      "y_raw": 548.647216796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Change Tracker API",
+      "type": "skill",
+      "x_raw": 454.38458251953125,
+      "y_raw": 572.141845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Filters and Attributes",
+      "type": "skill",
+      "x_raw": 55.209716796875,
+      "y_raw": 573.7589721679688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Memcached",
+      "type": "skill",
+      "x_raw": 254.79129028320312,
+      "y_raw": 584.55126953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Scoped",
+      "type": "skill",
+      "x_raw": 634.3385009765625,
+      "y_raw": 601.0619506835938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Lazy, Eager, Explicit Loading",
+      "type": "skill",
+      "x_raw": 434.85064697265625,
+      "y_raw": 605.3038940429688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "App Settings and Configs",
+      "type": "skill",
+      "x_raw": 44.44084167480469,
+      "y_raw": 606.9093017578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Distributed Cache",
+      "type": "skill",
+      "x_raw": 240.6827850341797,
+      "y_raw": 620.1389770507812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Transient",
+      "type": "skill",
+      "x_raw": 630.2723388671875,
+      "y_raw": 634.2239990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Memory Cache",
+      "type": "skill",
+      "x_raw": 246.1551055908203,
+      "y_raw": 655.3984985351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Scrutor",
+      "type": "skill",
+      "x_raw": 531.2548828125,
+      "y_raw": 657.5194702148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Singleton",
+      "type": "skill",
+      "x_raw": 630.2606201171875,
+      "y_raw": 667.3860473632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Dependency Injection",
+      "type": "skill",
+      "x_raw": 442.49078369140625,
+      "y_raw": 704.2978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Life Cycles",
+      "type": "skill",
+      "x_raw": 628.1162109375,
+      "y_raw": 704.2978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Caching",
+      "type": "skill",
+      "x_raw": 262.6775207519531,
+      "y_raw": 704.2978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Entity Framework 2nd Level Cache",
+      "type": "skill",
+      "x_raw": 40.527008056640625,
+      "y_raw": 704.2978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "DI Containers",
+      "type": "skill",
+      "x_raw": 573.0062866210938,
+      "y_raw": 759.2320556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Search Engines",
+      "type": "skill",
+      "x_raw": 59.40476989746094,
+      "y_raw": 767.4463500976562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "Cloud",
+      "type": "skill",
+      "x_raw": 192.1466827392578,
+      "y_raw": 767.4463500976562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_52",
+      "label": "Databases",
+      "type": "section",
+      "x_raw": 349.2738037109375,
+      "y_raw": 787.3553466796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Microsoft.Extensions",
+      "type": "skill",
+      "x_raw": 555.97998046875,
+      "y_raw": 795.7688598632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Elastic Search",
+      "type": "skill",
+      "x_raw": 63.119384765625,
+      "y_raw": 800.6083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Cosmos DB",
+      "type": "skill",
+      "x_raw": 177.66317749023438,
+      "y_raw": 800.6083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "AutoFac",
+      "type": "skill",
+      "x_raw": 586.4819946289062,
+      "y_raw": 828.919189453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Solr Sphinx",
+      "type": "skill",
+      "x_raw": 55.84248352050781,
+      "y_raw": 834.3095092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Dynamo DB",
+      "type": "skill",
+      "x_raw": 177.44053649902344,
+      "y_raw": 834.3095092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Serilog",
+      "type": "skill",
+      "x_raw": 425.3941650390625,
+      "y_raw": 868.1746215820312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Relational",
+      "type": "skill",
+      "x_raw": 73.2554931640625,
+      "y_raw": 874.6663818359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "NoSQL",
+      "type": "skill",
+      "x_raw": 188.67813110351562,
+      "y_raw": 874.6663818359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "NLog",
+      "type": "skill",
+      "x_raw": 429.1791076660156,
+      "y_raw": 901.7233276367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "SQL Server",
+      "type": "skill",
+      "x_raw": 69.84553527832031,
+      "y_raw": 907.8284301757812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "MongoDB",
+      "type": "skill",
+      "x_raw": 181.88168334960938,
+      "y_raw": 907.8284301757812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "PostgreSQL",
+      "type": "skill",
+      "x_raw": 68.63858032226562,
+      "y_raw": 940.990478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Cassandra",
+      "type": "skill",
+      "x_raw": 180.17083740234375,
+      "y_raw": 940.990478515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Log Frameworks",
+      "type": "section",
+      "x_raw": 335.423095703125,
+      "y_raw": 956.2239379882812,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "Gridlify",
+      "type": "skill",
+      "x_raw": 643.560546875,
+      "y_raw": 957.243408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "GraphQL .NET",
+      "type": "skill",
+      "x_raw": 533.8680419921875,
+      "y_raw": 957.243408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "MariaDB",
+      "type": "skill",
+      "x_raw": 76.14984130859375,
+      "y_raw": 974.1525268554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "LiteDB",
+      "type": "skill",
+      "x_raw": 189.54527282714844,
+      "y_raw": 974.1525268554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Odata",
+      "type": "skill",
+      "x_raw": 645.6112060546875,
+      "y_raw": 990.3937377929688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "HotChocolate",
+      "type": "skill",
+      "x_raw": 536.117919921875,
+      "y_raw": 990.3937377929688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "MySQL",
+      "type": "skill",
+      "x_raw": 80.04022979736328,
+      "y_raw": 1007.3028564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "CouchDB",
+      "type": "skill",
+      "x_raw": 183.05348205566406,
+      "y_raw": 1007.3028564453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "REST",
+      "type": "skill",
+      "x_raw": 646.6306762695312,
+      "y_raw": 1027.3055419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "GraphQL",
+      "type": "skill",
+      "x_raw": 547.0391235351562,
+      "y_raw": 1027.3055419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Real-Time Communication Web Sockets",
+      "type": "skill",
+      "x_raw": 49.36241149902344,
+      "y_raw": 1072.173828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "API Clients and Communication",
+      "type": "skill",
+      "x_raw": 524.5404663085938,
+      "y_raw": 1080.93896484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "SignalR Core",
+      "type": "skill",
+      "x_raw": 48.682769775390625,
+      "y_raw": 1105.3359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_81",
+      "label": "AutoMapper",
+      "type": "skill",
+      "x_raw": 437.3465576171875,
+      "y_raw": 1130.00244140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "gRPC",
+      "type": "skill",
+      "x_raw": 646.2674560546875,
+      "y_raw": 1143.7125244140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Object Mapping",
+      "type": "skill",
+      "x_raw": 231.70677185058594,
+      "y_raw": 1163.1644287109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Mapperly",
+      "type": "skill",
+      "x_raw": 444.51800537109375,
+      "y_raw": 1163.1644287109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Manual Mapping",
+      "type": "skill",
+      "x_raw": 426.69488525390625,
+      "y_raw": 1196.3148193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Native Background Service",
+      "type": "skill",
+      "x_raw": 111.64376831054688,
+      "y_raw": 1215.0987548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "E2E Testing Integration Testing",
+      "type": "skill",
+      "x_raw": 439.303466796875,
+      "y_raw": 1252.0926513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Hangfire",
+      "type": "skill",
+      "x_raw": 78.29423522949219,
+      "y_raw": 1261.560791015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "WebApplicationFactory",
+      "type": "skill",
+      "x_raw": 551.1404418945312,
+      "y_raw": 1287.7974853515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Playwright",
+      "type": "skill",
+      "x_raw": 442.86578369140625,
+      "y_raw": 1288.4185791015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Task Scheduling",
+      "type": "skill",
+      "x_raw": 231.17945861816406,
+      "y_raw": 1294.090087890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Quartz",
+      "type": "skill",
+      "x_raw": 82.72366333007812,
+      "y_raw": 1294.7227783203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Puppeteer",
+      "type": "skill",
+      "x_raw": 441.7174072265625,
+      "y_raw": 1321.56884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Test Containers",
+      "type": "skill",
+      "x_raw": 568.3424682617188,
+      "y_raw": 1321.56884765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "Coravel",
+      "type": "skill",
+      "x_raw": 80.53238677978516,
+      "y_raw": 1327.8848876953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": ".NET Aspire Respawn",
+      "type": "skill",
+      "x_raw": 544.8595581054688,
+      "y_raw": 1354.10986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 252.6703338623047,
+      "y_raw": 1354.7308349609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Cypress",
+      "type": "skill",
+      "x_raw": 447.646728515625,
+      "y_raw": 1354.7308349609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Unit Testing Frameworks",
+      "type": "skill",
+      "x_raw": 551.820068359375,
+      "y_raw": 1397.736083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Behavior Testing",
+      "type": "skill",
+      "x_raw": 428.0424499511719,
+      "y_raw": 1397.736083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Message Brokers",
+      "type": "skill",
+      "x_raw": 67.220703125,
+      "y_raw": 1398.9429931640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Microservices",
+      "type": "skill",
+      "x_raw": 236.42913818359375,
+      "y_raw": 1410.7899169921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "XUnit NUnit",
+      "type": "skill",
+      "x_raw": 596.8173217773438,
+      "y_raw": 1430.7457275390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "MSTest",
+      "type": "skill",
+      "x_raw": 537.5592041015625,
+      "y_raw": 1430.7457275390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "Specflow",
+      "type": "skill",
+      "x_raw": 445.5140380859375,
+      "y_raw": 1431.4840087890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "ActiveMQ Kafka",
+      "type": "skill",
+      "x_raw": 51.706024169921875,
+      "y_raw": 1432.97216796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Assertions",
+      "type": "skill",
+      "x_raw": 572.4203491210938,
+      "y_raw": 1459.0330810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Light BDD",
+      "type": "skill",
+      "x_raw": 442.37359619140625,
+      "y_raw": 1465.26708984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "RabbitMQ NetMQ",
+      "type": "skill",
+      "x_raw": 50.35844421386719,
+      "y_raw": 1467.0716552734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "Shouldly",
+      "type": "skill",
+      "x_raw": 585.3804931640625,
+      "y_raw": 1488.83203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "Azure Service Bus",
+      "type": "skill",
+      "x_raw": 63.48265075683594,
+      "y_raw": 1499.5657958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "GitHub Actions",
+      "type": "section",
+      "x_raw": 303.362548828125,
+      "y_raw": 1505.6240234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "Fake Data Generation",
+      "type": "skill",
+      "x_raw": 415.222900390625,
+      "y_raw": 1514.29541015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Mocking",
+      "type": "skill",
+      "x_raw": 573.2874755859375,
+      "y_raw": 1517.424072265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Message Bus",
+      "type": "skill",
+      "x_raw": 73.47813415527344,
+      "y_raw": 1534.497314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "Azure Pipelines",
+      "type": "section",
+      "x_raw": 301.8040466308594,
+      "y_raw": 1538.7861328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "NSubstitute",
+      "type": "skill",
+      "x_raw": 578.2442626953125,
+      "y_raw": 1550.410400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_118",
+      "label": "AutoFixture",
+      "type": "skill",
+      "x_raw": 440.0065612792969,
+      "y_raw": 1550.539306640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "NServiceBus",
+      "type": "skill",
+      "x_raw": 77.1458740234375,
+      "y_raw": 1561.67138671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "GitLab CI/CD",
+      "type": "section",
+      "x_raw": 306.36236572265625,
+      "y_raw": 1571.9481201171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_121",
+      "label": "Moq FakeItEasy",
+      "type": "skill",
+      "x_raw": 549.7811279296875,
+      "y_raw": 1584.1934814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "Bogus",
+      "type": "skill",
+      "x_raw": 451.818359375,
+      "y_raw": 1584.1934814453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Mass Transit",
+      "type": "skill",
+      "x_raw": 78.04815673828125,
+      "y_raw": 1594.83349609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Circle CI",
+      "type": "section",
+      "x_raw": 318.17413330078125,
+      "y_raw": 1605.098388671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "EasyNetQ",
+      "type": "skill",
+      "x_raw": 83.93061828613281,
+      "y_raw": 1627.9837646484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "API Gateway",
+      "type": "skill",
+      "x_raw": 75.06005859375,
+      "y_raw": 1660.9349365234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "CI / CD",
+      "type": "skill",
+      "x_raw": 251.67430114746094,
+      "y_raw": 1666.9813232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_128",
+      "label": "Software Design and Architecture",
+      "type": "skill",
+      "x_raw": 409.8912353515625,
+      "y_raw": 1666.9813232421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_129",
+      "label": "Ocelot YARP",
+      "type": "skill",
+      "x_raw": 59.568817138671875,
+      "y_raw": 1690.05419921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_130",
+      "label": "Containerization",
+      "type": "skill",
+      "x_raw": 66.91603088378906,
+      "y_raw": 1722.11474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_131",
+      "label": "Client-Side .NET",
+      "type": "skill",
+      "x_raw": 444.28363037109375,
+      "y_raw": 1743.583984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Razor",
+      "type": "section",
+      "x_raw": 295.8630065917969,
+      "y_raw": 1748.9842529296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_133",
+      "label": "Docker",
+      "type": "skill",
+      "x_raw": 91.26610565185547,
+      "y_raw": 1749.300537109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_134",
+      "label": "Template Engines",
+      "type": "skill",
+      "x_raw": 447.0725402832031,
+      "y_raw": 1780.5057373046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "Scriban",
+      "type": "section",
+      "x_raw": 291.8554382324219,
+      "y_raw": 1782.146240234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_136",
+      "label": "Blazor",
+      "type": "skill",
+      "x_raw": 626.3116455078125,
+      "y_raw": 1782.146240234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_137",
+      "label": "Kubernetes",
+      "type": "skill",
+      "x_raw": 80.63784790039062,
+      "y_raw": 1783.083740234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_138",
+      "label": "Fluid Frameworks",
+      "type": "section",
+      "x_raw": 298.45269775390625,
+      "y_raw": 1815.3082275390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_139",
+      "label": ".NET MAUI",
+      "type": "skill",
+      "x_raw": 615.1091918945312,
+      "y_raw": 1815.3082275390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_140",
+      "label": "Other",
+      "type": "skill",
+      "x_raw": 92.19183349609375,
+      "y_raw": 1817.38232421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_141",
+      "label": ".NET Aspire",
+      "type": "skill",
+      "x_raw": 80.35661315917969,
+      "y_raw": 1851.2239990234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_142",
+      "label": "Scalar MediatR",
+      "type": "skill",
+      "x_raw": 250.6196746826172,
+      "y_raw": 1873.46484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_143",
+      "label": "Orleans SteelToe",
+      "type": "skill",
+      "x_raw": 54.24884033203125,
+      "y_raw": 1885.0072021484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_144",
+      "label": "Good-to-Know Libraries",
+      "type": "skill",
+      "x_raw": 426.1441345214844,
+      "y_raw": 1906.4295654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_145",
+      "label": "FluentValidation",
+      "type": "skill",
+      "x_raw": 260.8612365722656,
+      "y_raw": 1906.626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_146",
+      "label": "Dapr",
+      "type": "skill",
+      "x_raw": 96.69155883789062,
+      "y_raw": 1919.9737548828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_147",
+      "label": "Polly Marten",
+      "type": "skill",
+      "x_raw": 254.82644653320312,
+      "y_raw": 1939.7889404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_148",
+      "label": "Nuke",
+      "type": "skill",
+      "x_raw": 286.31280517578125,
+      "y_raw": 1972.9393310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_149",
+      "label": "Visit Backend path and see what you missed",
+      "type": "skill",
+      "x_raw": 435.6474609375,
+      "y_raw": 2003.20703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_150",
+      "label": "Benchmark.NET",
+      "type": "skill",
+      "x_raw": 259.8886413574219,
+      "y_raw": 2006.101318359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_151",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 499.4755859375,
+      "y_raw": 2036.7557373046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_152",
+      "label": "Distributed Lock",
+      "type": "skill",
+      "x_raw": 260.14642333984375,
+      "y_raw": 2039.88427734375,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_12",
+      "type": "trunk"
+    },
+    {
+      "source": "node_12",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_12",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_116",
+      "type": "trunk"
+    },
+    {
+      "source": "node_116",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_116",
+      "target": "node_120",
+      "type": "trunk"
+    },
+    {
+      "source": "node_120",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_124",
+      "type": "trunk"
+    },
+    {
+      "source": "node_124",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_128",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_124",
+      "target": "node_132",
+      "type": "trunk"
+    },
+    {
+      "source": "node_132",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_132",
+      "target": "node_135",
+      "type": "trunk"
+    },
+    {
+      "source": "node_135",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_137",
+      "type": "branch"
+    },
+    {
+      "source": "node_135",
+      "target": "node_138",
+      "type": "trunk"
+    },
+    {
+      "source": "node_138",
+      "target": "node_139",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_140",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_141",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_142",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_143",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_144",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_145",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_146",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_147",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_148",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_149",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_150",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_151",
+      "type": "branch"
+    },
+    {
+      "source": "node_138",
+      "target": "node_152",
+      "type": "branch"
+    }
+  ]
+}

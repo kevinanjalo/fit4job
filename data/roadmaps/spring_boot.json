@@ -1,0 +1,97 @@
+{
+ "domain": "Spring Boot",
+ "stages": [
+  {
+   "name": "Spring Boot",
+   "skills": [
+    "Find the interactive version of this",
+    "Terminology",
+    "Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  },
+  {
+   "name": "Spring Security",
+   "skills": [
+    "Why use Spring?",
+    "Introduction Configuration",
+    "Authentication",
+    "Dependency Injection",
+    "Authorization",
+    "Spring IOC",
+    "OAuth2"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  },
+  {
+   "name": "Spring Boot",
+   "skills": [
+    "Spring AOP",
+    "JWT Authentication",
+    "Spring MVC",
+    "Annotations"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  },
+  {
+   "name": "Spring Boot Starters",
+   "skills": [
+    "Spring Bean Scope",
+    "Transactions",
+    "Relationships"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  },
+  {
+   "name": "Autoconfiguration",
+   "skills": [
+    "Spring Cloud Gateway",
+    "Entity Lifecycle"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  },
+  {
+   "name": "Actuators",
+   "skills": [
+    "Cloud Config",
+    "Spring Cloud Circuit Breaker",
+    "Embedded Server Hibernate",
+    "Spring Data",
+    "Microservices Spring Cloud",
+    "Spring Cloud Open Feign",
+    "Spring Data JPA"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  },
+  {
+   "name": "Spring MVC",
+   "skills": [
+    "Micrometer Eurkea",
+    "Spring Data MongoDB",
+    "Spring Data JDBC",
+    "Servlet",
+    "JSP Files",
+    "Architecture",
+    "JPA Test Mock MVC",
+    "Components Testing",
+    "@SpringBootTest Annotation",
+    "@MockBean Annotation"
+   ],
+   "resources": [
+    "roadmap.sh/spring-boot"
+   ]
+  }
+ ]
+}

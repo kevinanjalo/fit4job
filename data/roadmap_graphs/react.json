@@ -1,0 +1,1345 @@
+{
+  "topic": "React",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "React",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Personal Recommendation (Opinion)",
+      "type": "skill",
+      "x_raw": 73.68521118164062,
+      "y_raw": 64.80268859863281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 476.8453674316406,
+      "y_raw": 65.66600036621094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Alternative Option (Pick this or purple)",
+      "type": "skill",
+      "x_raw": 73.68521118164062,
+      "y_raw": 84.94721984863281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "React",
+      "type": "section",
+      "x_raw": 333.8063049316406,
+      "y_raw": 94.77471160888672,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Order in Roadmap not strict (Learn anytime)",
+      "type": "skill",
+      "x_raw": 73.68521118164062,
+      "y_raw": 105.09175109863281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Make sure to learn the \"Beginner\" topics",
+      "type": "skill",
+      "x_raw": 470.0484924316406,
+      "y_raw": 167.16209411621094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "of the JavaScript roadmap before you start learning React.",
+      "type": "skill",
+      "x_raw": 470.0484924316406,
+      "y_raw": 183.21678161621094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "JavaScript Roadmap",
+      "type": "section",
+      "x_raw": 307.4742736816406,
+      "y_raw": 196.03709411621094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "There used to be \"Class Components\"",
+      "type": "skill",
+      "x_raw": 39.689117431640625,
+      "y_raw": 196.74021911621094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "which React doesn't recommend any",
+      "type": "skill",
+      "x_raw": 39.689117431640625,
+      "y_raw": 212.79490661621094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "more. You don't need to learn about them",
+      "type": "skill",
+      "x_raw": 39.689117431640625,
+      "y_raw": 228.84959411621094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "but you might still notice them in some",
+      "type": "skill",
+      "x_raw": 39.689117431640625,
+      "y_raw": 244.90428161621094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "legacy projects",
+      "type": "skill",
+      "x_raw": 39.689117431640625,
+      "y_raw": 260.9589538574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "CLI Tools",
+      "type": "section",
+      "x_raw": 335.2828674316406,
+      "y_raw": 266.5605163574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "Vite",
+      "type": "skill",
+      "x_raw": 480.8766174316406,
+      "y_raw": 266.5605163574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Components Functional Components",
+      "type": "skill",
+      "x_raw": 44.821929931640625,
+      "y_raw": 324.7909851074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Rendering",
+      "type": "skill",
+      "x_raw": 555.0211181640625,
+      "y_raw": 324.7909851074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "JSX",
+      "type": "skill",
+      "x_raw": 93.18521118164062,
+      "y_raw": 364.7753601074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Component Lifecycle",
+      "type": "skill",
+      "x_raw": 567.0445556640625,
+      "y_raw": 369.4980163574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "useState",
+      "type": "section",
+      "x_raw": 377.7633361816406,
+      "y_raw": 372.0175476074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_20",
+      "label": "useState",
+      "type": "section",
+      "x_raw": 377.7633361816406,
+      "y_raw": 372.0175476074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "useCallback useRef",
+      "type": "skill",
+      "x_raw": 210.99380493164062,
+      "y_raw": 372.3339538574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Props vs State",
+      "type": "skill",
+      "x_raw": 67.73208618164062,
+      "y_raw": 398.1386413574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Lists and Keys",
+      "type": "skill",
+      "x_raw": 583.1109619140625,
+      "y_raw": 402.8612976074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "useMemo useReducer",
+      "type": "skill",
+      "x_raw": 210.74771118164062,
+      "y_raw": 405.0644226074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "useEffect",
+      "type": "section",
+      "x_raw": 376.1930236816406,
+      "y_raw": 405.3808288574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_26",
+      "label": "Conditional Rendering",
+      "type": "skill",
+      "x_raw": 48.009429931640625,
+      "y_raw": 431.5136413574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Render Props",
+      "type": "skill",
+      "x_raw": 584.3648681640625,
+      "y_raw": 436.2362976074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Basic Hooks",
+      "type": "section",
+      "x_raw": 369.9000549316406,
+      "y_raw": 436.5995788574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "useContext",
+      "type": "skill",
+      "x_raw": 245.76333618164062,
+      "y_raw": 437.8066101074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Composition",
+      "type": "skill",
+      "x_raw": 72.06802368164062,
+      "y_raw": 464.8769226074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Refs",
+      "type": "skill",
+      "x_raw": 606.8297119140625,
+      "y_raw": 469.5995788574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Common Hooks",
+      "type": "skill",
+      "x_raw": 235.18130493164062,
+      "y_raw": 490.5527038574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Component Basics",
+      "type": "skill",
+      "x_raw": 39.689117431640625,
+      "y_raw": 497.9823913574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Events",
+      "type": "skill",
+      "x_raw": 601.4390869140625,
+      "y_raw": 502.9745788574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Creating Custom Hooks",
+      "type": "skill",
+      "x_raw": 215.52896118164062,
+      "y_raw": 522.263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "High Order Components Hooks",
+      "type": "skill",
+      "x_raw": 408.1969299316406,
+      "y_raw": 535.166015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Hooks Best Practices",
+      "type": "skill",
+      "x_raw": 221.08364868164062,
+      "y_raw": 555.626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_38",
+      "label": "MobX",
+      "type": "skill",
+      "x_raw": 430.3219299316406,
+      "y_raw": 592.681640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Material UI",
+      "type": "skill",
+      "x_raw": 83.04849243164062,
+      "y_raw": 617.244140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Panda CSS",
+      "type": "skill",
+      "x_raw": 245.93911743164062,
+      "y_raw": 624.791015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_41",
+      "label": "Context",
+      "type": "skill",
+      "x_raw": 425.3180236816406,
+      "y_raw": 626.056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Routers",
+      "type": "skill",
+      "x_raw": 617.3648681640625,
+      "y_raw": 626.279296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Chakra UI",
+      "type": "skill",
+      "x_raw": 85.60317993164062,
+      "y_raw": 650.607421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "CSS Modules",
+      "type": "skill",
+      "x_raw": 240.54849243164062,
+      "y_raw": 658.166015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Zustand",
+      "type": "skill",
+      "x_raw": 424.5211486816406,
+      "y_raw": 659.419921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "React Router",
+      "type": "skill",
+      "x_raw": 604.0758056640625,
+      "y_raw": 680.736328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Shadcn UI",
+      "type": "skill",
+      "x_raw": 84.71255493164062,
+      "y_raw": 683.982421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Tailwind CSS",
+      "type": "skill",
+      "x_raw": 242.17739868164062,
+      "y_raw": 691.529296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Jotai",
+      "type": "skill",
+      "x_raw": 432.4313049316406,
+      "y_raw": 692.794921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Tanstack Router",
+      "type": "skill",
+      "x_raw": 597.1383056640625,
+      "y_raw": 714.111328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "State Management",
+      "type": "skill",
+      "x_raw": 397.7320861816406,
+      "y_raw": 740.326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Writing CSS",
+      "type": "skill",
+      "x_raw": 244.16958618164062,
+      "y_raw": 740.326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Component / Libraries",
+      "type": "skill",
+      "x_raw": 42.208648681640625,
+      "y_raw": 740.326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "react-router",
+      "type": "skill",
+      "x_raw": 615.7242431640625,
+      "y_raw": 779.994140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Radix UI",
+      "type": "section",
+      "x_raw": 289.7438049316406,
+      "y_raw": 783.767578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Astro",
+      "type": "skill",
+      "x_raw": 632.5054931640625,
+      "y_raw": 813.357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Jest Vitest",
+      "type": "skill",
+      "x_raw": 452.9273986816406,
+      "y_raw": 815.244140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Headless Component Libraries",
+      "type": "skill",
+      "x_raw": 39.771148681640625,
+      "y_raw": 817.142578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "React Aria",
+      "type": "section",
+      "x_raw": 284.9977111816406,
+      "y_raw": 817.142578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_60",
+      "label": "Next.js",
+      "type": "skill",
+      "x_raw": 628.4976806640625,
+      "y_raw": 846.732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "react-testing-library",
+      "type": "skill",
+      "x_raw": 451.6617736816406,
+      "y_raw": 848.619140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Ark UI",
+      "type": "section",
+      "x_raw": 295.5680236816406,
+      "y_raw": 850.505859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "API Calls",
+      "type": "skill",
+      "x_raw": 230.83364868164062,
+      "y_raw": 905.302734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 481.8023986816406,
+      "y_raw": 905.302734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Frameworks",
+      "type": "skill",
+      "x_raw": 615.3023681640625,
+      "y_raw": 905.302734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Cypress",
+      "type": "skill",
+      "x_raw": 479.6578674316406,
+      "y_raw": 958.798828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "Apollo",
+      "type": "skill",
+      "x_raw": 170.72817993164062,
+      "y_raw": 967.634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "react-query",
+      "type": "skill",
+      "x_raw": 263.2711486816406,
+      "y_raw": 967.634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Playwright",
+      "type": "skill",
+      "x_raw": 474.8414611816406,
+      "y_raw": 992.162109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_70",
+      "label": "Relay",
+      "type": "skill",
+      "x_raw": 171.94692993164062,
+      "y_raw": 1000.998046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "swr",
+      "type": "section",
+      "x_raw": 316.0758361816406,
+      "y_raw": 1001.314453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "Axios",
+      "type": "skill",
+      "x_raw": 246.03286743164062,
+      "y_raw": 1001.314453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "urql",
+      "type": "skill",
+      "x_raw": 176.40005493164062,
+      "y_raw": 1034.373046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "rtk-query",
+      "type": "skill",
+      "x_raw": 269.8453674316406,
+      "y_raw": 1034.677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "TypeScript",
+      "type": "skill",
+      "x_raw": 436.8492736816406,
+      "y_raw": 1061.431640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Forms",
+      "type": "skill",
+      "x_raw": 629.6578369140625,
+      "y_raw": 1064.888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "GraphQL",
+      "type": "skill",
+      "x_raw": 164.44692993164062,
+      "y_raw": 1064.958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "REST",
+      "type": "skill",
+      "x_raw": 279.2086486816406,
+      "y_raw": 1064.958984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Zod",
+      "type": "skill",
+      "x_raw": 452.8922424316406,
+      "y_raw": 1094.173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "React Hook Form",
+      "type": "skill",
+      "x_raw": 602.3062744140625,
+      "y_raw": 1122.322265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "Advanced Topics",
+      "type": "skill",
+      "x_raw": 187.00552368164062,
+      "y_raw": 1148.2158203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Formik Types & Validation",
+      "type": "skill",
+      "x_raw": 418.7789611816406,
+      "y_raw": 1151.689453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Animation",
+      "type": "skill",
+      "x_raw": 56.001617431640625,
+      "y_raw": 1218.908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Error Boundaries",
+      "type": "skill",
+      "x_raw": 232.69692993164062,
+      "y_raw": 1218.908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "React Native",
+      "type": "skill",
+      "x_raw": 428.8805236816406,
+      "y_raw": 1242.720703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Server APIs",
+      "type": "skill",
+      "x_raw": 245.85708618164062,
+      "y_raw": 1252.271484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Framer Motion",
+      "type": "skill",
+      "x_raw": 44.376617431640625,
+      "y_raw": 1271.771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Suspense",
+      "type": "skill",
+      "x_raw": 250.21646118164062,
+      "y_raw": 1285.646484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "react spring",
+      "type": "skill",
+      "x_raw": 50.939117431640625,
+      "y_raw": 1304.513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "Portals",
+      "type": "skill",
+      "x_raw": 257.5523986816406,
+      "y_raw": 1319.009765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Mobile Applications",
+      "type": "skill",
+      "x_raw": 413.1656799316406,
+      "y_raw": 1319.009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "GSock",
+      "type": "skill",
+      "x_raw": 64.18130493164062,
+      "y_raw": 1336.623046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Have a look at the following related roadmaps",
+      "type": "skill",
+      "x_raw": 350.2359924316406,
+      "y_raw": 1434.310546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "TypeScript Roadmap Frontend Roadmap",
+      "type": "skill",
+      "x_raw": 346.8961486816406,
+      "y_raw": 1468.669921875,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_13",
+      "type": "trunk"
+    },
+    {
+      "source": "node_13",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_19",
+      "type": "trunk"
+    },
+    {
+      "source": "node_19",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_25",
+      "type": "trunk"
+    },
+    {
+      "source": "node_25",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_59",
+      "type": "trunk"
+    },
+    {
+      "source": "node_59",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_59",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_94",
+      "type": "branch"
+    }
+  ]
+}

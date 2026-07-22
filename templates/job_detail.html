@@ -1,0 +1,184 @@
+{% extends "base.html" %}
+{% block title %}{{ job.title if job else "Job" }}{% endblock %}
+{% block content %}
+<section class="section">
+  <div class="container">
+    {% if not job %}
+    <h2>Job not found</h2>
+    <p class="sub">This listing may have been removed. <a href="/jobs">Back to all jobs</a>.</p>
+    {% else %}
+    <p class="eyebrow">{{ job.company }} - {{ job.location }}</p>
+    <h2>{{ job.title }}</h2>
+    <p class="meta">{{ job.job_type }} - {{ job.experience_level }} level{% if job.salary_range %} - {{ job.salary_range
+      }}{% endif %} - posted {{ job.posted_date }}</p>
+    <div class="chips" style="margin:14px 0">{% for s in job.skills %}<span class="chip">{{ s }}</span>{% endfor %}
+    </div>
+
+    <div class="card" style="margin-bottom:24px">
+      <h3>Apply for this job</h3>
+      <div id="apply-signed-out">
+        <p class="meta"><a href="/login">Sign in</a> to apply with one of your saved CVs.</p>
+      </div>
+      <div id="apply-box" style="display:none">
+        <div class="grid-2">
+          <div class="field"><label for="cv-select">Attach a saved CV</label>
+            <select id="cv-select">
+              <option value="">No CV attached</option>
+            </select>
+            <p class="meta">Manage CVs in <a href="/profile">your profile</a>.</p>
+          </div>
+          <div class="field"><label for="apply-note">Note to the employer (optional)</label>
+            <textarea id="apply-note" style="min-height:70px"></textarea>
+          </div>
+        </div>
+        <button class="btn btn-primary" id="apply-btn" onclick="applyJob()">Submit application</button>
+        <div id="apply-msg"></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-bottom:24px">
+      <h3>About the role</h3>
+      <p style="color:var(--ink);white-space:pre-wrap">{{ job.description }}</p>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <h3>Interview preparation</h3>
+        <p class="meta">Generate questions tailored to this exact job description.</p>
+        <div class="field"><label for="prep-cv">Personalise with a saved CV (optional)</label>
+          <select id="prep-cv" class="cv-picker">
+            <option value="">No CV - questions from the job only</option>
+          </select>
+        </div>
+        <button class="btn btn-primary btn-sm" onclick="prep()">Generate questions</button>
+        <div id="prep-out" style="margin-top:12px" aria-live="polite"></div>
+      </div>
+      <div class="card">
+        <h3>Skill gap for this role</h3>
+        <p class="meta">Select one of your saved CVs to see matched and missing skills with learning paths.</p>
+        <div class="field"><label for="gap-cv">Your saved CV</label>
+          <select id="gap-cv" class="cv-picker">
+            <option value="">Choose a CV</option>
+          </select>
+          <p class="meta">No CVs yet? Save one in <a href="/profile">your profile</a>.</p>
+        </div>
+        <button class="btn btn-ghost btn-sm" onclick="gap()">Analyse gap</button>
+        <div id="gap-out" style="margin-top:12px" aria-live="polite"></div>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+  const JOB_ID = "{{ job_id }}";
+  async function initApply() {
+    try {
+      await API.get("/auth/me");
+      document.getElementById("apply-signed-out").style.display = "none";
+      document.getElementById("apply-box").style.display = "";
+      const cvs = await API.get("/profile/cvs");
+      document.querySelectorAll("#cv-select, .cv-picker").forEach((sel) =>
+        cvs.forEach((c) => sel.append(el("option", { value: c.cv_id }, c.filename + " (" + c.uploaded_at + ")"))));
+      const mine = await API.get("/profile/applications");
+      if (mine.some((a) => a.job_id === JOB_ID)) {
+        document.getElementById("apply-box").innerHTML = "";
+        document.getElementById("apply-box").append(el("span", { class: "applied-badge" }, "You have already applied for this job"));
+      }
+    } catch (e) { }
+  }
+  async function applyJob() {
+    const msg = document.getElementById("apply-msg");
+    const btn = document.getElementById("apply-btn");
+    btn.disabled = true;
+    try {
+      await API.post("/profile/apply", {
+        job_id: JOB_ID,
+        cv_id: document.getElementById("cv-select").value || null,
+        note: document.getElementById("apply-note").value,
+      });
+      notify(msg, "Application submitted. Track it in your profile.");
+      btn.textContent = "Applied";
+    } catch (e) { notify(msg, e.message, false); btn.disabled = false; }
+  }
+  async function prep() {
+    const out = document.getElementById("prep-out");
+    loading(out, "Generating questions");
+    try {
+      const r = await API.post("/interview-prep", { job_id: JOB_ID, cv_id: document.getElementById("prep-cv").value || null, question_count: 6 });
+      aiBlock(out, r.questions);
+    } catch (e) { out.innerHTML = ""; notify(out, e.message, false); }
+  }
+  function roadmapLink(key, topic) {
+    let url = "/roadmaps";
+    const params = [];
+    if (key) params.push("roadmap=" + encodeURIComponent(key));
+    if (topic) params.push("topic=" + encodeURIComponent(topic));
+    return params.length ? url + "?" + params.join("&") : url;
+  }
+
+  async function gap() {
+    const out = document.getElementById("gap-out");
+    loading(out, "Analysing");
+    try {
+      const cvId = document.getElementById("gap-cv").value;
+      if (!cvId) { out.innerHTML = ""; return notify(out, "Choose one of your saved CVs first.", false); }
+      const r = await API.post("/skill-gap", { cv_id: cvId, job_id: JOB_ID });
+      out.innerHTML = "";
+      const pct = Math.round(r.coverage * 100);
+
+      // Coverage meter
+      out.append(el("p", { class: "meta" }, "You already have " + r.matched_skills.length +
+        " of " + (r.matched_skills.length + r.missing_skills.length) + " required skills (" + pct + "%)."));
+      out.append(el("div", { class: "coverage-bar" }, [el("span", { style: "width:" + pct + "%" })]));
+
+      // Where to focus
+      if (r.focus_roadmap) {
+        out.append(el("div", { class: "focus-callout" }, [
+          el("div", {}, [
+            el("strong", {}, "Focus area: " + r.focus_roadmap),
+            el("p", { class: "meta", style: "margin:2px 0 0" },
+              "The roadmap that best matches this role. Follow it to close the gaps below."),
+          ]),
+          el("a", { class: "btn btn-teal btn-sm", href: roadmapLink(r.focus_roadmap_key, null) }, "Open roadmap"),
+        ]));
+      }
+
+      // Skills you have
+      if (r.matched_skills.length) {
+        out.append(el("p", { class: "gap-section-label" }, "Skills you already have"));
+        out.append(el("div", { class: "chips" },
+          r.matched_skills.map((s) => el("span", { class: "chip match" }, s))));
+      }
+
+      // Skills to learn - each links straight into the relevant roadmap topic
+      const recBySkill = {};
+      r.learning_recommendations.forEach((rec) => (recBySkill[rec.skill] = rec));
+      if (r.missing_skills.length) {
+        out.append(el("p", { class: "gap-section-label" }, "Skills to learn next"));
+        out.append(el("div", { class: "chips" }, r.missing_skills.map((s) => {
+          const rec = recBySkill[s];
+          const key = rec ? rec.roadmap_key : r.focus_roadmap_key;
+          return el("a", { class: "chip miss", href: roadmapLink(key, s),
+            title: "Open the " + (rec ? rec.roadmap : "roadmap") + " tree at " + s }, s);
+        })));
+      } else {
+        out.append(el("p", { class: "meta", style: "margin-top:10px" }, "You meet every listed skill for this role."));
+      }
+
+      // Concrete "what to learn where" list
+      if (r.learning_recommendations.length) {
+        out.append(el("p", { class: "gap-section-label" }, "Suggested learning path"));
+        r.learning_recommendations.forEach((rec) =>
+          out.append(el("div", { class: "rec-item" }, [
+            el("span", { class: "rec-skill" }, rec.skill),
+            el("span", { class: "meta" }, "→ " + rec.roadmap + " · " + rec.stage),
+            el("a", { href: roadmapLink(rec.roadmap_key, rec.skill) }, "Open"),
+          ])));
+      }
+    } catch (e) { out.innerHTML = ""; notify(out, e.message, false); }
+  }
+  initApply();
+</script>
+{% endblock %}

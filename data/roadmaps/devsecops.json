@@ -1,0 +1,248 @@
+{
+ "domain": "Devsecops",
+ "stages": [
+  {
+   "name": "Introduction",
+   "skills": [
+    "DevSecOps vs DevOps",
+    "Python Ruby",
+    "Rust Go",
+    "Bash",
+    "Learn a Programming Language",
+    "JavaScript / Node.js"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Scripting Knowledge",
+   "skills": [
+    "PowerShell",
+    "Editors",
+    "Learn the Foundations",
+    "Vim / Nano / Emacs"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Firewalls",
+   "skills": [
+    "CIA Triad",
+    "SQL Injection Prevention"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "ACLs",
+   "skills": [
+    "Authentication",
+    "XSS Prevention"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Network Segmentation",
+   "skills": [
+    "Authorization",
+    "Input Validation Patterns"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "DNS",
+   "skills": [
+    "OWASP Top 10"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Networking Basics",
+   "skills": [
+    "Encryption",
+    "Secure Coding"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Alert Types SIEM",
+   "skills": [
+    "Symmetric Asymmetric"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Log Analysis",
+   "skills": [
+    "Burp Suite"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "PASTA STRIDE",
+   "skills": [
+    "Identity Basics Monitoring",
+    "Nmap basics",
+    "IAM",
+    "Wireshark basics"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Threat Modeling Workflows",
+   "skills": [
+    "Least Privilege",
+    "DevSecOps Tools"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Attack Surface Mapping",
+   "skills": [
+    "Role Based Access"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Threat Modeling",
+   "skills": [
+    "Managing Threats & Risks",
+    "SOAR Concepts",
+    "Automated Patching"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Container Security",
+   "skills": [
+    "Automating Security",
+    "Cloud Security",
+    "Nessus Nmap"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Kubernetes Docker",
+   "skills": [
+    "OpenVAS Qualys",
+    "CSPM",
+    "IAM"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Image Scanning",
+   "skills": [
+    "Vulnerability Scanning Tools",
+    "Key Management Service"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Secure Architecture",
+   "skills": [
+    "Defense in Depth Concepts",
+    "Incident Response",
+    "Zero Trust Concepts"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "bcrypt SHA 256",
+   "skills": [
+    "Secure API Design",
+    "IR Lifecycle",
+    "Multi Region Security Planning"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Cryptographic Hashing",
+   "skills": [
+    "Forensics Containment",
+    "Large Scale Identity Strategy",
+    "Root Cause Analysis",
+    "PKI Design and Failover"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Certificate Lifecycle",
+   "skills": [
+    "IDS",
+    "IPS",
+    "DDoS Miligation Strategy"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Advanced Crypto.",
+   "skills": [
+    "EDR Strategy",
+    "Secure Network Zoning",
+    "SOAR Automation",
+    "Supply Chain Security",
+    "Endpoint Detection",
+    "SBOMS",
+    "Response Strategy Enterprise Operations"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  },
+  {
+   "name": "Governance",
+   "skills": [
+    "Build Pipeline Hardening",
+    "Dependency Risk Management",
+    "SOC 2",
+    "ISO 27001",
+    "Audit & Compliance Mapping",
+    "NIST",
+    "Risk Quantification",
+    "Cybersecurity Frameworks"
+   ],
+   "resources": [
+    "roadmap.sh/devsecops"
+   ]
+  }
+ ]
+}

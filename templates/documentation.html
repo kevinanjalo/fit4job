@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Documentation{% endblock %}
+{% block content %}
+<section class="section"><div class="container">
+  <h2>Platform documentation</h2>
+  <p class="sub">A quick reference for users and administrators. Full API documentation is auto-generated at <a href="/docs">/docs</a> (Swagger UI) and <a href="/redoc">/redoc</a>.</p>
+  <div class="grid-2">
+    <div class="card"><h3>For job seekers</h3>
+      <p>Use Career tools to upload a resume, run hybrid semantic matching, analyse skill gaps against specific jobs, generate interview questions from a job description, get resume feedback and build a personalised learning roadmap. Semantic search on the Jobs page lets you describe a role in plain language.</p></div>
+    <div class="card"><h3>For administrators</h3>
+      <p>The Admin dashboard covers job management, user management with role-based access control, taxonomy editing with hierarchical and overlapping skill relationships, roadmap JSON editing, RAG knowledge base updates and re-indexing, vector index rebuilds, analytics, system monitoring, application and audit logs, configuration and backups.</p></div>
+    <div class="card"><h3>Matching model</h3>
+      <p>Final score = 0.7 x SBERT cosine similarity (FAISS HNSW retrieval, PCA-reduced embeddings) + 0.3 x Jaccard overlap of taxonomy-expanded skill sets. Weights are adjustable in Admin, Configuration.</p></div>
+    <div class="card"><h3>Model integration</h3>
+      <p>Drop your trained artifacts into models_store/ (SBERT directory, pca_model.pkl, faiss_hnsw.index). The services load them automatically at startup; no code changes required. Without them, transparent fallbacks keep the platform functional.</p></div>
+  </div>
+</div></section>
+{% endblock %}

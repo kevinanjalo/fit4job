@@ -1,0 +1,364 @@
+{
+ "domain": "Postgresql Dba",
+ "stages": [
+  {
+   "name": "Learn SQL",
+   "skills": [
+    "PostgreSQL",
+    "Queries",
+    "What are Relational Databases?",
+    "Data Types",
+    "RDBMS Benefits and Limitations",
+    "Introduction",
+    "Rows Columns",
+    "PostgreSQL vs NoSQL Databases",
+    "Tables Schemas",
+    "PostgreSQL vs Other RDBMS",
+    "Databases",
+    "Basic RDBMS Concepts Object Model",
+    "High Level Database Concepts",
+    "ACID MVCC Transactions"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Default Privileges",
+   "skills": [
+    "Advanced Topics Configuring",
+    "Reporting Logging & Statistics",
+    "Adding Extra Extensions",
+    "CTE",
+    "Transactions",
+    "Following postgres.conf configuration",
+    "Lateral Join",
+    "Subqueries",
+    "Resource Usage",
+    "Set Operations",
+    "Grouping"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Grant / Revoke",
+   "skills": [
+    "Write-ahead Log"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Object Privileges",
+   "skills": [
+    "Vacuums Replication",
+    "Query Planner"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "Advanced Topics",
+    "Authentication Models",
+    "Checkpoints / Background Writer",
+    "Row-Level Security",
+    "Roles pg_hba.conf"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Infrastructure Skills",
+   "skills": [
+    "SELinux",
+    "SSL Settings"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Anonymization",
+   "skills": [
+    "Backup & Recovery Tools"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Upgrade Procedures",
+   "skills": [
+    "pg_dump pg_dumpall",
+    "barman WAL-G"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Using `pg_upgrade`",
+   "skills": [
+    "pg_restore",
+    "pgbackrest"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Using Logical Replication",
+   "skills": [
+    "Learn to Automate",
+    "pg_basebackup",
+    "pg_probackup"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Cluster Management",
+   "skills": [
+    "Shell Scripts",
+    "Backup Validation Procedures"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Patroni",
+   "skills": [
+    "Any Programming Language"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Patroni Alternatives",
+   "skills": [
+    "Connection Pooling",
+    "Replication"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Kubernetes Deployment",
+   "skills": [
+    "PgBouncer",
+    "Logical Replication",
+    "Configuration Management"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Simple Stateful Setup",
+   "skills": [
+    "PgBouncer Alternatives",
+    "Streaming Replication",
+    "Ansible Salt"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Helm Operators",
+   "skills": [
+    "Monitoring",
+    "Chef Puppet",
+    "Prometheus Zabbix",
+    "temBoard"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "HAProxy Consul",
+   "skills": [
+    "Load Balancing / Discovery",
+    "check_pgactivity",
+    "check_pgbackrest"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Migrations",
+   "skills": [
+    "Data and Processing Application Skills",
+    "Bulk Loading / Processing Data",
+    "Practical Patterns / Antipatterns"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Migration Related Tools",
+   "skills": [
+    "Data Partitioning"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Queues",
+   "skills": [
+    "Advanced Topics",
+    "Sharding Patterns",
+    "Normalization / Normal Forms",
+    "Patterns / Antipatterns PgQ"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Fine-grained Tuning",
+   "skills": [
+    "Low Level Internals",
+    "Processes & Memory Architecture",
+    "Advanced SQL"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Per-User, Per-Database Setting",
+   "skills": [
+    "Vacuum Processing",
+    "PL/pgSQL"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Storage Parameters",
+   "skills": [
+    "Buffer Management",
+    "Procedures and Functions"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Workload-Dependant Tuning",
+   "skills": [
+    "Lock Management",
+    "Triggers Recursive CTE"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "OLTP OLAP HTAP",
+   "skills": [
+    "Physical Storage and File Layout",
+    "Aggregate and Window functions",
+    "System Catalog"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Query Analysis",
+   "skills": [
+    "Troubleshooting Techniques",
+    "Operating System Tools",
+    "Profiling Tools",
+    "Posgres System Views"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "EXPLAIN Depesz",
+   "skills": [
+    "top sysstat iotop",
+    "perf-tools",
+    "pg_stat_activity"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "PEV2 Tensor",
+   "skills": [
+    "gdb strace",
+    "pg_stat_statements",
+    "Log Analysis",
+    "explain.dalibo.com Techniques",
+    "Core Dumps"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "Posgres Tools",
+   "skills": [
+    "pgCluu",
+    "ebpf",
+    "pgBadger",
+    "USE RED"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "pgcenter",
+   "skills": [
+    "awk grep sed",
+    "Golden Signals",
+    "SQL Optimization Techniques",
+    "SQL Query Patterns / Anti-patterns",
+    "Schema Design Patterns / Anti-patterns",
+    "B-Tree",
+    "BRIN",
+    "Hash GiST",
+    "Indexes and their Usecases"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  },
+  {
+   "name": "MongoDB Backend",
+   "skills": [
+    "SP-GiST GIN",
+    "Mailing Lists",
+    "Get Involved in Development",
+    "Reviewing Patches",
+    "Writing Patches"
+   ],
+   "resources": [
+    "roadmap.sh/postgresql-dba"
+   ]
+  }
+ ]
+}

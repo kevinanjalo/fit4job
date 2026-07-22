@@ -1,0 +1,188 @@
+{
+ "domain": "Kubernetes",
+ "stages": [
+  {
+   "name": "Kubernetes",
+   "skills": [
+    "Find the interactive version of this"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Overview of Kubernetes",
+    "Why use Kubernetes?"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Containers",
+   "skills": [
+    "Key Concepts and Terminologies",
+    "Deploying your First Application"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Setting up Kubernetes",
+   "skills": [
+    "Kubernetes Alternatives",
+    "Choosing a Managed Provider",
+    "Installing a Local Cluster"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Running Applications",
+   "skills": [
+    "Pods ReplicaSets",
+    "Deployments StatefulSets",
+    "Injecting Pod Config with ConfigMaps",
+    "Jobs",
+    "Using Secrets for Sensitive Data"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Services and Networking",
+   "skills": [
+    "Configuration Management",
+    "Role Based Access Control (RBAC)"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Load Balancing",
+   "skills": [
+    "Network Security",
+    "External Access to Services",
+    "Container and Pod Security",
+    "Networking & Pod-to-Pod Communication"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Logs Metrics Traces",
+   "skills": [
+    "Resource Management",
+    "Security",
+    "Setting Resource Requests and Limits"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Resource Health",
+   "skills": [
+    "Assigning Quotas to Namespaces",
+    "Monitoring and Logging"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Observability Engines",
+   "skills": [
+    "Monitoring & Optimizing Resource Usage"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Scheduling",
+   "skills": [
+    "Autoscaling",
+    "Storage and Volumes"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Basics",
+   "skills": [
+    "CSI Drivers",
+    "Horizontal Pod Autoscaler (HPA)"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Taints and Tolerations",
+   "skills": [
+    "Stateful Applications",
+    "Vertical Pod Autoscaler (VPA)"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Topology Spread Constraints",
+   "skills": [
+    "Cluster Autoscaling"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Pod Priorities Evictions",
+   "skills": [
+    "Deployment Patterns"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Creating Custom Controllers",
+   "skills": [
+    "Should you manage your own Cluster?",
+    "CI / CD Integration",
+    "Installing the Control Plane",
+    "Custom Schedulers and Extenders",
+    "GitOps",
+    "Adding and Managing Worker Nodes",
+    "Custom Resource Definitions (CRDs)",
+    "Helm Charts"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  },
+  {
+   "name": "Advanced Topics",
+   "skills": [
+    "Multi-Cluster Management",
+    "Kubernetes Extensions and APIs",
+    "Canary Deployments",
+    "Blue-Green Deployments",
+    "Cluster Operations",
+    "Rolling Updates / Rollbacks"
+   ],
+   "resources": [
+    "roadmap.sh/kubernetes"
+   ]
+  }
+ ]
+}

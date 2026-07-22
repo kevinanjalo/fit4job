@@ -1,0 +1,72 @@
+{
+ "domain": "Ai Data Scientist",
+ "stages": [
+  {
+   "name": "> >",
+   "skills": [
+    "AI and Data Scientist",
+    "Mathematics Statistics",
+    "Statistics, CLT"
+   ],
+   "resources": [
+    "roadmap.sh/ai-data-scientist"
+   ]
+  },
+  {
+   "name": "Econometrics",
+   "skills": [
+    "Differential Calculus",
+    "Hypothesis Testing",
+    "Probability and Sampling"
+   ],
+   "resources": [
+    "roadmap.sh/ai-data-scientist"
+   ]
+  },
+  {
+   "name": "AB Testing",
+   "skills": [
+    "Pre-requisites of Econometrics",
+    "Regression, Timeseries, Fitting Distributions",
+    "Increasing Test Sensitivity",
+    "Paper: Improving Test Sensitivity Paper",
+    "Paper: Improving Sensitivity (CUPED) Paper",
+    "Netflix: Stratification Paper",
+    "Forecasting Task with Solution OpenSource",
+    "Ratio Metrics",
+    "Paper: Ratio Metrics Paper",
+    "Coding 4",
+    "< <"
+   ],
+   "resources": [
+    "roadmap.sh/ai-data-scientist"
+   ]
+  },
+  {
+   "name": "MLOps",
+   "skills": [
+    "Learn Python Programming Language",
+    "Exploratory Data Analysis 5",
+    "Data Structures and Algorithms (Python)",
+    "Study Plans - Leetcode Challenges",
+    "Machine Learning 6",
+    "Learn SQL",
+    "Deep Learning 7",
+    "Deployment Models, CI/CD",
+    "Attention is all you need Paper"
+   ],
+   "resources": [
+    "roadmap.sh/ai-data-scientist"
+   ]
+  },
+  {
+   "name": "Keep Learning",
+   "skills": [
+    "> >"
+   ],
+   "resources": [
+    "roadmap.sh/ai-data-scientist"
+   ]
+  }
+ ]
+}

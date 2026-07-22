@@ -1,0 +1,239 @@
+{
+ "domain": "Nextjs",
+ "stages": [
+  {
+   "name": "Next.js",
+   "skills": [
+    "Find the interactive version of this",
+    "Why Next.js",
+    "JavaScript Basics"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "Next.js",
+    "Remix",
+    "Why Frontend Frameworks",
+    "React Frameworks",
+    "Why React",
+    "SPA vs SSR"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "create-next-app",
+   "skills": [
+    "SSR SPA",
+    "Next.js Routing Basics",
+    "CSR SSG",
+    "Getting Started Routing"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Routing Terminology",
+   "skills": [
+    "Rendering Strategies",
+    "Types of routers"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Rendering Pages",
+   "skills": [
+    "Parallel Routes",
+    "Pages App"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Layouts and Templates",
+   "skills": [
+    "Intercepting Routes",
+    "Why use App Router?"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Error States",
+   "skills": [
+    "Routing Patterns",
+    "Use cases"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Structuring Routes",
+   "skills": [
+    "Route Matcher",
+    "API Endpoints",
+    "Using Cookies",
+    "Static vs Dynamic",
+    "Middelware Setting Headers"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Internationalization",
+   "skills": [
+    "Streaming",
+    "Caching",
+    "Reditects",
+    "Client Server",
+    "Working with data Fetching Locations"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Parallel vs Sequential",
+   "skills": [
+    "Caching Data",
+    "Server Actions",
+    "Memoization in Fetch"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Preloading Data",
+   "skills": [
+    "React Cache",
+    "Rendering"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Node.js Edge",
+   "skills": [
+    "Revalidating Cached Data",
+    "Revalidation Errors"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Runtimes and Types",
+   "skills": [
+    "Client Rendered"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Runtimes",
+   "skills": [
+    "Server Rendered",
+    "Global CSS",
+    "Composition",
+    "Ways to Write CSS"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Writing CSS",
+   "skills": [
+    "CSS Modules",
+    "Tailwind CSS",
+    "Images",
+    "Sass",
+    "Videos"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Optimizations",
+   "skills": [
+    "CSS in JS",
+    "Fonts",
+    "Metadata",
+    "TypeScript",
+    "Package Bundling"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Configuring",
+   "skills": [
+    "Prettier ESLint",
+    "Lazy Loading",
+    "Analytics",
+    "Setting things Up",
+    "Instrumentation",
+    "Environment Variables"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Preparing for Production",
+   "skills": [
+    "OpenTelemetry",
+    "Markdown and MDX",
+    "Static Assets",
+    "Custom Server",
+    "Scripts"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Deployment",
+   "skills": [
+    "Third Party Libraries",
+    "Memory Usage",
+    "Testing"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  },
+  {
+   "name": "Deployment Options",
+   "skills": [
+    "Node.js Server",
+    "Testing Frameworks",
+    "Docker Container",
+    "Vitest Jest",
+    "Static Export",
+    "Playwright Cypress",
+    "Adapters"
+   ],
+   "resources": [
+    "roadmap.sh/nextjs"
+   ]
+  }
+ ]
+}

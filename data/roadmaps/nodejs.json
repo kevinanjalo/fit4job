@@ -1,0 +1,123 @@
+{
+ "domain": "Nodejs",
+ "stages": [
+  {
+   "name": "Node.js",
+   "skills": [
+    "Beginner Topics / start with these",
+    "Intermediate Topics / pick these next",
+    "Advanced Topics / pick these at last",
+    "CommonJS"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "Introduction to Node.js",
+   "skills": [
+    "What is Node.js?",
+    "ESM",
+    "Why use Node.js?",
+    "History of Node.js",
+    "Modules",
+    "Node.js vs Browser"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "npx",
+   "skills": [
+    "Creating & Importing",
+    "Running Node.js Code",
+    "[global] keyword",
+    "npm Global Installation"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "Semantic Versioning",
+   "skills": [
+    "Error Handling",
+    "Local Installation",
+    "Installing Packages",
+    "System Errors"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "Event Emitter",
+   "skills": [
+    "Updating Packages",
+    "User Specified Errors",
+    "Promises"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "Event Loop",
+   "skills": [
+    "Running Scripts",
+    "Assertion Errors",
+    "async/await",
+    "npm workspaces",
+    "JavaScript Errors",
+    "Callbacks",
+    "Async Programming",
+    "Creating Packages",
+    "Types of Errors",
+    "setTimeout"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "__dirname",
+   "skills": [
+    "setInterval",
+    "Uncaught Exceptions",
+    "process.env",
+    "setImmediate",
+    "Handling Async Errors",
+    "dotenv package",
+    "process.nextTick",
+    "Callstack / Stack Trace",
+    "Environment Variables"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  },
+  {
+   "name": "__filename",
+   "skills": [
+    "Writing Async Code",
+    "Using Debugger",
+    "process.stdin",
+    "Exitting / Exit Codes",
+    "process.cwd()",
+    "Inquirer Package",
+    "Working with Files",
+    "path module",
+    "Command Line Apps",
+    "prompts package",
+    "fs module",
+    "Taking Input",
+    "glob globby",
+    "stdout / stderr"
+   ],
+   "resources": [
+    "roadmap.sh/nodejs"
+   ]
+  }
+ ]
+}

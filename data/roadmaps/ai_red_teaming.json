@@ -1,0 +1,226 @@
+{
+ "domain": "Ai Red Teaming",
+ "stages": [
+  {
+   "name": "AI Red Teaming",
+   "skills": [
+    "Special thanks to \"Learn Prompting\"",
+    "learnprompting.org"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "AI Security Fundamentals",
+    "Why Red Team AI Systems?",
+    "Ethical Considerations"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Foundational Knowledge",
+   "skills": [
+    "Supervised Learning",
+    "Role of Red Teams",
+    "Unsupervised Learning",
+    "Confidentiality, Integrity, Availability",
+    "Reinforcement Learning"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Cybsecurity Principles",
+   "skills": [
+    "Threat Modeling",
+    "AI / ML Fundamentals",
+    "Neural Networks",
+    "Risk Management",
+    "Generative Models",
+    "Vulnerability Assessment",
+    "Large Language Models"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Prompt Hacking",
+   "skills": [
+    "Prompt Engineering",
+    "Jailbreak Techniques",
+    "Safety Filter Bypasses"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Model Vulnerabilities",
+   "skills": [
+    "Model Weight Stealing",
+    "Prompt Injection",
+    "Unauthorized Access"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "System Security",
+   "skills": [
+    "Direct Indirect",
+    "Model Extraction",
+    "Countermeasures",
+    "Data Poisoning"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Code Injection",
+   "skills": [
+    "Adversarial Examples",
+    "Testing Methodologies",
+    "Model Inversion"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Insecure Deserialization",
+   "skills": [
+    "Model Manipulation"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Remote Code Execution",
+   "skills": [
+    "Black Box Testing",
+    "Adversarial Training"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Infrastructure Security",
+   "skills": [
+    "White Box Testing",
+    "Robust Model Design"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "API Protection",
+   "skills": [
+    "Grey Box Testing",
+    "Continuous Monitoring"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Authentication",
+   "skills": [
+    "Automated vs Manual",
+    "Defense Strategies"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Authentication",
+   "skills": [
+    "Continuous Testing"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Professional Development",
+   "skills": [
+    "Conferences",
+    "Tools and Frameworks",
+    "Research Groups"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Real-world Applications",
+   "skills": [
+    "Forums",
+    "Testing Platforms",
+    "Community Engagement",
+    "Monitoring Solutions"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "LLM Security Testing",
+   "skills": [
+    "Lab Environments",
+    "Benchmark Datasets",
+    "CTF Challenges"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Agentic AI Security",
+   "skills": [
+    "Custom Testing Scripts",
+    "Red Team Simulations"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Responsible Disclosure",
+   "skills": [
+    "Reporting Tools",
+    "Practical Experience"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  },
+  {
+   "name": "Future Directions",
+   "skills": [
+    "Emerging Threats",
+    "Industry Credentials",
+    "Advanced Techniques",
+    "Certifications",
+    "Research Opportunities",
+    "Industry Standards",
+    "AI Engineer AI & Data Scientist Data Analyst"
+   ],
+   "resources": [
+    "roadmap.sh/ai-red-teaming"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "domain": "Datastructures And Algorithms",
+ "stages": [
+  {
+   "name": "Pick a Language",
+   "skills": [
+    "Find the interactive version",
+    "Computer Science",
+    "Programming Languages",
+    "Data Structures & Algorithms",
+    "System Design",
+    "Software Design & Architecture",
+    "JavaScript",
+    "C#",
+    "Language Syntax",
+    "Java",
+    "C++",
+    "Control Structures"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Programming Fundamentals",
+   "skills": [
+    "Go",
+    "Python",
+    "Pseudo Code",
+    "Rust Ruby",
+    "Functions",
+    "OOP Basics"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Basic Data Structures",
+   "skills": [
+    "What are Data Structures?",
+    "Common Runtimes",
+    "Why are Data Structures Important?",
+    "Array Linked Lists",
+    "Constant",
+    "Stacks Queues",
+    "Logarithmic",
+    "Hash Tables"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Algorithmic Complexity",
+   "skills": [
+    "Linear",
+    "Time vs Space Complexity",
+    "Polynomial",
+    "How to Calculate Complexity?",
+    "Exponential"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Sorting Algorithms",
+   "skills": [
+    "Big-O Notation",
+    "Binary Search",
+    "Big-\u03b8 Notation",
+    "Linear Search",
+    "Big-\u03a9 Notation",
+    "Bubble Sort Merge Sort"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Selection Sort",
+   "skills": [
+    "Search Algorithms",
+    "Insertion Sort Quick Sort",
+    "Directed Graph"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Heap Sort",
+   "skills": [
+    "Undirected Graph",
+    "Tree Data Structures",
+    "Graph Data Structures"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Binary Trees",
+   "skills": [
+    "Tree Traversal Search Algorithms",
+    "Search Algorithms"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Binary Search Trees",
+   "skills": [
+    "Breadth First Search",
+    "In-Order Traversal"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "AVL Trees",
+   "skills": [
+    "Depth First Search",
+    "Pre-Order Traversal"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Heap",
+   "skills": [
+    "Post-Order Traversal",
+    "B-Trees",
+    "Shortest Path Algorithms",
+    "Dijkstra's Algorithm",
+    "Trie",
+    "Bellman-Ford Algoritm",
+    "Segment Trees",
+    "A* Algorithm",
+    "Fenwick Trees",
+    "Advanced Data Structures"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "-3 Trees Indexing",
+   "skills": [
+    "Minimum Spanning Tree",
+    "Disjoint Set (Union-Find)",
+    "Prim's Algorithm",
+    "Suffix Trees and Arrays",
+    "Kruskal's Algorithm",
+    "Linear",
+    "Complex Data Structures",
+    "Tree-Based",
+    "B/B+ Trees",
+    "Skip List",
+    "Brute Force Backtracking",
+    "ISAM"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  },
+  {
+   "name": "Recursion",
+   "skills": [
+    "Greedy Algorithms",
+    "Problem Solving Techniques",
+    "Randomised Algorithms",
+    "Island traversal",
+    "Divide and Conquer",
+    "Multi-threaded",
+    "Leetcode",
+    "Kth Element Two Heaps",
+    "Edabit",
+    "Dynamic Programming",
+    "Merge Intervals",
+    "Two Pointer Technique",
+    "Cyclic Sort",
+    "Platforms to Practice"
+   ],
+   "resources": [
+    "roadmap.sh/datastructures-and-algorithms"
+   ]
+  }
+ ]
+}

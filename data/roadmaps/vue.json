@@ -1,0 +1,79 @@
+{
+ "domain": "Vue",
+ "stages": [
+  {
+   "name": "Vue",
+   "skills": [
+    "create-vue",
+    "Boostrapping a Project",
+    "Error / Warn Handler",
+    "Component Registration",
+    "App Configurations",
+    "Global Properties",
+    "Components",
+    "Single File Components",
+    "Performance",
+    "Props Events v-model",
+    "Attribute Inheritance Templates",
+    "API Styles Options API",
+    "Composition API",
+    "Rendering"
+   ],
+   "resources": [
+    "roadmap.sh/vue"
+   ]
+  },
+  {
+   "name": "FormKit",
+   "skills": [
+    "v-show",
+    "Event Handling",
+    "Computed Properties",
+    "v-if v-else",
+    "v-else-if",
+    "Async Components",
+    "Binding Events",
+    "Iterative",
+    "Teleport Components",
+    "Inline / Method Handlers",
+    "v-for",
+    "Provide / Inject",
+    "Event Modifiers",
+    "Event Binding"
+   ],
+   "resources": [
+    "roadmap.sh/vue"
+   ]
+  },
+  {
+   "name": "Vee Validate",
+   "skills": [
+    "Tailwind CSS",
+    "Vitest"
+   ],
+   "resources": [
+    "roadmap.sh/vue"
+   ]
+  },
+  {
+   "name": "Vuelidate",
+   "skills": [
+    "State Management",
+    "Vuetify",
+    "Vue Testing Library",
+    "Element UI",
+    "Cypress Playwright",
+    "API Calls",
+    "Mobile Apps Capacitor",
+    "Apollo",
+    "GraphQL",
+    "Axios fetch",
+    "Tanstack Query",
+    "HTTP"
+   ],
+   "resources": [
+    "roadmap.sh/vue"
+   ]
+  }
+ ]
+}

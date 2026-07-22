@@ -1,0 +1,1471 @@
+{
+  "topic": "Css",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Css",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 481.23211669921875,
+      "y_raw": 62.0695686340332,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Frontend Roadmap",
+      "type": "skill",
+      "x_raw": 68.38333129882812,
+      "y_raw": 74.93905639648438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "HTML Roadmap",
+      "type": "skill",
+      "x_raw": 68.38333129882812,
+      "y_raw": 96.58282470703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "CSS",
+      "type": "section",
+      "x_raw": 356.50213623046875,
+      "y_raw": 111.90406036376953,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "JavaScript Roadmap",
+      "type": "skill",
+      "x_raw": 68.38333129882812,
+      "y_raw": 118.23831176757812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "FullStack Roadmap",
+      "type": "skill",
+      "x_raw": 68.38333129882812,
+      "y_raw": 139.882080078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "HTML JavaScript CSS",
+      "type": "skill",
+      "x_raw": 525.6563110351562,
+      "y_raw": 167.61663818359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 342.6510314941406,
+      "y_raw": 233.8018035888672,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "Frontend development Inline CSS",
+      "type": "skill",
+      "x_raw": 90.51925659179688,
+      "y_raw": 233.8018035888672,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_9",
+      "label": "Internal CSS",
+      "type": "skill",
+      "x_raw": 84.44915771484375,
+      "y_raw": 282.58526611328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Properties & Values",
+      "type": "skill",
+      "x_raw": 568.79150390625,
+      "y_raw": 302.0728454589844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "CSS Basics",
+      "type": "section",
+      "x_raw": 344.0338134765625,
+      "y_raw": 320.1191101074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "External CSS",
+      "type": "skill",
+      "x_raw": 82.90234375,
+      "y_raw": 320.83392333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Selector Declaration",
+      "type": "skill",
+      "x_raw": 557.4481811523438,
+      "y_raw": 340.3215026855469,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Cascading order",
+      "type": "skill",
+      "x_raw": 73.0706787109375,
+      "y_raw": 359.08258056640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Syntax Basics",
+      "type": "section",
+      "x_raw": 321.9798889160156,
+      "y_raw": 396.33758544921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_16",
+      "label": "Rules",
+      "type": "skill",
+      "x_raw": 607.3331298828125,
+      "y_raw": 402.0771484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_17",
+      "label": "Comments",
+      "type": "skill",
+      "x_raw": 593.1187744140625,
+      "y_raw": 440.3258056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Simple selectors",
+      "type": "skill",
+      "x_raw": 577.275634765625,
+      "y_raw": 477.8596496582031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Combinator selectors",
+      "type": "section",
+      "x_raw": 316.5074462890625,
+      "y_raw": 477.8596496582031,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_20",
+      "label": "Attribute selectors",
+      "type": "skill",
+      "x_raw": 71.74649047851562,
+      "y_raw": 477.8596496582031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Fonts",
+      "type": "skill",
+      "x_raw": 107.4522705078125,
+      "y_raw": 516.9754028320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "element",
+      "type": "skill",
+      "x_raw": 600.4661865234375,
+      "y_raw": 539.2520141601562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "descendant",
+      "type": "section",
+      "x_raw": 309.4412841796875,
+      "y_raw": 544.4901123046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "child",
+      "type": "section",
+      "x_raw": 407.3128356933594,
+      "y_raw": 544.4901123046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "Font families",
+      "type": "skill",
+      "x_raw": 86.4647216796875,
+      "y_raw": 552.2007446289062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "class",
+      "type": "skill",
+      "x_raw": 566.6939697265625,
+      "y_raw": 577.4889526367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "id",
+      "type": "skill",
+      "x_raw": 662.4678955078125,
+      "y_raw": 577.4889526367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Next Sibling",
+      "type": "section",
+      "x_raw": 342.28778076171875,
+      "y_raw": 583.4652709960938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "Font style",
+      "type": "skill",
+      "x_raw": 95.42926025390625,
+      "y_raw": 590.4494018554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "universal",
+      "type": "skill",
+      "x_raw": 555.8427734375,
+      "y_raw": 615.7376098632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "grouping",
+      "type": "skill",
+      "x_raw": 642.8983154296875,
+      "y_raw": 615.7376098632812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Subsequent Sibling",
+      "type": "section",
+      "x_raw": 321.62835693359375,
+      "y_raw": 621.7139282226562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Font Size",
+      "type": "skill",
+      "x_raw": 96.57763671875,
+      "y_raw": 628.6863403320312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Font Shorthand",
+      "type": "skill",
+      "x_raw": 79.8438720703125,
+      "y_raw": 666.2201538085938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Color Direction",
+      "type": "skill",
+      "x_raw": 569.58837890625,
+      "y_raw": 672.0442504882812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Google Fonts",
+      "type": "skill",
+      "x_raw": 85.19915771484375,
+      "y_raw": 704.4688110351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Text Styling",
+      "type": "section",
+      "x_raw": 344.4556579589844,
+      "y_raw": 709.1561889648438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "Text Alignment",
+      "type": "skill",
+      "x_raw": 585.3495483398438,
+      "y_raw": 710.2929077148438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_39",
+      "label": "Font Variant",
+      "type": "skill",
+      "x_raw": 89.24197387695312,
+      "y_raw": 742.7057495117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Text Decoration",
+      "type": "skill",
+      "x_raw": 582.3613891601562,
+      "y_raw": 748.5415649414062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Text Transform",
+      "type": "skill",
+      "x_raw": 585.2675170898438,
+      "y_raw": 786.7785034179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_42",
+      "label": "Background Color",
+      "type": "skill",
+      "x_raw": 69.75436401367188,
+      "y_raw": 817.1406860351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Opacity",
+      "type": "section",
+      "x_raw": 354.439697265625,
+      "y_raw": 817.1406860351562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "Text Spacing",
+      "type": "skill",
+      "x_raw": 590.634521484375,
+      "y_raw": 825.0271606445312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Background Image",
+      "type": "skill",
+      "x_raw": 66.98886108398438,
+      "y_raw": 855.3893432617188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Line Height Background",
+      "type": "skill",
+      "x_raw": 341.44403076171875,
+      "y_raw": 855.3893432617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "Background Gradient",
+      "type": "skill",
+      "x_raw": 60.53204345703125,
+      "y_raw": 893.6380004882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Colors Text Shadows",
+      "type": "skill",
+      "x_raw": 357.8497314453125,
+      "y_raw": 898.4191284179688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Background Position",
+      "type": "skill",
+      "x_raw": 62.793670654296875,
+      "y_raw": 931.8866577148438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "rgb",
+      "type": "section",
+      "x_raw": 318.7104797363281,
+      "y_raw": 934.2185668945312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_51",
+      "label": "hsl",
+      "type": "section",
+      "x_raw": 366.19317626953125,
+      "y_raw": 934.2185668945312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "hex",
+      "type": "section",
+      "x_raw": 410.3478698730469,
+      "y_raw": 934.2185668945312,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Box Model",
+      "type": "skill",
+      "x_raw": 595.6148071289062,
+      "y_raw": 959.9520874023438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Background Attachment",
+      "type": "skill",
+      "x_raw": 52.997161865234375,
+      "y_raw": 970.1353149414062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "Named Colors",
+      "type": "section",
+      "x_raw": 333.7685546875,
+      "y_raw": 972.4672241210938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Padding",
+      "type": "skill",
+      "x_raw": 559.0770263671875,
+      "y_raw": 998.2007446289062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "Margin",
+      "type": "skill",
+      "x_raw": 648.8511962890625,
+      "y_raw": 998.2007446289062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "rgba, hsla",
+      "type": "section",
+      "x_raw": 347.08056640625,
+      "y_raw": 1010.7158813476562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Relative Absolute",
+      "type": "skill",
+      "x_raw": 49.130096435546875,
+      "y_raw": 1022.0123901367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Width / Height",
+      "type": "skill",
+      "x_raw": 584.9511108398438,
+      "y_raw": 1036.449462890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Sticky Fixed Static",
+      "type": "skill",
+      "x_raw": 37.6578369140625,
+      "y_raw": 1059.9798583984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "inline block",
+      "type": "section",
+      "x_raw": 319.42529296875,
+      "y_raw": 1074.4168701171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_63",
+      "label": "Border",
+      "type": "skill",
+      "x_raw": 562.487060546875,
+      "y_raw": 1074.6981201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "Outline",
+      "type": "skill",
+      "x_raw": 647.9137573242188,
+      "y_raw": 1074.6981201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Box Shadows",
+      "type": "skill",
+      "x_raw": 588.3494262695312,
+      "y_raw": 1112.94677734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Position",
+      "type": "skill",
+      "x_raw": 100.2220458984375,
+      "y_raw": 1131.332763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Display",
+      "type": "section",
+      "x_raw": 354.709228515625,
+      "y_raw": 1131.332763671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_68",
+      "label": "CSS Units",
+      "type": "skill",
+      "x_raw": 597.18505859375,
+      "y_raw": 1151.1837158203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "inline-block",
+      "type": "section",
+      "x_raw": 343.4244384765625,
+      "y_raw": 1192.0455322265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_70",
+      "label": "Z-Index / Stacking Context",
+      "type": "skill",
+      "x_raw": 48.497314453125,
+      "y_raw": 1198.4437255859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Absolute vs Relative",
+      "type": "skill",
+      "x_raw": 569.26025390625,
+      "y_raw": 1212.5877685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "none visibility",
+      "type": "section",
+      "x_raw": 320.1752624511719,
+      "y_raw": 1230.294189453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_73",
+      "label": "CSS Specificity",
+      "type": "skill",
+      "x_raw": 80.59384155273438,
+      "y_raw": 1236.6923828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Units with functions",
+      "type": "skill",
+      "x_raw": 571.2758178710938,
+      "y_raw": 1250.83642578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Tables",
+      "type": "skill",
+      "x_raw": 57.18060302734375,
+      "y_raw": 1274.9293212890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Lists",
+      "type": "skill",
+      "x_raw": 154.72406005859375,
+      "y_raw": 1274.9293212890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Pseudo Classes Pseudo Elements",
+      "type": "skill",
+      "x_raw": 332.4560852050781,
+      "y_raw": 1313.177978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Images and Filters",
+      "type": "skill",
+      "x_raw": 70.46920776367188,
+      "y_raw": 1313.177978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Floating Elements",
+      "type": "section",
+      "x_raw": 326.960205078125,
+      "y_raw": 1382.562255859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "Multicolumn layout",
+      "type": "section",
+      "x_raw": 325.6594543457031,
+      "y_raw": 1420.8109130859375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Layouts",
+      "type": "skill",
+      "x_raw": 593.8453369140625,
+      "y_raw": 1423.215576171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Transforms",
+      "type": "skill",
+      "x_raw": 91.64422607421875,
+      "y_raw": 1423.6937255859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Flexbox",
+      "type": "section",
+      "x_raw": 355.92791748046875,
+      "y_raw": 1459.0595703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_84",
+      "label": "Keyframe Animations",
+      "type": "skill",
+      "x_raw": 64.02410888671875,
+      "y_raw": 1461.9423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_85",
+      "label": "Grid",
+      "type": "section",
+      "x_raw": 365.1854248046875,
+      "y_raw": 1497.3082275390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_86",
+      "label": "Transitions",
+      "type": "skill",
+      "x_raw": 92.38247680664062,
+      "y_raw": 1500.1910400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Layouting Techniques Flow Layout",
+      "type": "skill",
+      "x_raw": 318.4878234863281,
+      "y_raw": 1539.6114501953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Animations",
+      "type": "skill",
+      "x_raw": 93.6715087890625,
+      "y_raw": 1539.6114501953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Reponsiveness",
+      "type": "skill",
+      "x_raw": 72.6253662109375,
+      "y_raw": 1627.34326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "CSS Functions CSS Variables",
+      "type": "skill",
+      "x_raw": 349.52972412109375,
+      "y_raw": 1628.0146484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Best Practices",
+      "type": "skill",
+      "x_raw": 573.9476318359375,
+      "y_raw": 1700.1492919921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Performance",
+      "type": "section",
+      "x_raw": 355.62322998046875,
+      "y_raw": 1702.590087890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_93",
+      "label": "Media Queries",
+      "type": "skill",
+      "x_raw": 81.40240478515625,
+      "y_raw": 1702.801025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Accessibility",
+      "type": "section",
+      "x_raw": 357.7091064453125,
+      "y_raw": 1740.8270263671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "Container Queries",
+      "type": "skill",
+      "x_raw": 71.41836547851562,
+      "y_raw": 1741.0496826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "Responsive typography",
+      "type": "skill",
+      "x_raw": 58.082916259765625,
+      "y_raw": 1779.29833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Methodologies",
+      "type": "skill",
+      "x_raw": 573.0218505859375,
+      "y_raw": 1791.9390869140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Sass",
+      "type": "skill",
+      "x_raw": 608.1651611328125,
+      "y_raw": 1865.9437255859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Continue Learning with following relevant tracks",
+      "type": "skill",
+      "x_raw": 174.75067138671875,
+      "y_raw": 1884.259521484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "PostCSS BEM",
+      "type": "skill",
+      "x_raw": 555.0458984375,
+      "y_raw": 1904.1923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Frontend HTML JavaScript",
+      "type": "skill",
+      "x_raw": 187.523681640625,
+      "y_raw": 1920.64501953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "CSS Modules",
+      "type": "skill",
+      "x_raw": 584.283203125,
+      "y_raw": 1942.4410400390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "CSS-in-JS",
+      "type": "skill",
+      "x_raw": 593.2359619140625,
+      "y_raw": 1980.689697265625,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "trunk"
+    },
+    {
+      "source": "node_15",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_15",
+      "target": "node_19",
+      "type": "trunk"
+    },
+    {
+      "source": "node_19",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_32",
+      "type": "trunk"
+    },
+    {
+      "source": "node_32",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_32",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_50",
+      "type": "trunk"
+    },
+    {
+      "source": "node_50",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_62",
+      "type": "trunk"
+    },
+    {
+      "source": "node_62",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_62",
+      "target": "node_67",
+      "type": "trunk"
+    },
+    {
+      "source": "node_67",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_67",
+      "target": "node_69",
+      "type": "trunk"
+    },
+    {
+      "source": "node_69",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_69",
+      "target": "node_72",
+      "type": "trunk"
+    },
+    {
+      "source": "node_72",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_72",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "trunk"
+    },
+    {
+      "source": "node_83",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_83",
+      "target": "node_85",
+      "type": "trunk"
+    },
+    {
+      "source": "node_85",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_85",
+      "target": "node_92",
+      "type": "trunk"
+    },
+    {
+      "source": "node_92",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_92",
+      "target": "node_94",
+      "type": "trunk"
+    },
+    {
+      "source": "node_94",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_94",
+      "target": "node_103",
+      "type": "branch"
+    }
+  ]
+}

@@ -1,0 +1,1037 @@
+{
+  "topic": "Prompt Engineering",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Prompt Engineering",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Find the interactive version of",
+      "type": "skill",
+      "x_raw": 533.0632934570312,
+      "y_raw": 49.54576110839844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "this roadmap and more at",
+      "type": "skill",
+      "x_raw": 542.6140747070312,
+      "y_raw": 65.85826110839844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "AI Engineer",
+      "type": "skill",
+      "x_raw": 58.114051818847656,
+      "y_raw": 68.9743423461914,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "AI and Data Scientist",
+      "type": "skill",
+      "x_raw": 58.114051818847656,
+      "y_raw": 88.1813735961914,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Prompt Engineering",
+      "type": "section",
+      "x_raw": 275.4148254394531,
+      "y_raw": 92.14033508300781,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "MLOps Roadmap",
+      "type": "skill",
+      "x_raw": 58.114051818847656,
+      "y_raw": 107.3766860961914,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "AI Red Teaming",
+      "type": "skill",
+      "x_raw": 58.114051818847656,
+      "y_raw": 126.5719985961914,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Prompt Engineering",
+      "type": "skill",
+      "x_raw": 58.114051818847656,
+      "y_raw": 145.75559997558594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "LLMs and how they work?",
+      "type": "skill",
+      "x_raw": 549.5046997070312,
+      "y_raw": 196.41685485839844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "What is a Prompt?",
+      "type": "skill",
+      "x_raw": 567.6921997070312,
+      "y_raw": 230.33091735839844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 326.8132629394531,
+      "y_raw": 231.03404235839844,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Common Terminology",
+      "type": "skill",
+      "x_raw": 69.56327056884766,
+      "y_raw": 234.59654235839844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "What is Prompt Engineering?",
+      "type": "skill",
+      "x_raw": 540.7625122070312,
+      "y_raw": 264.2449951171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "LLM Tokens",
+      "type": "skill",
+      "x_raw": 69.16483306884766,
+      "y_raw": 270.6434326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Models offered by ____",
+      "type": "skill",
+      "x_raw": 553.7937622070312,
+      "y_raw": 301.7918701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Context Window",
+      "type": "skill",
+      "x_raw": 82.27811431884766,
+      "y_raw": 304.5574951171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "LLM Configuration",
+      "type": "section",
+      "x_raw": 302.7663879394531,
+      "y_raw": 315.3118591308594,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "OpenAI Google",
+      "type": "skill",
+      "x_raw": 558.5515747070312,
+      "y_raw": 334.6395263671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "Hallucination",
+      "type": "skill",
+      "x_raw": 47.567176818847656,
+      "y_raw": 338.4832763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Agents",
+      "type": "skill",
+      "x_raw": 148.84060668945312,
+      "y_raw": 338.4832763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Anthropic Meta",
+      "type": "skill",
+      "x_raw": 554.7781372070312,
+      "y_raw": 368.5535888671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Prompt Injection",
+      "type": "skill",
+      "x_raw": 81.04764556884766,
+      "y_raw": 372.3973388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Sampling Parameters",
+      "type": "section",
+      "x_raw": 303.7156066894531,
+      "y_raw": 401.8348388671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_23",
+      "label": "xAI",
+      "type": "skill",
+      "x_raw": 603.8328247070312,
+      "y_raw": 402.4676513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Model Weights / Parameters",
+      "type": "skill",
+      "x_raw": 51.328895568847656,
+      "y_raw": 406.3114013671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Temperature",
+      "type": "section",
+      "x_raw": 324.2585754394531,
+      "y_raw": 439.7332763671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_26",
+      "label": "Fine-Tuning vs Prompt Engg.",
+      "type": "skill",
+      "x_raw": 51.598426818847656,
+      "y_raw": 440.2254638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Top-K Top-P Output Control",
+      "type": "skill",
+      "x_raw": 307.6413879394531,
+      "y_raw": 473.6473388671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "RAG",
+      "type": "skill",
+      "x_raw": 154.41873168945312,
+      "y_raw": 474.1395263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "AI vs AGI",
+      "type": "skill",
+      "x_raw": 56.332801818847656,
+      "y_raw": 474.1395263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Max Tokens",
+      "type": "skill",
+      "x_raw": 583.0671997070312,
+      "y_raw": 518.7528076171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Stop Sequences",
+      "type": "skill",
+      "x_raw": 571.7000122070312,
+      "y_raw": 552.6668701171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Structured Outputs Prompting Techniques",
+      "type": "skill",
+      "x_raw": 43.371864318847656,
+      "y_raw": 589.7064208984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "Repetition Penalties",
+      "type": "skill",
+      "x_raw": 561.9382934570312,
+      "y_raw": 592.3934326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Frequency Penalty",
+      "type": "skill",
+      "x_raw": 566.8718872070312,
+      "y_raw": 631.3114013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Presence Penalty",
+      "type": "skill",
+      "x_raw": 569.0515747070312,
+      "y_raw": 665.2254638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Zero-Shot Prompting",
+      "type": "skill",
+      "x_raw": 68.43827056884766,
+      "y_raw": 705.1981201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Step-back Prompting",
+      "type": "section",
+      "x_raw": 267.9265441894531,
+      "y_raw": 708.5028076171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "One-Shot / Few-Shot Prompting",
+      "type": "skill",
+      "x_raw": 41.813270568847656,
+      "y_raw": 739.1121826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Chain of Thought (CoT) Prompting",
+      "type": "skill",
+      "x_raw": 235.93435668945312,
+      "y_raw": 750.7371826171875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Automatic Prompt Engineering",
+      "type": "skill",
+      "x_raw": 533.1453247070312,
+      "y_raw": 754.4403076171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "System / Role / Contextual",
+      "type": "skill",
+      "x_raw": 55.125770568847656,
+      "y_raw": 776.6590576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Use LLM to generate Prompts",
+      "type": "skill",
+      "x_raw": 535.1726684570312,
+      "y_raw": 787.4403076171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Self-Consistency Prompting",
+      "type": "section",
+      "x_raw": 251.95388793945312,
+      "y_raw": 792.9715576171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "System Prompting",
+      "type": "skill",
+      "x_raw": 75.73905181884766,
+      "y_raw": 805.9324951171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Tree of Thoughts (ToT) Prompting",
+      "type": "skill",
+      "x_raw": 237.39920043945312,
+      "y_raw": 835.2059326171875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "Role Prompting",
+      "type": "skill",
+      "x_raw": 82.16092681884766,
+      "y_raw": 839.8465576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Contextual Prompting",
+      "type": "skill",
+      "x_raw": 67.27811431884766,
+      "y_raw": 873.7606201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "ReAct Prompting",
+      "type": "section",
+      "x_raw": 278.0281066894531,
+      "y_raw": 877.4403076171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_49",
+      "label": "Prompting Best Practices",
+      "type": "skill",
+      "x_raw": 166.66482543945312,
+      "y_raw": 942.6165771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "AI Red Teaming",
+      "type": "skill",
+      "x_raw": 569.1687622070312,
+      "y_raw": 944.9871826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "AI Red Teaming Roadmap",
+      "type": "skill",
+      "x_raw": 543.8211059570312,
+      "y_raw": 978.8426513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "\u2014 Provide few-shot examples for structure or output style you need",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1049.0848388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "\u2014 Keep your prompts short and concise",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1073.4012451171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "\u2014 Ask for structured output if it helps e.g. JSON, XML, Markdown, CSV etc",
+      "type": "skill",
+      "x_raw": 57.434364318847656,
+      "y_raw": 1097.7176513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "\u2014 Use variables / placeholders in your prompts for easier configuration",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1122.0340576171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "\u2014 Prioritize giving clearer instructions over adding constraints",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1146.3504638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "\u2014 Control the maximum output length",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1170.6668701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "Improving Reliability",
+      "type": "skill",
+      "x_raw": 567.0828247070312,
+      "y_raw": 1176.9715576171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "\u2014 Experiment with input formats and writing styles",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1194.9832763671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Prompt Debiasing",
+      "type": "skill",
+      "x_raw": 571.3015747070312,
+      "y_raw": 1211.7879638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "\u2014 Tune sampling (temperature, top-k, top-p) for determinism vs creativity",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1219.3114013671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "\u2014 Guard against prompt injection; sanitize user text",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1243.6278076171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Prompt Ensembling",
+      "type": "skill",
+      "x_raw": 567.1296997070312,
+      "y_raw": 1245.3856201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "\u2014 Automate evaluation; integrate unit tests for outputs",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1267.9442138671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "LLM Self Evaluation",
+      "type": "skill",
+      "x_raw": 566.2742309570312,
+      "y_raw": 1278.9832763671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "\u2014 Document and track prompt versions",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1292.2606201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "Calibrating LLMs",
+      "type": "skill",
+      "x_raw": 573.4109497070312,
+      "y_raw": 1312.5809326171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "\u2014 Optimize for latency & cost in production pipelines",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1316.5770263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "\u2014 Document decisions, failures, and learnings for future devs",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1340.8934326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "\u2014 Delimit different sections with triple backticks or XML tags",
+      "type": "skill",
+      "x_raw": 56.801551818847656,
+      "y_raw": 1365.2098388671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_71",
+      "label": "Continue learning with following roadmaps",
+      "type": "skill",
+      "x_raw": 195.25857543945312,
+      "y_raw": 1444.8856201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "AI Engineer Roadmap AI Agents Roadmap",
+      "type": "skill",
+      "x_raw": 171.65701293945312,
+      "y_raw": 1477.4871826171875,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_22",
+      "type": "trunk"
+    },
+    {
+      "source": "node_22",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_22",
+      "target": "node_25",
+      "type": "trunk"
+    },
+    {
+      "source": "node_25",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_48",
+      "type": "trunk"
+    },
+    {
+      "source": "node_48",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_72",
+      "type": "branch"
+    }
+  ]
+}

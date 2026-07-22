@@ -1,0 +1,133 @@
+{
+ "domain": "Terraform",
+ "stages": [
+  {
+   "name": "Mastering Terraform",
+   "skills": [
+    "Find the interactive version of this"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "What is Infrastructure as Code?",
+    "What is Terraform?",
+    "Getting Started",
+    "Usecases and Benefits",
+    "CaC vs IaC"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "What is HCL?",
+   "skills": [
+    "Installing Terraform"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "Basic Syntax",
+   "skills": [
+    "Hashicorp Config. Language (HCL)"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "Project Initialization Providers",
+   "skills": [
+    "Terraform Registry",
+    "Configuring Providers",
+    "Output Syntax",
+    "Versions",
+    "Sensitive Outputs",
+    "Resource Behavior",
+    "Input Variables",
+    "Preconditions",
+    "Resources",
+    "Resource Lifecycle",
+    "Type Constraints",
+    "Outputs",
+    "Variable Definition File",
+    "Meta Arguments"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "terraform destroy",
+   "skills": [
+    "Splitting State Files",
+    "provider",
+    "Environment Variables",
+    "Import Existing Resources",
+    "lifecycle",
+    "Validation Rules",
+    "State Locking",
+    "Remote State",
+    "terraform fmt",
+    "terraform validate",
+    "Format & Validate",
+    "State",
+    "Best Practices for State",
+    "TFLint"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "Clean Up",
+   "skills": [
+    "Inspect / Modify State",
+    "Deployment",
+    "graph",
+    "show",
+    "When to Use?",
+    "list output",
+    "Modules",
+    "Provisioners",
+    "Creation / Destroy Time",
+    "rm mv",
+    "file provisioner",
+    "-replace option in apply",
+    "Root vs Child Modules",
+    "local-exec provisioner"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  },
+  {
+   "name": "HCP",
+   "skills": [
+    "Workspaces CI / CD Integration",
+    "Circle CI",
+    "Splitting Large State",
+    "GitLab CI",
+    "Parallelism",
+    "Unit Testing",
+    "Jenkins",
+    "Deployment Workflow",
+    "Contract Testing",
+    "Version Management",
+    "Testing",
+    "Integration Testing",
+    "Scaling Terraform",
+    "Terragrunt"
+   ],
+   "resources": [
+    "roadmap.sh/terraform"
+   ]
+  }
+ ]
+}

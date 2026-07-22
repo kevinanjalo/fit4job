@@ -1,0 +1,1947 @@
+{
+  "topic": "Php",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Php",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 493.4518127441406,
+      "y_raw": 61.43940734863281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Backend Development",
+      "type": "skill",
+      "x_raw": 55.967437744140625,
+      "y_raw": 70.55371856689453,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "DevOps Engineering",
+      "type": "skill",
+      "x_raw": 55.967437744140625,
+      "y_raw": 89.13965606689453,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "PHP",
+      "type": "section",
+      "x_raw": 333.6080627441406,
+      "y_raw": 99.83000183105469,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "System Design",
+      "type": "skill",
+      "x_raw": 55.967437744140625,
+      "y_raw": 107.72559356689453,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Software Architect",
+      "type": "skill",
+      "x_raw": 55.967437744140625,
+      "y_raw": 126.31153869628906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Evolution and History",
+      "type": "skill",
+      "x_raw": 547.0885009765625,
+      "y_raw": 190.6034698486328,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "PHP Versions and Features What is PHP?",
+      "type": "skill",
+      "x_raw": 122.23696899414062,
+      "y_raw": 208.8026885986328,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "Introduction to PHP",
+      "type": "section",
+      "x_raw": 304.4283752441406,
+      "y_raw": 209.1073760986328,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_9",
+      "label": "Development Environment Installing PHP",
+      "type": "skill",
+      "x_raw": 276.5729064941406,
+      "y_raw": 280.15008544921875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Basic PHP Syntax",
+      "type": "skill",
+      "x_raw": 70.73306274414062,
+      "y_raw": 288.8652038574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Variables and Scope",
+      "type": "skill",
+      "x_raw": 64.08853149414062,
+      "y_raw": 321.7128601074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "WAMP XAMPP MAMP",
+      "type": "skill",
+      "x_raw": 526.1588134765625,
+      "y_raw": 326.3652038574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Learn the Fundamentals",
+      "type": "section",
+      "x_raw": 290.8815002441406,
+      "y_raw": 352.77117919921875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_14",
+      "label": "Data Types",
+      "type": "skill",
+      "x_raw": 86.27212524414062,
+      "y_raw": 354.5487976074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "LAMP",
+      "type": "skill",
+      "x_raw": 582.6783447265625,
+      "y_raw": 359.8222351074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Casting Data Types",
+      "type": "skill",
+      "x_raw": 66.36196899414062,
+      "y_raw": 387.6659851074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Local Server",
+      "type": "skill",
+      "x_raw": 571.0650634765625,
+      "y_raw": 391.0761413574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "echo print",
+      "type": "skill",
+      "x_raw": 68.44790649414062,
+      "y_raw": 429.0331726074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Arrays",
+      "type": "section",
+      "x_raw": 344.4947814941406,
+      "y_raw": 440.6816101074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_20",
+      "label": "if/else switch match",
+      "type": "skill",
+      "x_raw": 536.4595947265625,
+      "y_raw": 445.0175476074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "var_dump print_r",
+      "type": "skill",
+      "x_raw": 56.307281494140625,
+      "y_raw": 462.4902038574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "Null Coalescing Operator",
+      "type": "skill",
+      "x_raw": 540.6197509765625,
+      "y_raw": 478.4745788574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Output and Debugging",
+      "type": "skill",
+      "x_raw": 59.436187744140625,
+      "y_raw": 494.4120788574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Indexed Arrays",
+      "type": "section",
+      "x_raw": 323.9518127441406,
+      "y_raw": 494.9394226074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_25",
+      "label": "Null Safe Operator",
+      "type": "skill",
+      "x_raw": 556.6275634765625,
+      "y_raw": 511.3105163574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Associative Arrays",
+      "type": "section",
+      "x_raw": 316.5807189941406,
+      "y_raw": 527.7753295898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "Constants",
+      "type": "skill",
+      "x_raw": 88.66275024414062,
+      "y_raw": 529.3925170898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Multi-dimensional Arrays",
+      "type": "section",
+      "x_raw": 301.0065002441406,
+      "y_raw": 560.6112670898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "Conditionals",
+      "type": "skill",
+      "x_raw": 571.2174072265625,
+      "y_raw": 580.2401733398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Function Declaration",
+      "type": "skill",
+      "x_raw": 63.268218994140625,
+      "y_raw": 585.3612670898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Parameters / Return Values",
+      "type": "skill",
+      "x_raw": 46.803375244140625,
+      "y_raw": 618.1972045898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "Loops",
+      "type": "skill",
+      "x_raw": 586.2291259765625,
+      "y_raw": 637.2401733398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Functions",
+      "type": "section",
+      "x_raw": 331.0650939941406,
+      "y_raw": 637.2401733398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_34",
+      "label": "Default / Optional Params",
+      "type": "skill",
+      "x_raw": 51.233062744140625,
+      "y_raw": 651.0331420898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Named Arguments",
+      "type": "skill",
+      "x_raw": 68.17837524414062,
+      "y_raw": 683.8807983398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Anonymous Functions",
+      "type": "section",
+      "x_raw": 302.2369689941406,
+      "y_raw": 699.6776733398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_37",
+      "label": "File Handling",
+      "type": "skill",
+      "x_raw": 560.8463134765625,
+      "y_raw": 703.4782104492188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Callback Functions",
+      "type": "section",
+      "x_raw": 309.2447814941406,
+      "y_raw": 732.5136108398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "HTTP Methods",
+      "type": "skill",
+      "x_raw": 76.96743774414062,
+      "y_raw": 733.0175170898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Arrow Functions",
+      "type": "section",
+      "x_raw": 316.2408752441406,
+      "y_raw": 765.3495483398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "$_GET $_POST",
+      "type": "skill",
+      "x_raw": 57.338531494140625,
+      "y_raw": 775.2636108398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "require require_once",
+      "type": "skill",
+      "x_raw": 532.2174072265625,
+      "y_raw": 777.6190795898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Recursion",
+      "type": "section",
+      "x_raw": 329.9752502441406,
+      "y_raw": 798.1972045898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "$_REQUEST",
+      "type": "skill",
+      "x_raw": 80.58853149414062,
+      "y_raw": 808.7206420898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "include include_once",
+      "type": "skill",
+      "x_raw": 532.8267822265625,
+      "y_raw": 810.9120483398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Variadic Functions",
+      "type": "section",
+      "x_raw": 310.6627502441406,
+      "y_raw": 831.0331420898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "$_SERVER",
+      "type": "skill",
+      "x_raw": 84.59634399414062,
+      "y_raw": 842.1776733398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Include and Require Files",
+      "type": "skill",
+      "x_raw": 537.5494384765625,
+      "y_raw": 842.9745483398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_49",
+      "label": "Super Global Variables",
+      "type": "skill",
+      "x_raw": 59.471343994140625,
+      "y_raw": 874.5800170898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Reading Files",
+      "type": "skill",
+      "x_raw": 564.8892822265625,
+      "y_raw": 884.4472045898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "CSV Processing",
+      "type": "section",
+      "x_raw": 315.6666564941406,
+      "y_raw": 886.3222045898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "Writing Files",
+      "type": "skill",
+      "x_raw": 568.2056884765625,
+      "y_raw": 917.2831420898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_53",
+      "label": "JSON Processing",
+      "type": "section",
+      "x_raw": 311.8463439941406,
+      "y_raw": 918.8534545898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_54",
+      "label": "HTTP / Request Handling",
+      "type": "skill",
+      "x_raw": 40.264312744140625,
+      "y_raw": 944.3688354492188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_55",
+      "label": "File Permissions",
+      "type": "skill",
+      "x_raw": 558.8775634765625,
+      "y_raw": 950.1307983398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "XML Processing",
+      "type": "section",
+      "x_raw": 315.2916564941406,
+      "y_raw": 951.6893920898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "File Operations",
+      "type": "skill",
+      "x_raw": 562.0181884765625,
+      "y_raw": 982.8729858398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "File Operations",
+      "type": "section",
+      "x_raw": 314.0963439941406,
+      "y_raw": 985.1347045898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Form Processing",
+      "type": "skill",
+      "x_raw": 72.74868774414062,
+      "y_raw": 1018.8261108398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Cookies",
+      "type": "skill",
+      "x_raw": 603.2095947265625,
+      "y_raw": 1036.498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "File Uploads State Management",
+      "type": "skill",
+      "x_raw": 83.19009399414062,
+      "y_raw": 1050.771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Sessions",
+      "type": "skill",
+      "x_raw": 601.1470947265625,
+      "y_raw": 1069.333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Working with Databases",
+      "type": "skill",
+      "x_raw": 177.61978149414062,
+      "y_raw": 1122.142333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "Input Validation",
+      "type": "skill",
+      "x_raw": 459.8072814941406,
+      "y_raw": 1127.013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "SQL Injection",
+      "type": "skill",
+      "x_raw": 585.5377197265625,
+      "y_raw": 1127.013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "XSS Prevention",
+      "type": "skill",
+      "x_raw": 459.9596252441406,
+      "y_raw": 1159.685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "CSRF Protection",
+      "type": "skill",
+      "x_raw": 578.2955322265625,
+      "y_raw": 1159.685546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Object-Relational Mapping (ORM)",
+      "type": "skill",
+      "x_raw": 219.86587524414062,
+      "y_raw": 1188.138671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "PDO MySQLi",
+      "type": "skill",
+      "x_raw": 48.010406494140625,
+      "y_raw": 1190.669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Password Hashing Auth Mechanisms",
+      "type": "skill",
+      "x_raw": 452.7291564941406,
+      "y_raw": 1192.357421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Database Connectivity",
+      "type": "skill",
+      "x_raw": 41.752593994140625,
+      "y_raw": 1219.486328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "Database Transactions",
+      "type": "skill",
+      "x_raw": 246.59634399414062,
+      "y_raw": 1220.822265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Sanitization Techniques",
+      "type": "skill",
+      "x_raw": 497.5533752441406,
+      "y_raw": 1225.029296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "Connection Pooling",
+      "type": "skill",
+      "x_raw": 254.94009399414062,
+      "y_raw": 1253.505859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Basics of Security",
+      "type": "skill",
+      "x_raw": 512.1549072265625,
+      "y_raw": 1253.845703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Performance Optimization",
+      "type": "skill",
+      "x_raw": 239.49478149414062,
+      "y_raw": 1286.189453125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Database Migrations",
+      "type": "skill",
+      "x_raw": 251.88150024414062,
+      "y_raw": 1318.873046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Classes and Objects",
+      "type": "skill",
+      "x_raw": 530.6588134765625,
+      "y_raw": 1320.501953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_79",
+      "label": "Advanced Database Techniques",
+      "type": "skill",
+      "x_raw": 224.97525024414062,
+      "y_raw": 1351.310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "Constructor / Destructor",
+      "type": "skill",
+      "x_raw": 521.1080322265625,
+      "y_raw": 1353.337890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "Properties and Methods",
+      "type": "skill",
+      "x_raw": 522.1158447265625,
+      "y_raw": 1386.173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "Object Oriented Programming",
+      "type": "skill",
+      "x_raw": 40.287750244140625,
+      "y_raw": 1417.864990234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Access Specifiers",
+      "type": "skill",
+      "x_raw": 537.4088134765625,
+      "y_raw": 1419.021484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_84",
+      "label": "OOP Fundamentals",
+      "type": "section",
+      "x_raw": 289.7330627441406,
+      "y_raw": 1419.947265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_85",
+      "label": "Static Methods and Properties",
+      "type": "skill",
+      "x_raw": 507.3150939941406,
+      "y_raw": 1451.857421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Polymorphism",
+      "type": "skill",
+      "x_raw": 75.78384399414062,
+      "y_raw": 1466.154296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Inheritance",
+      "type": "skill",
+      "x_raw": 552.3385009765625,
+      "y_raw": 1484.693359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Abstract classes",
+      "type": "skill",
+      "x_raw": 69.95962524414062,
+      "y_raw": 1498.837890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Interfaces",
+      "type": "skill",
+      "x_raw": 84.70181274414062,
+      "y_raw": 1531.521484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_90",
+      "label": "More OOP Concepts",
+      "type": "section",
+      "x_raw": 278.0377502441406,
+      "y_raw": 1560.892333984375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_91",
+      "label": "Frameworks & Tools",
+      "type": "skill",
+      "x_raw": 548.4244384765625,
+      "y_raw": 1560.892333984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Traits",
+      "type": "skill",
+      "x_raw": 95.69400024414062,
+      "y_raw": 1563.900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Namespaces",
+      "type": "skill",
+      "x_raw": 77.24868774414062,
+      "y_raw": 1596.267578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Magic methods",
+      "type": "skill",
+      "x_raw": 72.19790649414062,
+      "y_raw": 1628.951171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Laravel Symfony",
+      "type": "skill",
+      "x_raw": 550.4166259765625,
+      "y_raw": 1629.923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Composer",
+      "type": "section",
+      "x_raw": 337.4400939941406,
+      "y_raw": 1634.060546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "Popular Frameworks",
+      "type": "skill",
+      "x_raw": 556.2877197265625,
+      "y_raw": 1659.361328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Dependency injection",
+      "type": "skill",
+      "x_raw": 57.279937744140625,
+      "y_raw": 1661.634765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Packagist",
+      "type": "section",
+      "x_raw": 339.3619689941406,
+      "y_raw": 1666.896484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_100",
+      "label": "Type Declarations",
+      "type": "skill",
+      "x_raw": 66.12759399414062,
+      "y_raw": 1694.318359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_101",
+      "label": "Autoloading",
+      "type": "section",
+      "x_raw": 334.1822814941406,
+      "y_raw": 1699.744140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_102",
+      "label": "PHPUnit Pest",
+      "type": "skill",
+      "x_raw": 548.9752197265625,
+      "y_raw": 1711.673828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Package Management",
+      "type": "section",
+      "x_raw": 308.8463439941406,
+      "y_raw": 1731.197265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_104",
+      "label": "Testing Tools",
+      "type": "skill",
+      "x_raw": 572.7056884765625,
+      "y_raw": 1740.384765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_105",
+      "label": "PSR Standards",
+      "type": "skill",
+      "x_raw": 74.86978149414062,
+      "y_raw": 1749.724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "PHP-FIG",
+      "type": "skill",
+      "x_raw": 89.52993774414062,
+      "y_raw": 1805.857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Style Tools",
+      "type": "skill",
+      "x_raw": 602.3775634765625,
+      "y_raw": 1806.994140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Static Analysis",
+      "type": "skill",
+      "x_raw": 444.4088439941406,
+      "y_raw": 1806.994140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "External Integrations",
+      "type": "skill",
+      "x_raw": 252.80728149414062,
+      "y_raw": 1808.271484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "cURL Guzzle",
+      "type": "skill",
+      "x_raw": 256.2057189941406,
+      "y_raw": 1837.744140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "PHPCodeSniffer",
+      "type": "skill",
+      "x_raw": 588.7486572265625,
+      "y_raw": 1866.642578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "PHPStan",
+      "type": "skill",
+      "x_raw": 457.2057189941406,
+      "y_raw": 1871.095703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Advanced PHP Topics",
+      "type": "skill",
+      "x_raw": 49.428375244140625,
+      "y_raw": 1881.329833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "PHP CS Fixer",
+      "type": "skill",
+      "x_raw": 595.4986572265625,
+      "y_raw": 1899.490234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_115",
+      "label": "Phan Psalm",
+      "type": "skill",
+      "x_raw": 438.5260314941406,
+      "y_raw": 1903.931640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Profiling Techniques",
+      "type": "skill",
+      "x_raw": 63.174468994140625,
+      "y_raw": 1963.826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Executing System Commands",
+      "type": "section",
+      "x_raw": 237.65493774414062,
+      "y_raw": 1964.728515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_118",
+      "label": "Xdebug",
+      "type": "skill",
+      "x_raw": 535.3814697265625,
+      "y_raw": 1968.408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "Caching Strategies",
+      "type": "skill",
+      "x_raw": 65.79946899414062,
+      "y_raw": 1996.662109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "Process Control",
+      "type": "section",
+      "x_raw": 270.1744689941406,
+      "y_raw": 1997.564453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_121",
+      "label": "Zend Debugger",
+      "type": "skill",
+      "x_raw": 515.7760009765625,
+      "y_raw": 2001.865234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "Memory Management",
+      "type": "skill",
+      "x_raw": 58.873687744140625,
+      "y_raw": 2029.498046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "Environment Variables",
+      "type": "section",
+      "x_raw": 255.06900024414062,
+      "y_raw": 2030.716796875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_124",
+      "label": "Debugging Tools",
+      "type": "skill",
+      "x_raw": 514.7213134765625,
+      "y_raw": 2034.396484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Configuration Tuning",
+      "type": "skill",
+      "x_raw": 61.826812744140625,
+      "y_raw": 2062.345458984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Configuration Files",
+      "type": "section",
+      "x_raw": 263.4010314941406,
+      "y_raw": 2063.857177734375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_127",
+      "label": "Opcode Caching",
+      "type": "skill",
+      "x_raw": 70.95571899414062,
+      "y_raw": 2095.181396484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_128",
+      "label": "System Interactions",
+      "type": "section",
+      "x_raw": 262.2643127441406,
+      "y_raw": 2096.400146484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_129",
+      "label": "Apache",
+      "type": "skill",
+      "x_raw": 535.3580322265625,
+      "y_raw": 2114.013427734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_130",
+      "label": "PHP-FPM",
+      "type": "skill",
+      "x_raw": 87.76040649414062,
+      "y_raw": 2128.017333984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_131",
+      "label": "Nginx",
+      "type": "skill",
+      "x_raw": 539.7760009765625,
+      "y_raw": 2147.470458984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_132",
+      "label": "Visit DevOps Beginner Roadmap",
+      "type": "skill",
+      "x_raw": 235.65103149414062,
+      "y_raw": 2154.290771484375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_133",
+      "label": "Performance Optimization",
+      "type": "skill",
+      "x_raw": 50.330718994140625,
+      "y_raw": 2161.790771484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_134",
+      "label": "Web Servers",
+      "type": "skill",
+      "x_raw": 524.0142822265625,
+      "y_raw": 2180.001708984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_135",
+      "label": "Visit the following relevant tracks to learn more",
+      "type": "skill",
+      "x_raw": 202.25259399414062,
+      "y_raw": 2260.626708984375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_136",
+      "label": "Backend System Design",
+      "type": "skill",
+      "x_raw": 206.91665649414062,
+      "y_raw": 2292.302490234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_137",
+      "label": "DevOps",
+      "type": "section",
+      "x_raw": 386.0494689941406,
+      "y_raw": 2292.302490234375,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "trunk"
+    },
+    {
+      "source": "node_8",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_8",
+      "target": "node_13",
+      "type": "trunk"
+    },
+    {
+      "source": "node_13",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_13",
+      "target": "node_19",
+      "type": "trunk"
+    },
+    {
+      "source": "node_19",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_19",
+      "target": "node_24",
+      "type": "trunk"
+    },
+    {
+      "source": "node_24",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_24",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_33",
+      "type": "trunk"
+    },
+    {
+      "source": "node_33",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_33",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_33",
+      "target": "node_36",
+      "type": "trunk"
+    },
+    {
+      "source": "node_36",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_36",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_38",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "trunk"
+    },
+    {
+      "source": "node_53",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_84",
+      "type": "trunk"
+    },
+    {
+      "source": "node_84",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_90",
+      "type": "trunk"
+    },
+    {
+      "source": "node_90",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_96",
+      "type": "trunk"
+    },
+    {
+      "source": "node_96",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_96",
+      "target": "node_99",
+      "type": "trunk"
+    },
+    {
+      "source": "node_99",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_99",
+      "target": "node_101",
+      "type": "trunk"
+    },
+    {
+      "source": "node_101",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_101",
+      "target": "node_103",
+      "type": "trunk"
+    },
+    {
+      "source": "node_103",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_103",
+      "target": "node_117",
+      "type": "trunk"
+    },
+    {
+      "source": "node_117",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_117",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_117",
+      "target": "node_120",
+      "type": "trunk"
+    },
+    {
+      "source": "node_120",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_120",
+      "target": "node_123",
+      "type": "trunk"
+    },
+    {
+      "source": "node_123",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_123",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_123",
+      "target": "node_126",
+      "type": "trunk"
+    },
+    {
+      "source": "node_126",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_126",
+      "target": "node_128",
+      "type": "trunk"
+    },
+    {
+      "source": "node_128",
+      "target": "node_129",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_130",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_131",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_132",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_133",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_134",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_135",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_136",
+      "type": "branch"
+    },
+    {
+      "source": "node_128",
+      "target": "node_137",
+      "type": "trunk"
+    }
+  ]
+}

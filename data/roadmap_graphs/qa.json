@@ -1,0 +1,1779 @@
+{
+  "topic": "Qa",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Qa",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 486.73492431640625,
+      "y_raw": 55.508949279785156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 57.570037841796875,
+      "y_raw": 64.71155548095703,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Full Stack Roadmap",
+      "type": "skill",
+      "x_raw": 57.570037841796875,
+      "y_raw": 83.62462615966797,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "QA Engineer",
+      "type": "section",
+      "x_raw": 299.3854064941406,
+      "y_raw": 91.4059066772461,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "What is Quality Assurance?",
+      "type": "skill",
+      "x_raw": 49.7891845703125,
+      "y_raw": 164.74539184570312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Test Oracles",
+      "type": "skill",
+      "x_raw": 559.1060791015625,
+      "y_raw": 181.76011657714844,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "Learn the Fundamentals",
+      "type": "section",
+      "x_raw": 292.4013977050781,
+      "y_raw": 198.14207458496094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_7",
+      "label": "QA Mindset",
+      "type": "skill",
+      "x_raw": 86.36148071289062,
+      "y_raw": 198.14207458496094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Test Prioritization",
+      "type": "skill",
+      "x_raw": 547.716064453125,
+      "y_raw": 215.14508056640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Testing Approaches",
+      "type": "skill",
+      "x_raw": 66.71017456054688,
+      "y_raw": 231.52703857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Manage your Testing",
+      "type": "skill",
+      "x_raw": 579.2261352539062,
+      "y_raw": 256.73272705078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "Project Management",
+      "type": "skill",
+      "x_raw": 429.3629455566406,
+      "y_raw": 256.73272705078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "White Box Testing",
+      "type": "skill",
+      "x_raw": 52.835906982421875,
+      "y_raw": 281.9384460449219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "qTest TestRail",
+      "type": "skill",
+      "x_raw": 584.393798828125,
+      "y_raw": 291.39495849609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Atlassian Assembla",
+      "type": "skill",
+      "x_raw": 424.06634521484375,
+      "y_raw": 291.39495849609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Gray Box Testing",
+      "type": "skill",
+      "x_raw": 55.55450439453125,
+      "y_raw": 315.3351135253906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "V Model",
+      "type": "skill",
+      "x_raw": 212.54234313964844,
+      "y_raw": 316.6006774902344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "TestLink Zephyr",
+      "type": "skill",
+      "x_raw": 577.5386962890625,
+      "y_raw": 324.7916564941406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "YouTrack Trello",
+      "type": "skill",
+      "x_raw": 424.11322021484375,
+      "y_raw": 324.7916564941406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Black Box Testing",
+      "type": "skill",
+      "x_raw": 53.16400146484375,
+      "y_raw": 348.7317810058594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_20",
+      "label": "Waterfall",
+      "type": "skill",
+      "x_raw": 211.2181854248047,
+      "y_raw": 349.9973449707031,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Testing Techniques",
+      "type": "skill",
+      "x_raw": 416.4847106933594,
+      "y_raw": 368.7112121582031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Functional Testing",
+      "type": "skill",
+      "x_raw": 583.9485473632812,
+      "y_raw": 368.7112121582031,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "SDLC Delivery Model",
+      "type": "skill",
+      "x_raw": 236.04891967773438,
+      "y_raw": 399.5884704589844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Agile Model",
+      "type": "skill",
+      "x_raw": 72.73330688476562,
+      "y_raw": 400.2681579589844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "UAT",
+      "type": "skill",
+      "x_raw": 618.17724609375,
+      "y_raw": 404.6272888183594,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Non-Functional Testing",
+      "type": "skill",
+      "x_raw": 421.92193603515625,
+      "y_raw": 431.6024475097656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Kanban",
+      "type": "skill",
+      "x_raw": 82.2366943359375,
+      "y_raw": 436.1842346191406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Exploratory Testing",
+      "type": "skill",
+      "x_raw": 582.1790771484375,
+      "y_raw": 438.0239562988281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Load Testing",
+      "type": "skill",
+      "x_raw": 446.7643737792969,
+      "y_raw": 467.51849365234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_30",
+      "label": "Scrum",
+      "type": "skill",
+      "x_raw": 85.36544799804688,
+      "y_raw": 469.5809020996094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Sanity Testing",
+      "type": "skill",
+      "x_raw": 594.858154296875,
+      "y_raw": 471.420654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_32",
+      "label": "Performance Testing",
+      "type": "skill",
+      "x_raw": 427.640380859375,
+      "y_raw": 500.9151916503906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "XP SAFe",
+      "type": "skill",
+      "x_raw": 67.30780029296875,
+      "y_raw": 502.9775695800781,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Regression Testing",
+      "type": "skill",
+      "x_raw": 581.4291381835938,
+      "y_raw": 504.8172912597656,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "TDD",
+      "type": "skill",
+      "x_raw": 240.26744079589844,
+      "y_raw": 518.9844970703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_36",
+      "label": "Stress Testing",
+      "type": "skill",
+      "x_raw": 443.6356201171875,
+      "y_raw": 534.3118286132812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Smoke Testing",
+      "type": "skill",
+      "x_raw": 592.7020263671875,
+      "y_raw": 538.2139892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Test Cases and Scenarios",
+      "type": "skill",
+      "x_raw": 43.801239013671875,
+      "y_raw": 556.4942626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Security Testing",
+      "type": "skill",
+      "x_raw": 439.6748962402344,
+      "y_raw": 567.70849609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "Unit Testing",
+      "type": "skill",
+      "x_raw": 599.27587890625,
+      "y_raw": 571.6106567382812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Compatibility",
+      "type": "skill",
+      "x_raw": 75.697998046875,
+      "y_raw": 589.8909301757812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Manual Testing",
+      "type": "skill",
+      "x_raw": 250.35675048828125,
+      "y_raw": 590.511962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Accessibility Testing",
+      "type": "skill",
+      "x_raw": 429.8082275390625,
+      "y_raw": 601.105224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "Integration Testing",
+      "type": "skill",
+      "x_raw": 582.7650146484375,
+      "y_raw": 605.00732421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Verification and Validation",
+      "type": "skill",
+      "x_raw": 44.633209228515625,
+      "y_raw": 623.28759765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Test Planning",
+      "type": "skill",
+      "x_raw": 74.25665283203125,
+      "y_raw": 656.684326171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Automated Testing Frontend Automation",
+      "type": "skill",
+      "x_raw": 231.22103881835938,
+      "y_raw": 703.6156005859375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Backend Automation",
+      "type": "skill",
+      "x_raw": 58.00360107421875,
+      "y_raw": 707.716796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Karateframework",
+      "type": "skill",
+      "x_raw": 65.78445434570312,
+      "y_raw": 743.6328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Basic Introduction",
+      "type": "skill",
+      "x_raw": 419.32049560546875,
+      "y_raw": 759.7569580078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Automation Frameworks",
+      "type": "skill",
+      "x_raw": 562.6683959960938,
+      "y_raw": 759.7569580078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Cypress Playwright",
+      "type": "skill",
+      "x_raw": 49.343902587890625,
+      "y_raw": 777.029541015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Webdriver.io",
+      "type": "skill",
+      "x_raw": 590.2060546875,
+      "y_raw": 790.83349609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_54",
+      "label": "Browser / Dev Tools",
+      "type": "skill",
+      "x_raw": 414.84417724609375,
+      "y_raw": 793.4114990234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Soap UI",
+      "type": "skill",
+      "x_raw": 88.28326416015625,
+      "y_raw": 810.4261474609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Non-Functional Testing",
+      "type": "skill",
+      "x_raw": 218.62405395507812,
+      "y_raw": 812.61767578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Playwright",
+      "type": "skill",
+      "x_raw": 558.7077026367188,
+      "y_raw": 824.2301025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Jasmine",
+      "type": "skill",
+      "x_raw": 637.5238037109375,
+      "y_raw": 824.2301025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_59",
+      "label": "HTML, CSS, JavaScript",
+      "type": "skill",
+      "x_raw": 408.5867004394531,
+      "y_raw": 826.80810546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Postman / Newman",
+      "type": "skill",
+      "x_raw": 60.17144775390625,
+      "y_raw": 843.8228759765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_61",
+      "label": "QA Wolf",
+      "type": "skill",
+      "x_raw": 564.0394287109375,
+      "y_raw": 857.6268310546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_62",
+      "label": "Robot",
+      "type": "skill",
+      "x_raw": 643.3360595703125,
+      "y_raw": 857.6268310546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "Ajax Caching",
+      "type": "skill",
+      "x_raw": 411.1295166015625,
+      "y_raw": 860.204833984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_64",
+      "label": "REST Assured",
+      "type": "skill",
+      "x_raw": 73.1551513671875,
+      "y_raw": 877.219482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_65",
+      "label": "Selenium",
+      "type": "skill",
+      "x_raw": 560.7232055664062,
+      "y_raw": 891.0235595703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "Cypress",
+      "type": "skill",
+      "x_raw": 638.1800537109375,
+      "y_raw": 891.33984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_67",
+      "label": "SWAs, PWAs, JAMStack",
+      "type": "skill",
+      "x_raw": 408.18829345703125,
+      "y_raw": 893.6014404296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Accessibility Tests",
+      "type": "skill",
+      "x_raw": 243.6891326904297,
+      "y_raw": 904.1243896484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_69",
+      "label": "Mobile Automation",
+      "type": "skill",
+      "x_raw": 63.089263916015625,
+      "y_raw": 920.72900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Jest",
+      "type": "skill",
+      "x_raw": 572.9451904296875,
+      "y_raw": 924.420166015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Nightwatch",
+      "type": "skill",
+      "x_raw": 630.856201171875,
+      "y_raw": 925.052978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "CSR vs SSR",
+      "type": "skill",
+      "x_raw": 434.2845458984375,
+      "y_raw": 926.9981689453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Wave AXE",
+      "type": "skill",
+      "x_raw": 240.7713165283203,
+      "y_raw": 939.38427734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_74",
+      "label": "Espresso Detox",
+      "type": "skill",
+      "x_raw": 46.34405517578125,
+      "y_raw": 954.7584228515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "Puppeteer",
+      "type": "skill",
+      "x_raw": 594.401123046875,
+      "y_raw": 958.4495849609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "Responsive vs Adaptive",
+      "type": "skill",
+      "x_raw": 406.4071044921875,
+      "y_raw": 960.3948974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Chrome DevTools",
+      "type": "skill",
+      "x_raw": 243.7008514404297,
+      "y_raw": 973.7886962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_78",
+      "label": "Appium XCUITest",
+      "type": "skill",
+      "x_raw": 50.83209228515625,
+      "y_raw": 988.1551513671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Browser Addons",
+      "type": "skill",
+      "x_raw": 482.01251220703125,
+      "y_raw": 1001.7247314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Selenium IDE Ghost Inspector Bug Magnet",
+      "type": "skill",
+      "x_raw": 404.6259765625,
+      "y_raw": 1034.4417724609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "Load & Performance Testing",
+      "type": "skill",
+      "x_raw": 48.62908935546875,
+      "y_raw": 1053.846923828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Lighthouse",
+      "type": "skill",
+      "x_raw": 53.25775146484375,
+      "y_raw": 1091.040283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_83",
+      "label": "Locust",
+      "type": "skill",
+      "x_raw": 143.08895874023438,
+      "y_raw": 1091.040283203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Security Testing",
+      "type": "section",
+      "x_raw": 326.3136901855469,
+      "y_raw": 1105.14892578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_85",
+      "label": "Email Testing",
+      "type": "skill",
+      "x_raw": 514.3897094726562,
+      "y_raw": 1105.14892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Webpage Test",
+      "type": "skill",
+      "x_raw": 83.63116455078125,
+      "y_raw": 1124.43701171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "Authentication / Authorization",
+      "type": "section",
+      "x_raw": 293.6669616699219,
+      "y_raw": 1141.69775390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_88",
+      "label": "Gatling K6 Artillery",
+      "type": "skill",
+      "x_raw": 50.562591552734375,
+      "y_raw": 1157.8336181640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Mailinator",
+      "type": "skill",
+      "x_raw": 630.762451171875,
+      "y_raw": 1163.7630615234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Secrets Management",
+      "type": "section",
+      "x_raw": 312.97845458984375,
+      "y_raw": 1175.094482421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_91",
+      "label": "Vegeta JMeter",
+      "type": "skill",
+      "x_raw": 50.84381103515625,
+      "y_raw": 1191.8514404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_92",
+      "label": "Gmail Tester",
+      "type": "skill",
+      "x_raw": 624.3409423828125,
+      "y_raw": 1197.15966796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Vulnerability Scanning",
+      "type": "section",
+      "x_raw": 313.00189208984375,
+      "y_raw": 1208.4910888671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_94",
+      "label": "OWASP 10 Attack Vectors",
+      "type": "skill",
+      "x_raw": 290.5616455078125,
+      "y_raw": 1241.8878173828125,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_95",
+      "label": "New Relic",
+      "type": "skill",
+      "x_raw": 57.171630859375,
+      "y_raw": 1249.985107421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_96",
+      "label": "TestRail",
+      "type": "skill",
+      "x_raw": 645.65625,
+      "y_raw": 1260.9649658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_97",
+      "label": "RunScope",
+      "type": "skill",
+      "x_raw": 56.468536376953125,
+      "y_raw": 1283.3817138671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Allure",
+      "type": "skill",
+      "x_raw": 651.4215087890625,
+      "y_raw": 1294.3616943359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_99",
+      "label": "Reporting",
+      "type": "skill",
+      "x_raw": 522.4752197265625,
+      "y_raw": 1295.146728515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_100",
+      "label": "Monitoring & Logs",
+      "type": "section",
+      "x_raw": 289.62420654296875,
+      "y_raw": 1295.146728515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_101",
+      "label": "Kibana",
+      "type": "skill",
+      "x_raw": 64.89385986328125,
+      "y_raw": 1316.7784423828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "jUnit",
+      "type": "skill",
+      "x_raw": 653.95263671875,
+      "y_raw": 1327.75830078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_103",
+      "label": "Datadog",
+      "type": "skill",
+      "x_raw": 61.015167236328125,
+      "y_raw": 1350.1751708984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Version Control System Git",
+      "type": "skill",
+      "x_raw": 277.80059814453125,
+      "y_raw": 1358.6356201171875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_105",
+      "label": "Drone Jenkins",
+      "type": "skill",
+      "x_raw": 570.9765625,
+      "y_raw": 1377.6190185546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_106",
+      "label": "Pager Duty",
+      "type": "skill",
+      "x_raw": 54.898284912109375,
+      "y_raw": 1383.57177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "GitLab CI Bamboo",
+      "type": "skill",
+      "x_raw": 566.664306640625,
+      "y_raw": 1411.015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_108",
+      "label": "Grafana",
+      "type": "skill",
+      "x_raw": 62.280731201171875,
+      "y_raw": 1416.968505859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Repo Hosting Services",
+      "type": "section",
+      "x_raw": 278.25762939453125,
+      "y_raw": 1428.3585205078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_110",
+      "label": "Repo Hosting Services",
+      "type": "section",
+      "x_raw": 278.25762939453125,
+      "y_raw": 1428.3585205078125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_111",
+      "label": "Circle CI",
+      "type": "skill",
+      "x_raw": 568.4805908203125,
+      "y_raw": 1444.412353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_112",
+      "label": "Travis CI",
+      "type": "skill",
+      "x_raw": 644.51953125,
+      "y_raw": 1444.412353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_113",
+      "label": "Sentry",
+      "type": "skill",
+      "x_raw": 66.147705078125,
+      "y_raw": 1450.3651123046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "GitHub Bitbucket GitLab",
+      "type": "section",
+      "x_raw": 259.75469970703125,
+      "y_raw": 1481.113525390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_115",
+      "label": "CI / CD",
+      "type": "skill",
+      "x_raw": 606.9395141601562,
+      "y_raw": 1500.9053955078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Zombie.js Puppeteer",
+      "type": "skill",
+      "x_raw": 36.688323974609375,
+      "y_raw": 1513.60791015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Playwright Cypress",
+      "type": "skill",
+      "x_raw": 37.28594970703125,
+      "y_raw": 1547.004638671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "TeamCity",
+      "type": "skill",
+      "x_raw": 603.013916015625,
+      "y_raw": 1565.8004150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "Headless Testing",
+      "type": "section",
+      "x_raw": 290.3507385253906,
+      "y_raw": 1581.1395263671875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_120",
+      "label": "Headless Chrome",
+      "type": "skill",
+      "x_raw": 51.24224853515625,
+      "y_raw": 1581.1395263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "Azure DevOps Services",
+      "type": "skill",
+      "x_raw": 568.5977783203125,
+      "y_raw": 1599.1971435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "Headless Fox",
+      "type": "skill",
+      "x_raw": 62.069793701171875,
+      "y_raw": 1614.5361328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_123",
+      "label": "HTML Unit",
+      "type": "skill",
+      "x_raw": 68.6319580078125,
+      "y_raw": 1647.944580078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Visit the following relevant roadmaps",
+      "type": "skill",
+      "x_raw": 244.3922119140625,
+      "y_raw": 1675.892333984375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_125",
+      "label": "Backend Full-stack",
+      "type": "section",
+      "x_raw": 260.2937316894531,
+      "y_raw": 1709.5115966796875,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "trunk"
+    },
+    {
+      "source": "node_6",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_6",
+      "target": "node_84",
+      "type": "trunk"
+    },
+    {
+      "source": "node_84",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_84",
+      "target": "node_87",
+      "type": "trunk"
+    },
+    {
+      "source": "node_87",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_87",
+      "target": "node_90",
+      "type": "trunk"
+    },
+    {
+      "source": "node_90",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_90",
+      "target": "node_93",
+      "type": "trunk"
+    },
+    {
+      "source": "node_93",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_93",
+      "target": "node_100",
+      "type": "trunk"
+    },
+    {
+      "source": "node_100",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_109",
+      "type": "trunk"
+    },
+    {
+      "source": "node_109",
+      "target": "node_110",
+      "type": "trunk"
+    },
+    {
+      "source": "node_110",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_110",
+      "target": "node_114",
+      "type": "trunk"
+    },
+    {
+      "source": "node_114",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_119",
+      "type": "trunk"
+    },
+    {
+      "source": "node_119",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_119",
+      "target": "node_125",
+      "type": "trunk"
+    }
+  ]
+}

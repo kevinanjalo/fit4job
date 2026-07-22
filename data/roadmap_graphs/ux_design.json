@@ -1,0 +1,1709 @@
+{
+  "topic": "Ux Design",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Ux Design",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 482.59832763671875,
+      "y_raw": 59.07203674316406,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_1",
+      "label": "Design System Roadmap",
+      "type": "skill",
+      "x_raw": 57.96260070800781,
+      "y_raw": 68.35182189941406,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "Frontend Roadmap",
+      "type": "skill",
+      "x_raw": 57.96260070800781,
+      "y_raw": 87.45263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "UX Design",
+      "type": "section",
+      "x_raw": 334.5728759765625,
+      "y_raw": 120.08466339111328,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Buzzwords to lookout for",
+      "type": "skill",
+      "x_raw": 566.3255615234375,
+      "y_raw": 150.0997314453125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_5",
+      "label": "Frameworks",
+      "type": "skill",
+      "x_raw": 92.01596069335938,
+      "y_raw": 161.04461669921875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_6",
+      "label": "Nudge Theory",
+      "type": "skill",
+      "x_raw": 590.1839599609375,
+      "y_raw": 177.69630432128906,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "BJ Fogg's Behavior Model",
+      "type": "skill",
+      "x_raw": 64.91154479980469,
+      "y_raw": 191.6762237548828,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Persuasive Technology",
+      "type": "skill",
+      "x_raw": 569.302001953125,
+      "y_raw": 211.4332733154297,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "CREATE Action Funnel",
+      "type": "skill",
+      "x_raw": 73.38388061523438,
+      "y_raw": 225.41319274902344,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "Human Decision Making",
+      "type": "section",
+      "x_raw": 317.30010986328125,
+      "y_raw": 241.18601989746094,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_11",
+      "label": "Behavioral Science",
+      "type": "skill",
+      "x_raw": 577.7625732421875,
+      "y_raw": 245.1585235595703,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Spectrum of Thinking Interventions",
+      "type": "skill",
+      "x_raw": 43.90065002441406,
+      "y_raw": 259.1384582519531,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Behavioral Economics",
+      "type": "skill",
+      "x_raw": 570.4855346679688,
+      "y_raw": 278.8837585449219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_14",
+      "label": "Dual Process Theory",
+      "type": "skill",
+      "x_raw": 78.31727600097656,
+      "y_raw": 292.87542724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_15",
+      "label": "Behavior Design",
+      "type": "skill",
+      "x_raw": 584.3834228515625,
+      "y_raw": 312.6207275390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "BJ Fogg's Behavior Grid",
+      "type": "skill",
+      "x_raw": 100.06642150878906,
+      "y_raw": 374.9855041503906,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_17",
+      "label": "Behavior Change Strategies",
+      "type": "section",
+      "x_raw": 307.99578857421875,
+      "y_raw": 374.9855041503906,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_18",
+      "label": "Classifying Behavior",
+      "type": "skill",
+      "x_raw": 110.51913452148438,
+      "y_raw": 404.6679382324219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Defaulting",
+      "type": "skill",
+      "x_raw": 566.1497802734375,
+      "y_raw": 424.13201904296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Making it Incidental",
+      "type": "skill",
+      "x_raw": 543.310791015625,
+      "y_raw": 457.85723876953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_21",
+      "label": "Cheating",
+      "type": "section",
+      "x_raw": 354.65802001953125,
+      "y_raw": 458.51348876953125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "Existing Behavior",
+      "type": "skill",
+      "x_raw": 99.86721801757812,
+      "y_raw": 462.6148681640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Help user Avoiding the Cue",
+      "type": "skill",
+      "x_raw": 74.54399108886719,
+      "y_raw": 490.2114562988281,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_24",
+      "label": "Automate the Act of Repetition Make or Change Habits",
+      "type": "skill",
+      "x_raw": 319.010986328125,
+      "y_raw": 491.5942077636719,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_25",
+      "label": "Replace the Routine",
+      "type": "skill",
+      "x_raw": 90.84413146972656,
+      "y_raw": 523.9367065429688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_26",
+      "label": "Support Conscious Action",
+      "type": "section",
+      "x_raw": 313.97210693359375,
+      "y_raw": 525.9756469726562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "Target Outcome",
+      "type": "skill",
+      "x_raw": 555.263427734375,
+      "y_raw": 552.623046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_28",
+      "label": "Use Consciousness to Interfere",
+      "type": "skill",
+      "x_raw": 63.962371826171875,
+      "y_raw": 557.6736450195312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Educate & Encourage User",
+      "type": "skill",
+      "x_raw": 309.8590087890625,
+      "y_raw": 583.3601684570312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Target Actor",
+      "type": "skill",
+      "x_raw": 564.9193115234375,
+      "y_raw": 586.3483276367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "Mindfulness to Avoid Acting on the Cue",
+      "type": "skill",
+      "x_raw": 45.96307373046875,
+      "y_raw": 591.3988647460938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "Help User think about their Action",
+      "type": "skill",
+      "x_raw": 294.6017761230469,
+      "y_raw": 617.0853881835938,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_33",
+      "label": "Target Action",
+      "type": "skill",
+      "x_raw": 562.50537109375,
+      "y_raw": 620.0852661132812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Crowd Out Old Habit with New Behavior",
+      "type": "skill",
+      "x_raw": 44.60374450683594,
+      "y_raw": 625.1358642578125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Clarify Product",
+      "type": "skill",
+      "x_raw": 559.9859619140625,
+      "y_raw": 651.6309204101562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "New Behavior",
+      "type": "skill",
+      "x_raw": 105.91384887695312,
+      "y_raw": 654.8065795898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Create User Personas",
+      "type": "section",
+      "x_raw": 323.96783447265625,
+      "y_raw": 670.954345703125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_38",
+      "label": "Nir Eyal's Hook Model",
+      "type": "skill",
+      "x_raw": 87.91455078125,
+      "y_raw": 684.9577026367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "Define Target Users",
+      "type": "section",
+      "x_raw": 330.5886535644531,
+      "y_raw": 702.23046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_40",
+      "label": "Understanding the Product",
+      "type": "skill",
+      "x_raw": 528.7332763671875,
+      "y_raw": 702.76953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "Cue Routine Reward Model",
+      "type": "skill",
+      "x_raw": 73.78230285644531,
+      "y_raw": 718.6829833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Business Model",
+      "type": "skill",
+      "x_raw": 556.482177734375,
+      "y_raw": 755.3846435546875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Create Product Backlog",
+      "type": "skill",
+      "x_raw": 93.00028991699219,
+      "y_raw": 774.6260986328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_44",
+      "label": "Existing Business Model",
+      "type": "skill",
+      "x_raw": 536.1157836914062,
+      "y_raw": 789.10986328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_45",
+      "label": "Conceptual Design",
+      "type": "section",
+      "x_raw": 337.2329406738281,
+      "y_raw": 800.8047485351562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_46",
+      "label": "User Stories",
+      "type": "skill",
+      "x_raw": 120.08126831054688,
+      "y_raw": 802.22265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_47",
+      "label": "Business Model Canvas",
+      "type": "skill",
+      "x_raw": 535.9985961914062,
+      "y_raw": 817.9837646484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_48",
+      "label": "Things to lookout for",
+      "type": "skill",
+      "x_raw": 101.90618896484375,
+      "y_raw": 835.2916870117188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Lean Canvas",
+      "type": "skill",
+      "x_raw": 562.71630859375,
+      "y_raw": 851.708984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "In general, keep it short and simple",
+      "type": "skill",
+      "x_raw": 64.52484130859375,
+      "y_raw": 866.1107788085938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_51",
+      "label": "New Business Model",
+      "type": "skill",
+      "x_raw": 544.388916015625,
+      "y_raw": 883.301513671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Figma",
+      "type": "section",
+      "x_raw": 370.81756591796875,
+      "y_raw": 883.360107421875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_53",
+      "label": "Make it easy to understand and complete",
+      "type": "skill",
+      "x_raw": 49.58403015136719,
+      "y_raw": 899.8477783203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "Business Model Inspirator",
+      "type": "skill",
+      "x_raw": 530.889404296875,
+      "y_raw": 913.4409790039062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Adobe XD",
+      "type": "section",
+      "x_raw": 362.2046203613281,
+      "y_raw": 917.0853271484375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_56",
+      "label": "Make progress visible to user",
+      "type": "skill",
+      "x_raw": 78.6219482421875,
+      "y_raw": 933.572998046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_57",
+      "label": "Competitor Analysis",
+      "type": "skill",
+      "x_raw": 546.2403564453125,
+      "y_raw": 947.1779174804688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Sketch",
+      "type": "section",
+      "x_raw": 369.446533203125,
+      "y_raw": 950.8106079101562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_59",
+      "label": "Make progress meaningful to reward user",
+      "type": "skill",
+      "x_raw": 48.72859191894531,
+      "y_raw": 967.3099365234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "Five Forces Model",
+      "type": "skill",
+      "x_raw": 549.720703125,
+      "y_raw": 980.9031982421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Balsamiq",
+      "type": "section",
+      "x_raw": 363.3529968261719,
+      "y_raw": 984.5475463867188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_62",
+      "label": "Make successful completion clearly visible",
+      "type": "skill",
+      "x_raw": 47.3927001953125,
+      "y_raw": 1001.0352172851562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Wireframing",
+      "type": "section",
+      "x_raw": 357.3180847167969,
+      "y_raw": 1014.30029296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "SWOT Analysis",
+      "type": "skill",
+      "x_raw": 558.4508056640625,
+      "y_raw": 1014.64013671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Deliverables",
+      "type": "skill",
+      "x_raw": 121.00701904296875,
+      "y_raw": 1034.104248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Good Layout Rules",
+      "type": "section",
+      "x_raw": 337.67822265625,
+      "y_raw": 1053.498046875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_67",
+      "label": "Customer Experience Map by Mel Edwards",
+      "type": "skill",
+      "x_raw": 45.35371398925781,
+      "y_raw": 1064.80615234375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_68",
+      "label": "UX Patterns",
+      "type": "skill",
+      "x_raw": 569.419189453125,
+      "y_raw": 1080.0047607421875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "Simple Flowchart",
+      "type": "skill",
+      "x_raw": 108.67936706542969,
+      "y_raw": 1098.5430908203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Prototyping",
+      "type": "section",
+      "x_raw": 356.310302734375,
+      "y_raw": 1109.745849609375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_71",
+      "label": "When attention is fleeting and scarce",
+      "type": "skill",
+      "x_raw": 507.68719482421875,
+      "y_raw": 1109.898193359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_72",
+      "label": "Event-driven Process Chain Model (EPC)",
+      "type": "skill",
+      "x_raw": 49.54887390136719,
+      "y_raw": 1132.268310546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Call to Action",
+      "type": "skill",
+      "x_raw": 520.7531127929688,
+      "y_raw": 1140.45947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "How-to-Tips",
+      "type": "skill",
+      "x_raw": 616.7611083984375,
+      "y_raw": 1140.45947265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_75",
+      "label": "Business Process Model & Notation (BPMN)",
+      "type": "skill",
+      "x_raw": 41.54527282714844,
+      "y_raw": 1166.00537109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "Status Reports",
+      "type": "skill",
+      "x_raw": 561.1460571289062,
+      "y_raw": 1174.1846923828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "Reminders & Planning Prompts",
+      "type": "skill",
+      "x_raw": 521.3272705078125,
+      "y_raw": 1207.921630859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "Getting Users Attention",
+      "type": "skill",
+      "x_raw": 94.01979064941406,
+      "y_raw": 1215.64404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "UX Best Practices",
+      "type": "section",
+      "x_raw": 339.79925537109375,
+      "y_raw": 1239.10400390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_80",
+      "label": "with many chances to influence user",
+      "type": "skill",
+      "x_raw": 510.2300720214844,
+      "y_raw": 1240.77978515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "Tell User what the Action is and ask for it",
+      "type": "skill",
+      "x_raw": 51.83393859863281,
+      "y_raw": 1245.783447265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "Behavior Change Games",
+      "type": "skill",
+      "x_raw": 537.40478515625,
+      "y_raw": 1272.9932861328125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Clear the Page of Distractions",
+      "type": "skill",
+      "x_raw": 77.05169677734375,
+      "y_raw": 1279.5203857421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Decision-Making Support",
+      "type": "skill",
+      "x_raw": 537.20556640625,
+      "y_raw": 1306.730224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Make it Clear, Where to Act",
+      "type": "skill",
+      "x_raw": 84.42250061035156,
+      "y_raw": 1313.24560546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Gamification",
+      "type": "skill",
+      "x_raw": 516.4876708984375,
+      "y_raw": 1340.45556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Goal Trackers",
+      "type": "skill",
+      "x_raw": 606.613037109375,
+      "y_raw": 1340.45556640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Getting Positive Intuitive Reaction",
+      "type": "skill",
+      "x_raw": 69.188720703125,
+      "y_raw": 1346.584228515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "Reminders Social Sharing",
+      "type": "skill",
+      "x_raw": 520.3663940429688,
+      "y_raw": 1374.1925048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Make UI Professional and Beautiful",
+      "type": "skill",
+      "x_raw": 64.48968505859375,
+      "y_raw": 1376.7353515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "Planners",
+      "type": "skill",
+      "x_raw": 618.893798828125,
+      "y_raw": 1407.917724609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Tutorials",
+      "type": "skill",
+      "x_raw": 527.0926513671875,
+      "y_raw": 1407.917724609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_93",
+      "label": "Deploy Strong Authority on Subject",
+      "type": "skill",
+      "x_raw": 66.84506225585938,
+      "y_raw": 1410.4605712890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_94",
+      "label": "Be Authentic and Personal",
+      "type": "skill",
+      "x_raw": 85.45372009277344,
+      "y_raw": 1444.197509765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Gather Lessons, Prioritize & Integrate",
+      "type": "skill",
+      "x_raw": 421.2296447753906,
+      "y_raw": 1463.93115234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Deploy Social Proof",
+      "type": "skill",
+      "x_raw": 103.20692443847656,
+      "y_raw": 1477.9228515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "Get a favorable Conscious Evaluation",
+      "type": "skill",
+      "x_raw": 59.9664306640625,
+      "y_raw": 1515.12841796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_98",
+      "label": "Measuring the Impact",
+      "type": "section",
+      "x_raw": 330.19024658203125,
+      "y_raw": 1519.815673828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_99",
+      "label": "Prime User-Relevant Associations",
+      "type": "skill",
+      "x_raw": 67.34895324707031,
+      "y_raw": 1542.7249755859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Testing",
+      "type": "section",
+      "x_raw": 366.99737548828125,
+      "y_raw": 1574.5753173828125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_101",
+      "label": "Avoid Direct Payments",
+      "type": "skill",
+      "x_raw": 95.73065185546875,
+      "y_raw": 1576.4619140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_102",
+      "label": "Multivariate Testing",
+      "type": "section",
+      "x_raw": 336.58843994140625,
+      "y_raw": 1604.7967529296875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_103",
+      "label": "Avoid Choice Overload",
+      "type": "skill",
+      "x_raw": 94.80491638183594,
+      "y_raw": 1610.1871337890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_104",
+      "label": "Avoid Cognitive Overhead",
+      "type": "skill",
+      "x_raw": 87.28176879882812,
+      "y_raw": 1643.924072265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Incremental A/B Testing",
+      "type": "section",
+      "x_raw": 324.7295227050781,
+      "y_raw": 1644.896728515625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_106",
+      "label": "Leverage Loss-Aversion",
+      "type": "skill",
+      "x_raw": 91.54722595214844,
+      "y_raw": 1677.6494140625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_107",
+      "label": "Use Peer Comparisons",
+      "type": "skill",
+      "x_raw": 93.75025939941406,
+      "y_raw": 1711.3746337890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Use Competition",
+      "type": "skill",
+      "x_raw": 109.32386779785156,
+      "y_raw": 1745.111572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_109",
+      "label": "Make sure Users can do it Easily",
+      "type": "skill",
+      "x_raw": 315.6009521484375,
+      "y_raw": 1778.7313232421875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_110",
+      "label": "Creating Urgency to Act Now",
+      "type": "skill",
+      "x_raw": 80.96560668945312,
+      "y_raw": 1781.520263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_111",
+      "label": "Frame Text to Avoid Temporal Myopia",
+      "type": "skill",
+      "x_raw": 59.55628967285156,
+      "y_raw": 1809.8551025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Elicit Implementation Intentions",
+      "type": "section",
+      "x_raw": 317.34698486328125,
+      "y_raw": 1810.4644775390625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_113",
+      "label": "Remind of Prior Commitment to Act",
+      "type": "skill",
+      "x_raw": 64.14985656738281,
+      "y_raw": 1843.580322265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_114",
+      "label": "Default Everything",
+      "type": "section",
+      "x_raw": 349.6894836425781,
+      "y_raw": 1844.201416015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_115",
+      "label": "Make Commitment to Friends",
+      "type": "skill",
+      "x_raw": 78.14149475097656,
+      "y_raw": 1877.3056640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_116",
+      "label": "Lessen the Burden of Action / Info",
+      "type": "skill",
+      "x_raw": 310.6324157714844,
+      "y_raw": 1877.9266357421875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_117",
+      "label": "Make Reward Scarce",
+      "type": "skill",
+      "x_raw": 98.25009155273438,
+      "y_raw": 1911.0426025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Deploy Peer Comparisons",
+      "type": "section",
+      "x_raw": 331.244873046875,
+      "y_raw": 1911.6636962890625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_119",
+      "label": "You might be interested in following roadmaps as well",
+      "type": "skill",
+      "x_raw": 421.6866455078125,
+      "y_raw": 1991.9691162109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_120",
+      "label": "Design System Frontend",
+      "type": "skill",
+      "x_raw": 446.3536682128906,
+      "y_raw": 2025.8935546875,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_10",
+      "type": "trunk"
+    },
+    {
+      "source": "node_10",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_16",
+      "type": "branch"
+    },
+    {
+      "source": "node_10",
+      "target": "node_17",
+      "type": "trunk"
+    },
+    {
+      "source": "node_17",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_17",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_26",
+      "target": "node_37",
+      "type": "trunk"
+    },
+    {
+      "source": "node_37",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_37",
+      "target": "node_39",
+      "type": "trunk"
+    },
+    {
+      "source": "node_39",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_39",
+      "target": "node_45",
+      "type": "trunk"
+    },
+    {
+      "source": "node_45",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_45",
+      "target": "node_52",
+      "type": "trunk"
+    },
+    {
+      "source": "node_52",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_52",
+      "target": "node_55",
+      "type": "trunk"
+    },
+    {
+      "source": "node_55",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_55",
+      "target": "node_58",
+      "type": "trunk"
+    },
+    {
+      "source": "node_58",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_58",
+      "target": "node_61",
+      "type": "trunk"
+    },
+    {
+      "source": "node_61",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_61",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "trunk"
+    },
+    {
+      "source": "node_66",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_66",
+      "target": "node_70",
+      "type": "trunk"
+    },
+    {
+      "source": "node_70",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_70",
+      "target": "node_79",
+      "type": "trunk"
+    },
+    {
+      "source": "node_79",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_79",
+      "target": "node_98",
+      "type": "trunk"
+    },
+    {
+      "source": "node_98",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_98",
+      "target": "node_100",
+      "type": "trunk"
+    },
+    {
+      "source": "node_100",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_100",
+      "target": "node_102",
+      "type": "trunk"
+    },
+    {
+      "source": "node_102",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_102",
+      "target": "node_105",
+      "type": "trunk"
+    },
+    {
+      "source": "node_105",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_105",
+      "target": "node_112",
+      "type": "trunk"
+    },
+    {
+      "source": "node_112",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_112",
+      "target": "node_114",
+      "type": "trunk"
+    },
+    {
+      "source": "node_114",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_114",
+      "target": "node_118",
+      "type": "trunk"
+    },
+    {
+      "source": "node_118",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_118",
+      "target": "node_120",
+      "type": "branch"
+    }
+  ]
+}

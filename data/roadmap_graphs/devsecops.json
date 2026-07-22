@@ -1,0 +1,1387 @@
+{
+  "topic": "Devsecops",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Devsecops",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 92.662109375,
+      "y_raw": 76.18402099609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 526.314453125,
+      "y_raw": 76.61518859863281,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Cybersecurity Roadmap",
+      "type": "skill",
+      "x_raw": 92.662109375,
+      "y_raw": 96.24652099609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "DevSecOps",
+      "type": "section",
+      "x_raw": 357.025390625,
+      "y_raw": 111.99581909179688,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "Introduction",
+      "type": "section",
+      "x_raw": 376.255859375,
+      "y_raw": 190.6034698486328,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "DevSecOps vs DevOps",
+      "type": "skill",
+      "x_raw": 615.166015625,
+      "y_raw": 190.6034698486328,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "Python Ruby",
+      "type": "skill",
+      "x_raw": 88.314453125,
+      "y_raw": 191.3534698486328,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "Rust Go",
+      "type": "skill",
+      "x_raw": 89.498046875,
+      "y_raw": 226.7792510986328,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_8",
+      "label": "Bash",
+      "type": "skill",
+      "x_raw": 661.337890625,
+      "y_raw": 245.5878448486328,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Learn a Programming Language",
+      "type": "skill",
+      "x_raw": 324.119140625,
+      "y_raw": 262.2167663574219,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_10",
+      "label": "JavaScript / Node.js",
+      "type": "skill",
+      "x_raw": 92.087890625,
+      "y_raw": 262.2167663574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "PowerShell",
+      "type": "skill",
+      "x_raw": 646.185546875,
+      "y_raw": 281.0136413574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_12",
+      "label": "Editors",
+      "type": "skill",
+      "x_raw": 657.658203125,
+      "y_raw": 313.6386413574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Learn the Foundations",
+      "type": "skill",
+      "x_raw": 76.865234375,
+      "y_raw": 333.10791015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Scripting Knowledge",
+      "type": "section",
+      "x_raw": 354.541015625,
+      "y_raw": 335.3300476074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_15",
+      "label": "Vim / Nano / Emacs",
+      "type": "skill",
+      "x_raw": 622.173828125,
+      "y_raw": 348.1855163574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_16",
+      "label": "Firewalls",
+      "type": "section",
+      "x_raw": 384.681640625,
+      "y_raw": 401.1777038574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "CIA Triad",
+      "type": "skill",
+      "x_raw": 120.095703125,
+      "y_raw": 407.7987976074219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "SQL Injection Prevention",
+      "type": "skill",
+      "x_raw": 610.396484375,
+      "y_raw": 407.9980163574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "ACLs",
+      "type": "section",
+      "x_raw": 438.388671875,
+      "y_raw": 436.6152038574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_20",
+      "label": "VLANs",
+      "type": "section",
+      "x_raw": 344.908203125,
+      "y_raw": 436.6152038574219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 106.865234375,
+      "y_raw": 443.2245788574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_22",
+      "label": "XSS Prevention",
+      "type": "skill",
+      "x_raw": 635.181640625,
+      "y_raw": 443.4355163574219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_23",
+      "label": "Network Segmentation",
+      "type": "section",
+      "x_raw": 348.634765625,
+      "y_raw": 472.0409851074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Authorization",
+      "type": "skill",
+      "x_raw": 110.275390625,
+      "y_raw": 478.6620788574219,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Input Validation Patterns",
+      "type": "skill",
+      "x_raw": 612.048828125,
+      "y_raw": 478.8612976074219,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "DNS",
+      "type": "section",
+      "x_raw": 335.685546875,
+      "y_raw": 507.4784851074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_27",
+      "label": "HTTP",
+      "type": "section",
+      "x_raw": 393.154296875,
+      "y_raw": 507.4784851074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "TLS",
+      "type": "section",
+      "x_raw": 457.091796875,
+      "y_raw": 507.4784851074219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_29",
+      "label": "OWASP Top 10",
+      "type": "skill",
+      "x_raw": 106.537109375,
+      "y_raw": 514.0878295898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Encryption",
+      "type": "skill",
+      "x_raw": 116.275390625,
+      "y_raw": 549.5253295898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_31",
+      "label": "Networking Basics",
+      "type": "section",
+      "x_raw": 359.427734375,
+      "y_raw": 549.5253295898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Secure Coding",
+      "type": "skill",
+      "x_raw": 636.236328125,
+      "y_raw": 549.5253295898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "Symmetric Asymmetric",
+      "type": "skill",
+      "x_raw": 72.939453125,
+      "y_raw": 612.1503295898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_34",
+      "label": "Alert Types SIEM",
+      "type": "section",
+      "x_raw": 343.431640625,
+      "y_raw": 612.6425170898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_35",
+      "label": "Log Analysis",
+      "type": "section",
+      "x_raw": 375.271484375,
+      "y_raw": 648.0800170898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Burp Suite",
+      "type": "skill",
+      "x_raw": 118.759765625,
+      "y_raw": 701.6112670898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Identity Basics Monitoring",
+      "type": "skill",
+      "x_raw": 379.642578125,
+      "y_raw": 708.4081420898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Nmap basics",
+      "type": "skill",
+      "x_raw": 112.162109375,
+      "y_raw": 737.0370483398438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "IAM",
+      "type": "skill",
+      "x_raw": 664.267578125,
+      "y_raw": 759.0214233398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_40",
+      "label": "PASTA STRIDE",
+      "type": "section",
+      "x_raw": 336.283203125,
+      "y_raw": 767.5057983398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_41",
+      "label": "Wireshark basics",
+      "type": "skill",
+      "x_raw": 102.095703125,
+      "y_raw": 772.4628295898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "Least Privilege",
+      "type": "skill",
+      "x_raw": 636.564453125,
+      "y_raw": 794.4589233398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_43",
+      "label": "Threat Modeling Workflows",
+      "type": "section",
+      "x_raw": 336.787109375,
+      "y_raw": 802.9432983398438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_44",
+      "label": "DevSecOps Tools",
+      "type": "skill",
+      "x_raw": 101.791015625,
+      "y_raw": 805.8612670898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "Role Based Access",
+      "type": "skill",
+      "x_raw": 624.529296875,
+      "y_raw": 829.8847045898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_46",
+      "label": "Attack Surface Mapping",
+      "type": "section",
+      "x_raw": 344.650390625,
+      "y_raw": 838.3690795898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_47",
+      "label": "Managing Threats & Risks",
+      "type": "skill",
+      "x_raw": 68.029296875,
+      "y_raw": 896.51025390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_48",
+      "label": "Threat Modeling",
+      "type": "section",
+      "x_raw": 363.810546875,
+      "y_raw": 900.1503295898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_49",
+      "label": "SOAR Concepts",
+      "type": "skill",
+      "x_raw": 633.552734375,
+      "y_raw": 900.8182983398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_50",
+      "label": "Automated Patching",
+      "type": "skill",
+      "x_raw": 623.369140625,
+      "y_raw": 936.2440795898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "Automating Security",
+      "type": "skill",
+      "x_raw": 624.939453125,
+      "y_raw": 971.5878295898438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_52",
+      "label": "Cloud Security",
+      "type": "skill",
+      "x_raw": 108.552734375,
+      "y_raw": 985.7206420898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Container Security",
+      "type": "section",
+      "x_raw": 358.408203125,
+      "y_raw": 985.7206420898438,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_54",
+      "label": "Nessus Nmap",
+      "type": "skill",
+      "x_raw": 618.798828125,
+      "y_raw": 1006.4276733398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "OpenVAS Qualys",
+      "type": "skill",
+      "x_raw": 613.900390625,
+      "y_raw": 1041.853515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_56",
+      "label": "Kubernetes Docker",
+      "type": "section",
+      "x_raw": 337.630859375,
+      "y_raw": 1045.134765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_57",
+      "label": "CSPM",
+      "type": "skill",
+      "x_raw": 87.833984375,
+      "y_raw": 1045.685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_58",
+      "label": "IAM",
+      "type": "skill",
+      "x_raw": 178.560546875,
+      "y_raw": 1045.685546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "Vulnerability Scanning Tools",
+      "type": "skill",
+      "x_raw": 607.525390625,
+      "y_raw": 1077.009765625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_60",
+      "label": "Image Scanning",
+      "type": "section",
+      "x_raw": 364.197265625,
+      "y_raw": 1080.572265625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_61",
+      "label": "Key Management Service",
+      "type": "skill",
+      "x_raw": 80.650390625,
+      "y_raw": 1081.111328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "Defense in Depth Concepts",
+      "type": "skill",
+      "x_raw": 89.943359375,
+      "y_raw": 1157.095703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_63",
+      "label": "Secure Architecture",
+      "type": "section",
+      "x_raw": 347.673828125,
+      "y_raw": 1161.75244140625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_64",
+      "label": "Incident Response",
+      "type": "skill",
+      "x_raw": 626.181640625,
+      "y_raw": 1163.974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "Zero Trust Concepts",
+      "type": "skill",
+      "x_raw": 108.529296875,
+      "y_raw": 1192.521484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_66",
+      "label": "Secure API Design",
+      "type": "skill",
+      "x_raw": 112.759765625,
+      "y_raw": 1227.947265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "IR Lifecycle",
+      "type": "skill",
+      "x_raw": 644.884765625,
+      "y_raw": 1241.775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "bcrypt SHA 256",
+      "type": "section",
+      "x_raw": 338.474609375,
+      "y_raw": 1252.439453125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_69",
+      "label": "Multi Region Security Planning",
+      "type": "skill",
+      "x_raw": 83.087890625,
+      "y_raw": 1263.384765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Forensics Containment",
+      "type": "skill",
+      "x_raw": 607.361328125,
+      "y_raw": 1277.201171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "Cryptographic Hashing",
+      "type": "section",
+      "x_raw": 347.134765625,
+      "y_raw": 1287.009765625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_72",
+      "label": "Large Scale Identity Strategy",
+      "type": "skill",
+      "x_raw": 87.587890625,
+      "y_raw": 1298.810546875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_73",
+      "label": "Root Cause Analysis",
+      "type": "skill",
+      "x_raw": 622.220703125,
+      "y_raw": 1312.638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_74",
+      "label": "PKI Design and Failover",
+      "type": "skill",
+      "x_raw": 344.181640625,
+      "y_raw": 1322.435546875,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_75",
+      "label": "IDS",
+      "type": "skill",
+      "x_raw": 102.869140625,
+      "y_raw": 1334.248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_76",
+      "label": "IPS",
+      "type": "skill",
+      "x_raw": 202.349609375,
+      "y_raw": 1334.248046875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_77",
+      "label": "Certificate Lifecycle",
+      "type": "section",
+      "x_raw": 354.880859375,
+      "y_raw": 1357.861328125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_78",
+      "label": "DDoS Miligation Strategy",
+      "type": "skill",
+      "x_raw": 97.091796875,
+      "y_raw": 1369.673828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "EDR Strategy",
+      "type": "skill",
+      "x_raw": 640.162109375,
+      "y_raw": 1380.220703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_80",
+      "label": "Advanced Crypto.",
+      "type": "section",
+      "x_raw": 358.033203125,
+      "y_raw": 1386.642578125,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_81",
+      "label": "Secure Network Zoning",
+      "type": "skill",
+      "x_raw": 100.677734375,
+      "y_raw": 1405.099609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_82",
+      "label": "SOAR Automation",
+      "type": "skill",
+      "x_raw": 629.181640625,
+      "y_raw": 1415.658203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "Supply Chain Security",
+      "type": "skill",
+      "x_raw": 105.763671875,
+      "y_raw": 1440.537109375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "Endpoint Detection",
+      "type": "skill",
+      "x_raw": 625.185546875,
+      "y_raw": 1451.083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "SBOMS",
+      "type": "skill",
+      "x_raw": 140.990234375,
+      "y_raw": 1475.962890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_86",
+      "label": "Response Strategy Enterprise Operations",
+      "type": "skill",
+      "x_raw": 345.916015625,
+      "y_raw": 1486.521484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_87",
+      "label": "Build Pipeline Hardening",
+      "type": "skill",
+      "x_raw": 97.373046875,
+      "y_raw": 1511.400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_88",
+      "label": "Dependency Risk Management",
+      "type": "skill",
+      "x_raw": 80.439453125,
+      "y_raw": 1546.826171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_89",
+      "label": "SOC 2",
+      "type": "skill",
+      "x_raw": 657.740234375,
+      "y_raw": 1566.830078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "ISO 27001",
+      "type": "skill",
+      "x_raw": 648.283203125,
+      "y_raw": 1602.255859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_91",
+      "label": "Governance",
+      "type": "section",
+      "x_raw": 367.056640625,
+      "y_raw": 1612.51416015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_92",
+      "label": "Audit & Compliance Mapping",
+      "type": "skill",
+      "x_raw": 86.521484375,
+      "y_raw": 1614.736328125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "NIST",
+      "type": "skill",
+      "x_raw": 661.583984375,
+      "y_raw": 1637.693359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Risk Quantification",
+      "type": "skill",
+      "x_raw": 112.712890625,
+      "y_raw": 1650.173828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_95",
+      "label": "Cybersecurity Frameworks",
+      "type": "skill",
+      "x_raw": 607.525390625,
+      "y_raw": 1670.763671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Visit the following roadmaps to keep learning",
+      "type": "skill",
+      "x_raw": 288.376953125,
+      "y_raw": 1719.349609375,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_97",
+      "label": "Cybersecurity DevOps",
+      "type": "section",
+      "x_raw": 294.259765625,
+      "y_raw": 1756.650390625,
+      "is_trunk": true,
+      "side": "center"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_14",
+      "type": "trunk"
+    },
+    {
+      "source": "node_14",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_14",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "trunk"
+    },
+    {
+      "source": "node_19",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "trunk"
+    },
+    {
+      "source": "node_26",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "trunk"
+    },
+    {
+      "source": "node_28",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_28",
+      "target": "node_31",
+      "type": "trunk"
+    },
+    {
+      "source": "node_31",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_31",
+      "target": "node_34",
+      "type": "trunk"
+    },
+    {
+      "source": "node_34",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_40",
+      "type": "trunk"
+    },
+    {
+      "source": "node_40",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_40",
+      "target": "node_43",
+      "type": "trunk"
+    },
+    {
+      "source": "node_43",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_43",
+      "target": "node_46",
+      "type": "trunk"
+    },
+    {
+      "source": "node_46",
+      "target": "node_47",
+      "type": "branch"
+    },
+    {
+      "source": "node_46",
+      "target": "node_48",
+      "type": "trunk"
+    },
+    {
+      "source": "node_48",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_51",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_48",
+      "target": "node_53",
+      "type": "trunk"
+    },
+    {
+      "source": "node_53",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_53",
+      "target": "node_56",
+      "type": "trunk"
+    },
+    {
+      "source": "node_56",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_56",
+      "target": "node_60",
+      "type": "trunk"
+    },
+    {
+      "source": "node_60",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_60",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_60",
+      "target": "node_63",
+      "type": "trunk"
+    },
+    {
+      "source": "node_63",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_63",
+      "target": "node_68",
+      "type": "trunk"
+    },
+    {
+      "source": "node_68",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_68",
+      "target": "node_71",
+      "type": "trunk"
+    },
+    {
+      "source": "node_71",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_71",
+      "target": "node_77",
+      "type": "trunk"
+    },
+    {
+      "source": "node_77",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_77",
+      "target": "node_80",
+      "type": "trunk"
+    },
+    {
+      "source": "node_80",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_80",
+      "target": "node_91",
+      "type": "trunk"
+    },
+    {
+      "source": "node_91",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_91",
+      "target": "node_97",
+      "type": "trunk"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+ "domain": "Qa",
+ "stages": [
+  {
+   "name": "Learn the Fundamentals",
+   "skills": [
+    "What is Quality Assurance?",
+    "Test Oracles",
+    "QA Mindset",
+    "Test Prioritization",
+    "Testing Approaches",
+    "Manage your Testing",
+    "Project Management",
+    "White Box Testing",
+    "qTest TestRail",
+    "Atlassian Assembla",
+    "Gray Box Testing",
+    "V Model",
+    "TestLink Zephyr",
+    "YouTrack Trello"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Security Testing",
+   "skills": [
+    "Test Planning",
+    "Automated Testing Frontend Automation",
+    "Backend Automation",
+    "Karateframework",
+    "Basic Introduction",
+    "Automation Frameworks",
+    "Cypress Playwright",
+    "Webdriver.io",
+    "Browser / Dev Tools",
+    "Soap UI",
+    "Non-Functional Testing",
+    "Playwright",
+    "Jasmine",
+    "HTML, CSS, JavaScript"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Authentication / Authorization",
+   "skills": [
+    "Webpage Test",
+    "Gatling K6 Artillery"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Secrets Management",
+   "skills": [
+    "Mailinator"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Vulnerability Scanning",
+   "skills": [
+    "Vegeta JMeter",
+    "Gmail Tester",
+    "OWASP 10 Attack Vectors",
+    "New Relic"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Monitoring & Logs",
+   "skills": [
+    "TestRail",
+    "RunScope",
+    "Allure",
+    "Reporting",
+    "Kibana",
+    "jUnit",
+    "Datadog",
+    "Version Control System Git"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Repo Hosting Services",
+   "skills": [
+    "Drone Jenkins",
+    "Pager Duty",
+    "GitLab CI Bamboo",
+    "Grafana",
+    "Circle CI",
+    "Travis CI",
+    "Sentry"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "GitHub Bitbucket GitLab",
+   "skills": [
+    "CI / CD",
+    "Zombie.js Puppeteer"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Headless Testing",
+   "skills": [
+    "Playwright Cypress",
+    "TeamCity",
+    "Headless Chrome",
+    "Azure DevOps Services",
+    "Headless Fox"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  },
+  {
+   "name": "Backend Full-stack",
+   "skills": [
+    "HTML Unit"
+   ],
+   "resources": [
+    "roadmap.sh/qa"
+   ]
+  }
+ ]
+}

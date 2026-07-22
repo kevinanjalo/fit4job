@@ -1,0 +1,222 @@
+{% extends "base.html" %}
+{% block title %}Skill roadmaps{% endblock %}
+{% block content %}
+<section class="section"><div class="container" style="max-width:1500px">
+  <h2>Skill roadmaps</h2>
+  <p class="sub">Pick a field on the left, choose a roadmap, then click any topic in the tree to see what it is and how
+    to start learning it. Roadmaps are grouped by area so related paths sit together.</p>
+  <div class="rm-explorer">
+    <!-- Left rail: search + category groups -->
+    <div class="rm-rail" id="rm-rail">
+      <div class="rm-search"><input id="rm-filter" placeholder="Search roadmaps..." oninput="renderRail()"></div>
+      <div id="rm-groups"></div>
+    </div>
+
+    <!-- Middle: toolbar + tree -->
+    <div>
+      <div class="rm-toolbar">
+        <span class="rm-current" id="rm-current">Select a roadmap</span>
+        <span style="flex:1"></span>
+        <button class="zoom-btn" onclick="setZoom(-0.1)" aria-label="Zoom out" title="Zoom out">&minus;</button>
+        <button class="zoom-btn" onclick="setZoom(0.1)" aria-label="Zoom in" title="Zoom in">+</button>
+        <button class="zoom-btn" onclick="resetZoom()" aria-label="Reset zoom" title="Reset zoom" style="width:auto;padding:0 10px">Fit</button>
+      </div>
+      <div class="tree-wrap" id="tree-wrap">
+        <p class="sub" style="padding:24px">Select a roadmap on the left to load its tree.</p>
+      </div>
+    </div>
+
+    <!-- Right: topic details -->
+    <aside class="side-panel">
+      <div class="card" id="node-panel">
+        <h3>Topic details</h3>
+        <p class="meta">Click a node in the tree to see a short description here.</p>
+      </div>
+    </aside>
+  </div>
+</div></section>
+{% endblock %}
+{% block scripts %}
+<script>
+let categories = [];          // [{category, roadmaps:[{key,name}]}]
+let nameByKey = {};           // key -> display name
+let currentKey = null, currentTopic = "";
+let zoom = 1, treeW = 960, treeH = 600, pendingTopic = null;
+
+// Labels that are scrape noise or cross-links to other roadmaps rather than
+// real learning topics (mirrors the server filter in roadmap_display.py).
+const BAD = /personal recommendation|alternative option|order not strict|learn anytime|visit |not required|pick this|along with|similar roadmap|beginner version|opinion|shout ?out|linkedin profile|roadmap\.sh|[<>]|roadmaps?\s*$|find the (detailed|interactive)|interactive version|more roadmaps|detailed version|other roadmaps/i;
+const isJunk = (s) => !s || s.trim().length < 3 || !/[A-Za-z0-9]/.test(s.trim()[0]) || BAD.test(s);
+
+async function init() {
+  categories = await API.get("/roadmap-categories");
+  categories.forEach((g) => g.roadmaps.forEach((r) => (nameByKey[r.key] = r.name)));
+  renderRail();
+
+  // Deep link support: /roadmaps?roadmap=<key>&topic=<skill>
+  const params = new URLSearchParams(location.search);
+  const wanted = params.get("roadmap");
+  pendingTopic = params.get("topic");
+  if (wanted && nameByKey[wanted]) {
+    selectRoadmap(wanted);
+  } else if (wanted) {
+    // tolerate a display name or near-match passed in
+    const hit = Object.keys(nameByKey).find((k) => k === wanted.toLowerCase().replace(/\s+/g, "_"))
+      || Object.entries(nameByKey).find(([, v]) => v.toLowerCase() === wanted.toLowerCase());
+    if (hit) selectRoadmap(Array.isArray(hit) ? hit[0] : hit);
+  }
+}
+
+function renderRail() {
+  const f = (document.getElementById("rm-filter").value || "").toLowerCase();
+  const wrap = document.getElementById("rm-groups");
+  wrap.innerHTML = "";
+  categories.forEach((group) => {
+    const items = group.roadmaps.filter((r) => !f || r.name.toLowerCase().includes(f) || r.key.includes(f));
+    if (!items.length) return;
+    const block = el("div", { class: "rm-group" });
+    block.append(el("div", { class: "rm-group-title" }, [el("span", { class: "dot" }), group.category]));
+    items.forEach((r) => block.append(el("button", {
+      class: "rm-item" + (r.key === currentKey ? " active" : ""), role: "option",
+      onclick: () => selectRoadmap(r.key),
+    }, r.name)));
+    wrap.append(block);
+  });
+}
+
+function selectRoadmap(key) {
+  currentKey = key;
+  currentTopic = nameByKey[key] || key;
+  document.getElementById("rm-current").textContent = currentTopic;
+  renderRail();                       // refresh active highlight
+  loadTree();                         // auto-loads immediately - no manual refresh needed
+}
+
+async function loadTree() {
+  const wrap = document.getElementById("tree-wrap");
+  wrap.innerHTML = ""; loading(wrap, "Building the tree");
+  let g;
+  try {
+    g = await API.get("/roadmap-graph/" + currentKey);
+  } catch (e) {
+    wrap.innerHTML = "";
+    wrap.append(el("p", { class: "sub", style: "padding:24px" }, "No tree is available for this roadmap yet."));
+    return;
+  }
+  const nodes = (g.nodes || []).filter((n) => n.label && !isJunk(n.label));
+  const trunks = nodes.filter((n) => n.is_trunk && n.type !== "root")
+    .sort((a, b) => (a.y_raw ?? a.y ?? 0) - (b.y_raw ?? b.y ?? 0));
+  const leaves = nodes.filter((n) => !n.is_trunk && n.type === "skill");
+  if (!trunks.length) {
+    wrap.innerHTML = "";
+    wrap.append(el("p", { class: "sub", style: "padding:24px" }, "No tree data for this roadmap."));
+    return;
+  }
+
+  // Layout: trunk/section nodes down a centre spine; skills branch left & right.
+  const GAP = 84, LEAF_GAP = 40, CX = 480, W = 960;
+  const groups = trunks.map(() => ({ left: [], right: [] }));
+  const ty = trunks.map((t) => t.y_raw ?? t.y ?? 0);
+  leaves.forEach((s) => {
+    const y = s.y_raw ?? s.y ?? 0;
+    let best = 0, bd = Infinity;
+    ty.forEach((v, i) => { const d = Math.abs(v - y); if (d < bd) { bd = d; best = i; } });
+    const side = (s.side === "left" || (s.x_raw ?? s.x ?? CX) < 50) ? "left" : "right";
+    groups[best][side].push(s.label);
+  });
+  let y = 60; const placed = [];
+  trunks.forEach((t, i) => {
+    const rows = Math.max(groups[i].left.length, groups[i].right.length, 1);
+    const blockH = Math.max(GAP, rows * LEAF_GAP + 20);
+    placed.push({ label: t.label, kind: t.type === "section" ? "section" : "trunk",
+      y: y + blockH / 2, left: groups[i].left, right: groups[i].right });
+    y += blockH;
+  });
+  const H = y + 60;
+  treeW = W; treeH = H;
+
+  const sizer = el("div", { class: "tree-sizer", style: "position:relative" });
+  const canvas = el("div", { class: "tree-canvas", style: "height:" + H + "px;min-width:" + W + "px;transform-origin:0 0" });
+  const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  svg.setAttribute("class", "tree-svg");
+  svg.setAttribute("viewBox", "0 0 " + W + " " + H);
+  svg.setAttribute("preserveAspectRatio", "none");
+  canvas.append(svg);
+  const path = (x1, y1, x2, y2) => {
+    const p = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    const mx = (x1 + x2) / 2;
+    p.setAttribute("d", `M ${x1} ${y1} C ${mx} ${y1}, ${mx} ${y2}, ${x2} ${y2}`);
+    svg.append(p);
+  };
+  placed.forEach((t, i) => { if (i) path(CX, placed[i - 1].y, CX, t.y); });
+  placed.forEach((t) => {
+    canvas.append(makeNode(t.label, CX, t.y, t.kind));
+    t.left.forEach((l, j) => {
+      const ly = t.y - ((t.left.length - 1) / 2 - j) * LEAF_GAP;
+      path(CX - 90, t.y, 250, ly);
+      canvas.append(makeNode(l, 150, ly, "leaf"));
+    });
+    t.right.forEach((l, j) => {
+      const ly = t.y - ((t.right.length - 1) / 2 - j) * LEAF_GAP;
+      path(CX + 90, t.y, W - 250, ly);
+      canvas.append(makeNode(l, W - 150, ly, "leaf"));
+    });
+  });
+  sizer.append(canvas);
+  wrap.innerHTML = "";
+  wrap.append(sizer);
+  applyZoom();
+
+  // If we arrived via a deep link with a topic, highlight it.
+  if (pendingTopic) { highlightTopic(pendingTopic); pendingTopic = null; }
+}
+
+function makeNode(label, x, y, kind) {
+  return el("button", {
+    class: "tnode " + kind, style: "left:" + x + "px;top:" + y + "px",
+    onclick: (e) => selectNode(e.currentTarget, label),
+    "aria-label": label + " topic",
+  }, label);
+}
+
+function highlightTopic(topic) {
+  const t = topic.toLowerCase();
+  const nodes = [...document.querySelectorAll(".tnode")];
+  let node = nodes.find((n) => n.textContent.toLowerCase() === t)
+    || nodes.find((n) => n.textContent.toLowerCase().includes(t));
+  if (node) {
+    selectNode(node, node.textContent);
+    node.scrollIntoView({ behavior: "smooth", block: "center", inline: "center" });
+  }
+}
+
+async function selectNode(node, label) {
+  document.querySelectorAll(".tnode.selected").forEach((n) => n.classList.remove("selected"));
+  node.classList.add("selected");
+  const panel = document.getElementById("node-panel");
+  panel.innerHTML = "";
+  panel.append(el("h3", {}, label));
+  panel.append(el("p", { class: "meta" }, "Part of the " + currentTopic + " roadmap"));
+  const out = el("div"); panel.append(out);
+  loading(out, "Preparing a short guide");
+  try {
+    const r = await API.post("/roadmap-node-info", { roadmap: currentTopic, node: label });
+    aiBlock(out, r.explanation);
+  } catch (e) { out.innerHTML = ""; notify(out, e.message, false); }
+}
+
+// Zoom
+function applyZoom() {
+  const sizer = document.querySelector(".tree-sizer");
+  const canvas = sizer && sizer.querySelector(".tree-canvas");
+  if (!canvas) return;
+  canvas.style.transform = "scale(" + zoom + ")";     // scale the artwork...
+  sizer.style.width = (treeW * zoom) + "px";           // ...and match the scroll box to it
+  sizer.style.height = (treeH * zoom) + "px";
+}
+function setZoom(delta) { zoom = Math.min(1.6, Math.max(0.5, zoom + delta)); applyZoom(); }
+function resetZoom() { zoom = 1; applyZoom(); }
+
+init();
+</script>
+{% endblock %}

@@ -1,0 +1,575 @@
+{
+  "topic": "Mlops",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Mlops",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Shout out to Maria Vechtomova who",
+      "type": "skill",
+      "x_raw": 36.751739501953125,
+      "y_raw": 47.12282180786133,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "helped make this roadmap.",
+      "type": "skill",
+      "x_raw": 36.751739501953125,
+      "y_raw": 63.44508743286133,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_2",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 485.4908447265625,
+      "y_raw": 63.6677131652832,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_3",
+      "label": "MLOps",
+      "type": "section",
+      "x_raw": 341.70733642578125,
+      "y_raw": 79.24195861816406,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_4",
+      "label": "LinkedIn Profile",
+      "type": "skill",
+      "x_raw": 98.138916015625,
+      "y_raw": 96.9566879272461,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_5",
+      "label": "Python",
+      "type": "skill",
+      "x_raw": 540.5037841796875,
+      "y_raw": 169.65109252929688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "Go",
+      "type": "skill",
+      "x_raw": 550.0534057617188,
+      "y_raw": 203.5727996826172,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_7",
+      "label": "Programming Fundamentals",
+      "type": "section",
+      "x_raw": 301.552001953125,
+      "y_raw": 204.21725463867188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 103.10707092285156,
+      "y_raw": 204.21725463867188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_9",
+      "label": "Bash",
+      "type": "skill",
+      "x_raw": 544.7103271484375,
+      "y_raw": 237.5179443359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_10",
+      "label": "Version Control Systems Git GitHub",
+      "type": "skill",
+      "x_raw": 311.4062805175781,
+      "y_raw": 296.7139587402344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_11",
+      "label": "AI & Data Scientist",
+      "type": "skill",
+      "x_raw": 56.92901611328125,
+      "y_raw": 324.4009704589844,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_12",
+      "label": "DevOps Roadmap",
+      "type": "skill",
+      "x_raw": 56.92901611328125,
+      "y_raw": 343.6174011230469,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_13",
+      "label": "Backend Roadmap",
+      "type": "skill",
+      "x_raw": 56.92901611328125,
+      "y_raw": 362.8338317871094,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "AWS / Azure / GCP",
+      "type": "skill",
+      "x_raw": 549.490966796875,
+      "y_raw": 373.7437744140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Python Roadmap",
+      "type": "skill",
+      "x_raw": 56.92901611328125,
+      "y_raw": 382.0385437011719,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "Cloud Computing",
+      "type": "section",
+      "x_raw": 328.2792663574219,
+      "y_raw": 387.2655944824219,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "Go Roadmap",
+      "type": "skill",
+      "x_raw": 56.92901611328125,
+      "y_raw": 401.2550048828125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_18",
+      "label": "Cloud-native ML Services",
+      "type": "skill",
+      "x_raw": 534.1412353515625,
+      "y_raw": 407.6889343261719,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_19",
+      "label": "Docker",
+      "type": "skill",
+      "x_raw": 544.0189819335938,
+      "y_raw": 468.1387023925781,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Containerization",
+      "type": "section",
+      "x_raw": 330.57586669921875,
+      "y_raw": 483.4064025878906,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_21",
+      "label": "Kubernetes",
+      "type": "skill",
+      "x_raw": 533.145263671875,
+      "y_raw": 502.0721130371094,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_22",
+      "label": "Airflow",
+      "type": "skill",
+      "x_raw": 40.372406005859375,
+      "y_raw": 549.3281860351562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "Machine Learning Fundamentals",
+      "type": "section",
+      "x_raw": 289.97528076171875,
+      "y_raw": 562.6625366210938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_24",
+      "label": "Data Pipelines",
+      "type": "skill",
+      "x_raw": 74.6104736328125,
+      "y_raw": 609.9302978515625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Spark",
+      "type": "skill",
+      "x_raw": 545.764892578125,
+      "y_raw": 610.3286743164062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_26",
+      "label": "Data Lakes & Warehouses",
+      "type": "skill",
+      "x_raw": 45.73895263671875,
+      "y_raw": 643.8754272460938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_27",
+      "label": "Data Engineering Fundamentals",
+      "type": "section",
+      "x_raw": 291.29931640625,
+      "y_raw": 644.1332397460938,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_28",
+      "label": "Kafka",
+      "type": "skill",
+      "x_raw": 546.0578002929688,
+      "y_raw": 644.2738647460938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_29",
+      "label": "Data Ingestion Architecture",
+      "type": "skill",
+      "x_raw": 42.973663330078125,
+      "y_raw": 677.8088989257812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_30",
+      "label": "Flink",
+      "type": "skill",
+      "x_raw": 548.4598388671875,
+      "y_raw": 678.218994140625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "MLOps Principles MLOps Components",
+      "type": "skill",
+      "x_raw": 242.27395629882812,
+      "y_raw": 763.3689575195312,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_32",
+      "label": "Version Control",
+      "type": "skill",
+      "x_raw": 550.1237182617188,
+      "y_raw": 821.4166870117188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_33",
+      "label": "CI/CD Orchestration",
+      "type": "skill",
+      "x_raw": 495.18109130859375,
+      "y_raw": 855.36181640625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Experiment Tracking & Model Registry",
+      "type": "skill",
+      "x_raw": 493.4469299316406,
+      "y_raw": 890.1857299804688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_35",
+      "label": "Infrastructure as Code",
+      "type": "section",
+      "x_raw": 320.1005554199219,
+      "y_raw": 892.7518310546875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_36",
+      "label": "Data Lineage & Feature Stores",
+      "type": "skill",
+      "x_raw": 511.65570068359375,
+      "y_raw": 924.1309204101562,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_37",
+      "label": "Model Training & Serving",
+      "type": "skill",
+      "x_raw": 526.2906494140625,
+      "y_raw": 958.0760498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "Keep learning",
+      "type": "section",
+      "x_raw": 326.7325744628906,
+      "y_raw": 982.4121704101562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_39",
+      "label": "Monitoring & Observability",
+      "type": "skill",
+      "x_raw": 523.197265625,
+      "y_raw": 992.0211791992188,
+      "is_trunk": false,
+      "side": "right"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "trunk"
+    },
+    {
+      "source": "node_3",
+      "target": "node_4",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_3",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "trunk"
+    },
+    {
+      "source": "node_20",
+      "target": "node_21",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_20",
+      "target": "node_23",
+      "type": "trunk"
+    },
+    {
+      "source": "node_23",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_25",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_23",
+      "target": "node_27",
+      "type": "trunk"
+    },
+    {
+      "source": "node_27",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_29",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_27",
+      "target": "node_35",
+      "type": "trunk"
+    },
+    {
+      "source": "node_35",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_35",
+      "target": "node_38",
+      "type": "trunk"
+    },
+    {
+      "source": "node_38",
+      "target": "node_39",
+      "type": "branch"
+    }
+  ]
+}

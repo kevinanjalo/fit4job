@@ -1,0 +1,315 @@
+{
+ "domain": "Wordpress",
+ "stages": [
+  {
+   "name": "WordPress",
+   "skills": [
+    "HTML CSS JavaScript",
+    "How the Web Works?"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Introduction",
+   "skills": [
+    "What is HTTP?",
+    "Frontend Fundamentals",
+    "What is a CMS?",
+    "Backend Fundamentals",
+    "wordpress.com & wordpress.org"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "XAMPP Block",
+   "skills": [
+    "PHP SQL",
+    "Start with local deployment",
+    "Installation & Setup LocalWP",
+    "Classic",
+    "VVV",
+    "Docker",
+    "Universal",
+    "Hybrid"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "WordPress Concepts",
+   "skills": [
+    "Third-Party"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Themes Plugins",
+   "skills": [
+    "File Structure"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "The Loop",
+   "skills": [
+    "Page Editors",
+    "Actions Filters Hooks"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Shortcodes",
+   "skills": [
+    "Gutenberg",
+    "Block Editor",
+    "Third-Party Page Builders",
+    "Style & Script Enqueueing Custom Post Types"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Themes & Plugins",
+   "skills": [
+    "Taxonomies",
+    "WordPress REST API",
+    "Coding Standards Classic vs Block Themes"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Block Themes",
+   "skills": [
+    "Classic Themes",
+    "Plugin Basics"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Theme Structure",
+   "skills": [
+    "style.css functions.php",
+    "Plugin Basics",
+    "Template Files",
+    "Full Site Editing (FSE)",
+    "File Structure"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Block Patterns",
+   "skills": [
+    "Child Themes",
+    "Extending Functionality"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Template Parts",
+   "skills": [
+    "Template Hierarchy",
+    "Transients API"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Sytles Overrides",
+   "skills": [
+    "Theme Structure",
+    "Cron Jobs",
+    "Menus Customizer"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Licensing & Updates",
+   "skills": [
+    "AJAX in WordPress",
+    "Widgets",
+    "REST API",
+    "Template Tags",
+    "Advanced Plugin",
+    "Working with Databases",
+    "Custom Fields"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Performance",
+   "skills": [
+    "Custom Tables",
+    "ACF Metabox",
+    "External API Integrations",
+    "Theme Customization",
+    "Plugin Administration",
+    "Optimizations",
+    "Admin Menu",
+    "Assets",
+    "Images"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Security",
+   "skills": [
+    "Settings API",
+    "Database Tuning",
+    "Options API",
+    "Caching",
+    "Settings Page"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Security & Hardening",
+   "skills": [
+    "Core Web Vitals",
+    "CDN Integration",
+    "Firewall & Malware Scanning"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "User Roles",
+   "skills": [
+    "Activity Logging"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Security Best Practices",
+   "skills": [
+    "Vulnerability Monitoring",
+    "PHPUnit",
+    "Virtual Patching"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Testing & Debugging",
+   "skills": [
+    "WP_DEBUG",
+    "User & Login Security",
+    "Query Editor",
+    "Log Fies"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Monitoring",
+   "skills": [
+    "VPS Shared",
+    "Backups & Recovery",
+    "Managed"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Deployment",
+   "skills": [
+    "Update Strategies",
+    "Hosting Options",
+    "Performance monitoring",
+    "WP-CLI",
+    "Bedrock"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Advanced WordPress",
+   "skills": [
+    "Sage",
+    "Composer",
+    "Migrations",
+    "Workflows & Automation",
+    "Automated Deployments"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "OOP in PHP",
+   "skills": [
+    "Accessibility",
+    "Advanced PHP & Architecture"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Design Patterns",
+   "skills": [
+    "WordPress Credit Program",
+    "Localization"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Composer & Autoloading",
+   "skills": [
+    "Multisite"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  },
+  {
+   "name": "Career Growth",
+   "skills": [
+    "Headless WordPress",
+    "Contribute to WordPress",
+    "Basics of SEO",
+    "Boost your WordPress Career"
+   ],
+   "resources": [
+    "roadmap.sh/wordpress"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1821 @@
+{
+  "topic": "Nodejs",
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Nodejs",
+      "type": "root",
+      "x": 500,
+      "y": 50,
+      "is_trunk": true
+    },
+    {
+      "id": "node_0",
+      "label": "Beginner Topics / start with these",
+      "type": "skill",
+      "x_raw": 58.7694091796875,
+      "y_raw": 54.139686584472656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_1",
+      "label": "along with other similar roadmaps",
+      "type": "skill",
+      "x_raw": 482.4902038574219,
+      "y_raw": 68.99375915527344,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_2",
+      "label": "Intermediate Topics / pick these next",
+      "type": "skill",
+      "x_raw": 58.7694091796875,
+      "y_raw": 74.44631958007812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_3",
+      "label": "Advanced Topics / pick these at last",
+      "type": "skill",
+      "x_raw": 58.7694091796875,
+      "y_raw": 94.7646713256836,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_4",
+      "label": "Node.js",
+      "type": "section",
+      "x_raw": 331.4266662597656,
+      "y_raw": 96.70989990234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_5",
+      "label": "CommonJS",
+      "type": "skill",
+      "x_raw": 562.884765625,
+      "y_raw": 164.73841857910156,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_6",
+      "label": "What is Node.js?",
+      "type": "skill",
+      "x_raw": 77.07232666015625,
+      "y_raw": 177.41688537597656,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_7",
+      "label": "JavaScript Roadmap",
+      "type": "section",
+      "x_raw": 310.82708740234375,
+      "y_raw": 180.9087371826172,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_8",
+      "label": "ESM",
+      "type": "skill",
+      "x_raw": 579.5003662109375,
+      "y_raw": 198.35626220703125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_9",
+      "label": "Why use Node.js?",
+      "type": "skill",
+      "x_raw": 74.75222778320312,
+      "y_raw": 211.04644775390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_10",
+      "label": "History of Node.js",
+      "type": "skill",
+      "x_raw": 74.75222778320312,
+      "y_raw": 244.67601013183594,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_11",
+      "label": "Introduction to Node.js",
+      "type": "section",
+      "x_raw": 306.3861083984375,
+      "y_raw": 244.68772888183594,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_12",
+      "label": "Modules",
+      "type": "skill",
+      "x_raw": 570.1262817382812,
+      "y_raw": 244.68772888183594,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_13",
+      "label": "Node.js vs Browser",
+      "type": "skill",
+      "x_raw": 70.88540649414062,
+      "y_raw": 278.31732177734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_14",
+      "label": "Creating & Importing",
+      "type": "skill",
+      "x_raw": 565.9782104492188,
+      "y_raw": 290.374755859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_15",
+      "label": "Running Node.js Code",
+      "type": "skill",
+      "x_raw": 62.624481201171875,
+      "y_raw": 311.95855712890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_16",
+      "label": "npx",
+      "type": "section",
+      "x_raw": 316.3929443359375,
+      "y_raw": 321.4732666015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_17",
+      "label": "[global] keyword",
+      "type": "skill",
+      "x_raw": 577.1920166015625,
+      "y_raw": 324.0159912109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_18",
+      "label": "npm Global Installation",
+      "type": "skill",
+      "x_raw": 96.94540405273438,
+      "y_raw": 371.62469482421875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_19",
+      "label": "Error Handling",
+      "type": "skill",
+      "x_raw": 551.4835205078125,
+      "y_raw": 376.68670654296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_20",
+      "label": "Local Installation",
+      "type": "skill",
+      "x_raw": 99.38265991210938,
+      "y_raw": 405.2542724609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_21",
+      "label": "Semantic Versioning",
+      "type": "section",
+      "x_raw": 299.43756103515625,
+      "y_raw": 422.39715576171875,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_22",
+      "label": "Installing Packages",
+      "type": "skill",
+      "x_raw": 88.71963500976562,
+      "y_raw": 438.66119384765625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_23",
+      "label": "System Errors",
+      "type": "skill",
+      "x_raw": 575.656982421875,
+      "y_raw": 442.7037353515625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_24",
+      "label": "Updating Packages",
+      "type": "skill",
+      "x_raw": 90.78192138671875,
+      "y_raw": 473.80230712890625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_25",
+      "label": "Event Emitter",
+      "type": "section",
+      "x_raw": 384.9878845214844,
+      "y_raw": 476.0286865234375,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_26",
+      "label": "User Specified Errors",
+      "type": "skill",
+      "x_raw": 557.3657836914062,
+      "y_raw": 476.34503173828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_27",
+      "label": "Promises",
+      "type": "skill",
+      "x_raw": 267.67108154296875,
+      "y_raw": 476.977783203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_28",
+      "label": "Running Scripts",
+      "type": "skill",
+      "x_raw": 99.80450439453125,
+      "y_raw": 506.79913330078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_29",
+      "label": "Event Loop",
+      "type": "section",
+      "x_raw": 390.47174072265625,
+      "y_raw": 509.65826416015625,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_30",
+      "label": "Assertion Errors",
+      "type": "skill",
+      "x_raw": 570.630126953125,
+      "y_raw": 509.974609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_31",
+      "label": "async/await",
+      "type": "skill",
+      "x_raw": 261.33184814453125,
+      "y_raw": 510.60736083984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_32",
+      "label": "npm workspaces",
+      "type": "skill",
+      "x_raw": 97.32037353515625,
+      "y_raw": 539.8076782226562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_33",
+      "label": "JavaScript Errors",
+      "type": "skill",
+      "x_raw": 567.82958984375,
+      "y_raw": 543.6159057617188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_34",
+      "label": "Callbacks",
+      "type": "skill",
+      "x_raw": 266.66339111328125,
+      "y_raw": 544.2486572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_35",
+      "label": "Async Programming",
+      "type": "skill",
+      "x_raw": 393.9635925292969,
+      "y_raw": 563.6061401367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_36",
+      "label": "Creating Packages",
+      "type": "skill",
+      "x_raw": 92.08258056640625,
+      "y_raw": 572.8045043945312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_37",
+      "label": "Types of Errors",
+      "type": "skill",
+      "x_raw": 573.8993530273438,
+      "y_raw": 577.0111083984375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_38",
+      "label": "setTimeout",
+      "type": "skill",
+      "x_raw": 263.0191955566406,
+      "y_raw": 577.8899536132812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_39",
+      "label": "setInterval",
+      "type": "skill",
+      "x_raw": 264.4487609863281,
+      "y_raw": 611.5194702148438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_40",
+      "label": "Uncaught Exceptions",
+      "type": "skill",
+      "x_raw": 558.23291015625,
+      "y_raw": 612.4803466796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_41",
+      "label": "process.env",
+      "type": "skill",
+      "x_raw": 68.31924438476562,
+      "y_raw": 636.56005859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_42",
+      "label": "setImmediate",
+      "type": "skill",
+      "x_raw": 256.7033996582031,
+      "y_raw": 645.1608276367188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_43",
+      "label": "Handling Async Errors",
+      "type": "skill",
+      "x_raw": 556.2526245117188,
+      "y_raw": 646.1099243164062,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_44",
+      "label": "dotenv package",
+      "type": "skill",
+      "x_raw": 58.6873779296875,
+      "y_raw": 670.2013549804688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_45",
+      "label": "process.nextTick",
+      "type": "skill",
+      "x_raw": 249.5791015625,
+      "y_raw": 678.8020629882812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_46",
+      "label": "Callstack / Stack Trace",
+      "type": "skill",
+      "x_raw": 554.0614013671875,
+      "y_raw": 679.7511596679688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_47",
+      "label": "__dirname",
+      "type": "section",
+      "x_raw": 383.7575378417969,
+      "y_raw": 691.9609985351562,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_48",
+      "label": "Environment Variables",
+      "type": "skill",
+      "x_raw": 44.637939453125,
+      "y_raw": 699.3782348632812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_49",
+      "label": "Writing Async Code",
+      "type": "skill",
+      "x_raw": 241.35333251953125,
+      "y_raw": 712.1973266601562,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_50",
+      "label": "Using Debugger",
+      "type": "skill",
+      "x_raw": 570.1028442382812,
+      "y_raw": 713.3807983398438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_51",
+      "label": "__filename",
+      "type": "section",
+      "x_raw": 382.89044189453125,
+      "y_raw": 725.6022338867188,
+      "is_trunk": true,
+      "side": "center"
+    },
+    {
+      "id": "node_52",
+      "label": "process.stdin",
+      "type": "skill",
+      "x_raw": 67.06546020507812,
+      "y_raw": 736.2770385742188,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_53",
+      "label": "Exitting / Exit Codes",
+      "type": "skill",
+      "x_raw": 216.48854064941406,
+      "y_raw": 754.1580200195312,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_54",
+      "label": "process.cwd()",
+      "type": "skill",
+      "x_raw": 598.74072265625,
+      "y_raw": 765.7702026367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_55",
+      "label": "Inquirer Package",
+      "type": "skill",
+      "x_raw": 57.632781982421875,
+      "y_raw": 769.9182739257812,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_56",
+      "label": "Working with Files",
+      "type": "skill",
+      "x_raw": 398.592041015625,
+      "y_raw": 798.7787475585938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_57",
+      "label": "path module",
+      "type": "skill",
+      "x_raw": 602.4669189453125,
+      "y_raw": 798.7787475585938,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_58",
+      "label": "Command Line Apps",
+      "type": "skill",
+      "x_raw": 215.48081970214844,
+      "y_raw": 798.7787475585938,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_59",
+      "label": "prompts package",
+      "type": "skill",
+      "x_raw": 57.234375,
+      "y_raw": 803.5595092773438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_60",
+      "label": "fs module",
+      "type": "skill",
+      "x_raw": 609.0873413085938,
+      "y_raw": 831.7755737304688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_61",
+      "label": "Taking Input",
+      "type": "skill",
+      "x_raw": 69.06918334960938,
+      "y_raw": 833.8143920898438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_62",
+      "label": "glob globby",
+      "type": "skill",
+      "x_raw": 398.2873840332031,
+      "y_raw": 862.1124877929688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_63",
+      "label": "stdout / stderr",
+      "type": "skill",
+      "x_raw": 65.28439331054688,
+      "y_raw": 872.0841674804688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_64",
+      "label": "jsonwebtoken",
+      "type": "skill",
+      "x_raw": 602.4786376953125,
+      "y_raw": 887.8092651367188,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_65",
+      "label": "fs-extra chokidar",
+      "type": "skill",
+      "x_raw": 390.29595947265625,
+      "y_raw": 895.7420043945312,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_66",
+      "label": "chalk package",
+      "type": "skill",
+      "x_raw": 64.991455078125,
+      "y_raw": 905.7255249023438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_67",
+      "label": "passport.js",
+      "type": "skill",
+      "x_raw": 609.3217163085938,
+      "y_raw": 921.4505004882812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_68",
+      "label": "Opensource Packages",
+      "type": "skill",
+      "x_raw": 389.22967529296875,
+      "y_raw": 925.9266967773438,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_69",
+      "label": "figlet package",
+      "type": "skill",
+      "x_raw": 65.79995727539062,
+      "y_raw": 939.3550415039062,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_70",
+      "label": "Authentication",
+      "type": "skill",
+      "x_raw": 600.4749145507812,
+      "y_raw": 953.5451049804688,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_71",
+      "label": "cli-progress",
+      "type": "skill",
+      "x_raw": 71.3424072265625,
+      "y_raw": 972.9962768554688,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_72",
+      "label": "http module",
+      "type": "skill",
+      "x_raw": 606.8375244140625,
+      "y_raw": 991.8616333007812,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_73",
+      "label": "Building & Consuming APIs Express.js",
+      "type": "skill",
+      "x_raw": 216.629150390625,
+      "y_raw": 992.2717895507812,
+      "is_trunk": false,
+      "side": "center"
+    },
+    {
+      "id": "node_74",
+      "label": "Printing Output",
+      "type": "skill",
+      "x_raw": 62.085479736328125,
+      "y_raw": 1006.3915405273438,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_75",
+      "label": "axios ky",
+      "type": "skill",
+      "x_raw": 591.7100830078125,
+      "y_raw": 1025.5029296875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_76",
+      "label": "fastify",
+      "type": "skill",
+      "x_raw": 520.045166015625,
+      "y_raw": 1025.9129638671875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_77",
+      "label": "--watch",
+      "type": "skill",
+      "x_raw": 423.972412109375,
+      "y_raw": 1040.50146484375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_78",
+      "label": "process.argv",
+      "type": "skill",
+      "x_raw": 68.43643188476562,
+      "y_raw": 1041.9544677734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_79",
+      "label": "Monitor Changes (Dev)",
+      "type": "skill",
+      "x_raw": 225.72201538085938,
+      "y_raw": 1056.6014404296875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_80",
+      "label": "NestJS",
+      "type": "skill",
+      "x_raw": 516.5064697265625,
+      "y_raw": 1059.5426025390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_81",
+      "label": "fetch",
+      "type": "skill",
+      "x_raw": 623.6640625,
+      "y_raw": 1059.7769775390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_82",
+      "label": "nodemon",
+      "type": "skill",
+      "x_raw": 419.051025390625,
+      "y_raw": 1074.1427001953125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_83",
+      "label": "commander",
+      "type": "skill",
+      "x_raw": 70.96743774414062,
+      "y_raw": 1075.595703125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_84",
+      "label": "got package",
+      "type": "skill",
+      "x_raw": 605.4900512695312,
+      "y_raw": 1093.418212890625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_85",
+      "label": "Hono",
+      "type": "skill",
+      "x_raw": 521.1466064453125,
+      "y_raw": 1094.4493408203125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_86",
+      "label": "Command line args",
+      "type": "skill",
+      "x_raw": 50.9537353515625,
+      "y_raw": 1108.990966796875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_87",
+      "label": "ejs",
+      "type": "skill",
+      "x_raw": 432.3973693847656,
+      "y_raw": 1118.880615234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_88",
+      "label": "Frameworks",
+      "type": "skill",
+      "x_raw": 502.19921875,
+      "y_raw": 1129.121826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_89",
+      "label": "Making API Calls",
+      "type": "skill",
+      "x_raw": 594.1239624023438,
+      "y_raw": 1129.121826171875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_90",
+      "label": "Template Engines",
+      "type": "skill",
+      "x_raw": 238.9043426513672,
+      "y_raw": 1152.5218505859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_91",
+      "label": "pug",
+      "type": "skill",
+      "x_raw": 430.3116455078125,
+      "y_raw": 1152.5218505859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_92",
+      "label": "Mongoose",
+      "type": "skill",
+      "x_raw": 72.36181640625,
+      "y_raw": 1160.7008056640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_93",
+      "label": "Vitest",
+      "type": "skill",
+      "x_raw": 604.2245483398438,
+      "y_raw": 1179.859130859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_94",
+      "label": "Jest",
+      "type": "skill",
+      "x_raw": 661.980712890625,
+      "y_raw": 1179.859130859375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_95",
+      "label": "marko",
+      "type": "skill",
+      "x_raw": 424.47625732421875,
+      "y_raw": 1186.1514892578125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_96",
+      "label": "Prisma",
+      "type": "skill",
+      "x_raw": 81.4547119140625,
+      "y_raw": 1194.342041015625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_97",
+      "label": "node:test",
+      "type": "skill",
+      "x_raw": 620.722900390625,
+      "y_raw": 1213.5003662109375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_98",
+      "label": "Native Drivers",
+      "type": "skill",
+      "x_raw": 63.925140380859375,
+      "y_raw": 1227.9833984375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_99",
+      "label": "Working with Databases",
+      "type": "skill",
+      "x_raw": 224.42137145996094,
+      "y_raw": 1233.11572265625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_100",
+      "label": "Testing",
+      "type": "skill",
+      "x_raw": 464.210693359375,
+      "y_raw": 1233.11572265625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_101",
+      "label": "Cypress",
+      "type": "skill",
+      "x_raw": 623.55859375,
+      "y_raw": 1247.1300048828125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_102",
+      "label": "NoSQL DBs",
+      "type": "skill",
+      "x_raw": 69.67849731445312,
+      "y_raw": 1261.3785400390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_103",
+      "label": "Playwright",
+      "type": "skill",
+      "x_raw": 618.70751953125,
+      "y_raw": 1280.771240234375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_104",
+      "label": "pm2",
+      "type": "skill",
+      "x_raw": 262.92547607421875,
+      "y_raw": 1288.9033203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_105",
+      "label": "Drizzle",
+      "type": "skill",
+      "x_raw": 81.2437744140625,
+      "y_raw": 1297.2696533203125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_106",
+      "label": "Winston",
+      "type": "skill",
+      "x_raw": 604.9510498046875,
+      "y_raw": 1325.5091552734375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_107",
+      "label": "TypeORM",
+      "type": "skill",
+      "x_raw": 73.7445068359375,
+      "y_raw": 1330.910888671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_108",
+      "label": "Logging",
+      "type": "skill",
+      "x_raw": 462.1718444824219,
+      "y_raw": 1340.4256591796875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_109",
+      "label": "Keep app Running",
+      "type": "skill",
+      "x_raw": 228.20616149902344,
+      "y_raw": 1341.058349609375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_110",
+      "label": "Morgan",
+      "type": "skill",
+      "x_raw": 605.5252075195312,
+      "y_raw": 1359.150390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_111",
+      "label": "Knex",
+      "type": "skill",
+      "x_raw": 85.71990966796875,
+      "y_raw": 1364.54052734375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_112",
+      "label": "Sequelize",
+      "type": "skill",
+      "x_raw": 73.9320068359375,
+      "y_raw": 1398.1817626953125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_113",
+      "label": "Garbage Collection",
+      "type": "skill",
+      "x_raw": 586.2379760742188,
+      "y_raw": 1416.6605224609375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_114",
+      "label": "Threads",
+      "type": "skill",
+      "x_raw": 253.7740020751953,
+      "y_raw": 1422.929443359375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_115",
+      "label": "Streams",
+      "type": "skill",
+      "x_raw": 461.6796875,
+      "y_raw": 1422.929443359375,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_116",
+      "label": "Prisma",
+      "type": "skill",
+      "x_raw": 81.11489868164062,
+      "y_raw": 1431.8231201171875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_117",
+      "label": "Native Drivers",
+      "type": "skill",
+      "x_raw": 63.5853271484375,
+      "y_raw": 1465.45263671875,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_118",
+      "label": "Memory Leaks",
+      "type": "skill",
+      "x_raw": 598.02587890625,
+      "y_raw": 1481.9510498046875,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_119",
+      "label": "Child Process",
+      "type": "skill",
+      "x_raw": 240.2050018310547,
+      "y_raw": 1483.228271484375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_120",
+      "label": "Relational",
+      "type": "skill",
+      "x_raw": 74.41241455078125,
+      "y_raw": 1498.847900390625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_121",
+      "label": "Debugging",
+      "type": "skill",
+      "x_raw": 455.08270263671875,
+      "y_raw": 1516.29541015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_122",
+      "label": "node --inspect",
+      "type": "skill",
+      "x_raw": 598.09619140625,
+      "y_raw": 1516.29541015625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_123",
+      "label": "Cluster",
+      "type": "skill",
+      "x_raw": 256.2347106933594,
+      "y_raw": 1516.8577880859375,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_124",
+      "label": "Using APM",
+      "type": "skill",
+      "x_raw": 606.6618041992188,
+      "y_raw": 1549.9366455078125,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_125",
+      "label": "Worker Threads",
+      "type": "skill",
+      "x_raw": 235.16641235351562,
+      "y_raw": 1550.4991455078125,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_126",
+      "label": "Continue learning with following roadmap",
+      "type": "skill",
+      "x_raw": 47.473602294921875,
+      "y_raw": 1605.3258056640625,
+      "is_trunk": false,
+      "side": "left"
+    },
+    {
+      "id": "node_127",
+      "label": "Common Built-in Modules",
+      "type": "skill",
+      "x_raw": 418.5823059082031,
+      "y_raw": 1626.0191650390625,
+      "is_trunk": false,
+      "side": "right"
+    },
+    {
+      "id": "node_128",
+      "label": "Visit Backend Roadmap",
+      "type": "skill",
+      "x_raw": 88.75479125976562,
+      "y_raw": 1637.68994140625,
+      "is_trunk": false,
+      "side": "left"
+    }
+  ],
+  "links": [
+    {
+      "source": "root",
+      "target": "node_0",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_1",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_2",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_3",
+      "type": "branch"
+    },
+    {
+      "source": "root",
+      "target": "node_4",
+      "type": "trunk"
+    },
+    {
+      "source": "node_4",
+      "target": "node_5",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_6",
+      "type": "branch"
+    },
+    {
+      "source": "node_4",
+      "target": "node_7",
+      "type": "trunk"
+    },
+    {
+      "source": "node_7",
+      "target": "node_8",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_9",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_10",
+      "type": "branch"
+    },
+    {
+      "source": "node_7",
+      "target": "node_11",
+      "type": "trunk"
+    },
+    {
+      "source": "node_11",
+      "target": "node_12",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_13",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_14",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_15",
+      "type": "branch"
+    },
+    {
+      "source": "node_11",
+      "target": "node_16",
+      "type": "trunk"
+    },
+    {
+      "source": "node_16",
+      "target": "node_17",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_18",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_19",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_20",
+      "type": "branch"
+    },
+    {
+      "source": "node_16",
+      "target": "node_21",
+      "type": "trunk"
+    },
+    {
+      "source": "node_21",
+      "target": "node_22",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_23",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_24",
+      "type": "branch"
+    },
+    {
+      "source": "node_21",
+      "target": "node_25",
+      "type": "trunk"
+    },
+    {
+      "source": "node_25",
+      "target": "node_26",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_27",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_28",
+      "type": "branch"
+    },
+    {
+      "source": "node_25",
+      "target": "node_29",
+      "type": "trunk"
+    },
+    {
+      "source": "node_29",
+      "target": "node_30",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_31",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_32",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_33",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_34",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_35",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_36",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_37",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_38",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_39",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_40",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_41",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_42",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_43",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_44",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_45",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_46",
+      "type": "branch"
+    },
+    {
+      "source": "node_29",
+      "target": "node_47",
+      "type": "trunk"
+    },
+    {
+      "source": "node_47",
+      "target": "node_48",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_49",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_50",
+      "type": "branch"
+    },
+    {
+      "source": "node_47",
+      "target": "node_51",
+      "type": "trunk"
+    },
+    {
+      "source": "node_51",
+      "target": "node_52",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_53",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_54",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_55",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_56",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_57",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_58",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_59",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_60",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_61",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_62",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_63",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_64",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_65",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_66",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_67",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_68",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_69",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_70",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_71",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_72",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_73",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_74",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_75",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_76",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_77",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_78",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_79",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_80",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_81",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_82",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_83",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_84",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_85",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_86",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_87",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_88",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_89",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_90",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_91",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_92",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_93",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_94",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_95",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_96",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_97",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_98",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_99",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_100",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_101",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_102",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_103",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_104",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_105",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_106",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_107",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_108",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_109",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_110",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_111",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_112",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_113",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_114",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_115",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_116",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_117",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_118",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_119",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_120",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_121",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_122",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_123",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_124",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_125",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_126",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_127",
+      "type": "branch"
+    },
+    {
+      "source": "node_51",
+      "target": "node_128",
+      "type": "branch"
+    }
+  ]
+}
