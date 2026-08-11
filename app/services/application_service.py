@@ -38,6 +38,14 @@ def list_for_user(user_email: str) -> list:
                   key=lambda a: a.get("applied_at", ""), reverse=True)
 
 
+def list_for_owner(owner_email: str) -> list:
+    """All applications submitted to jobs owned by this organization."""
+    owned = {j.job_id for j in job_service.list_by_owner(owner_email)}
+    return sorted([a for a in firebase.collection("applications").all().values()
+                   if a.get("job_id") in owned],
+                  key=lambda a: a.get("applied_at", ""), reverse=True)
+
+
 def list_all() -> list:
     return sorted(firebase.collection("applications").all().values(),
                   key=lambda a: a.get("applied_at", ""), reverse=True)

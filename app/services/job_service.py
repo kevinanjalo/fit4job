@@ -45,12 +45,15 @@ class JobService:
         with open(JOBS_CSV, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
                 row["skills"] = [s.strip() for s in row.get("skills", "").split(";") if s.strip()]
+                row.setdefault("owner", "")
+                if row.get("owner") is None:
+                    row["owner"] = ""
                 self._jobs[row["job_id"]] = Job(**row)
 
     def save_csv(self):
         with open(JOBS_CSV, "w", newline="", encoding="utf-8") as f:
             fields = ["job_id", "title", "company", "location", "job_type", "experience_level",
-                      "salary_range", "description", "skills", "industry", "posted_date"]
+                      "salary_range", "description", "skills", "industry", "posted_date", "owner"]
             w = csv.DictWriter(f, fieldnames=fields)
             w.writeheader()
             for job in self._jobs.values():
@@ -70,8 +73,7 @@ class JobService:
             jobs = [j for j in jobs if j.experience_level.lower() == level.lower()]
         if area and area in AREA_KEYWORDS:
             kws = AREA_KEYWORDS[area]
-            jobs = [j for j in jobs
-                    if self._matches_area(j, kws)]
+            jobs = [j for j in jobs if self._matches_area(j, kws)]
         return jobs
 
     @staticmethod
@@ -87,9 +89,9 @@ class JobService:
     def get(self, job_id: str) -> Optional[Job]:
         return self._jobs.get(job_id)
 
-    def create(self, payload: JobCreate) -> Job:
+    def create(self, payload: JobCreate, owner: str = "") -> Job:
         job = Job(job_id=f"J{uuid.uuid4().hex[:6].upper()}",
-                  posted_date=time.strftime("%Y-%m-%d"), **payload.model_dump())
+                  posted_date=time.strftime("%Y-%m-%d"), owner=owner, **payload.model_dump())
         self._jobs[job.job_id] = job
         self.save_csv()
         return job
@@ -97,10 +99,19 @@ class JobService:
     def update(self, job_id: str, payload: JobCreate) -> Optional[Job]:
         if job_id not in self._jobs:
             return None
-        job = Job(job_id=job_id, posted_date=self._jobs[job_id].posted_date, **payload.model_dump())
+        existing = self._jobs[job_id]
+        job = Job(job_id=job_id, posted_date=existing.posted_date,
+                  owner=existing.owner, **payload.model_dump())
         self._jobs[job_id] = job
         self.save_csv()
         return job
+
+    def list_by_owner(self, owner: str) -> List[Job]:
+        return [j for j in self._jobs.values() if j.owner == owner]
+
+    def is_owner(self, job_id: str, owner: str) -> bool:
+        job = self._jobs.get(job_id)
+        return job is not None and job.owner == owner
 
     def delete(self, job_id: str) -> bool:
         if job_id in self._jobs:

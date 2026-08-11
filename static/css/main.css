@@ -1579,3 +1579,52 @@ html, body {
     gap: 6px;
   }
 }
+/* Google sign-in button */
+.google-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: #fff;
+  color: #3c4043;
+  border: 1.5px solid var(--line);
+  margin-bottom: 8px;
+}
+.google-btn:hover { background: #f7f8f8; border-color: #d2d5da; }
+.google-btn:disabled { opacity: .55; cursor: not-allowed; }
+.google-icon { width: 18px; height: 18px; flex-shrink: 0; }
+.divider {
+  display: flex; align-items: center; text-align: center;
+  color: var(--slate); font-size: .82rem; margin: 16px 0;
+}
+.divider::before, .divider::after {
+  content: ""; flex: 1; border-bottom: 1px solid var(--line);
+}
+.divider span { padding: 0 12px; }
+
+/* Password field with a show/hide toggle */
+.pw-wrap { position: relative; }
+.pw-wrap input { padding-right: 44px; }
+.pw-toggle {
+  position: absolute;
+  top: 50%;
+  right: 6px;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--slate);
+  cursor: pointer;
+}
+.pw-toggle:hover { background: var(--tint); color: var(--primary-dark); }
+.pw-toggle .pw-eye { width: 19px; height: 19px; }
+.pw-toggle .pw-slash { display: none; }
+.pw-toggle.is-visible { color: var(--primary-dark); }
+.pw-toggle.is-visible .pw-slash { display: inline; }

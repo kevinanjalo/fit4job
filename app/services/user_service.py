@@ -32,26 +32,42 @@ def register(name: str, email: str, password: str) -> dict:
     return record
 
 
-def find_or_create_google_user(name: str, email: str) -> dict:
-    users = firebase.collection("users")
-    user = users.get(email)
-    if user is not None:
+def authenticate(email: str, password: str) -> dict | None:
+    user = firebase.collection("users").get(email)
+    if user and user.get("active", True) and verify_password(password, user["password_hash"]):
         return user
+    return None
+
+
+def register_organization(org_name: str, email: str, password: str,
+                          website: str = "", location: str = "", about: str = "") -> dict:
+    users = firebase.collection("users")
+    if users.get(email) is not None:
+        raise ValueError("An account with this email already exists")
     record = {
-        "user_id": str(uuid.uuid4()), "name": name, "email": email,
-        "password_hash": None, "role": "user", "active": True,
-        "auth_provider": "google",
+        "user_id": str(uuid.uuid4()), "name": org_name, "email": email,
+        "password_hash": hash_password(password), "role": "organization", "active": True,
+        "provider": "password", "website": website, "location": location, "about": about,
         "created_at": time.strftime("%Y-%m-%d %H:%M:%S"),
     }
     users.set(email, record)
     return record
 
 
-def authenticate(email: str, password: str) -> dict | None:
-    user = firebase.collection("users").get(email)
-    if user and user.get("active", True) and verify_password(password, user["password_hash"]):
-        return user
-    return None
+def get_or_create_google_user(email: str, name: str) -> dict:
+    """Find the account for a Google sign-in, or create one on first login.
+    Google-authenticated accounts have no local password (provider="google")."""
+    users = firebase.collection("users")
+    existing = users.get(email)
+    if existing is not None:
+        return existing
+    record = {
+        "user_id": str(uuid.uuid4()), "name": name, "email": email,
+        "password_hash": None, "role": "user", "active": True, "provider": "google",
+        "created_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+    }
+    users.set(email, record)
+    return record
 
 
 def list_users() -> list:

@@ -57,3 +57,9 @@ def require_admin(user: dict = Depends(get_current_user)) -> dict:
     if user.get("role") != "admin":
         raise HTTPException(status_code=403, detail="Administrator access required")
     return user
+
+
+def require_organization(user: dict = Depends(get_current_user)) -> dict:
+    if user.get("role") not in ("organization", "admin"):
+        raise HTTPException(status_code=403, detail="Organization access required")
+    return user

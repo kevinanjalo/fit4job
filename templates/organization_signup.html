@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Create organization account{% endblock %}
+{% block content %}
+<section class="section"><div class="container form-narrow">
+  <h2>Create an organization account</h2>
+  <p class="sub">Post jobs, receive applications and manage candidates in one place.</p>
+  <div class="card">
+    <div class="field"><label for="org-name">Organization name</label><input id="org-name" required></div>
+    <div class="field"><label for="email">Work email</label><input id="email" type="email" autocomplete="email" required></div>
+    <div class="field"><label for="password">Password</label><input id="password" type="password" required></div>
+    <div class="field"><label for="website">Website (optional)</label><input id="website" placeholder="https://"></div>
+    <div class="field"><label for="location">Location (optional)</label><input id="location" placeholder="e.g. Colombo"></div>
+    <div class="field"><label for="about">About your organization (optional)</label><textarea id="about"></textarea></div>
+    <button class="btn btn-primary" onclick="createOrg()">Create organization</button>
+    <div id="org-out"></div>
+    <p class="meta" style="margin-top:14px">Looking for a job instead? <a href="/login">Sign in as a job seeker</a>.</p>
+  </div>
+</div></section>
+{% endblock %}
+{% block scripts %}
+<script>
+async function createOrg() {
+  const out = document.getElementById("org-out");
+  const name = document.getElementById("org-name").value.trim();
+  const email = document.getElementById("email").value.trim();
+  const password = document.getElementById("password").value;
+  if (!name || !email || !password) return notify(out, "Fill in the organization name, email and password.", false);
+  if (password.length < 6) return notify(out, "Password must be at least 6 characters.", false);
+  try {
+    const r = await API.post("/auth/register-organization", {
+      organization_name: name, email, password,
+      website: document.getElementById("website").value.trim(),
+      location: document.getElementById("location").value.trim(),
+      about: document.getElementById("about").value.trim(),
+    });
+    window.location.href = roleHome(r.role);
+  } catch (e) { notify(out, e.message, false); }
+}
+</script>
+{% endblock %}

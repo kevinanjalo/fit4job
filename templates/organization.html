@@ -1,0 +1,171 @@
+{% extends "base.html" %}
+{% block title %}My organization{% endblock %}
+{% block content %}
+<section class="section"><div class="container" style="max-width:1300px">
+  <h2>Organization dashboard</h2>
+  <p class="sub" id="org-who">Sign in with an organization account to post jobs and review applicants.</p>
+  <div class="stats" id="org-tiles"></div>
+  <div class="tabs">
+    <button class="tab active" data-panel="o-jobs">My job posts</button>
+    <button class="tab" data-panel="o-apps">Applications</button>
+    <button class="tab" data-panel="o-new">Post a job</button>
+  </div>
+  <div id="org-msg" aria-live="polite"></div>
+
+  <div id="o-jobs" class="panel active">
+    <div class="card">
+      <h3 class="section-title">Your job posts</h3>
+      <p class="meta">Every job your organization has posted, with how many people have applied.</p>
+      <div style="overflow:auto"><table><thead><tr><th>Title</th><th>Location</th><th>Level</th><th>Posted</th><th>Applications</th><th></th></tr></thead>
+      <tbody id="o-jobs-rows"></tbody></table></div>
+    </div>
+  </div>
+
+  <div id="o-apps" class="panel">
+    <div class="card">
+      <h3 class="section-title">Applications received</h3>
+      <p class="meta">Applicants who applied to your jobs. Download their CV and update their status; applicants see status changes in their profile.</p>
+      <div class="field"><input id="o-app-filter" placeholder="Filter by applicant or job" oninput="renderOrgApps()"></div>
+      <div style="overflow:auto"><table><thead><tr><th>Applicant</th><th>Job</th><th>Applied</th><th>CV</th><th>Note</th><th>Status</th></tr></thead>
+      <tbody id="o-apps-rows"></tbody></table></div>
+    </div>
+  </div>
+
+  <div id="o-new" class="panel">
+    <div class="card">
+      <h3 class="section-title" id="o-form-title">Post a new job</h3>
+      <input type="hidden" id="o-id">
+      <div class="grid-2">
+        <div class="field"><label>Title</label><input id="o-title"></div>
+        <div class="field"><label>Company / display name</label><input id="o-company"></div>
+        <div class="field"><label>Location</label><input id="o-location" placeholder="e.g. Colombo"></div>
+        <div class="field"><label>Level</label><select id="o-level"><option>Intern</option><option>Junior</option><option selected>Mid</option><option>Senior</option><option>Lead</option></select></div>
+        <div class="field"><label>Type</label><select id="o-type"><option>Full-time</option><option>Contract</option><option>Internship</option></select></div>
+        <div class="field"><label>Salary range (optional)</label><input id="o-salary"></div>
+      </div>
+      <div class="field"><label>Skills (semicolon separated)</label><input id="o-skills" placeholder="e.g. Python;FastAPI;PostgreSQL"></div>
+      <div class="field"><label>Description</label><textarea id="o-desc" style="min-height:160px"></textarea></div>
+      <button class="btn btn-primary btn-sm" onclick="saveOrgJob()">Publish job</button>
+      <button class="btn btn-ghost btn-sm" onclick="clearOrgForm()">Clear</button>
+    </div>
+  </div>
+</div></section>
+{% endblock %}
+{% block scripts %}
+<script>
+const msg = () => document.getElementById("org-msg");
+document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => {
+  document.querySelectorAll(".tab").forEach((x) => x.classList.remove("active"));
+  document.querySelectorAll(".panel").forEach((x) => x.classList.remove("active"));
+  t.classList.add("active"); document.getElementById(t.dataset.panel).classList.add("active");
+}));
+function tile(v, l) { return el("div", { class: "stat" }, [el("strong", {}, String(v)), el("span", {}, l)]); }
+
+async function guard() {
+  try {
+    const me = await API.get("/auth/me");
+    if (me.role !== "organization" && me.role !== "admin") { window.location.href = roleHome(me.role); return false; }
+    document.getElementById("org-who").textContent = "Signed in as " + me.email + ".";
+    return true;
+  } catch (e) { window.location.href = "/login"; return false; }
+}
+
+let myJobs = [], myApps = [];
+async function loadOrgJobs() {
+  try {
+    myJobs = await API.get("/org/jobs");
+    const tb = document.getElementById("o-jobs-rows"); tb.innerHTML = "";
+    if (!myJobs.length) tb.append(el("tr", {}, [el("td", { colspan: "6", class: "meta" }, "You have not posted any jobs yet. Use the 'Post a job' tab.")]));
+    myJobs.forEach((j) => tb.append(el("tr", {}, [
+      el("td", {}, [el("a", { href: "/jobs/" + j.job_id, target: "_blank" }, j.title)]),
+      el("td", {}, j.location), el("td", {}, j.experience_level), el("td", {}, j.posted_date),
+      el("td", {}, [el("span", { class: "badge info" }, String(j.application_count))]),
+      el("td", {}, [
+        el("button", { class: "btn btn-ghost btn-sm", onclick: () => editOrgJob(j) }, "Edit"), " ",
+        el("button", { class: "btn btn-danger btn-sm", onclick: () => delOrgJob(j.job_id) }, "Delete"),
+      ]),
+    ])));
+    updateTiles();
+  } catch (e) { notify(msg(), e.message, false); }
+}
+async function loadOrgApps() {
+  try {
+    myApps = await API.get("/org/applications");
+    renderOrgApps(); updateTiles();
+  } catch (e) {}
+}
+function renderOrgApps() {
+  const f = (document.getElementById("o-app-filter").value || "").toLowerCase();
+  const tb = document.getElementById("o-apps-rows"); tb.innerHTML = "";
+  const list = myApps.filter((a) => !f || (a.applicant + a.applicant_name + a.job_title).toLowerCase().includes(f));
+  if (!list.length) tb.append(el("tr", {}, [el("td", { colspan: "6", class: "meta" }, "No applications yet.")]));
+  list.forEach((a) => {
+    const sel = el("select", { class: "status-select", onchange: (e) =>
+      API.post("/org/applications/status", { application_id: a.application_id, status: e.target.value })
+        .then(() => { notify(msg(), "Status updated."); loadOrgApps(); })
+        .catch((err) => notify(msg(), err.message, false)) });
+    ["submitted", "reviewed", "shortlisted", "rejected"].forEach((sv) =>
+      sel.append(el("option", { value: sv, ...(sv === a.status ? { selected: "" } : {}) }, sv)));
+    tb.append(el("tr", {}, [
+      el("td", {}, a.applicant_name + " (" + a.applicant + ")"),
+      el("td", {}, [el("a", { href: "/jobs/" + a.job_id, target: "_blank" }, a.job_title)]),
+      el("td", {}, a.applied_at),
+      el("td", {}, a.cv_id ? [el("a", { class: "btn btn-ghost btn-sm", href: "/api/v1/org/applications/" + a.application_id + "/cv", target: "_blank" }, "Download CV")] : el("span", { class: "meta" }, "None")),
+      el("td", {}, a.note || ""), el("td", {}, [sel]),
+    ]));
+  });
+}
+function updateTiles() {
+  const t = document.getElementById("org-tiles"); t.innerHTML = "";
+  t.append(tile(myJobs.length, "active job posts"));
+  t.append(tile(myApps.length, "applications received"));
+  t.append(tile(myApps.filter((a) => a.status === "shortlisted").length, "shortlisted"));
+}
+
+function editOrgJob(j) {
+  document.querySelector('[data-panel="o-new"]').click();
+  document.getElementById("o-form-title").textContent = "Edit job post";
+  document.getElementById("o-id").value = j.job_id;
+  document.getElementById("o-title").value = j.title;
+  document.getElementById("o-company").value = j.company;
+  document.getElementById("o-location").value = j.location;
+  document.getElementById("o-level").value = j.experience_level;
+  document.getElementById("o-type").value = j.job_type;
+  document.getElementById("o-salary").value = j.salary_range;
+  document.getElementById("o-skills").value = j.skills.join(";");
+  document.getElementById("o-desc").value = j.description;
+}
+function clearOrgForm() {
+  document.getElementById("o-form-title").textContent = "Post a new job";
+  document.querySelectorAll("#o-new input, #o-new textarea").forEach((n) => (n.value = ""));
+}
+async function saveOrgJob() {
+  const body = {
+    title: document.getElementById("o-title").value.trim(),
+    company: document.getElementById("o-company").value.trim(),
+    location: document.getElementById("o-location").value.trim(),
+    experience_level: document.getElementById("o-level").value,
+    job_type: document.getElementById("o-type").value,
+    salary_range: document.getElementById("o-salary").value.trim(),
+    skills: document.getElementById("o-skills").value.split(";").map((s) => s.trim()).filter(Boolean),
+    description: document.getElementById("o-desc").value.trim(),
+  };
+  if (!body.title || !body.company || !body.location || !body.description) {
+    return notify(msg(), "Title, company, location and description are required.", false);
+  }
+  const id = document.getElementById("o-id").value;
+  try {
+    if (id) await API.put("/org/jobs/" + id, body); else await API.post("/org/jobs", body);
+    notify(msg(), "Job published."); clearOrgForm(); loadOrgJobs();
+    document.querySelector('[data-panel="o-jobs"]').click();
+  } catch (e) { notify(msg(), e.message, false); }
+}
+async function delOrgJob(id) {
+  if (!confirm("Delete this job post? Applications to it will remain in your records.")) return;
+  try { await API.del("/org/jobs/" + id); notify(msg(), "Job deleted."); loadOrgJobs(); }
+  catch (e) { notify(msg(), e.message, false); }
+}
+
+guard().then((ok) => { if (ok) { loadOrgJobs(); loadOrgApps(); } });
+</script>
+{% endblock %}

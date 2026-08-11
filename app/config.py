@@ -21,6 +21,7 @@ class Settings(BaseSettings):
     sbert_model_path: str = "models_store/sbert"
     pca_model_path: str = "models_store/pca_model.pkl"
     faiss_index_path: str = "models_store/faiss_hnsw.index"
+    job_embeddings_cache_path: str = "models_store/job_embeddings.npz"
     embedding_dim: int = 384
     reduced_dim: int = 128
 

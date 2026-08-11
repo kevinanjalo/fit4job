@@ -25,6 +25,15 @@ User-facing:
 - Job browsing with keyword, location and level filters; all job cards and
   detail pages render from shared reusable templates, not per-job pages.
 
+Organizations:
+
+- Organization accounts (role "organization") sign up at /organization-signup.
+- Post, edit and delete their own job listings (owner-scoped).
+- Review applications submitted to their jobs, download applicant CVs, and
+  update application status (submitted, reviewed, shortlisted, rejected).
+- Role-based access control ensures an organization can only see and modify
+  its own jobs and the applications to them.
+
 Administrative:
 
 - Job management (create, edit, delete; CSV-backed catalogue with reload).

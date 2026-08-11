@@ -3,30 +3,101 @@
 {% block content %}
 <section class="section"><div class="container form-narrow">
   <h2 id="form-title">Sign in</h2>
-  <p class="sub">Sign in to save your progress, or create a free account.</p>
+  <p class="sub">Sign in with Google for the fastest start, or use an email and password.</p>
   <div class="card">
-    <button type="button" class="btn btn-google" id="google-btn" onclick="signInWithGoogle()">
-      <svg viewBox="0 0 18 18" width="18" height="18" aria-hidden="true"><path fill="#4285F4" d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.9c1.7-1.57 2.7-3.88 2.7-6.62z"/><path fill="#34A853" d="M9 18c2.43 0 4.47-.8 5.96-2.18l-2.9-2.26c-.81.54-1.85.86-3.06.86-2.35 0-4.34-1.59-5.05-3.72H.98v2.33A9 9 0 0 0 9 18z"/><path fill="#FBBC05" d="M3.95 10.7A5.4 5.4 0 0 1 3.67 9c0-.59.1-1.17.28-1.7V4.97H.98A9 9 0 0 0 0 9c0 1.45.35 2.83.98 4.03l2.97-2.33z"/><path fill="#EA4335" d="M9 3.58c1.32 0 2.51.46 3.44 1.35l2.58-2.58C13.46.89 11.43 0 9 0A9 9 0 0 0 .98 4.97l2.97 2.33C4.66 5.17 6.65 3.58 9 3.58z"/></svg>
+    <button class="btn google-btn" id="google-btn" onclick="signInWithGoogle()">
+      <svg class="google-icon" viewBox="0 0 48 48" aria-hidden="true">
+        <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+        <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+        <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+        <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+      </svg>
       <span>Continue with Google</span>
     </button>
-    <div class="divider"><span>or</span></div>
+    <div id="google-msg"></div>
+    <div class="divider"><span>or use email and password</span></div>
+
     <div class="field" id="name-field" style="display:none"><label for="name">Name</label><input id="name" autocomplete="name"></div>
-    <div class="field"><label for="email">Email</label><input id="email" type="email" autocomplete="email"></div>
-    <div class="field"><label for="password">Password</label><input id="password" type="password" autocomplete="current-password"></div>
+    <div class="field"><label for="email">Email</label><input id="email" type="email" autocomplete="email" required></div>
+    <div class="field"><label for="password">Password</label>
+      <div class="pw-wrap">
+        <input id="password" type="password" autocomplete="current-password" required>
+        <button type="button" class="pw-toggle" id="pw-toggle" onclick="togglePassword()"
+                aria-label="Show password" aria-pressed="false" title="Show password">
+          <svg class="pw-eye" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+               stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M1.8 12S5.5 5.2 12 5.2 22.2 12 22.2 12 18.5 18.8 12 18.8 1.8 12 1.8 12z"/>
+            <circle cx="12" cy="12" r="3.2"/>
+            <line class="pw-slash" x1="3.5" y1="3.5" x2="20.5" y2="20.5"/>
+          </svg>
+        </button>
+      </div>
+    </div>
     <button class="btn btn-primary" id="submit" onclick="submitAuth()">Sign in</button>
     <button class="btn btn-ghost btn-sm" onclick="toggleMode()" style="margin-left:8px">Create an account instead</button>
     <div id="auth-out"></div>
+    <p class="meta" style="margin-top:14px">Hiring? <a href="/organization-signup">Create an organization account</a> to post jobs.</p>
   </div>
 </div></section>
 {% endblock %}
 {% block scripts %}
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
-<script src="/static/js/firebase-config.js"></script>
+<script src="/static/js/firebase-config.js?v={{ asset_v }}"></script>
 <script>
-let registerMode = false;
-try { firebase.initializeApp(firebaseConfig); } catch (e) { console.warn("Firebase init failed", e); }
+let firebaseReady = false;
+try {
+  if (typeof FIREBASE_CONFIG === "undefined") {
+    throw new Error("static/js/firebase-config.js must define a constant named FIREBASE_CONFIG.");
+  }
+  if (FIREBASE_CONFIG.apiKey && !FIREBASE_CONFIG.apiKey.startsWith("REPLACE_WITH") && !FIREBASE_CONFIG.apiKey.startsWith("PASTE_")) {
+    firebase.initializeApp(FIREBASE_CONFIG);
+    firebaseReady = true;
+  } else {
+    notify(document.getElementById("google-msg"),
+      "Google sign-in is not configured yet. Add your Firebase web config to static/js/firebase-config.js (see setup.md). Email and password sign-in below still works.", false);
+    document.getElementById("google-btn").disabled = true;
+  }
+} catch (e) {
+  console.warn("Firebase init skipped:", e);
+  notify(document.getElementById("google-msg"),
+    "Google sign-in is unavailable: " + (e.message || e) + " Email and password sign-in below still works.", false);
+  document.getElementById("google-btn").disabled = true;
+}
 
+async function signInWithGoogle() {
+  const msg = document.getElementById("google-msg");
+  if (!firebaseReady) return;
+  msg.innerHTML = "";
+  try {
+    const provider = new firebase.auth.GoogleAuthProvider();
+    const result = await firebase.auth().signInWithPopup(provider);
+    const idToken = await result.user.getIdToken();
+    const r = await API.post("/auth/google", { id_token: idToken });
+    window.location.href = roleHome(r.role);
+  } catch (e) {
+    let m = e.message || "Google sign-in failed.";
+    if (e.code === "auth/unauthorized-domain") m = "This domain is not authorized in Firebase. Add localhost under Authentication > Settings > Authorized domains.";
+    if (e.code === "auth/operation-not-allowed") m = "Enable the Google provider in Firebase Authentication > Sign-in method.";
+    if (e.code === "auth/popup-closed-by-user") m = "Sign-in popup was closed before completing.";
+    notify(msg, m, false);
+  }
+}
+
+function togglePassword() {
+  const input = document.getElementById("password");
+  const btn = document.getElementById("pw-toggle");
+  const showing = input.type === "text";
+  input.type = showing ? "password" : "text";
+  btn.classList.toggle("is-visible", !showing);
+  btn.setAttribute("aria-pressed", String(!showing));
+  const label = showing ? "Show password" : "Hide password";
+  btn.setAttribute("aria-label", label);
+  btn.setAttribute("title", label);
+  input.focus();
+}
+
+let registerMode = false;
 function toggleMode() {
   registerMode = !registerMode;
   document.getElementById("name-field").style.display = registerMode ? "" : "none";
@@ -36,23 +107,19 @@ function toggleMode() {
 }
 async function submitAuth() {
   const out = document.getElementById("auth-out");
+  const emailVal = document.getElementById("email").value.trim();
+  const passVal = document.getElementById("password").value;
+  const nameVal = document.getElementById("name").value.trim();
+  if (!emailVal || !passVal) return notify(out, "Enter both your email and password.", false);
+  if (registerMode && !nameVal) return notify(out, "Enter your name to create an account.", false);
+  if (registerMode && passVal.length < 6) return notify(out, "Password must be at least 6 characters.", false);
   try {
-    const body = { email: email.value, password: password.value };
+    const body = { email: emailVal, password: passVal };
     let r;
-    if (registerMode) r = await API.post("/auth/register", { ...body, name: document.getElementById("name").value });
+    if (registerMode) r = await API.post("/auth/register", { ...body, name: nameVal });
     else r = await API.post("/auth/login", body);
-    window.location.href = r.role === "admin" ? "/admin" : "/dashboard";
+    window.location.href = roleHome(r.role);
   } catch (e) { notify(out, e.message, false); }
-}
-async function signInWithGoogle() {
-  const out = document.getElementById("auth-out");
-  try {
-    const provider = new firebase.auth.GoogleAuthProvider();
-    const result = await firebase.auth().signInWithPopup(provider);
-    const idToken = await result.user.getIdToken();
-    const r = await API.post("/auth/google", { id_token: idToken });
-    window.location.href = r.role === "admin" ? "/admin" : "/dashboard";
-  } catch (e) { notify(out, e.message || "Google sign-in failed", false); }
 }
 </script>
 {% endblock %}

@@ -60,3 +60,32 @@ def test_admin_job_crud():
     assert created.status_code == 200
     jid = created.json()["job_id"]
     assert client.delete(f"/api/v1/admin/jobs/{jid}", headers=h).status_code == 200
+
+
+def test_organization_workflow():
+    # register an organization
+    r = client.post("/api/v1/auth/register-organization", json={
+        "organization_name": "TestOrg", "email": "org@test.com", "password": "secret1"})
+    assert r.status_code == 200 and r.json()["role"] == "organization"
+    otok = {"Authorization": f"Bearer {r.json()['access_token']}"}
+
+    # post a job
+    job = client.post("/api/v1/org/jobs", headers=otok, json={
+        "title": "QA Engineer", "company": "TestOrg", "location": "Colombo",
+        "description": "Testing role", "skills": ["Selenium"]})
+    assert job.status_code == 200
+    jid = job.json()["job_id"]
+
+    # org sees only its own jobs
+    mine = client.get("/api/v1/org/jobs", headers=otok).json()
+    assert any(j["job_id"] == jid for j in mine)
+
+    # a seeker applies and the org sees it
+    u = client.post("/api/v1/auth/register", json={"name": "S", "email": "s2@test.com", "password": "secret1"})
+    utok = {"Authorization": f"Bearer {u.json()['access_token']}"}
+    client.post("/api/v1/profile/apply", headers=utok, json={"job_id": jid, "cv_id": None})
+    apps = client.get("/api/v1/org/applications", headers=otok).json()
+    assert any(a["job_id"] == jid for a in apps)
+
+    # plain users are denied org endpoints (RBAC)
+    assert client.get("/api/v1/org/jobs", headers=utok).status_code == 403

@@ -1,4 +1,5 @@
 """Fit4Job application factory: mounts APIs, templates and static assets."""
+from pathlib import Path
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
@@ -6,7 +7,7 @@ from fastapi.templating import Jinja2Templates
 from app.config import get_settings
 from app.core import firebase
 from app.core.logging import configure_logging, get_logger
-from app.api.v1 import auth, jobs, matching, profile
+from app.api.v1 import auth, jobs, matching, organization, profile
 from app.api.v1.admin import routes as admin_routes
 from app.services import user_service
 from app.services.job_service import job_service
@@ -31,12 +32,25 @@ app.include_router(auth.router, prefix=API_PREFIX)
 app.include_router(jobs.router, prefix=API_PREFIX)
 app.include_router(matching.router, prefix=API_PREFIX)
 app.include_router(profile.router, prefix=API_PREFIX)
+app.include_router(organization.router, prefix=API_PREFIX)
 app.include_router(admin_routes.router, prefix=API_PREFIX)
+
+
+def asset_version() -> str:
+    """Cache-busting token for /static assets: the newest mtime under static/.
+
+    Without it browsers keep serving a stale main.css after a style change.
+    """
+    try:
+        return str(int(max(p.stat().st_mtime for p in Path("static").rglob("*") if p.is_file())))
+    except ValueError:
+        return "0"
 
 
 def render(request: Request, template: str, **ctx):
     return templates.TemplateResponse(request=request, name=template,
-                                      context={"app_name": settings.app_name, **ctx})
+                                      context={"app_name": settings.app_name,
+                                               "asset_v": asset_version(), **ctx})
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -68,6 +82,16 @@ def roadmaps_page(request: Request):
 @app.get("/profile", response_class=HTMLResponse)
 def profile_page(request: Request):
     return render(request, "profile.html")
+
+
+@app.get("/organization", response_class=HTMLResponse)
+def organization_page(request: Request):
+    return render(request, "organization.html")
+
+
+@app.get("/organization-signup", response_class=HTMLResponse)
+def organization_signup_page(request: Request):
+    return render(request, "organization_signup.html")
 
 
 @app.get("/login", response_class=HTMLResponse)

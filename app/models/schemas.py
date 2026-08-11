@@ -9,13 +9,18 @@ class UserRegister(BaseModel):
     password: str = Field(min_length=6)
 
 
+class OrgRegister(BaseModel):
+    organization_name: str
+    email: EmailStr
+    password: str = Field(min_length=6)
+    website: str = ""
+    location: str = ""
+    about: str = ""
+
+
 class UserLogin(BaseModel):
     email: EmailStr
     password: str
-
-
-class GoogleAuthRequest(BaseModel):
-    id_token: str
 
 
 class TokenResponse(BaseModel):
@@ -37,6 +42,7 @@ class Job(BaseModel):
     skills: List[str] = []
     industry: str = "Information Technology"
     posted_date: str = ""
+    owner: str = ""  # email of the organization that posted this job (blank = seed data)
 
 
 class JobCreate(BaseModel):

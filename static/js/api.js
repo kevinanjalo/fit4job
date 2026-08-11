@@ -56,9 +56,7 @@ function jobCard(job, extras = null) {
   }, [
     el("div", { class: "title-row" }, [
       el("h3", {}, [el("a", { href: "/jobs/" + job.job_id }, job.title)]),
-      extras && extras.score !== undefined
-        ? el("span", { class: "score-pill" }, (extras.score * 100).toFixed(0) + "%")
-        : "",
+      extras && extras.score !== undefined ? scorePill(extras.score) : "",
     ]),
     el("p", { class: "meta" }, `${job.company} - ${job.location} - ${job.job_type} - ${job.salary_range}`),
     el("div", { class: "chips" }, job.skills.map((s) => el("span", { class: "chip" }, s))),
@@ -88,21 +86,14 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll("[data-auth=in]").forEach((n) => (n.style.display = ""));
     if (me.role === "admin")
       document.querySelectorAll("[data-auth=admin]").forEach((n) => (n.style.display = ""));
+    if (me.role === "organization")
+      document.querySelectorAll("[data-auth=org]").forEach((n) => (n.style.display = ""));
   }).catch(() => {});
 });
 
 async function logout() {
   await API.post("/auth/logout", {});
   window.location.href = "/";
-}
-
-/* Mobile navigation toggle (hamburger menu) */
-function toggleNav() {
-  const links = document.getElementById("nav-links");
-  const btn = document.getElementById("nav-toggle");
-  if (!links) return;
-  const open = links.classList.toggle("open");
-  if (btn) btn.setAttribute("aria-expanded", open ? "true" : "false");
 }
 
 /* Render cleaned AI output as structured HTML: headings, numbered points
@@ -136,4 +127,56 @@ function aiBlock(container, text) {
 function loading(container, label = "Working") {
   container.innerHTML = "";
   container.append(el("p", { class: "meta" }, [el("span", { class: "spinner" }), " " + label + "..."]));
+}
+
+/* ---------- v1.3 helpers ---------- */
+
+/* Fix common IT acronyms that source data left as Title Case, e.g. "Ai" -> "AI". */
+const ACR_FIX = {ai:"AI",ui:"UI",ux:"UX",qa:"QA",sql:"SQL",aws:"AWS",gcp:"GCP",css:"CSS",
+  html:"HTML",api:"API",ci:"CI",cd:"CD",ml:"ML",nlp:"NLP",php:"PHP",ios:"iOS",bi:"BI",
+  cli:"CLI",json:"JSON",http:"HTTP",db:"DB",os:"OS",vm:"VM"};
+function prettyLabel(str) {
+  return String(str).split(" ").map((w) => {
+    const key = w.toLowerCase().replace(/[^a-z0-9]/g, "");
+    return ACR_FIX[key] || w;
+  }).join(" ");
+}
+
+/* Score pill coloured by match band, for HCI-consistent meaning-by-colour. */
+function scorePill(score) {
+  const band = score >= 0.66 ? "high" : score >= 0.4 ? "mid" : "low";
+  return el("span", { class: "score-pill " + band }, Math.round(score * 100) + "%");
+}
+
+/* Simple client-side pagination controller.
+   render(items) is called with the current page's slice; onPage is optional. */
+function paginate(container, items, perPage, render) {
+  let page = 1;
+  const totalPages = Math.max(1, Math.ceil(items.length / perPage));
+  function draw() {
+    container.innerHTML = "";
+    const start = (page - 1) * perPage;
+    render(items.slice(start, start + perPage));
+    if (totalPages <= 1) return;
+    const bar = el("div", { class: "pagination" });
+    bar.append(el("button", { disabled: page === 1, onclick: () => { page--; draw(); scrollToTop(); } }, "Previous"));
+    const windowSize = 5;
+    let from = Math.max(1, page - Math.floor(windowSize / 2));
+    let to = Math.min(totalPages, from + windowSize - 1);
+    from = Math.max(1, to - windowSize + 1);
+    for (let p = from; p <= to; p++) {
+      bar.append(el("button", { class: p === page ? "active" : "", onclick: () => { page = p; draw(); scrollToTop(); } }, String(p)));
+    }
+    bar.append(el("button", { disabled: page === totalPages, onclick: () => { page++; draw(); scrollToTop(); } }, "Next"));
+    container.append(bar);
+  }
+  function scrollToTop() { container.scrollIntoView({ behavior: "smooth", block: "start" }); }
+  draw();
+}
+
+/* Where to send a user after authentication, based on their role. */
+function roleHome(role) {
+  if (role === "admin") return "/admin";
+  if (role === "organization") return "/organization";
+  return "/dashboard";
 }

@@ -9,3 +9,4 @@ uploads_store/
 models_store/*.pkl
 models_store/*.index
 models_store/sbert/
+models_store/*.npz
