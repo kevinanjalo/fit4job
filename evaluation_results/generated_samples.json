@@ -1,0 +1,352 @@
+[
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Uses clear quantifiable metrics in work experience bullets.\n- Highlights modern and relevant tools like RAG, LLMs, and vector databases.\n- Demonstrates experience with cloud deployment and production pipelines.\n\nWeaknesses:\n- Resume contains excess padding and exceeds the ideal one page limit.\n- Includes irrelevant high school exam results and full reference details.\n- Work experience contains realistic date errors with future years like 2026.\n- Soft skills section uses generic non-technical terms that dilute impact.\n\nMissing Keywords:\n- PyTorch\n- Kubernetes\n- LangChain\n- Model Fine-tuning\n- MLflow\n\nFive Concrete Rewrite Suggestions:\n1. Reformat summary into two short lines stating your role, top technologies, and key metric.\n2. Remove high school grades and references to strictly keep the resume on one page.\n3. Fix all work experience dates to accurately reflect correct timeline years.\n4. Place current role, primary tech stack, and top achievement in the top third scan zone.\n5. Focus project entries on deployed software, key design choices, and usage numbers.",
+  "mode": "gemini",
+  "latency_s": 13.59,
+  "resume_id": "CV01",
+  "filename": "AI & ML Engineer 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Strong banking domain knowledge spanning nearly a decade of industry experience.\n- Technical toolset includes industry standards like SQL, Python, Excel, and Power BI.\n- Relevant higher education with an ongoing Masters in Data Science.\n\nWeaknesses:\n- Experience sections use dense text blocks instead of bullet points.\n- Descriptions focus on daily duties rather than measurable outcomes and business results.\n- Top section lacks immediate quantified metrics to capture recruiter attention in six seconds.\n- Heavy focus on legacy IT support tasks dilutes the primary Data Analyst identity.\n\nMissing Keywords:\n- Automated Pipelines\n- Data Mining\n- Pandas\n- NumPy\n- ETL Pipelines\n- Business Intelligence\n- Data Governance\n\nFive Rewrite Suggestions:\n1. Shorten the summary to three lines highlighting core data skills and top career achievements.\n2. Change the Data Analyst narrative paragraph into concise, impact-focused bullet points.\n3. Rewrite: \"Create and deliver regular and ad hoc reports...\" to \"Designed 15 automated Power BI dashboards, cutting manual reporting time by 35 percent.\"\n4. Rewrite: \"Optimize SQL queries and database performance...\" to \"Optimized high-volume SQL queries across core banking systems, speeding up data retrieval by 40 percent.\"\n5. Remove basic hardware and networking tasks like DHCP and laptop setups to focus entirely on data work.",
+  "mode": "gemini",
+  "latency_s": 9.81,
+  "resume_id": "CV02",
+  "filename": "Data Analyst 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Strong technical stack covering software development, data engineering, and analytics.\n- Projects list specific design decisions and modern frameworks like Laravel 12 and Azure Fabric.\n- Clear progression of responsibility across software and statistical programming roles.\n\nWeaknesses:\n- Bullet points list daily job duties rather than measurable results.\n- Top section lacks quantified achievements to grab recruiter attention in six seconds.\n- Splitting focus between three distinct job titles confuses target role alignment.\n- Content spans too many pages for a candidate with under three years of experience.\n\nMissing Keywords:\n- Docker\n- CI/CD\n- Automated Testing or PHPUnit\n- REST API Security\n- Agile or Scrum\n\nFive Concrete Rewrite Suggestions:\n1. Change backend optimization bullet to: Optimized backend logic and MySQL queries, reducing average API response times by 30 percent.\n2. Change TLF generation bullet to: Developed 40 plus regulatory-compliant TLFs using SAS to support clinical trial study deliverables on schedule.\n3. Change Azure Fabric bullet to: Built Azure Fabric data pipelines to automate daily Power BI reporting for HR and education analytics.\n4. Change project queue bullet to: Processed over 5,000 background jobs daily using Laravel Queues for automated invoicing and bulk data imports.\n5. Change initial professional summary line to: Software and Data Engineer with 3 years of experience building scalable Laravel web applications and Azure data pipelines.",
+  "mode": "gemini",
+  "latency_s": 18.15,
+  "resume_id": "CV03",
+  "filename": "Data Engineer 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Resume Strengths:\n- Strong GPA of 3.85 in Computer Engineering.\n- Peer-reviewed IEEE publication demonstrates research capability.\n- Solid enterprise experience from the OCTAVE data science internship.\n- Strong technical project portfolio covering deep learning and hardware.\n\nResume Weaknesses:\n- The top third lacks a clean layout of core tools and top achievements.\n- Bullets focus on assigned duties rather than measurable outcomes.\n- Listing university course codes adds low-value coursework padding.\n- Formatting contains broken text artifacts like cid symbols.\n- The technical skills section cuts off incomplete at the bottom.\n- Document content is too long for early-career experience.\n\nMissing Keywords:\n- Docker\n- Git\n- CI/CD\n- REST APIs\n- MLOps\n- Unit Testing\n\nFive Concrete Rewrite Suggestions:\n1. Top section layout: Place your current title, top tech stack, and primary metric at the top of page one.\n2. Teaching Assistant experience: Remove course codes like CO221 and state student count mentored along with pass rate improvements.\n3. OCTAVE Data Science Internship: Replace basic task lists with quantified outcomes such as percent reduction in pipeline runtime.\n4. MPSoC Publication point: Lead with the exact throughput percentage increase achieved on the Cyclone IV FPGA.\n5. Root Canal AI Project: Start the bullet with model accuracy rates and deployment speed rather than process steps.",
+  "mode": "gemini",
+  "latency_s": 14.07,
+  "resume_id": "CV04",
+  "filename": "Data Scientist 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Shows a relevant technical stack combining backend, DevOps, and cloud tools.\n- Highlights practical hands-on experience with Docker, AWS, and CI/CD tools.\n- Focuses on deployed projects rather than coursework list.\n\nWeaknesses:\n- Text is merged together without spaces between words in the header and bullets.\n- Bullet points list job duties instead of measurable outcome statements.\n- The top third of the page lacks a strong quantified achievement.\n- Dates contain incorrect future years such as 2026.\n- Projects miss user traffic metrics and design decision details.\n\nMissing Keywords:\n- Terraform\n- Ansible\n- Prometheus\n- Grafana\n- Python\n\nFive Rewrite Suggestions:\n1. Replace: Developing and maintaining RESTful APIs and backend services using Laravel and Node.js\n   With: Engineered 15+ REST APIs using Laravel and Node.js, reducing latency by 25 percent.\n\n2. Replace: Implementing CI/CD pipelines and containerized deployments using Docker and GitHub Actions\n   With: Built GitHub Actions and Docker pipelines, cutting software deployment time from 30 minutes to 5 minutes.\n\n3. Replace: Worked with MySQL and PostgreSQL, optimizing queries and managing database schemas\n   With: Optimized MySQL and PostgreSQL queries, improving overall database response speed by 40 percent.\n\n4. Replace: Developed a production-ready backend for a live fitness platform using Laravel, implementing RESTful APIs, authentication, and core business logic\n   With: Built a production Laravel backend for a live fitness app, maintaining 99.9 percent service availability.\n\n5. Replace: Containerized the application using Docker and implemented CI/CD pipelines with GitHub Actions and GitLab CI/CD for automated build and deployment workflows\n   With: Containerized Next.js apps using Docker to enable automated, zero-downtime releases via GitHub Actions.",
+  "mode": "gemini",
+  "latency_s": 16.52,
+  "resume_id": "CV05",
+  "filename": "DevOps Engineer 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Lists specific software stacks clearly for every project.\n- Demonstrates actual industry internship experience with real projects.\n- Includes repository links to display actual code work.\n\nWeaknesses:\n- Document exceeds one page for a candidate under three years of experience.\n- The top third of page one lacks key technologies and a quantified achievement.\n- Contains secondary school results and basic certificates that dilute technical content.\n- Describes assigned duties instead of measurable outcomes.\n\nMissing Keywords:\n- Performance metrics such as latency reductions or efficiency percentages.\n- Production and deployment terms like Docker, CI/CD, AWS, or cloud hosting.\n- Design decision terminology explaining system architecture choices.\n\nFive Concrete Rewrite Suggestions:\n1. Replace the About Me section with a brief summary highlighting your target role, key tech stack, and one major result.\n2. Cut high school grades, basic certificates, and social media links to fit the document onto one page.\n3. Rewrite the AI Resume project description: Built TF-IDF matching engine using Python and Flask, improving job recommendation relevance for candidate profiles.\n4. Rewrite the DOA project description: Integrated Next.js frontend with MongoDB using Redux, resolving data access issues and increasing data fetch speed.\n5. Rewrite the SusDev project description: Developed reusable user tables and validation components using TypeScript and Drizzle ORM, reducing form input errors.",
+  "mode": "gemini",
+  "latency_s": 21.08,
+  "resume_id": "CV06",
+  "filename": "Full Stack Developer 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Clear focus on mobile and front-end development technologies.\n- Includes working links to GitHub, LinkedIn, and live portfolio.\n- Demonstrates real project deployment on Play Store and GitHub Pages.\n- Good technical foundation in React Native, React, Java, and MySQL.\n\nWeaknesses:\n- Top section lacks quantified outcomes for quick initial scanning.\n- High school education entries dilute the impact of university work.\n- Full reference contacts occupy valuable layout space needlessly.\n- Soft skills are listed as generic keywords without evidence.\n- Project descriptions focus on basic tasks instead of results.\n\nMissing Keywords:\n- REST APIs\n- State Management\n- Git\n- CI CD\n- Unit Testing\n- Responsive Web Design\n\nRewrite Suggestions:\n1. Summary rewrite: Software Developer specializing in React Native, React, and Java. Built web apps for business operations and published live Android apps.\n2. Recipe Book rewrite: Built and published React Native app on Play Store with search filtering, video caching, and optimized UI rendering.\n3. Wasana Bakers rewrite: Engineered React front-end components for online ordering system, improving branch order processing workflow.\n4. Education section rewrite: Remove GCE A/L and GCE O/L entries to focus entirely on the Computer Science degree.\n5. References section rewrite: Remove referee details completely to free up space for technical skills and project metrics.",
+  "mode": "gemini",
+  "latency_s": 14.34,
+  "resume_id": "CV07",
+  "filename": "Mobile App Developer 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Includes clear contact details and professional links at the top.\n- Holds relevant Cisco CCNA certifications aligned with the field.\n- Demonstrates practical engineering skills through distinct projects.\n- Shows direct experience in a 24/7 financial enterprise environment.\n\nWeaknesses:\n- Top third lacks a strong quantified achievement for quick scanning.\n- Bullet points focus on routine duties rather than measurable outcomes.\n- Contains irrelevant software skills like AutoCAD for a NOC role.\n- Fails to list key routing protocols and ticketing tools used daily.\n\nMissing Keywords:\n- Wireshark\n- BGP and OSPF\n- ITIL Framework\n- SLA Compliance\n- ServiceNow or Jira\n- Cisco IOS\n- VPN\n- SNMP\n\nFive Concrete Rewrite Suggestions:\n\n1. Change NOC monitoring bullet to: Monitored network infrastructure across 50 plus branch sites using Grafana, maintaining 99.9 percent uptime.\n\n2. Change troubleshooting bullet to: Resolved 30 plus daily TCP/IP connectivity issues, reducing mean time to repair by 20 percent.\n\n3. Change incident management bullet to: Managed network incidents in compliance with strict SLAs, preventing critical financial downtime.\n\n4. Change internship cabling bullet to: Designed structured cabling for 4,000 plus ports in AutoCAD, completing plans 10 days ahead of schedule.\n\n5. Change IoT project bullet to: Built a deployed IoT fault system using GSM modules, successfully sending real-time alerts to a web dashboard.",
+  "mode": "gemini",
+  "latency_s": 10.95,
+  "resume_id": "CV08",
+  "filename": "NOC Engineer 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Strong academic record with a 4.0 PhD GPA and multiple peer-reviewed publications.\n- Good balance of industry software engineering and academic research experience.\n- Diverse technical skill set spanning Python, AWS, Docker, and eye-tracking hardware.\n- Clear evidence of hands-on project delivery and microservice development.\n\nWeaknesses:\n- The document lacks clear quantified outcomes in the top third of the first page.\n- Experience bullet points focus on assigned duties rather than measurable business results.\n- The resume is too long due to an extensive list of publications and outreach activities.\n- Formatting contains severe spacing bugs and text extraction artifacts.\n\nMissing Keywords:\n- CI/CD pipelines\n- Agile/Scrum\n- System Architecture\n- Unit Testing / Integration Testing\n- Scalability\n- Performance Optimization\n- PyTorch / TensorFlow\n\nFive Concrete Rewrite Suggestions:\n\n1. Top Section Revision: Move your strongest quantified outcome into a quick summary at the top third of page one to pass initial recruiter screening.\n2. Experience Bullet 1: Change \"Developed the Event Platform 2.0 which provides the data streaming...\" to \"Architected Event Platform 2.0 using Kafka and AWS Kinesis, processing high-volume data streams for internal teams.\"\n3. Experience Bullet 2: Change \"Built a microservice that automatically extracts figures and tables...\" to \"Engineered and deployed a Dockerized PDF extraction microservice, reducing document processing latency for AI platforms.\"\n4. Experience Bullet 3: Change \"Research on analyzing users eyemovements to identify objective measures...\" to \"Developed eye-tracking algorithms in Python to analyze visual attention, leading to 4 accepted conference publications.\"\n5. Layout Compression: Remove full publication lists and minor volunteer roles to condense the resume into a concise length.",
+  "mode": "gemini",
+  "latency_s": 11.54,
+  "resume_id": "CV09",
+  "filename": "Research Scientist 1.pdf"
+ },
+ {
+  "tool": "Resume Feedback",
+  "retrieval_query": "resume writing improvement technology roles",
+  "user_input": "Review this resume and give structured feedback: strengths, weaknesses, missing keywords for technology roles, and five concrete rewrite suggestions.",
+  "contexts": [
+   "Resume writing for technology roles is scanned by a recruiter in six to eight seconds on first pass, so the strongest evidence must sit in the top third of page one. The order that survives that scan is current role, technologies used, and one quantified achievement. Resume improvement work should begin at the top of the document, because bullet points on page two are rarely read during initial screening and effort spent polishing them returns almost nothing.",
+   "The most diagnosable weakness in fresh graduate resumes across all technology roles is listing coursework and university assignments as though they were professional deliverables. Modules studied communicate that a degree was completed, which the education section already establishes. Resume improvement for graduates comes from replacing coursework lists with two or three deployed projects described with technology names, design decisions and any usage figures available.",
+   "Resume length should be one page for candidates with fewer than ten years of experience in technology roles, extending to two pages only when the second contains substantive delivery history rather than padding. Candidates under three years who submit two pages almost always include coursework, generic skill inventories or hobby sections that dilute stronger material. Compressing to one page forces prioritisation and usually improves the document.",
+   "The single highest-impact resume improvement available to most mid-level and senior candidates in technology roles is systematically replacing responsibility descriptions with outcome statements throughout the experience section. Candidates typically describe what they were assigned rather than what changed as a result. Rewriting every bullet point to end in a measurable consequence transforms a document that lists employment into one that demonstrates capability, usually without adding any new experience."
+  ],
+  "context_sources": [
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference",
+   "resume_writing_reference"
+  ],
+  "answer": "Strengths:\n- Strong academic background with a distinction MSc and first-class BSc in engineering.\n- Broad technical stack across full-stack development, cloud applications, and data pipelines.\n- Explicit technologies listed alongside work experience projects.\n\nWeaknesses:\n- Experience entries focus on assigned responsibilities rather than measurable business outcomes.\n- Top third of page one contains a lengthy personal statement instead of immediate metrics and current role achievements.\n- Document contains unnecessary padding like high school credentials, interests, and basic references.\n- Content likely exceeds one single page for a candidate under ten years of technology experience.\n\nMissing Keywords:\n- Continuous Integration / Continuous Deployment (CI/CD)\n- Automated Unit Testing\n- System Throughput / Latency Optimization\n- Infrastructure as Code\n\nFive Rewrite Suggestions:\n\n1. Singlife Project Rewrite:\n- Original: Integration of the Singapore Financial Index (SGFinDex) under Project Betterview, enabling seamless financial data aggregation, improving client onboarding, and financial portfolio management efficiency.\n- Rewrite: Integrated Singapore Financial Index APIs using AWS Lambda, reducing client onboarding processing time by 30 percent.\n\n2. Singapore Press Holdings Project Rewrite:\n- Original: Worked as a full-stack developer, designed and implemented an event management and booking system for SPH media network.\n- Rewrite: Architected full-stack booking system using NextJS and NestJS, supporting seamless media event management for over 50,000 active users.\n\n3. EbbEdge Project Rewrite:\n- Original: Built a data pipeline and behavior prediction platform for NYSE stock analytics, which provides short and long-term market insights and predictions.\n- Rewrite: Built Azure-based NYSE analytics pipeline using Python, processing daily stock market feeds to deliver real-time prediction insights.\n\n4. CaterCare Project Rewrite:\n- Original: Working as a Backend and DevOps Engineer, developing a supply chain management system using Django and NextJS, improving user experience, and introducing automation pipelines for large-scale operations.\n- Rewrite: Deployed automated Django backend pipelines for supply chain management, cutting manual processing overhead by 40 percent.\n\n5. Canvas Card Project Rewrite:\n- Original: Worked on banking system integrations with VISA card processing and transactions, ensuring secure financial workflows and compliance with international standards.\n- Rewrite: Integrated VISA transaction processing workflows in PHP and Laravel, ensuring 100 percent compliance with international financial security standards.",
+  "mode": "gemini",
+  "latency_s": 15.06,
+  "resume_id": "CV10",
+  "filename": "Senior Software Engineer 1.pdf"
+ },
+ {
+  "tool": "Career Advice",
+  "retrieval_query": "career track well suited to a professional with experience in AWS C CI/CD CRM Claude API Cloud Communication Data Pipeline next three skills to learn six month plan",
+  "user_input": "Based on this resume, recommend the two best-fit career tracks, the next three skills to learn, and a six month plan.",
+  "contexts": [
+   "A professional with experience in extract-transform-load development, data pipeline construction, data warehousing and orchestration tools is well suited to the cloud platform engineer career track, because that track requires provisioning and maintaining the infrastructure that pipelines run on, which transfer directly from having configured compute clusters, storage buckets and scheduled jobs for a data platform. The next skills to learn are Terraform for infrastructure as code and Kubernetes for container orchestration at scale.",
+   "The complete six month plan for the data engineer career track moves from Python and SQL fundamentals in months one and two, through Apache Airflow and Apache Spark in months three and four, to a cloud warehouse and dbt in months five and six, producing an end-to-end pipeline portfolio project as the final deliverable. This career progression path reflects the actual skill acquisition order Sri Lankan employers expect, since job postings for data engineer roles consistently list SQL, a scripting language, an orchestration tool and a warehouse platform in that order of importance.",
+   "Career progression across multiple six month plans compounds rather than resets, because a professional who completed a six month plan moving from data analyst to analytics engineer retains the SQL and Git skill from that plan when later pursuing a further six month plan into data engineering or machine learning engineering. Skill acquisition should therefore be tracked cumulatively across a multi-year career track rather than treating each six month plan as an isolated, disconnected effort.",
+   "A professional with experience in Docker, Jenkins, Kubernetes and cloud infrastructure is well suited to the cloud solutions architect career track, because that track requires designing multi-service, cost-optimized cloud architectures, which transfers directly from having configured production cloud environments and made infrastructure decisions across three or more years of DevOps work. The missing skill for career progression here is formal cost modelling and multi-cloud comparison experience across AWS, Azure and Google Cloud.",
+   "In a six month plan for the data scientist career track, month five is spent on Git-based collaboration workflows and month six on communicating results through a written report and a live presentation, with the deliverable being a portfolio project presented to a small audience of peers or mentors. Competence is verified by the learner successfully answering unscripted questions about their modelling choices, since this distinguishes genuine understanding from memorised explanation.",
+   "The complete six month plan for the cloud solutions architect career track moves from Linux and Docker in months one and two, through Terraform and platform comparison in months three and four, to Kubernetes and high availability design in months five and six, producing a documented, fault-tolerant reference architecture as the final deliverable. This career progression path requires broader tool comparison than most tracks because architects are judged on justified trade-off decisions rather than depth in a single tool."
+  ],
+  "context_sources": [
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference"
+  ],
+  "answer": "Recommended Career Tracks:\n\n1. Cloud Solutions Architect. Your experience in Docker, Jenkins, and cloud infrastructure aligns directly with this role.\n2. Cloud Platform Engineer. Your background in configuring cloud compute clusters and deployment pipelines fits this track well.\n\nNext Three Skills to Learn:\n\n1. Terraform for infrastructure as code.\n2. Kubernetes for container orchestration at scale.\n3. Formal cost modelling and multi-cloud comparison across AWS, Azure, and Google Cloud.\n\nSix Month Plan:\n- Month 1 and Month 2: Master Linux and Docker.\n- Month 3 and Month 4: Learn Terraform and platform comparison.\n- Month 5 and Month 6: Study Kubernetes and high availability design.\n- Final Deliverable: Produce a documented, fault-tolerant reference architecture.",
+  "mode": "gemini",
+  "latency_s": 39.17,
+  "resume_id": "CV01",
+  "filename": "AI & ML Engineer 1.pdf"
+ },
+ {
+  "tool": "Career Advice",
+  "retrieval_query": "career track well suited to a professional with experience in Backup Business Intelligence Communication DHCP DNS Data Modeling Data Quality Data Science next three skills to learn six month plan",
+  "user_input": "Based on this resume, recommend the two best-fit career tracks, the next three skills to learn, and a six month plan.",
+  "contexts": [
+   "A professional who has switched career tracks more than once, for example moving from backend engineering into data engineering and later into machine learning engineering, should present this history on a resume as a coherent narrative of increasing specialisation toward a stated goal rather than as a list of disconnected job changes, since employers evaluating such a resume are specifically checking whether the pattern reflects deliberate career development or directionless job hopping.",
+   "A professional with experience in SQL, Power BI, Excel and business reporting is well suited to the data scientist career track, because that track requires exploratory data analysis and communicating quantitative findings to business stakeholders, which transfer directly from building dashboards that explain trends to non-technical audiences. The missing skills for career progression into data science are Python libraries such as pandas, NumPy and scikit-learn, and foundational statistics beyond descriptive reporting.",
+   "A professional with experience in statistics, predictive modelling, Python and applied research is well suited to the quantitative analyst career track, because that track requires rigorous statistical modelling and hypothesis testing under uncertainty, which transfers directly from academic or industry research requiring peer-reviewed methodology and reproducible results. The missing skill for career progression in this direction is domain-specific financial or risk modelling knowledge, which is typically acquired on the job over a six month plan.",
+   "Career progression across multiple six month plans compounds rather than resets, because a professional who completed a six month plan moving from data analyst to analytics engineer retains the SQL and Git skill from that plan when later pursuing a further six month plan into data engineering or machine learning engineering. Skill acquisition should therefore be tracked cumulatively across a multi-year career track rather than treating each six month plan as an isolated, disconnected effort.",
+   "A professional with experience in SQL, Power BI, Excel and business reporting is well suited to the database administrator career track, because that track requires deep familiarity with query performance, indexing and schema design, which transfer directly from having written and optimized complex SQL queries against production reporting databases such as MySQL or PostgreSQL. What remains for career progression is backup and recovery procedures, replication configuration and security hardening, none of which are typically exposed to a reporting-focused data analyst.",
+   "The complete six month plan for the data scientist career track moves from pandas, NumPy and scikit-learn in months one and two, through statistical testing and feature engineering in months three and four, to collaboration and communication skill in months five and six, producing a defensible, presented analysis project as the final deliverable. This career progression path matches how Sri Lankan employers evaluate data scientist candidates, who are typically asked to walk through a past project in an interview rather than solve an abstract algorithm question."
+  ],
+  "context_sources": [
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference"
+  ],
+  "answer": "Best-Fit Career Tracks:\n- Data Scientist: You have strong experience in SQL, Power BI, and business reporting. You are already pursuing a Masters in Data Science.\n- Database Administrator: You have hands-on experience in SQL query optimization, database performance tuning, and IT infrastructure.\n\nNext Three Skills to Learn:\n1. Python libraries such as pandas, NumPy, and scikit-learn.\n2. Foundational statistics beyond descriptive reporting.\n3. Database backup, replication configuration, and security hardening.\n\n6-Month Plan:\n- Months 1 and 2: Master Python libraries including pandas, NumPy, and scikit-learn.\n- Months 3 and 4: Learn statistical testing and feature engineering.\n- Months 5 and 6: Improve communication skills and deliver a presented data analysis project.",
+  "mode": "gemini",
+  "latency_s": 10.65,
+  "resume_id": "CV02",
+  "filename": "Data Analyst 1.pdf"
+ },
+ {
+  "tool": "Career Advice",
+  "retrieval_query": "career track well suited to a professional with experience in AWS CSS Communication Computer Science Deep Learning Figma Frontend GitHub next three skills to learn six month plan",
+  "user_input": "Based on this resume, recommend the two best-fit career tracks, the next three skills to learn, and a six month plan.",
+  "contexts": [
+   "In a six month plan for the data scientist career track, month five is spent on Git-based collaboration workflows and month six on communicating results through a written report and a live presentation, with the deliverable being a portfolio project presented to a small audience of peers or mentors. Competence is verified by the learner successfully answering unscripted questions about their modelling choices, since this distinguishes genuine understanding from memorised explanation.",
+   "A professional with experience in statistics, predictive modelling, Python and applied research is well suited to the machine learning engineer career track, because that track requires taking a model from a research notebook into a served production system, which transfers directly from having already built and validated statistical and machine learning models using scikit-learn. The missing skills for this career track are containerization with Docker, model serving frameworks such as FastAPI, and experiment tracking with MLflow.",
+   "The complete six month plan for the machine learning engineer career track moves from Docker and FastAPI in months one and two, through MLflow and Kubernetes in months three and four, to Prometheus and Grafana in months five and six, producing a fully monitored, versioned, deployed model service as the final deliverable. This career progression path is deliberately ordered so that each month's deliverable becomes the dependency for the next, mirroring how production machine learning systems are actually built rather than how they are taught in isolated tutorials.",
+   "Switching tracks mid-career, such as moving from a senior individual contributor role into engineering management or from a backend engineering track into a machine learning engineering track, resets some but not all of an individual's accumulated career capital, since domain-specific technical depth may become less relevant while general professional skills such as communication, debugging discipline and system design judgement transfer fully. A professional switching tracks after five years of experience should expect roughly six to twelve months of reduced productivity in the new track before career progression resumes at its prior pace.",
+   "A professional with experience in statistics, predictive modelling, Python and applied research is well suited to the quantitative analyst career track, because that track requires rigorous statistical modelling and hypothesis testing under uncertainty, which transfers directly from academic or industry research requiring peer-reviewed methodology and reproducible results. The missing skill for career progression in this direction is domain-specific financial or risk modelling knowledge, which is typically acquired on the job over a six month plan.",
+   "A professional with experience in JavaScript, React, Node.js and API development is well suited to the technical lead career track, because that track requires making architecture decisions across frontend and backend boundaries and mentoring less experienced developers, which transfers directly from having owned full stack features end to end across a team project for two or more years. The gap for career progression is formal system design practice at a scale beyond a single application's frontend and backend."
+  ],
+  "context_sources": [
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference"
+  ],
+  "answer": "Best-Fit Career Tracks:\n\n1. Mobile Application Developer: You already build React Native apps and publish them on the Play Store.\n2. Technical Lead: Your background in React and frontend development gives you a strong foundation for technical leadership.\n\nNext Three Skills to Learn:\n\n1. Node.js: Learn backend API development to build full-stack web and mobile systems.\n2. System Design: Learn how to scale applications beyond frontend interfaces.\n3. Docker: Learn containerization to deploy services reliably in production.\n\nSix Month Plan:\n- Month 1: Master Node.js to create robust backend APIs.\n- Month 2: Learn System Design concepts for scalable software architecture.\n- Month 3: Implement containerization using Docker for backend services.\n- Month 4: Build a full-stack mobile project combining React Native and Node.js.\n- Month 5: Practice Git-based collaboration workflows and team project management.\n- Month 6: Present your completed portfolio project to mentors and answer technical questions.",
+  "mode": "gemini",
+  "latency_s": 17.18,
+  "resume_id": "CV03",
+  "filename": "Mobile App Developer 1.pdf"
+ },
+ {
+  "tool": "Career Advice",
+  "retrieval_query": "career track well suited to a professional with experience in Arduino CSS Cisco Communication Cybersecurity Fortinet GitHub Grafana next three skills to learn six month plan",
+  "user_input": "Based on this resume, recommend the two best-fit career tracks, the next three skills to learn, and a six month plan.",
+  "contexts": [
+   "The complete six month plan for the cybersecurity engineer career track moves from Linux and networking in months one and two, through Bash and Ansible in months three and four, to vulnerability scanning and incident response in months five and six, producing a hardened, tested, documented security posture as the final deliverable. This career progression path is a common route for NOC and network engineers pursuing skill acquisition into cybersecurity, since it builds directly on their existing infrastructure knowledge.",
+   "In a six month plan for the cybersecurity engineer career track, month one is spent on Linux administration and month two on networking fundamentals including TCP/IP, with the deliverable being a documented network diagram and hardened configuration for a small test environment. Competence is verified by the learner successfully defending the environment against a basic simulated port scan and unauthorized access attempt.",
+   "A professional with experience in statistics, predictive modelling, Python and applied research is well suited to the quantitative analyst career track, because that track requires rigorous statistical modelling and hypothesis testing under uncertainty, which transfers directly from academic or industry research requiring peer-reviewed methodology and reproducible results. The missing skill for career progression in this direction is domain-specific financial or risk modelling knowledge, which is typically acquired on the job over a six month plan.",
+   "A professional with experience in TCP/IP, routing, switching and network monitoring is well suited to the cybersecurity engineer career track, because that track requires understanding traffic patterns and identifying anomalous behaviour, which transfers directly from having monitored network traffic and configured intrusion detection alerts as part of daily network operations. The gap is security-specific tooling and formal vulnerability assessment methodology beyond network-layer monitoring.",
+   "For a professional moving from a NOC or network engineer role into the site reliability engineer career track, the next three skills to learn in order are Bash scripting, Prometheus, then Grafana. This ordering matters because automating repetitive diagnostic tasks with Bash comes first, Prometheus then formalizes metric collection beyond manual network monitoring tools, and Grafana is added last to visualize those metrics for on-call decision making.",
+   "The complete six month plan for the data scientist career track moves from pandas, NumPy and scikit-learn in months one and two, through statistical testing and feature engineering in months three and four, to collaboration and communication skill in months five and six, producing a defensible, presented analysis project as the final deliverable. This career progression path matches how Sri Lankan employers evaluate data scientist candidates, who are typically asked to walk through a past project in an interview rather than solve an abstract algorithm question."
+  ],
+  "context_sources": [
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference"
+  ],
+  "answer": "Recommended Career Tracks:\n- Cybersecurity Engineer: Your NOC experience, TCP/IP skills, and CCNA certifications build a strong base for traffic analysis and incident response.\n- Site Reliability Engineer: Your background in 24/7 network monitoring and real-time tools like Grafana provides a strong foundation for this role.\n\nNext Three Skills to Learn:\n\n1. Linux Administration and Bash Scripting: This allows you to automate repetitive diagnostic tasks and build scripts for system management.\n2. Ansible: This enables automated configuration management and infrastructure automation across target environments.\n3. Vulnerability Assessment Tools: This builds formal vulnerability scanning and incident response capabilities beyond simple network-layer monitoring.\n\nSix Month Plan:\n- Month 1: Study Linux administration. Build and document a small test environment with a hardened configuration.\n- Month 2: Review networking fundamentals and TCP/IP security. Defend your test environment against a simulated port scan and unauthorized access attempt.\n- Month 3 and 4: Master Bash scripting and Ansible. Automate daily infrastructure monitoring and system deployment tasks.\n- Month 5 and 6: Practice vulnerability scanning and incident response. Deliver a hardened, tested, and fully documented security posture project.",
+  "mode": "gemini",
+  "latency_s": 12.73,
+  "resume_id": "CV04",
+  "filename": "NOC Engineer 1.pdf"
+ },
+ {
+  "tool": "Career Advice",
+  "retrieval_query": "career track well suited to a professional with experience in AWS Agile Amazon Lambda Azure Azure Functions Backend C C++ next three skills to learn six month plan",
+  "user_input": "Based on this resume, recommend the two best-fit career tracks, the next three skills to learn, and a six month plan.",
+  "contexts": [
+   "A professional with experience in statistics, predictive modelling, Python and applied research is well suited to the quantitative analyst career track, because that track requires rigorous statistical modelling and hypothesis testing under uncertainty, which transfers directly from academic or industry research requiring peer-reviewed methodology and reproducible results. The missing skill for career progression in this direction is domain-specific financial or risk modelling knowledge, which is typically acquired on the job over a six month plan.",
+   "For a professional moving from an ETL-focused data engineer into the data architect career track, the next three skills to learn in order are AWS Redshift, Google BigQuery, then Azure Data Factory. This ordering matters because comparing two competing warehouse platforms first builds the judgement required to evaluate trade-offs, and Azure Data Factory is added last since it represents a full orchestration ecosystem an architect must be able to compare against warehouse-native tooling.",
+   "Career progression across multiple six month plans compounds rather than resets, because a professional who completed a six month plan moving from data analyst to analytics engineer retains the SQL and Git skill from that plan when later pursuing a further six month plan into data engineering or machine learning engineering. Skill acquisition should therefore be tracked cumulatively across a multi-year career track rather than treating each six month plan as an isolated, disconnected effort.",
+   "In a six month plan for the cloud solutions architect career track, month three is spent on Terraform and month four on comparing AWS Redshift, Google BigQuery and Azure Data Factory for a hypothetical workload, with the deliverable being a written architecture decision record recommending one platform with explicit cost and performance justification. Competence is verified by the learner defending that recommendation against a deliberately skeptical review from a mentor or peer.",
+   "Reviewing market alignment should be repeated periodically rather than performed once, since the frequency with which specific technologies such as Azure Data Factory versus AWS Redshift appear in local job postings shifts over multi-year periods as employers change cloud providers or adopt new tooling, meaning a six month plan built around a market alignment review conducted several years earlier may no longer reflect current local employer demand.",
+   "A professional with experience in Docker, Jenkins, Kubernetes and cloud infrastructure is well suited to the cloud solutions architect career track, because that track requires designing multi-service, cost-optimized cloud architectures, which transfers directly from having configured production cloud environments and made infrastructure decisions across three or more years of DevOps work. The missing skill for career progression here is formal cost modelling and multi-cloud comparison experience across AWS, Azure and Google Cloud."
+  ],
+  "context_sources": [
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference",
+   "career_development_reference"
+  ],
+  "answer": "Recommended Career Tracks:\n- Cloud Solutions Architect: You have strong cloud infrastructure experience across AWS, Azure, GCP, and Docker.\n- Quantitative Analyst: You have applied research experience, strong Python skills, and data modelling expertise.\n\nNext Three Skills to Learn:\n1. AWS Redshift\n2. Google BigQuery\n3. Azure Data Factory\n\nSix Month Plan:\n- Month 1: Review local job market demand and learn multi-cloud cost modelling across AWS, Azure, and GCP.\n- Month 2: Learn domain-specific financial and risk modelling concepts using Python.\n- Month 3: Spend the month mastering Terraform for infrastructure deployment.\n- Month 4: Compare AWS Redshift, Google BigQuery, and Azure Data Factory for a hypothetical workload. Write an Architecture Decision Record with cost and performance justifications.\n- Month 5: Build a prototype multi-cloud data architecture project to apply your learned skills.\n- Month 6: Defend your written Architecture Decision Record against a skeptical review from a peer or mentor.",
+  "mode": "gemini",
+  "latency_s": 13.13,
+  "resume_id": "CV05",
+  "filename": "Senior Software Engineer 1.pdf"
+ }
+]

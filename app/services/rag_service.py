@@ -24,6 +24,45 @@ logger = get_logger(__name__)
 KB_DIR = Path("data/knowledge_base")
 
 
+CHUNK_SIZE = 700          # characters per chunk, about a paragraph of prose
+CHUNK_OVERLAP = 150       # carried over so a claim split across a boundary
+                          # still appears whole in one chunk
+
+
+def _split_chunk(text: str,
+                 size: int = CHUNK_SIZE,
+                 overlap: int = CHUNK_OVERLAP) -> list[str]:
+    """Split an oversized passage into overlapping, sentence-aligned pieces.
+
+    Markdown converted from books produces paragraphs of 8,000-12,000
+    characters. Embedding one of those as a single vector blurs every topic it
+    covers together, so retrieval returns a blob where only a line or two is
+    relevant. Splitting to a uniform size makes the vectors specific, and the
+    overlap stops a sentence that straddles a boundary from being lost."""
+    text = text.strip()
+    if len(text) <= size:
+        return [text]
+
+    pieces, start = [], 0
+    while start < len(text):
+        end = min(start + size, len(text))
+        if end < len(text):
+            # Prefer a sentence boundary, then any whitespace, in the last
+            # quarter of the window so pieces do not end mid-word.
+            window = text.rfind(". ", start + size * 3 // 4, end)
+            if window == -1:
+                window = text.rfind(" ", start + size * 3 // 4, end)
+            if window != -1:
+                end = window + 1
+        piece = text[start:end].strip()
+        if piece:
+            pieces.append(piece)
+        if end >= len(text):
+            break
+        start = max(end - overlap, start + 1)
+    return pieces
+
+
 class KnowledgeBase:
     def __init__(self):
         self.chunks: list[dict] = []
@@ -37,19 +76,32 @@ class KnowledgeBase:
                 continue
             text = path.read_text(encoding="utf-8")
             paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text) if len(p.strip()) > 60]
+            # Drop heading-only blocks: they retrieve well on topic words but
+            # carry no information for the model to ground an answer on.
+            paragraphs = [p for p in paragraphs if not p.lstrip().startswith("#")]
             for p in paragraphs:
-                self.chunks.append({"source": path.stem, "text": p})
+                for piece in _split_chunk(p):
+                    self.chunks.append({"source": path.stem, "text": piece})
         if self.chunks:
             self.vectors = embedding_service.encode([c["text"] for c in self.chunks])
         logger.info("Knowledge base indexed: %d chunks", len(self.chunks))
 
-    def retrieve(self, query: str, top_k: int = 4) -> list[dict]:
+    def retrieve(self, query: str, top_k: int = 4,
+                 sources: set[str] | None = None) -> list[dict]:
+        """Return the top_k most similar chunks, optionally restricted to
+        specific source documents.
+
+        The corpus is dominated by a few large books, so a query whose topic
+        those books also discuss will fill every slot with them. Restricting
+        the candidate set per tool keeps retrieval on topic."""
         if not self.chunks:
             return []
         q = embedding_service.encode(query)[0]
         sims = self.vectors @ q
-        order = np.argsort(-sims)[:top_k]
-        return [self.chunks[i] for i in order]
+        order = np.argsort(-sims)
+        if sources:
+            order = [i for i in order if self.chunks[i]["source"] in sources]
+        return [self.chunks[i] for i in order[:top_k]]
 
     def documents(self) -> list[str]:
         return sorted({c["source"] for c in self.chunks})
@@ -73,19 +125,53 @@ def clean_output(text: str) -> str:
 
 
 
+_key_cursor = 0
+_model_cursor = 0
+
+
 def _call_gemini(prompt: str) -> str | None:
+    """Generate with Gemini, falling back across keys and models.
+
+    Keys differ in what they can serve: newer projects reject gemini-2.5-flash,
+    older ones reject gemini-3.6-flash, and any key can exhaust its daily quota.
+    Each key is tried against each configured model until one combination
+    works, and that pair is remembered for the next call. Returns None once
+    everything has failed, leaving the offline template generator in charge."""
+    global _key_cursor, _model_cursor
+
     settings = get_settings()
-    if not settings.gemini_api_key:
+    keys = settings.gemini_api_keys
+    models = settings.gemini_models
+    if not keys or not models:
         return None
-    try:
-        import google.generativeai as genai
-        genai.configure(api_key=settings.gemini_api_key)
-        model = genai.GenerativeModel(settings.gemini_model)
-        response = model.generate_content(prompt)
-        return response.text
-    except Exception as exc:
-        logger.warning("Gemini call failed, using offline generator: %s", exc)
-        return None
+
+    import google.generativeai as genai
+
+    last_error = None
+    for k in range(len(keys)):
+        key_index = (_key_cursor + k) % len(keys)
+        genai.configure(api_key=keys[key_index])
+
+        for m in range(len(models)):
+            model_index = (_model_cursor + m) % len(models)
+            try:
+                response = genai.GenerativeModel(models[model_index]).generate_content(prompt)
+                _key_cursor, _model_cursor = key_index, model_index
+                return response.text
+            except Exception as exc:
+                last_error = exc
+                text = str(exc)
+                # A model this key cannot serve: try the next model on the same
+                # key. Anything else (quota, auth) means move on to the next key.
+                if "404" in text or "not available" in text or "not found" in text.lower():
+                    continue
+                break
+        logger.warning("Gemini key %d/%d unusable (%s); trying the next key.",
+                       key_index + 1, len(keys), last_error)
+
+    logger.warning("All %d Gemini key(s) failed, using offline generator: %s",
+                   len(keys), last_error)
+    return None
 
 
 def _context_block(query: str) -> str:
@@ -146,8 +232,34 @@ def generate_resume_feedback(resume_text: str, job_id: str | None) -> dict:
     return {"feedback": clean_output(text)}
 
 
+CAREER_SOURCES = {"career_development_reference", "career_development"}
+CAREER_TOP_K = 6
+
+
+def _career_query(resume_text: str, limit: int = 8) -> str:
+    """Retrieval query for career advice, phrased to match how the career
+    reference document states its guidance.
+
+    A generic query such as "career development skill acquisition IT" retrieves
+    generic career philosophy and never reaches the paragraphs that actually
+    answer the question, which are written as "A professional with experience
+    in X, Y and Z is well suited to the A career track". Echoing the candidate's
+    own skills in that sentence form retrieves those paragraphs instead."""
+    from app.services.resume_parser import parse_resume
+
+    try:
+        skills = parse_resume(resume_text).get("detected_skills") or []
+    except Exception:
+        skills = []
+    return ("career track well suited to a professional with experience in "
+            + " ".join(skills[:limit])
+            + " next three skills to learn six month plan")
+
+
 def career_recommendation(resume_text: str) -> dict:
-    context = _context_block("career development skill acquisition IT")
+    chunks = knowledge_base.retrieve(_career_query(resume_text),
+                                     top_k=CAREER_TOP_K, sources=CAREER_SOURCES)
+    context = "\n\n".join(f"[{c['source']}]\n{c['text']}" for c in chunks)
     prompt = (
         "You are a career advisor for IT professionals in Sri Lanka. Respond in plain text only, no markdown symbols such as asterisks or hashes. Structure the answer with short section titles ending in a colon, followed by short numbered points or dashes. Keep every sentence short and simple. Never write long paragraphs.  Based on the resume "
         "and reference context, recommend the two best-fit career tracks, the next three "
