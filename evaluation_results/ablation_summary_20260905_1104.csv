@@ -1,0 +1,5 @@
+System,P@5,P@10,MRR,NDCG@10,judged by
+Keyword (Skill Overlap),0.7067,0.6967,0.8325,0.7912,rubric (§7.2)
+Keyword (BM25),0.68,0.6967,0.8409,0.7807,rubric (§7.2)
+Semantic (SBERT),0.7533,0.67,0.8483,0.8198,rubric (§7.2)
+Hybrid (SBERT + Keyword),0.9133,0.8667,0.9611,0.927,human (Model_Development.ipynb)
