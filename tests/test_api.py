@@ -89,3 +89,31 @@ def test_organization_workflow():
 
     # plain users are denied org endpoints (RBAC)
     assert client.get("/api/v1/org/jobs", headers=utok).status_code == 403
+
+
+def test_knowledge_base_vector_store():
+    h = admin_headers()
+    assert client.get("/api/v1/admin/rag/documents", headers=h).json() == ["interview_basics"]
+
+    from app.services.rag_service import knowledge_base
+    doc = {"name": "kafka_notes",
+           "content": "Apache Kafka is a distributed event streaming platform. Producers "
+                      "write records to topics and consumer groups read them in order."}
+    assert client.post("/api/v1/admin/rag/documents", headers=h, json=doc).status_code == 200
+    top = knowledge_base.retrieve("event streaming with Kafka topics", top_k=1)
+    assert top[0]["source"] == "kafka_notes"
+
+    # Correcting a document replaces its chunks rather than adding to them.
+    doc["content"] = ("Apache Kafka stores records in partitioned, replicated logs; "
+                      "consumers track their position with offsets.")
+    assert client.post("/api/v1/admin/rag/documents", headers=h, json=doc).status_code == 200
+    stored = [c["text"] for c in knowledge_base.chunks if c["source"] == "kafka_notes"]
+    assert stored == [doc["content"]]
+    assert client.get("/api/v1/admin/rag/documents/kafka_notes",
+                      headers=h).json()["content"] == doc["content"]
+
+    assert client.delete("/api/v1/admin/rag/documents/kafka_notes", headers=h).status_code == 200
+    assert "kafka_notes" not in knowledge_base.documents()
+    assert client.delete("/api/v1/admin/rag/documents/kafka_notes", headers=h).status_code == 404
+    assert client.post("/api/v1/admin/rag/documents", headers=h,
+                       json={"name": "../", "content": "x"}).status_code == 422

@@ -114,14 +114,39 @@ def rebuild_index(admin=Depends(require_admin)):
 
 @router.post("/rag/rebuild")
 def rebuild_kb(admin=Depends(require_admin)):
-    knowledge_base.rebuild()
+    result = knowledge_base.rebuild()
     audit.record(admin["sub"], "rag.rebuild")
-    return {"detail": "Knowledge base re-indexed", "chunks": len(knowledge_base.chunks)}
+    return {"detail": "Knowledge base re-indexed", "chunks": result["chunks"]}
+
+
+@router.post("/rag/sync")
+def sync_kb(admin=Depends(require_admin)):
+    """Pick up Markdown files added, edited or removed on disk, re-embedding
+    only the documents that changed."""
+    result = knowledge_base.sync()
+    audit.record(admin["sub"], "rag.sync")
+    return {"detail": "Knowledge base synchronised", **result}
 
 
 @router.get("/rag/documents")
 def kb_documents():
     return knowledge_base.documents()
+
+
+@router.get("/rag/documents/{name}")
+def kb_document(name: str):
+    content = knowledge_base.read_document(name)
+    if content is None:
+        raise HTTPException(status_code=404, detail="Document not found")
+    return {"name": name, "content": content}
+
+
+@router.delete("/rag/documents/{name}")
+def delete_kb_document(name: str, admin=Depends(require_admin)):
+    if not knowledge_base.delete_document(name):
+        raise HTTPException(status_code=404, detail="Document not found")
+    audit.record(admin["sub"], "rag.document.delete", name)
+    return {"detail": "Document removed from the knowledge base"}
 
 
 @router.post("/rag/upload-pdf")
@@ -137,9 +162,10 @@ async def upload_kb_pdf(file: UploadFile = File(...), admin=Depends(require_admi
     if len(text.strip()) < 100:
         raise HTTPException(status_code=422, detail="Could not extract readable text from this PDF")
     stem = Path(file.filename).stem
-    safe = "".join(c for c in stem if c.isalnum() or c in "-_ ").strip().replace(" ", "_") or "document"
-    Path("data/knowledge_base", f"{safe}.md").write_text(f"# {stem}\n\n{text}", encoding="utf-8")
-    knowledge_base.rebuild()
+    try:
+        safe = knowledge_base.save_document(stem.replace(" ", "_"), f"# {stem}\n\n{text}")
+    except ValueError:
+        safe = knowledge_base.save_document("document", f"# {stem}\n\n{text}")
     audit.record(admin["sub"], "rag.pdf.upload", safe)
     return {"detail": f"PDF indexed as {safe}", "characters": len(text)}
 
@@ -170,11 +196,14 @@ class KBDocument(BaseModel):
 
 @router.post("/rag/documents")
 def add_kb_document(payload: KBDocument, admin=Depends(require_admin)):
-    safe = "".join(c for c in payload.name if c.isalnum() or c in "-_")
-    Path("data/knowledge_base", f"{safe}.md").write_text(payload.content, encoding="utf-8")
-    knowledge_base.rebuild()
+    """Add a document, or overwrite an existing one of the same name to
+    correct it. Only this document is re-embedded."""
+    try:
+        safe = knowledge_base.save_document(payload.name, payload.content)
+    except ValueError as exc:
+        raise HTTPException(status_code=422, detail=str(exc))
     audit.record(admin["sub"], "rag.document.add", safe)
-    return {"detail": "Document added and indexed"}
+    return {"detail": f"Document {safe} saved and indexed"}
 
 
 # ----- Analytics / monitoring / logs -----

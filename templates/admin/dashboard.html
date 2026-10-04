@@ -125,8 +125,10 @@
         <button class="btn btn-ghost btn-sm" onclick="adminPost('/admin/maintenance/reload-jobs')">Reload jobs from CSV</button>
       </div>
       <div class="card"><h3 class="section-title">Knowledge base documents</h3>
-        <p class="meta" id="kb-docs"></p>
-        <button class="btn btn-ghost btn-sm" onclick="adminPost('/admin/rag/rebuild').then(loadKb)">Re-index knowledge base</button>
+        <p class="meta">Stored in the ChromaDB vector store. Edit a document to correct it; only that document is re-embedded.</p>
+        <div id="kb-docs"></div>
+        <button class="btn btn-ghost btn-sm" onclick="adminPost('/admin/rag/sync').then(loadKb)">Sync changes from disk</button>
+        <button class="btn btn-ghost btn-sm" onclick="adminPost('/admin/rag/rebuild').then(loadKb)">Rebuild vector store</button>
       </div>
       <div class="card"><h3 class="section-title">Add PDF to knowledge base</h3>
         <p class="meta">Upload a PDF; its text is extracted, stored and indexed for retrieval.</p>
@@ -134,10 +136,10 @@
         <button class="btn btn-primary btn-sm" onclick="uploadKbPdf()">Upload and index PDF</button>
         <div id="kb-pdf-msg"></div>
       </div>
-      <div class="card"><h3 class="section-title">Add Markdown document</h3>
+      <div class="card"><h3 class="section-title">Add or correct a Markdown document</h3>
         <div class="field"><label>Document name</label><input id="kb-name" placeholder="e.g. cloud_architecture"></div>
         <div class="field"><label>Markdown content</label><textarea id="kb-content"></textarea></div>
-        <button class="btn btn-primary btn-sm" onclick="addKbDoc()">Add document</button>
+        <button class="btn btn-primary btn-sm" onclick="addKbDoc()">Save and index document</button>
       </div>
     </div>
   </div>
@@ -388,7 +390,32 @@ async function saveRoadmapJson() {
 
 /* RAG */
 async function loadKb() {
-  try { document.getElementById("kb-docs").textContent = "Indexed documents: " + (await API.get("/admin/rag/documents")).join(", "); } catch (e) {}
+  const box = document.getElementById("kb-docs");
+  try {
+    const docs = await API.get("/admin/rag/documents");
+    box.innerHTML = "";
+    docs.forEach((d) => box.appendChild(el("div", { style: "display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px" }, [
+      el("span", {}, d),
+      el("div", {}, [
+        el("button", { class: "btn btn-ghost btn-sm", onclick: () => editKbDoc(d) }, "Edit"),
+        el("button", { class: "btn btn-danger btn-sm", onclick: () => delKbDoc(d) }, "Delete"),
+      ]),
+    ])));
+    if (!docs.length) box.textContent = "No documents indexed.";
+  } catch (e) {}
+}
+async function editKbDoc(name) {
+  try {
+    const doc = await API.get("/admin/rag/documents/" + encodeURIComponent(name));
+    document.getElementById("kb-name").value = doc.name;
+    document.getElementById("kb-content").value = doc.content;
+    document.getElementById("kb-name").scrollIntoView({ behavior: "smooth", block: "center" });
+  } catch (e) { notify(msg(), e.message, false); }
+}
+async function delKbDoc(name) {
+  if (!confirm("Remove " + name + " from the knowledge base?")) return;
+  try { const r = await API.del("/admin/rag/documents/" + encodeURIComponent(name)); notify(msg(), r.detail); loadKb(); }
+  catch (e) { notify(msg(), e.message, false); }
 }
 async function uploadKbPdf() {
   const f = document.getElementById("kb-pdf").files[0];

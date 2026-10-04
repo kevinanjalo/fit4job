@@ -2,7 +2,8 @@
 
 Pipeline (kept identical to the research design):
   1. Retrieve: encode the query with the same SBERT embeddings and fetch the
-     most relevant knowledge-base chunks plus the target job description.
+     most relevant knowledge-base chunks from the ChromaDB vector store, plus
+     the target job description.
   2. Prompt: instruct the LLM (Gemini) with the retrieved context.
   3. Generate: return grounded interview questions, resume feedback or
      career advice.
@@ -12,16 +13,16 @@ template-based generator produces useful output so the platform still works
 offline. Your existing trained RAG pipeline can replace this module by
 implementing the same three public functions.
 """
+import hashlib
 import re
+import threading
 from pathlib import Path
-import numpy as np
 from app.config import get_settings
 from app.core.logging import get_logger
 from app.services.embedding_service import embedding_service
 from app.services.job_service import job_service
 
 logger = get_logger(__name__)
-KB_DIR = Path("data/knowledge_base")
 
 
 CHUNK_SIZE = 700          # characters per chunk, about a paragraph of prose
@@ -63,28 +64,162 @@ def _split_chunk(text: str,
     return pieces
 
 
-class KnowledgeBase:
-    def __init__(self):
-        self.chunks: list[dict] = []
-        self.vectors = None
-        self.rebuild()
+SOURCE_HASH_KEY = "doc_hash"
+# Part of the store's fingerprint: changing the chunking rules makes the
+# stored chunks stale, so they are rebuilt to match.
+CHUNKER_VERSION = f"v1-{CHUNK_SIZE}-{CHUNK_OVERLAP}"
 
-    def rebuild(self):
-        self.chunks = []
-        for path in sorted(KB_DIR.glob("*.md")):
-            if path.name == "README.md":
-                continue
-            text = path.read_text(encoding="utf-8")
-            paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text) if len(p.strip()) > 60]
-            # Drop heading-only blocks: they retrieve well on topic words but
-            # carry no information for the model to ground an answer on.
-            paragraphs = [p for p in paragraphs if not p.lstrip().startswith("#")]
-            for p in paragraphs:
-                for piece in _split_chunk(p):
-                    self.chunks.append({"source": path.stem, "text": piece})
-        if self.chunks:
-            self.vectors = embedding_service.encode([c["text"] for c in self.chunks])
-        logger.info("Knowledge base indexed: %d chunks", len(self.chunks))
+
+def _safe_name(name: str) -> str:
+    """Restrict a document name to a plain file stem inside the KB folder."""
+    return "".join(c for c in name if c.isalnum() or c in "-_").strip("-_")
+
+
+def _chunk_document(text: str) -> list[str]:
+    paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text) if len(p.strip()) > 60]
+    # Drop heading-only blocks: they retrieve well on topic words but
+    # carry no information for the model to ground an answer on.
+    paragraphs = [p for p in paragraphs if not p.lstrip().startswith("#")]
+    return [piece for p in paragraphs for piece in _split_chunk(p)]
+
+
+class KnowledgeBase:
+    """RAG knowledge base persisted in a ChromaDB vector store.
+
+    The Markdown files in the knowledge base folder are the source of truth.
+    Each is chunked, embedded with the platform's SBERT encoder and stored in
+    Chroma together with a hash of the file, so on startup only new or edited
+    documents are re-embedded and deleted ones are removed. If the encoder or
+    the chunking changes, stored vectors are no longer comparable with new
+    queries and the whole collection is rebuilt."""
+
+    def __init__(self):
+        import chromadb
+        from chromadb.config import Settings as ChromaSettings
+
+        settings = get_settings()
+        self.kb_dir = Path(settings.knowledge_base_dir)
+        self.chunks: list[dict] = []
+        self._lock = threading.RLock()
+        Path(settings.chroma_path).mkdir(parents=True, exist_ok=True)
+        self._client = chromadb.PersistentClient(
+            path=settings.chroma_path,
+            settings=ChromaSettings(anonymized_telemetry=False))
+        self._collection_name = settings.chroma_collection
+        self._fingerprint = f"{embedding_service.fingerprint}|{CHUNKER_VERSION}"
+        self._collection = self._open_collection()
+        self.sync()
+
+    def _open_collection(self, reset: bool = False):
+        if not reset:
+            try:
+                col = self._client.get_collection(self._collection_name)
+            except Exception:
+                col = None  # first run: no collection yet
+            if col is not None:
+                if (col.metadata or {}).get("fingerprint") == self._fingerprint:
+                    return col
+                logger.info("Knowledge base vectors were built with a different encoder "
+                            "or chunking; rebuilding the vector store.")
+        try:
+            self._client.delete_collection(self._collection_name)
+        except Exception:
+            pass
+        # Embeddings are unit length, so cosine distance ranks chunks exactly
+        # as the dot product of the original in-memory index did.
+        return self._client.create_collection(
+            self._collection_name,
+            metadata={"fingerprint": self._fingerprint},
+            configuration={"hnsw": {"space": "cosine"}})
+
+    def _source_files(self) -> dict[str, Path]:
+        return {p.stem: p for p in sorted(self.kb_dir.glob("*.md")) if p.name != "README.md"}
+
+    def _stored_hashes(self) -> dict[str, str]:
+        metas = self._collection.get(include=["metadatas"])["metadatas"] or []
+        return {m["source"]: m[SOURCE_HASH_KEY] for m in metas}
+
+    def _index_document(self, source: str, text: str) -> int:
+        """Replace every stored chunk of one document with freshly embedded ones."""
+        self._collection.delete(where={"source": source})
+        pieces = _chunk_document(text)
+        if not pieces:
+            return 0
+        digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
+        vectors = embedding_service.encode(pieces)
+        batch = self._client.get_max_batch_size()
+        for start in range(0, len(pieces), batch):
+            idx = range(start, min(start + batch, len(pieces)))
+            self._collection.add(
+                ids=[f"{source}::{i}" for i in idx],
+                documents=[pieces[i] for i in idx],
+                embeddings=vectors[idx.start:idx.stop].tolist(),
+                metadatas=[{"source": source, "chunk": i, SOURCE_HASH_KEY: digest} for i in idx])
+        return len(pieces)
+
+    def _load_chunks(self):
+        got = self._collection.get(include=["documents", "metadatas"])
+        rows = sorted(zip(got["metadatas"] or [], got["documents"] or []),
+                      key=lambda r: (r[0]["source"], r[0]["chunk"]))
+        self.chunks = [{"source": m["source"], "text": d} for m, d in rows]
+
+    def sync(self) -> dict:
+        """Bring the vector store in line with the files on disk, embedding
+        only documents that are new or have changed since they were stored."""
+        added, updated, removed = [], [], []
+        with self._lock:
+            files = self._source_files()
+            stored = self._stored_hashes()
+            for source in stored.keys() - files.keys():
+                self._collection.delete(where={"source": source})
+                removed.append(source)
+            for source, path in files.items():
+                text = path.read_text(encoding="utf-8")
+                if stored.get(source) == hashlib.sha256(text.encode("utf-8")).hexdigest():
+                    continue
+                if self._index_document(source, text):
+                    (updated if source in stored else added).append(source)
+            self._load_chunks()
+        logger.info("Knowledge base vector store: %d chunks from %d documents "
+                    "(added: %s; updated: %s; removed: %s)",
+                    len(self.chunks), len(self.documents()),
+                    ", ".join(added) or "none", ", ".join(updated) or "none",
+                    ", ".join(removed) or "none")
+        return {"added": added, "updated": updated, "removed": removed,
+                "chunks": len(self.chunks)}
+
+    def rebuild(self) -> dict:
+        """Drop the vector store and re-embed every document from scratch."""
+        with self._lock:
+            self._collection = self._open_collection(reset=True)
+            return self.sync()
+
+    def save_document(self, name: str, content: str) -> str:
+        """Create or overwrite a Markdown document and re-index only it."""
+        source = _safe_name(name)
+        if not source or source.lower() == "readme":
+            raise ValueError("Invalid document name")
+        with self._lock:
+            self.kb_dir.mkdir(parents=True, exist_ok=True)
+            (self.kb_dir / f"{source}.md").write_text(content, encoding="utf-8")
+            self._index_document(source, content)
+            self._load_chunks()
+        return source
+
+    def read_document(self, name: str) -> str | None:
+        path = self._source_files().get(_safe_name(name))
+        return path.read_text(encoding="utf-8") if path else None
+
+    def delete_document(self, name: str) -> bool:
+        source = _safe_name(name)
+        with self._lock:
+            path = self._source_files().get(source)
+            if path is None:
+                return False
+            path.unlink()
+            self._collection.delete(where={"source": source})
+            self._load_chunks()
+        return True
 
     def retrieve(self, query: str, top_k: int = 4,
                  sources: set[str] | None = None) -> list[dict]:
@@ -96,12 +231,13 @@ class KnowledgeBase:
         the candidate set per tool keeps retrieval on topic."""
         if not self.chunks:
             return []
-        q = embedding_service.encode(query)[0]
-        sims = self.vectors @ q
-        order = np.argsort(-sims)
-        if sources:
-            order = [i for i in order if self.chunks[i]["source"] in sources]
-        return [self.chunks[i] for i in order[:top_k]]
+        q = embedding_service.encode(query)[0].tolist()
+        where = {"source": {"$in": sorted(sources)}} if sources else None
+        res = self._collection.query(query_embeddings=[q], n_results=top_k, where=where,
+                                     include=["documents", "metadatas", "distances"])
+        return [{"source": m["source"], "text": d, "score": round(1.0 - dist, 4)}
+                for m, d, dist in zip(res["metadatas"][0], res["documents"][0],
+                                      res["distances"][0])]
 
     def documents(self) -> list[str]:
         return sorted({c["source"] for c in self.chunks})
@@ -125,19 +261,22 @@ def clean_output(text: str) -> str:
 
 
 
-_key_cursor = 0
 _model_cursor = 0
+_configured_key: str | None = None
 
 
 def _call_gemini(prompt: str) -> str | None:
-    """Generate with Gemini, falling back across keys and models.
+    """Generate with Gemini, always starting from the original first key.
 
-    Keys differ in what they can serve: newer projects reject gemini-2.5-flash,
-    older ones reject gemini-3.6-flash, and any key can exhaust its daily quota.
-    Each key is tried against each configured model until one combination
-    works, and that pair is remembered for the next call. Returns None once
-    everything has failed, leaving the offline template generator in charge."""
-    global _key_cursor, _model_cursor
+    GEMINI_API_KEY is the project's own key, so every call begins there; the
+    extra keys exist only to keep the platform answering after it hits its
+    daily quota, and we fall back to them rather than settling on them. Keys
+    also differ in what they can serve (a model one project rejects with a 404
+    another serves fine), so each key is tried against each configured model
+    until one combination works. The working model is remembered so later calls
+    do not re-probe a model this key cannot serve. Returns None once everything
+    has failed, leaving the offline template generator in charge."""
+    global _model_cursor, _configured_key
 
     settings = get_settings()
     keys = settings.gemini_api_keys
@@ -148,15 +287,18 @@ def _call_gemini(prompt: str) -> str | None:
     import google.generativeai as genai
 
     last_error = None
-    for k in range(len(keys)):
-        key_index = (_key_cursor + k) % len(keys)
-        genai.configure(api_key=keys[key_index])
+    for key_index, key in enumerate(keys):
+        # configure() rebuilds the transport, which costs seconds on the next
+        # call, so skip it while we are still on the key already configured.
+        if key != _configured_key:
+            genai.configure(api_key=key)
+            _configured_key = key
 
         for m in range(len(models)):
             model_index = (_model_cursor + m) % len(models)
             try:
                 response = genai.GenerativeModel(models[model_index]).generate_content(prompt)
-                _key_cursor, _model_cursor = key_index, model_index
+                _model_cursor = model_index
                 return response.text
             except Exception as exc:
                 last_error = exc

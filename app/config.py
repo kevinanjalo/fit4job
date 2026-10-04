@@ -18,10 +18,15 @@ class Settings(BaseSettings):
     gemini_api_key_2: str = ""
     gemini_api_key_3: str = ""
     gemini_api_key_4: str = ""
-    gemini_model: str = "gemini-2.5-flash"
-    # Newer projects cannot serve gemini-2.5-flash and older ones cannot serve
-    # gemini-3.6-flash, so each key falls back to whichever model it can reach.
-    gemini_model_fallbacks: str = "gemini-2.5-flash,gemini-flash-latest"
+    # Flash-lite answers these prompts in a few seconds. The thinking models
+    # spend far more tokens reasoning than answering (measured: ~1,240 thinking
+    # tokens for a ~300 token answer, 40-130s per call), which is wasted on
+    # grounded RAG output, so they sit behind flash-lite as fallbacks only.
+    gemini_model: str = "gemini-flash-lite-latest"
+    # Keys differ in what they can reach, so each falls back to whichever model
+    # it can serve. gemini-2.5-flash and gemini-2.0-flash are retired and now
+    # 404 for these projects; keep them out of the chain.
+    gemini_model_fallbacks: str = "gemini-flash-latest,gemini-3.6-flash"
 
     @property
     def gemini_models(self) -> list[str]:
@@ -54,6 +59,11 @@ class Settings(BaseSettings):
     pca_model_path: str = "models_store/pca_model.pkl"
     faiss_index_path: str = "models_store/faiss_hnsw.index"
     job_embeddings_cache_path: str = "models_store/job_embeddings.npz"
+    # RAG knowledge base: Markdown sources and the persistent ChromaDB vector
+    # store their chunks are embedded into.
+    knowledge_base_dir: str = "data/knowledge_base"
+    chroma_path: str = "models_store/chroma"
+    chroma_collection: str = "knowledge_base"
     embedding_dim: int = 384
     reduced_dim: int = 128
 

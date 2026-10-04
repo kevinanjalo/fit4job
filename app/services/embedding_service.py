@@ -20,6 +20,7 @@ class EmbeddingService:
         self.settings = get_settings()
         self.model = None
         self.pca = None
+        self.model_name = "hashing-fallback"
         self._load()
 
     def _load(self):
@@ -28,6 +29,7 @@ class EmbeddingService:
             from sentence_transformers import SentenceTransformer
             source = path if os.path.isdir(path) else "sentence-transformers/all-MiniLM-L6-v2"
             self.model = SentenceTransformer(source)
+            self.model_name = source
             logger.info("SBERT loaded from %s", source)
         except Exception as exc:
             logger.warning("SBERT unavailable (%s); using hashing fallback encoder.", exc)
@@ -52,6 +54,12 @@ class EmbeddingService:
         except Exception as exc:
             self.pca = None
             logger.warning("Failed to load PCA model with pickle and joblib: %s", exc)
+
+    @property
+    def fingerprint(self) -> str:
+        """Identifies the vector space encode() produces. Vectors stored under
+        a different fingerprint are not comparable with new queries."""
+        return f"{self.model_name}|pca={self.pca is not None}|dim={self.dim}"
 
     @property
     def dim(self) -> int:
